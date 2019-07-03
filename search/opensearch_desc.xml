@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Cloudworks</ShortName>
+  <Description>Welcome to Cloudworks, a place to share, find and discuss learning and teaching ideas and experiences.</Description>
+  <Contact>cloudworks@open.ac.uk</Contact>
+  <Image type="image/x-icon" width="16" height="16">https://cloudworks.ac.uk/themes/cloudworks/favicon.ico</Image>
+  <Url rel="results" type="text/html" template="https://cloudworks.ac.uk/search/result?q={searchTerms}"/>
+  <LongName></LongName>
+  <Query role="example" searchTerms="OULDI" />
+  <Developer>IET / OULDI development team at The Open University (https://iet.open.ac.uk)</Developer>
+  <Attribution>Search data Copyright 2009-2019 The Open University and Web-site contributors.</Attribution>
+  <SyndicationRight>open</SyndicationRight>
+  <Language>en</Language>
+  <InputEncoding>utf-8</InputEncoding>
+  <OutputEncoding>utf-8</OutputEncoding>
+  <moz:SearchForm>https://cloudworks.ac.uk/search</moz:SearchForm>
+</OpenSearchDescription>
