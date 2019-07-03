@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Cloudstream for Marie Arndt</title>
+    <link>https://cloudworks.ac.uk/</link>
+	<description>Cloudstream for Marie Arndt</description>
+	<dc:language>en</dc:language>
+	<dc:creator>cloudworks@open.ac.uk</dc:creator>
+	<dc:rights>Copyright 2019 </dc:rights>
+	<admin:generatorAgent>
+    <atom:link href="https://cloudworks.ac.uk/event/user_rss/2174" rel="self" type="application/rss+xml" />
+    		    <item>
+	      <title>Life after MOOCnew cloud created by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/8219">Life after MOOC</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Tue, 12 Mar 2013 04:31:45 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Jane C,
+I agree with what others have said about your project and effort in the MOOC. Josh and...new comment on the cloud Jane C&#39;s Reflective narrative by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-8618</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8618</guid>
+	      <description><![CDATA[<strong>"Hi Jane C,
+I agree with what others have said about your project and effort in the MOOC. Josh and...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8147">Jane C's Reflective narrative</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Sun, 10 Mar 2013 13:04:05 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Penny,
+I was very inspired by your project, as I also would like to venture into LD...new comment on the cloud Penny Bentley&#39;s Design Narrative #MOOCskills Project by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-8617</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8617</guid>
+	      <description><![CDATA[<strong>"Hi Penny,
+I was very inspired by your project, as I also would like to venture into LD...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8201">Penny Bentley's Design Narrative #MOOCskills Project</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Sun, 10 Mar 2013 12:45:22 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Art,
+You seem a true ambassador of the art of teaching and learning! I thoroughly enjoyed reading...new comment on the cloud ARTiFactor&#39;s Dream&#39;s project; a reflection of my OLDSMOOC experience by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-8614</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8614</guid>
+	      <description><![CDATA[<strong>"Art,
+You seem a true ambassador of the art of teaching and learning! I thoroughly enjoyed reading...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8152">ARTiFactor's Dream's project; a reflection of my OLDSMOOC experience</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Sun, 10 Mar 2013 10:49:25 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Tom,
+Thank goodness there is somebody else who doesn&#39;t know everything about Twitter. This is...new comment on the cloud Ann&#39;s OLDSMOOC narrative by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-8613</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8613</guid>
+	      <description><![CDATA[<strong>"Hi Tom,
+Thank goodness there is somebody else who doesn't know everything about Twitter. This is...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8144">Ann's OLDSMOOC narrative</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Sun, 10 Mar 2013 10:43:08 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Alice,
+Thank you for sharing your very thorough experience of the MOOC. Was it your first one?...new comment on the cloud Alice’s OLDSMOOC narrative by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-8612</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8612</guid>
+	      <description><![CDATA[<strong>"Hi Alice,
+Thank you for sharing your very thorough experience of the MOOC. Was it your first one?...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8159">Alice’s OLDSMOOC narrative</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Sun, 10 Mar 2013 10:33:46 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Yishay,
+ 
+Yes, I was referring to the project  I have used in the course, and yes, I...new comment on the cloud Marie&#39;s STARR narrative by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-8591</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8591</guid>
+	      <description><![CDATA[<strong>"Hi Yishay,
+&nbsp;
+Yes, I was referring to the project &nbsp;I have used in the course, and yes, I...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8204">Marie's STARR narrative</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Fri, 08 Mar 2013 19:13:11 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Marie&#39;s STARR narrativenew cloud created by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/8204">Marie's STARR narrative</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Thu, 07 Mar 2013 04:36:40 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>My Evaluation Plannew cloud created by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/8191">My Evaluation Plan</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Tue, 05 Mar 2013 03:10:51 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Marie&#39;s evaluation targetsnew cloud created by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/8121">Marie's evaluation targets</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Tue, 26 Feb 2013 06:43:11 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Marie&#39;s evaluation experiencesnew cloud created by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/8120">Marie's evaluation experiences</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Tue, 26 Feb 2013 06:41:41 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;I have been very busy at work, so Week 6 of the MOOC was really browsing for me. I scanned OER...new comment on the cloud Marie&#39;s OLDS Learning journal by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-8473</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8473</guid>
+	      <description><![CDATA[<strong>"I have been very busy at work, so Week 6 of the MOOC was really browsing for me. I scanned OER...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6916">Marie's OLDS Learning journal</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Tue, 26 Feb 2013 04:48:32 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I agree, Joanna.  There is so much value in these kind of activities, so it would really be...new comment on the cloud Briar&#39;s Seek and Deploy, OER Resources, English Language Learners  by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-8436</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8436</guid>
+	      <description><![CDATA[<strong>"I agree, Joanna. &nbsp;There is so much value in these kind of activities, so it would really be...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8058">Briar's Seek and Deploy, OER Resources, English Language Learners </a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Thu, 21 Feb 2013 13:52:37 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Dear Hugues,
+ 
+Thank you so much for your positive feedback.
+ 
+Kind regards,
+Marie...new comment on the cloud Marie&#39;s Prototype by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-8377</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8377</guid>
+	      <description><![CDATA[<strong>"Dear Hugues,
+&nbsp;
+Thank you so much for your positive feedback.
+&nbsp;
+Kind regards,
+Marie...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8052">Marie's Prototype</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Sat, 16 Feb 2013 14:28:53 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Dear Diana,
+Thank you so much for your positive comment. It fills me with great hope for my future...new comment on the cloud Marie&#39;s Prototype by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-8376</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8376</guid>
+	      <description><![CDATA[<strong>"Dear Diana,
+Thank you so much for your positive comment. It fills me with great hope for my future...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8052">Marie's Prototype</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Sat, 16 Feb 2013 13:40:09 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Marie&#39;s Prototypenew cloud created by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/8052">Marie's Prototype</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Fri, 15 Feb 2013 12:39:15 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Joshua,
+ 
+Just checked through your mLearning demo for vocabulary building. It is...new comment on the cloud joshuau: prototyping: vocab learning by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-8361</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8361</guid>
+	      <description><![CDATA[<strong>"Hi Joshua,
+&nbsp;
+Just checked through your mLearning&nbsp;demo for vocabulary building. It is...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7966">joshuau: prototyping: vocab learning</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Thu, 14 Feb 2013 13:12:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Dejan,
+ 
+I think we would all like to be able to use the PPC after the MOOC is over. I...new comment on the cloud Tool: Pedagogical Pattern Collector by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-8344</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8344</guid>
+	      <description><![CDATA[<strong>"Hi Dejan,
+&nbsp;
+I think we would all like to&nbsp;be able to use the PPC after the MOOC is over. I...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5634">Tool: Pedagogical Pattern Collector</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Tue, 12 Feb 2013 17:30:29 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Activity 3 week 3new cloud created by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/8027">Activity 3 week 3</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Tue, 12 Feb 2013 12:59:44 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Marie&#39;s Reflections on week 3new cloud created by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/8017">Marie's Reflections on week 3</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Tue, 12 Feb 2013 10:19:12 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;I have done weeks 2 and 3 in quick succession, and I have been taking the short route in many ways....new comment on the cloud Marie&#39;s OLDS Learning journal by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-8333</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8333</guid>
+	      <description><![CDATA[<strong>"I have done weeks 2 and 3 in quick succession, and I have been taking the short route in many ways....</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6916">Marie's OLDS Learning journal</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Tue, 12 Feb 2013 10:17:02 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Marie&#39;s Wallwisher:     What is engineering?new embedded content added to the cloud 7. Imagining the Design by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#embed-2616</link>
+	      <guid>https://cloudworks.ac.uk/#embed-2616</guid>
+	      <description><![CDATA[<strong>Marie's Wallwisher:     What is engineering?</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/7579">7. Imagining the Design</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Tue, 12 Feb 2013 08:17:53 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hello everybody,
+As I am playing desperate catch-up after my absence I pursued this task on my own....new comment on the cloud 7. Imagining the Design by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-8329</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8329</guid>
+	      <description><![CDATA[<strong>"Hello everybody,
+As I am playing desperate catch-up after my absence I pursued this task on my own....</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7579">7. Imagining the Design</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Tue, 12 Feb 2013 08:12:23 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Good overview in the presentation. Thought of using videoclips for enhancement of English for...new comment on the cloud 4. 7Cs Slideshare presentation by Grainne Conole by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-8300</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8300</guid>
+	      <description><![CDATA[<strong>"Good overview in the presentation. Thought of using videoclips for enhancement of English for...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7743">4. 7Cs Slideshare presentation by Grainne Conole</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Sun, 10 Feb 2013 14:38:25 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Kul grej!...new comment on the cloud Ordspel (in Swedish) by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-8299</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8299</guid>
+	      <description><![CDATA[<strong>"Kul grej!...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7795">Ordspel (in Swedish)</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Sun, 10 Feb 2013 13:43:32 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I am late as I&#39;ve been otherwise and elsewhere occupied. Just wanted to say that I find these...new comment on the cloud Activity: 30 mins: OULDI Course Features  by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-8293</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8293</guid>
+	      <description><![CDATA[<strong>"I am late as I've been otherwise and elsewhere occupied. Just wanted to say that I find these...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Sun, 10 Feb 2013 11:25:13 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Marie Arndt: EoR Phase 3new cloud created by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7968">Marie Arndt: EoR Phase 3</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Thu, 07 Feb 2013 13:01:49 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Marie&#39;s thoughts EoR 3new cloud created by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7967">Marie's thoughts EoR 3</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Thu, 07 Feb 2013 12:59:48 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Marie Arndt: Analysis EoR Phase 2new cloud created by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7961">Marie Arndt: Analysis EoR Phase 2</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Wed, 06 Feb 2013 12:51:54 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Marie Arndt: EoR Phase 1new cloud created by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7959">Marie Arndt: EoR Phase 1</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Wed, 06 Feb 2013 11:26:31 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;I can see this kind of mapping as a very useful tool to identify pros and cons in the kind of...new comment on the cloud Personas and Force maps at the OLDS MOOC design workshop by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-7839</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7839</guid>
+	      <description><![CDATA[<strong>"I can see this kind of mapping as a very useful tool to identify&nbsp;pros and cons in the kind of...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7599">Personas and Force maps at the OLDS MOOC design workshop</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Wed, 23 Jan 2013 09:56:52 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Marie&#39;s factor and concerns new cloud created by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7734">Marie's factor and concerns </a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Wed, 23 Jan 2013 08:51:45 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Josh and everybody,
+ 
+I&#39;m going to have to skip this stage, because of lack of time. Will...new comment on the cloud Analysing Context: Factors and Concerns by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-7830</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7830</guid>
+	      <description><![CDATA[<strong>"Hi Josh and everybody,
+&nbsp;
+I'm going to have to skip this stage, because of lack of time. Will...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6788">Analysing Context: Factors and Concerns</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Wed, 23 Jan 2013 07:59:50 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Ebba,
+Please make link open to those with link. I was asked to request permission when I tried...new comment on the cloud &quot;[Ebba Ossiannisson]: scenarios by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-7660</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7660</guid>
+	      <description><![CDATA[<strong>"Hi Ebba,
+Please make link open to those with link. I was asked to request permission when I tried...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7645">"[Ebba Ossiannisson]: scenarios</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Mon, 21 Jan 2013 09:02:45 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Marie&#39;s scenario for learning designnew cloud created by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7674">Marie's scenario for learning design</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Mon, 21 Jan 2013 08:57:12 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;Today I have scanned the material for the week. I&#39;ve had to spend time copying a lot to prepare for...new comment on the cloud Marie&#39;s OLDS Learning journal by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-7560</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7560</guid>
+	      <description><![CDATA[<strong>"Today I have scanned the material for the week. I've had to spend time copying a lot to prepare for...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6916">Marie's OLDS Learning journal</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Sat, 19 Jan 2013 17:48:33 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;This is my reflection on the first week of MOOC. It has been chaotic, to say the least, I&#39;m not...new comment on the cloud Marie&#39;s OLDS Learning journal by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-7318</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7318</guid>
+	      <description><![CDATA[<strong>"This is my reflection on the first week of MOOC. It has been chaotic, to say the least, I'm not...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6916">Marie's OLDS Learning journal</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Thu, 17 Jan 2013 07:19:23 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Luis,
+Have you included Mark, Josh, Janet and Paula in this message? They are  also in a...new comment on the cloud Marie Arndt: My dream Learning design project proposal by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-7315</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7315</guid>
+	      <description><![CDATA[<strong>"Hi Luis,
+Have you included Mark, Josh, Janet and Paula in this message? They are &nbsp;also in a...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7003">Marie Arndt: My dream Learning design project proposal</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Thu, 17 Jan 2013 06:08:31 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Mark,
+ 
+Can you please post the link to the Googledocs space you set up. Sorry.
+ 
+Marie...new comment on the cloud Mark Johnstone: My Dream: Competency-based assessment in second language learning and teaching by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-7110</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7110</guid>
+	      <description><![CDATA[<strong>"Mark,
+&nbsp;
+Can you please post the link to the Googledocs space you set up. Sorry.
+&nbsp;
+Marie...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7094">Mark Johnstone: My Dream: Competency-based assessment in second language learning and teaching</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Tue, 15 Jan 2013 17:58:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi all,
+ 
+I seem to be a part of two Google + circles all of a sudden, but I will be pleased...new comment on the cloud Mark Johnstone: My Dream: Competency-based assessment in second language learning and teaching by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-7109</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7109</guid>
+	      <description><![CDATA[<strong>"Hi all,
+&nbsp;
+I seem to be a part of two Google + circles all of a sudden, but I will be pleased...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7094">Mark Johnstone: My Dream: Competency-based assessment in second language learning and teaching</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Tue, 15 Jan 2013 17:56:19 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi all,
+ 
+Shall we form a Google+ and GoogleDocs group for our project? Alternatively I could...new comment on the cloud Mark Johnstone: My Dream: Competency-based assessment in second language learning and teaching by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-6998</link>
+	      <guid>https://cloudworks.ac.uk/#comment-6998</guid>
+	      <description><![CDATA[<strong>"Hi all,
+&nbsp;
+Shall we form a Google+ and GoogleDocs group for our project? Alternatively I could...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7094">Mark Johnstone: My Dream: Competency-based assessment in second language learning and teaching</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Tue, 15 Jan 2013 04:06:28 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Josh,
+ 
+Of course you can join Mark and me if you are interested in what has been posted....new comment on the cloud Marie Arndt: My dream Learning design project proposal by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-6997</link>
+	      <guid>https://cloudworks.ac.uk/#comment-6997</guid>
+	      <description><![CDATA[<strong>"Hi Josh,
+&nbsp;
+Of course you can join Mark and me if you are interested in what has been posted....</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7003">Marie Arndt: My dream Learning design project proposal</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Tue, 15 Jan 2013 03:55:25 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Mark,
+I don&#39;t know CEFR. I would love to have a copy of the article with ref. to Oman.  Let...new comment on the cloud Marie Arndt: My dream Learning design project proposal by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-6950</link>
+	      <guid>https://cloudworks.ac.uk/#comment-6950</guid>
+	      <description><![CDATA[<strong>"Hi Mark,
+I don't know CEFR. I would love to have a copy of the article with ref. to Oman. &nbsp;Let...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7003">Marie Arndt: My dream Learning design project proposal</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Mon, 14 Jan 2013 20:14:14 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Marcus,
+Sounds very much like what I have been thinking about for a long time; in my English...new comment on the cloud [Marcos Tenório] My dream: Social media used for e-Learning by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-6666</link>
+	      <guid>https://cloudworks.ac.uk/#comment-6666</guid>
+	      <description><![CDATA[<strong>"Hi Marcus,
+Sounds very much like what I have been thinking about for a long time; in my English...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7157">[Marcos Tenório] My dream: Social media used for e-Learning</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Sun, 13 Jan 2013 16:57:12 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Yishay and all,
+I used Mindmeister briefly a while ago and now I don&#39;t remember how to use it. I...new comment on the cloud brainstorming learning design  by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-6651</link>
+	      <guid>https://cloudworks.ac.uk/#comment-6651</guid>
+	      <description><![CDATA[<strong>"Hi Yishay and all,
+I used Mindmeister briefly a while ago and now I don't remember how to use it. I...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6621">brainstorming learning design </a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Sun, 13 Jan 2013 16:02:08 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Mark and Denise,
+At this point I&#39;m throwing out feelers to see what we can come up with that can...new comment on the cloud Mark Johnstone: My Dream: Competency-based assessment in second language learning and teaching by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-6642</link>
+	      <guid>https://cloudworks.ac.uk/#comment-6642</guid>
+	      <description><![CDATA[<strong>"Hi Mark and Denise,
+At this point I'm throwing out feelers to see what we can come up with that can...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7094">Mark Johnstone: My Dream: Competency-based assessment in second language learning and teaching</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Sun, 13 Jan 2013 15:23:55 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Denise,
+Interesting to hear what&#39;s going on in other parts of the region. I worked in a college...new comment on the cloud Mark Johnstone: My Dream: Competency-based assessment in second language learning and teaching by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-6637</link>
+	      <guid>https://cloudworks.ac.uk/#comment-6637</guid>
+	      <description><![CDATA[<strong>"Hi Denise,
+Interesting to hear what's going on in other parts of the region. I worked in a college...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7094">Mark Johnstone: My Dream: Competency-based assessment in second language learning and teaching</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Sun, 13 Jan 2013 14:55:58 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Discussion about technology usednew cloud created by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7154">Discussion about technology used</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Sat, 12 Jan 2013 19:22:29 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Discussion about deliverynew cloud created by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7153">Discussion about delivery</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Sat, 12 Jan 2013 19:21:28 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Mark,
+ 
+Take a look at my attempt of a Cloudscape and tell me what you think. I&#39;m going to...new comment on the cloud Mark Johnstone: My Dream: Competency-based assessment in second language learning and teaching by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-6542</link>
+	      <guid>https://cloudworks.ac.uk/#comment-6542</guid>
+	      <description><![CDATA[<strong>"Hi Mark,
+&nbsp;
+Take a look at my attempt of a Cloudscape and tell me what you think. I'm going to...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7094">Mark Johnstone: My Dream: Competency-based assessment in second language learning and teaching</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Sat, 12 Jan 2013 19:10:01 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Link to Mark&#39;s dream projectnew cloud created by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7150">Link to Mark's dream project</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Sat, 12 Jan 2013 18:59:00 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Link to Marie&#39;s dream projectnew cloud created by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7149">Link to Marie's dream project</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Sat, 12 Jan 2013 18:55:55 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>English language enhancement for academic purposesnew cloudscape created by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2698">English language enhancement for academic purposes</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Sat, 12 Jan 2013 18:52:05 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Mark,
+Hi Mark
+I will do my best to create a Cloudscape in the right place, Teaming up page, I...new comment on the cloud Marie Arndt: My dream Learning design project proposal by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-6530</link>
+	      <guid>https://cloudworks.ac.uk/#comment-6530</guid>
+	      <description><![CDATA[<strong>"Hi Mark,
+Hi Mark
+I will do my best to create a Cloudscape in the right place, Teaming up page, I...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7003">Marie Arndt: My dream Learning design project proposal</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Sat, 12 Jan 2013 17:52:27 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Mark,
+I was so excited when I read your proposal and thought it would be great if we could do...new comment on the cloud Marie Arndt: My dream Learning design project proposal by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-6515</link>
+	      <guid>https://cloudworks.ac.uk/#comment-6515</guid>
+	      <description><![CDATA[<strong>"Hi Mark,
+I was so excited when I read your proposal and thought it would be great if we could do...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7003">Marie Arndt: My dream Learning design project proposal</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Sat, 12 Jan 2013 16:31:35 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Peter,
+ 
+I will check out TiddlyWiki and OpenSim as I&#39;m not familiar with either. In the...new comment on the cloud Marie Arndt: My dream Learning design project proposal by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-6511</link>
+	      <guid>https://cloudworks.ac.uk/#comment-6511</guid>
+	      <description><![CDATA[<strong>"Hi Peter,
+&nbsp;
+I will check out TiddlyWiki and OpenSim as I'm not familiar with either. In the...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7003">Marie Arndt: My dream Learning design project proposal</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Sat, 12 Jan 2013 16:23:57 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Josh,
+ 
+Bot sure if you got my response, so I write again. I have been asked to device this...new comment on the cloud Marie Arndt: My dream Learning design project proposal by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-6395</link>
+	      <guid>https://cloudworks.ac.uk/#comment-6395</guid>
+	      <description><![CDATA[<strong>"Hi Josh,
+&nbsp;
+Bot sure if you got my response, so I write again. I have been asked to device this...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7003">Marie Arndt: My dream Learning design project proposal</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Fri, 11 Jan 2013 15:04:45 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Judy,
+My project is enhancing English and academic writing skills for engineering students in...new comment on the cloud Judy Hartford: Exploring &quot;What If...&quot; Design by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-6390</link>
+	      <guid>https://cloudworks.ac.uk/#comment-6390</guid>
+	      <description><![CDATA[<strong>"Hi Judy,
+My project is enhancing English and academic writing skills for engineering students in...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6952">Judy Hartford: Exploring "What If..." Design</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Fri, 11 Jan 2013 14:00:46 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Beck,
+Sounds very interesting. Another idea I have had for a long time, is to work out an CBL...new comment on the cloud Beck Pitt&#39;s Learning Design Project Proposal: Critical Thinking and Philosophical Ideas by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-6380</link>
+	      <guid>https://cloudworks.ac.uk/#comment-6380</guid>
+	      <description><![CDATA[<strong>"Hi Beck,
+Sounds very interesting. Another idea I have had for a long time, is to work out an CBL...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6996">Beck Pitt's Learning Design Project Proposal: Critical Thinking and Philosophical Ideas</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Fri, 11 Jan 2013 13:15:57 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hello,
+My Oman-based project of English for engineering students could be linked to you,r ideas,...new comment on the cloud ARTiFactor: My Dream: a Digital Literacy MOOC by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-6379</link>
+	      <guid>https://cloudworks.ac.uk/#comment-6379</guid>
+	      <description><![CDATA[<strong>"Hello,
+My Oman-based project of English for engineering students could be linked to you,r ideas,...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6942">ARTiFactor: My Dream: a Digital Literacy MOOC</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Fri, 11 Jan 2013 13:11:51 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi, guys,
+ 
+What you have been discussing about vocabulary acqusition is partly related to my...new comment on the cloud joshuau: My Dream: Vocabulary learning MOOC by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-6377</link>
+	      <guid>https://cloudworks.ac.uk/#comment-6377</guid>
+	      <description><![CDATA[<strong>"Hi, guys,
+&nbsp;
+What you have been discussing about vocabulary acqusition is partly related to my...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6682">joshuau: My Dream: Vocabulary learning MOOC</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Fri, 11 Jan 2013 12:55:22 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Marie Arndt: My dream Learning design project proposalnew cloud created by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7003">Marie Arndt: My dream Learning design project proposal</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Fri, 11 Jan 2013 12:19:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Vahid,
+I am Marie and I first encountered Cloudworks a couple of years ago when I was studying...new comment on the cloud Vahid&#39;s Cloudthingy OLDS MOOC by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-6348</link>
+	      <guid>https://cloudworks.ac.uk/#comment-6348</guid>
+	      <description><![CDATA[<strong>"Hi Vahid,
+I am Marie and I first encountered Cloudworks a couple of years ago when I was studying...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6967">Vahid's Cloudthingy OLDS MOOC</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Fri, 11 Jan 2013 08:33:51 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Darren
+When I&#39;m not abroad I live in Reading, just down the road from...new comment on the cloud Darren&#39;s OLDS MOOC learning journal by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-6326</link>
+	      <guid>https://cloudworks.ac.uk/#comment-6326</guid>
+	      <description><![CDATA[<strong>"Hi Darren
+When I'm not abroad I live in Reading, just down the road from...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6779">Darren's OLDS MOOC learning journal</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Thu, 10 Jan 2013 19:50:42 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Marie&#39;s OLDS Learning journalnew cloud created by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/6916">Marie's OLDS Learning journal</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Thu, 10 Jan 2013 19:02:46 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Marie&#39;s OLDS MOOC Portfolio new cloudscape created by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2599">Marie's OLDS MOOC Portfolio </a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Thu, 10 Jan 2013 18:52:08 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>&quot;Good to be back on Cloudworks. I was active while I was doing my MAODE, but the work got in the...new comment on the cloud OLDS MOOC Launch event live feed by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-6274</link>
+	      <guid>https://cloudworks.ac.uk/#comment-6274</guid>
+	      <description><![CDATA[<strong>"Good to be back on Cloudworks. I was active while I was doing my MAODE, but the work got in the...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6712">OLDS MOOC Launch event live feed</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Wed, 09 Jan 2013 14:11:04 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Great session!
+Marie...new comment on the cloud T3: Engaging with your Communities Theme: Promoting your project to different audiences by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-4419</link>
+	      <guid>https://cloudworks.ac.uk/#comment-4419</guid>
+	      <description><![CDATA[<strong>"Great session!
+Marie...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/3558">T3: Engaging with your Communities Theme: Promoting your project to different audiences</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Wed, 28 Jul 2010 15:26:55 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>The site under devlopment for my company. Feedback is welcome. new link on T3: Engaging with your Communities Theme: Promoting your project to different audiences added by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#link-3926</link>
+	      <guid>https://cloudworks.ac.uk/#link-3926</guid>
+	      <description><![CDATA[<strong>The site under devlopment for my company. Feedback is welcome. </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/3558">T3: Engaging with your Communities Theme: Promoting your project to different audiences</a> added by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Wed, 28 Jul 2010 15:25:21 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>The site under devlopment for my company. Feedback is welcome. new link on T3:Engaging with your Communities Theme: Writing to get your project noticed added by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#link-3915</link>
+	      <guid>https://cloudworks.ac.uk/#link-3915</guid>
+	      <description><![CDATA[<strong>The site under devlopment for my company. Feedback is welcome. </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/3557">T3:Engaging with your Communities Theme: Writing to get your project noticed</a> added by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Wed, 28 Jul 2010 10:19:21 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi all,
+I attended the JISC conference in London in April, and got a lot out of that. At the moment...new comment on the cloud JIF2010 Discussion Cloud by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-4400</link>
+	      <guid>https://cloudworks.ac.uk/#comment-4400</guid>
+	      <description><![CDATA[<strong>"Hi all,
+I attended the JISC conference in London in April, and got a lot out of that. At the moment...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/4109">JIF2010 Discussion Cloud</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Mon, 26 Jul 2010 09:19:34 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Sharing experience of e-learning/blended learning activites? new cloud created by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/4158">Sharing experience of e-learning/blended learning activites? </a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Thu, 15 Jul 2010 09:20:34 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Collaborative learningnew cloudscape created by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2131">Collaborative learning</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Tue, 22 Jun 2010 14:57:13 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>&quot;Dear Grainne,
+Thank you so much for your encouraging and supportive response. I am determined to...new comment on the cloud H800 Using Cloudworks on the H800 course by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-3557</link>
+	      <guid>https://cloudworks.ac.uk/#comment-3557</guid>
+	      <description><![CDATA[<strong>"Dear Grainne,
+Thank you so much for your encouraging and supportive response. I am determined to...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2700">H800 Using Cloudworks on the H800 course</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Sun, 02 May 2010 08:30:42 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I am learning all the time on this and the other modules I&#39;m doing, and I have dipped into...new comment on the cloud H800 Using Cloudworks on the H800 course by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-3553</link>
+	      <guid>https://cloudworks.ac.uk/#comment-3553</guid>
+	      <description><![CDATA[<strong>"I am learning all the time on this and the other modules I'm doing, and I have dipped into...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2700">H800 Using Cloudworks on the H800 course</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Sat, 01 May 2010 20:41:04 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I found you! Sandeep the example from india is interesting to hear about, as you have first-hand...new comment on the cloud One Laptop Per Child (OLPC) - the future for classrooms? by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-3552</link>
+	      <guid>https://cloudworks.ac.uk/#comment-3552</guid>
+	      <description><![CDATA[<strong>"I found you! Sandeep the example from india is interesting to hear about, as you have first-hand...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/3386">One Laptop Per Child (OLPC) - the future for classrooms?</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Sat, 01 May 2010 20:31:08 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Reflections on EoR phases
+I had a gap of almost two weeks from week 1 to week 2, so I have worked......&quot;new content on Marie&#39;s OLDS Learning journal by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#content-1995</link>
+	      <guid>https://cloudworks.ac.uk/#content-1995</guid>
+	      <description><![CDATA[<strong>Reflections on EoR phases
+I had a gap of almost two weeks from week 1 to week 2, so I have worked......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/6916">Marie's OLDS Learning journal</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Thu, 01 Jan 1970 00:33:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Hi Rebecca
+Link is not working.
+Marie......&quot;new content on Pattern: Jigsaw and pyramid collaborative learning patterns by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#content-2001</link>
+	      <guid>https://cloudworks.ac.uk/#content-2001</guid>
+	      <description><![CDATA[<strong>Hi Rebecca
+Link is not working.
+Marie......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/229">Pattern: Jigsaw and pyramid collaborative learning patterns</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Thu, 01 Jan 1970 00:33:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>My Evaluation Plan
+ 
+ 
+Introduction: 
+The plan is for a blended-learning programme......&quot;new content on Marie&#39;s STARR narrative by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#content-2049</link>
+	      <guid>https://cloudworks.ac.uk/#content-2049</guid>
+	      <description><![CDATA[<strong>My Evaluation Plan
+&nbsp;
+&nbsp;
+Introduction:&nbsp;
+The plan is for a blended-learning programme......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/8204">Marie's STARR narrative</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Thu, 01 Jan 1970 00:33:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title> 
+I decided to transfer the prototype to a PPT and also make some change. It is now also......&quot;new content on Marie&#39;s Prototype by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#content-2013</link>
+	      <guid>https://cloudworks.ac.uk/#content-2013</guid>
+	      <description><![CDATA[<strong>&nbsp;
+I decided to transfer the prototype to a PPT and also make some change. It is now also......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/8052">Marie's Prototype</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Thu, 01 Jan 1970 00:33:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Learning Design
+Vocabulary list, with some definitions given and some that the students have to......&quot;new content on Marie&#39;s scenario for learning design by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#content-1891</link>
+	      <guid>https://cloudworks.ac.uk/#content-1891</guid>
+	      <description><![CDATA[<strong>Learning Design
+Vocabulary list, with some definitions given and some that the students have to......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/7674">Marie's scenario for learning design</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Thu, 01 Jan 1970 00:33:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>The first few days of following this MOOC have been partly chaotic and partly invigorating. The......&quot;new content on Marie&#39;s OLDS Learning journal by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#content-1689</link>
+	      <guid>https://cloudworks.ac.uk/#content-1689</guid>
+	      <description><![CDATA[<strong>The first few days of following this MOOC have been partly chaotic and partly invigorating. The......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/6916">Marie's OLDS Learning journal</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Thu, 01 Jan 1970 00:33:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>My week 5 has ended as far as I&#39;m concerned. I have tried to produce a prototype, but I&#39;m afraid I......&quot;new content on Marie&#39;s OLDS Learning journal by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#content-2014</link>
+	      <guid>https://cloudworks.ac.uk/#content-2014</guid>
+	      <description><![CDATA[<strong>My week 5 has ended as far as I'm concerned. I have tried to produce a prototype, but I'm afraid I......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/6916">Marie's OLDS Learning journal</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Thu, 01 Jan 1970 00:33:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+	    </channel>
+</rss>

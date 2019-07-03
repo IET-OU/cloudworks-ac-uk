@@ -1,0 +1,323 @@
+<!DOCTYPE html><html  lang="en" ><head>
+
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta charset="UTF-8" />
+
+    <title>Track OER - midweek status, 16 August - Cloudworks</title>
+    <link rel="stylesheet" href="https://cloudworks.ac.uk/_design/styles_1_1.css" />
+        <link rel="stylesheet" href="https://cloudworks.ac.uk/themes/cloudworks/styles.css" />
+        <meta name="copyright" content="© 2009-2019 The Open University (IET)." />
+    <meta name="keywords" content="" />
+    <meta name="description" content="Welcome to Cloudworks, a place to share, find and discuss learning and teaching ideas and experiences." />
+    <link rel="shortcut icon" href="https://cloudworks.ac.uk/themes/cloudworks/favicon.ico" />
+    
+    <!--[if IE 6]>
+    <style type="text/css">
+    div#site {width:940px; /* Because IE6 doesn't support max-width */ }
+    div#site-header-content {width:940px;}
+    </style>
+    <![endif]-->
+
+    <script src="https://unpkg.com/jquery@3.4.1/dist/jquery.min.js"></script>
+    </head>
+<body id="clouds" class="block-registration block-login">
+<div id="site-header">
+ 
+<div id="site-header-content">
+        <div id="skip">
+        <a href="#content">Skip navigation</a> </div>
+                <a rel="home" href="https://cloudworks.ac.uk/">
+                <img id="link-home" src="https://cloudworks.ac.uk/themes/cloudworks/cloudworks_logo.gif" alt="Cloudworks home page" />
+                </a>
+                <div id="site-nav">
+            <ul  lang="en" >
+                <li class="home">
+                                            <a href="https://cloudworks.ac.uk/" class="home">Home</a>                                    </li>
+                <li lang="en" class="clouds">
+                                            <a href="https://cloudworks.ac.uk/cloud/cloud_list" class="clouds">Clouds</a>                                    </li>
+                <li lang="en" class="cloudscapes">
+                                            <a href="https://cloudworks.ac.uk/cloudscape/cloudscape_list" class="cloudscapes">Cloudscapes</a>                                    </li>
+                <li class="events">
+                                            <a href="https://cloudworks.ac.uk/events/view" class="events">Events</a>                                    </li>
+                <li class="tags">
+                                            <a href="https://cloudworks.ac.uk/tag" class="tags">Tags</a>                                    
+                </li>
+                                <li class="badges">
+                                            <a href="https://cloudworks.ac.uk/badge/badge_list" class="badges">Badges</a>                                    </li>
+                <li class="support">
+                                            <a href="https://cloudworks.ac.uk/support" class="support" title="Support">Support</a>                                    </li>                  
+              
+            </ul>
+        </div>
+    </div></div>
+
+<div id="site">
+    <div id="site-body">
+        <div id="page">
+        <div id="content">
+                              <p class="warn readonly-message"> The web-site is now in readonly mode. Login and registration are disabled. <small>(28 June 2019)</small></p>
+                                          
+                    <div id="id-gaad-widget"></div>
+        <script type="text/javascript" src="https://cloudworks.ac.uk/_scripts/iframe_strip.js"></script>
+<div class="grid headline">
+    <div class="c1of2">
+        <h1>Track OER - midweek status, 16 August</h1>
+        <div class="grid">
+    <ul class="options">
+        
+        
+        
+     
+        
+            <li class="favourite"><a href="https://cloudworks.ac.uk/cloud/favourite/6433">Favourite</a>        </li>
+        
+    <li class="stats"><div class="nolink">1633 views</div></li>
+        </ul>
+</div>                
+        
+                    <div class="box" style="margin:30px 0 10px 0">
+
+                <a href="http://track.olnet.org/test/b2s_learn_gajs"  rel="nofollow">http://track.olnet.org/test/b2s_learn_gajs</a>
+            </div>
+            </div>
+
+    <div class="c2of2">
+        <p class="created-by">
+        <abbr title='Clouds can be anything of relevance to learning and teaching'>Cloud</abbr> created by: </p>
+
+                            <img src="https://cloudworks.ac.uk/image/user_32/1040" class="go2" alt=""/>
+                    <p><a href="https://cloudworks.ac.uk/user/view/1040" class="author rdfa" xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName" rel="cc:attributionURL">Nick Freear</a><br />
+        16 August 2012</p>
+    </div>
+</div>
+
+<div id="region1">
+
+    <div class="user-entry">
+
+        <h3>Subtitle: To script or not to script...</h3>
+<p>At the end of last week and the start of this week I focussed on integrating a Piwik no-Javascript web beacon (web bug) with the  HTML-<a href="http://en.wikipedia.org/wiki/RDFa#Examples_of_RDFa" rel="nofollow"><abbr title="Resource Description Framework – in – attributes" rel="nofollow">RDFa</abbr></a> snippet produced by the <a href="http://creativecommons.org/choose" rel="nofollow">Creative Commons choose-license form</a>.</p>
+<p>This resulted in an initial <a href="http://track.olnet.org/oerform" rel="nofollow">OER license-tracker</a>, which currently supports OpenLearn-LearningSpace and LabSpace URLs. It makes requests over the Web for <a href="http://labspace.open.ac.uk/Learning_to_Learn_1.0?format=rdf" rel="nofollow">RDF files from OpenLearn</a>, and queries the Piwik API.</p>
+<p>There is also an <a href="http://oembed.com/" rel="nofollow">oEmbed-API</a> interface to the OER form - to help with automation and batch processing. It is linked to from the <a title="Alternative formats.. oEmbed" href="http://track.olnet.org/oerform?url=http://labspace.open.ac.uk/Learning_to_Learn_1.0#alt" rel="nofollow">OER form (#alt)</a>.</p>
+<p>Note, there is the potential to extend the OER license-tracker form to, for example, support <a href="http://oercommons.org/courses/17-042-citizenship-and-pluralism-fall-2003" rel="nofollow">OER Commons URLs</a> as input, with the resulting license-tracker snippet referencing the source URL at <a href="http://ocw.mit.edu/" rel="nofollow">MIT</a> for example.</p>
+<p>However, by the middle of the week, we turned our attention to the other strand of the project - <a href="http://capret.mitoeit.org/" rel="nofollow">CaPReT: Cut and Paste Reuse Tracking</a>. <a href="https://twitter.com/guydbarrett" rel="nofollow">Guy Barrett</a> and I worked yesterday to add the CaPReT Javascript to a Moodle side-block on the OpenLearn-Labspace test server (behind our firewall). Moodle didn't remove the scripts from the sticky block (yay!) and we're almost ready for our first round of technical testing next week.</p>
+<p>Guy is proving to be a great resource to review ideas, and he pointed out very reasonably that many downloadable OER archives (plain Zip, SCORM etc.) <a title="Learning to Learn downloads, from OpenLearn-LabSpace/B2S" href="http://labspace.open.ac.uk/blocks/formats/download_unit.php?id=7442" rel="nofollow">provided by OpenLearn</a>, MIT (I checked!) and others contain Javascripts. (It should be noted that the RSS feeds provided by OpenLearn don't link to Javascripts.)</p>
+<p>Anyway, the emphasis of the Track OER project on no-Javascript tracking may be mis-placed. Using custom Google Analytics Javascript contained in the downloadable packages would remove the probable reliance on <a href="http://track.olnet.org/" rel="nofollow">Track.olnet.org</a> - a long-term support concern in making the Track OER tools production-ready. (Remember, Track.olnet.org does dynamic server-side processing of the web-beacon request, specific to re-used/ re-hosted OERs, before redirecting to the Piwik web-beacon.)</p>
+<p>So, I got busy yesterday and put together a <a href="http://track.olnet.org/test/b2s_learn_gajs" rel="nofollow">first prototype for a custom Google Analytics Javascript</a> solution. You will need to 'View source' (and/or use Firebug) in your browser to see what is happening...</p>
+<p>Which leads to my question - "To script, or not to script...?"</p>    </div>
+
+    
+<h2 id="extra-content">Extra content</h2>
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/content/add/6433">Add extra content</a></p>
+    
+
+<div id="embeds" class="embed-block">
+<h2>Embedded Content</h2>
+
+<p class="add-link add-embed"><a href="https://cloudworks.ac.uk/embed/add/6433">Add embedded content</a></p>
+</div>
+
+
+    <div class="grid">
+        <h2>Contribute</h2>
+        <a name="contribute"></a>
+        <ul class="cloudstream-filter">
+            <li>
+                            <strong>Discussion (1)</strong>
+                        </li>
+            <li>
+                            <a href="https://cloudworks.ac.uk/cloud/view/6433/links#contribute">Links (0)</a>                        </li>
+            <li>                            <a href="https://cloudworks.ac.uk/cloud/view/6433/references#contribute">Academic References (0)</a>            </li>
+        </ul>
+    </div>
+
+    <div class="grid" id="comments">
+
+                  <h3 class="hidden">Comment 1 by Tony Hirst</h3>
+                <div class="user-comment" id="comment-6111">
+				<a name="cloud_comment-6111"></a>
+
+                <div class="posted-by">
+                                            <img src="https://cloudworks.ac.uk/_design//avatar-default-32.jpg" alt="" style="float:left; margin-right: 5px"/>
+                    
+
+                    <p class="date-stamp">
+                       <a href="https://cloudworks.ac.uk/user/view/2076">Tony Hirst</a>	                    <br />
+                        3:46pm 21 August 2012	                    	                    	                   						                    <a href="#comment-6111" class="permalink">Permalink</a>
+                    </p>
+                    </div>
+                    <br />
+
+                   <p>Nick</p>
+<p>For js/no-js, is it worth considering different regimes?</p>
+<p>eg I can think of at least the following:</p>
+<p>
+<ul>
+<li>someone views a resource on a site we own (eg OpenLearn): this may or may not support Javascript...</li>
+<li>someone downloads a resource and then views it in a browser; the user may or may not have disabled javascript. How about users with particular accessibility settings? Do these interfere with javascript and/or images (ie how might accessible browsing interfere differently with different tracking styles? WHilst there is likely only trace usage by users with strong accessibility support requirements, it would be a shame if further sampling error was introduced becuase tracking and accessible device requirements mismatched.</li>
+<li>someone takes the content and incorporates it in their own site either literally or in an iframe. Javascript may be stripped or it may not. The host page may be running its own analytics, either Google Analytics or some other variant.</li>
+<li>the content is syndicated into a reader environment that strips js.</li>
+<li>someone shares a link to a resource via social media or eg email. In this case, I'm wondering whether tracking information might also be minted into a a shared URL that could be picked up from a location.href lookup? eg campaign tracking codes. These allow you to learn more about the source of the click that loaded the resource page (ie they are metadata on the link that detail how it was minted when it was shared. You could imagine two links on the same page to the same resource (eg one wrapping text, one wrapping an image) that differ ito campaign tracking metadata that can be picked up when the detsination page is loaded?).</li>
+</ul>
+</p>
+<p>A great advantgae of Javascript is that you can instrument large areas of the web page, not just track usage. TO what extent is the project limited to monitoring resource tracking (in which case thought should be given to ways of maximising how we might track the propagation of links to a resource eg by means of campaign tracking codes appended to URLs, as well as what exactly constitutes a resource: eg a web page that contains an embedded image and a link to a PDF) and to what extent is there also an interest in tracking resource usage (eg not just time on page etc, but also how a page is used, what exit links are clicked on etc).</p>
+<p>One way of tracking PDFs is to include links in them that carry a campaign code associated with that PDF. In the simplest case, if i own example.com/resource, I could embed example.com/resource?foo=bar.pdf in bar.pdf and then if anyone clicks on that link I know they came from bar.pdf from campaign tracking analytics on example.com.</p>
+<p>This sort of thing also works if you share links by email, or twitter - generate a sharelink with tracking info. (ie this lets us explore not just that a resource is accessed, but also feeds in data about where the link that provided the access came from...)</p>        </div>
+            </div>
+
+<div class="grid">
+    <a name="post"></a><h3 id="post-comment">Contribute to the discussion</h3>
+    <p>Please <a href="https://cloudworks.ac.uk/auth/login">log in</a> to post a comment. <a href="https://cloudworks.ac.uk/user/register">Register here</a> if you haven't signed up yet.</p>
+    </div>
+
+</div>
+
+<div id="region2">
+    <div id="search-site">
+    <form id="form-search" action="https://cloudworks.ac.uk/search/result/" method="get">
+      <p>
+        <label for="query">Search</label>
+        <input id="query" name="q" type="search" value="" maxlength="30" />
+        <input id="search-button" type="image" src="https://cloudworks.ac.uk/_design/search-button.gif" alt="Search" />
+      </p>
+        </form>
+</div>
+    <p class="login">
+    <a href="#login" class="link-arrow show">Log in</a> 
+    <a href="https://cloudworks.ac.uk/auth/register">Sign up</a></p>
+
+<div id="login" class="collapsed">
+      <form action="https://cloudworks.ac.uk/auth/login" method="post" id="login-form">        <p><label for="user_name">Username:</label><br />
+     	<input type="text" name="user_name" value="" id="user_name"  />    </p>
+    	<p><label for="password">Password:</label><br />
+        <input type="password" name="password" value="" id="password"  /></p>    
+        <p>
+        <input type="submit" name="submit" id="submit" class="submit" value="Log in" />
+    <a href="https://cloudworks.ac.uk/auth/forgotten_password">Forgotten password</a>    
+    
+    </p>
+    </form></div>
+
+    <h2>Tags</h2>
+    <p class="tags">
+        	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/analytics">analytics</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/blog">blog</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/jiscri">jiscri</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/oer">oer</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/project">project</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/TrackOER">TrackOER</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/ukoer">ukoer</a>
+        </span>
+                 
+        </p>
+
+
+      <p class="add-link"><a href="https://cloudworks.ac.uk/tag/add_tags/cloud/6433">Add a tag</a></p>
+    <div class="box">
+<h2>In Cloudscapes</h2>
+    <ul class="cloudscapes">
+                    <li>
+                <a href="https://cloudworks.ac.uk/cloudscape/view/2399">TRACK OER project blog</a>            </li>
+             </ul>
+<p class="add-link"><a href="https://cloudworks.ac.uk/cloudscape/add_cloud/6433">Add to a Cloudscape</a></p>
+</div>
+
+
+
+            
+               
+            
+            <div class="box">
+<h2>Improve this cloud</h2>
+
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/tag/add_tags/cloud/6433">Add a tag</a></p>
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/content/add/6433">Add extra content</a></p>
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/embed/add/6433">Add embedded content</a></p>
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/cloud/add_link/6433">Add link</a></p>
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/cloud/add_reference/6433">Add reference</a></p>
+
+</div>                </div>
+                   </div>
+                    <div id="site-footer">
+				        <div class="grid">
+				        <p class="left">
+                                        <a href="https://www.open.ac.uk" title="© 2009-2019 The Open University (IET)">©</a> |
+				        <a href="https://cloudworks.ac.uk/about/about">About</a> |
+				        <a href="https://cloudworks.ac.uk/blog/archive">Blog</a> |
+				        <a href="https://cloudworks.ac.uk/about/tandc" class="rdfa" rel="license">Terms and Conditions</a> |
+				        <a href="https://cloudworks.ac.uk/about/privacy">Privacy notice</a> |
+				        				    				                                                <a href="https://github.com/IET-OU/cloudengine"
+                                           ><img src="https://cloudworks.ac.uk//_design/cloudengine-sm.gif" alt="Powered by CloudEngine, open-source social software" />
+                                        </a>
+				          </p>
+				      
+<!-- The language drop-down menu - jump to the top/#skip. -->
+
+<form id="form-lang" action="#skip" method="post">
+<p class="right"><label for="lang_select">
+Preferred language </label>
+<select id="lang_select" name="lang">
+        <option value="el" >Ελληνικά / Greek</option>
+        <option value="en" selected="selected">English</option>
+  </select>
+<button type="submit" >Load</button>
+</p>
+</form>
+				        </div>
+				    </div>
+				</div>
+			</div>
+		</div>
+		
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-5304738-3', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+
+
+    
+<script
+  data-nofollow-count="15"
+  data-rtt=""  data-ga-analytics-id="UA-5304738-3"></script>
+
+
+
+                <script src="https://unpkg.com/gaad-widget@%5E3/dist/gaad-widget.min.js"
+          data-gaad-widget='{"debug":true,"days_before":15,"x_lang":"en","analytics":false}'></script>
+          <script src="https://cloudworks.ac.uk/_scripts/custom.js"></script>
+
+<script> console.warn('rel=nofollow count:', 15) </script>
+	</body>
+</html>

@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Cloudworks:Public Cloudstream</title>
+    <link>https://cloudworks.ac.uk/</link>
+	<description>Cloudworks:Public Cloudstream</description>
+	<dc:language>en</dc:language>
+	<dc:creator>cloudworks@open.ac.uk</dc:creator>
+	<dc:rights>Copyright 2019 </dc:rights>
+	<admin:generatorAgent>
+    <atom:link href="https://cloudworks.ac.uk/event/site_rss" rel="self" type="application/rss+xml" />
+    		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Fri, 07 Jun 2019 21:10:18 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>The practical realities of developing and running a MOOCnew cloud created by Vicky Cole</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/12032">The practical realities of developing and running a MOOC</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11273" rel="author">Vicky Cole</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Apr 2019 08:55:35 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>The practical realities of developing and running a MOOCcloud added to the cloudscape eLearning Community by Vicky Cole</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/12032">The practical realities of developing and running a MOOC</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/899">eLearning Community</a> by <a href="https://cloudworks.ac.uk/user/view/11273" rel="author">Vicky Cole</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Apr 2019 08:55:35 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Thu, 28 Mar 2019 11:29:35 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Wed, 20 Mar 2019 09:18:38 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Learning design strugglesnew cloud created by Manuela Cabezas da Rosa</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/12020">Learning design struggles</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11672" rel="author">Manuela Cabezas da Rosa</a></em>]]></description>
+	  	  <pubDate>Tue, 19 Mar 2019 14:25:53 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Mon, 18 Mar 2019 12:39:52 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Fri, 15 Mar 2019 12:26:56 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Fri, 15 Mar 2019 10:59:08 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Fri, 15 Mar 2019 07:14:07 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Sat, 09 Mar 2019 12:13:34 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Fri, 08 Mar 2019 09:54:20 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Thu, 07 Mar 2019 10:45:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Dave Smith&#39; design narrative : Writing from direct experiencecloud added to the cloudscape H800 Design Narratives by Dave Smith</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9858">Dave Smith' design narrative : Writing from direct experience</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2474">H800 Design Narratives</a> by <a href="https://cloudworks.ac.uk/user/view/8450" rel="author">Dave Smith</a></em>]]></description>
+	  	  <pubDate>Wed, 06 Mar 2019 19:42:03 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Dave Smith&#39; design narrative : Writing from direct experiencenew cloud created by Dave Smith</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9858">Dave Smith' design narrative : Writing from direct experience</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/8450" rel="author">Dave Smith</a></em>]]></description>
+	  	  <pubDate>Wed, 06 Mar 2019 19:42:03 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Tue, 05 Mar 2019 08:28:09 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT: Learning Beyond Language (Rachel Adams)new cloud created by Rachel Adams</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11906">SAT: Learning Beyond Language (Rachel Adams)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11571" rel="author">Rachel Adams</a></em>]]></description>
+	  	  <pubDate>Sat, 02 Mar 2019 09:14:57 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT: Learning Beyond Language (Rachel Adams)cloud added to the cloudscape OU H818 &#39;The Networked Practitioner&#39; Online Conference 2019 by Rachel Adams</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11906">SAT: Learning Beyond Language (Rachel Adams)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/3030">OU H818 'The Networked Practitioner' Online Conference 2019</a> by <a href="https://cloudworks.ac.uk/user/view/11571" rel="author">Rachel Adams</a></em>]]></description>
+	  	  <pubDate>Sat, 02 Mar 2019 09:14:57 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Fri, 01 Mar 2019 08:17:32 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Fri, 01 Mar 2019 08:16:10 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Fri, 01 Mar 2019 08:14:15 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Tue, 26 Feb 2019 11:45:34 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Mon, 25 Feb 2019 05:00:20 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Wed, 20 Feb 2019 07:43:33 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT Keynote: 25 Years of Ed Tech (Martin Weller)cloud added to the cloudscape OU H818 &#39;The Networked Practitioner&#39; Online Conference 2019 by Dr Simon Ball</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/12002">SAT Keynote: 25 Years of Ed Tech (Martin Weller)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/3030">OU H818 'The Networked Practitioner' Online Conference 2019</a> by <a href="https://cloudworks.ac.uk/user/view/6651" rel="author">Dr Simon Ball</a></em>]]></description>
+	  	  <pubDate>Sat, 16 Feb 2019 17:30:37 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT Keynote: 25 Years of Ed Tech (Martin Weller)new cloud created by Dr Simon Ball</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/12002">SAT Keynote: 25 Years of Ed Tech (Martin Weller)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/6651" rel="author">Dr Simon Ball</a></em>]]></description>
+	  	  <pubDate>Sat, 16 Feb 2019 17:30:26 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Fri, 15 Feb 2019 09:37:00 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Wed, 13 Feb 2019 07:34:52 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>MON: Social Work Education In A Connected Age - A Playground Learning Environment. (David Appel)new cloud created by David Appel</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11910">MON: Social Work Education In A Connected Age - A Playground Learning Environment. (David Appel)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/7628" rel="author">David Appel</a></em>]]></description>
+	  	  <pubDate>Mon, 11 Feb 2019 20:49:18 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>MON: Social Work Education In A Connected Age - A Playground Learning Environment. (David Appel)cloud added to the cloudscape OU H818 &#39;The Networked Practitioner&#39; Online Conference 2019 by David Appel</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11910">MON: Social Work Education In A Connected Age - A Playground Learning Environment. (David Appel)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/3030">OU H818 'The Networked Practitioner' Online Conference 2019</a> by <a href="https://cloudworks.ac.uk/user/view/7628" rel="author">David Appel</a></em>]]></description>
+	  	  <pubDate>Mon, 11 Feb 2019 20:49:18 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Mon, 11 Feb 2019 17:30:51 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Conference Abstractcloud added to the cloudscape OU H818 &#39;The Networked Practitioner&#39; Online Conference 2019 by Nicole Capon</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11981">Conference Abstract</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/3030">OU H818 'The Networked Practitioner' Online Conference 2019</a> by <a href="https://cloudworks.ac.uk/user/view/10027" rel="author">Nicole Capon</a></em>]]></description>
+	  	  <pubDate>Sun, 10 Feb 2019 15:44:58 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT: Learning Beyond Language (Rachel Adams)new cloud created by Rachel Adams</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11906">SAT: Learning Beyond Language (Rachel Adams)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11571" rel="author">Rachel Adams</a></em>]]></description>
+	  	  <pubDate>Fri, 08 Feb 2019 19:30:19 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT: Learning Beyond Language (Rachel Adams)cloud added to the cloudscape OU H818 &#39;The Networked Practitioner&#39; Online Conference 2019 by Rachel Adams</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11906">SAT: Learning Beyond Language (Rachel Adams)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/3030">OU H818 'The Networked Practitioner' Online Conference 2019</a> by <a href="https://cloudworks.ac.uk/user/view/11571" rel="author">Rachel Adams</a></em>]]></description>
+	  	  <pubDate>Fri, 08 Feb 2019 19:30:19 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT: Learning Beyond Language (Rachel Adams)cloud added to the cloudscape OU H818 &#39;The Networked Practitioner&#39; Online Conference 2019 by Rachel Adams</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11906">SAT: Learning Beyond Language (Rachel Adams)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/3030">OU H818 'The Networked Practitioner' Online Conference 2019</a> by <a href="https://cloudworks.ac.uk/user/view/11571" rel="author">Rachel Adams</a></em>]]></description>
+	  	  <pubDate>Fri, 08 Feb 2019 19:30:17 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT: Learning Beyond Language (Rachel Adams)new cloud created by Rachel Adams</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11906">SAT: Learning Beyond Language (Rachel Adams)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11571" rel="author">Rachel Adams</a></em>]]></description>
+	  	  <pubDate>Fri, 08 Feb 2019 19:30:17 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Fri, 08 Feb 2019 10:52:05 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Wed, 06 Feb 2019 09:04:45 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Tue, 05 Feb 2019 07:20:49 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>MON: Designing a Mini-MOOC for Assessor Training in Further Education (Bina Howard)new cloud created by Bina Howard</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11991">MON: Designing a Mini-MOOC for Assessor Training in Further Education (Bina Howard)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11478" rel="author">Bina Howard</a></em>]]></description>
+	  	  <pubDate>Fri, 01 Feb 2019 10:09:42 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>MON: Designing a Mini-MOOC for Assessor Training in Further Education (Bina Howard)cloud added to the cloudscape OU H818 &#39;The Networked Practitioner&#39; Online Conference 2019 by Bina Howard</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11991">MON: Designing a Mini-MOOC for Assessor Training in Further Education (Bina Howard)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/3030">OU H818 'The Networked Practitioner' Online Conference 2019</a> by <a href="https://cloudworks.ac.uk/user/view/11478" rel="author">Bina Howard</a></em>]]></description>
+	  	  <pubDate>Fri, 01 Feb 2019 10:09:42 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>MON: Designing a Mini-MOOC for Assessor Training in Further Education (Bina Howard)cloud added to the cloudscape OU H818 &#39;The Networked Practitioner&#39; Online Conference 2019 by Bina Howard</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11991">MON: Designing a Mini-MOOC for Assessor Training in Further Education (Bina Howard)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/3030">OU H818 'The Networked Practitioner' Online Conference 2019</a> by <a href="https://cloudworks.ac.uk/user/view/11478" rel="author">Bina Howard</a></em>]]></description>
+	  	  <pubDate>Fri, 01 Feb 2019 00:04:46 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>MON: Designing a Mini-MOOC for Assessor Training in Further Education (Bina Howard)new cloud created by Bina Howard</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11991">MON: Designing a Mini-MOOC for Assessor Training in Further Education (Bina Howard)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11478" rel="author">Bina Howard</a></em>]]></description>
+	  	  <pubDate>Thu, 31 Jan 2019 23:46:42 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>MON: Facebook As A Vehicle For Learning English - A  Case Study (LInda Nevin-Drummond) new cloud created by Linda Nevin-Drummond</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11989">MON: Facebook As A Vehicle For Learning English - A  Case Study (LInda Nevin-Drummond) </a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11610" rel="author">Linda Nevin-Drummond</a></em>]]></description>
+	  	  <pubDate>Wed, 30 Jan 2019 15:28:36 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>MON: Facebook As A Vehicle For Learning English - A  Case Study (LInda Nevin-Drummond) new cloud created by Linda Nevin-Drummond</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11988">MON: Facebook As A Vehicle For Learning English - A  Case Study (LInda Nevin-Drummond) </a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11610" rel="author">Linda Nevin-Drummond</a></em>]]></description>
+	  	  <pubDate>Wed, 30 Jan 2019 13:53:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>MON: Facebook As A Vehicle For Learning English - A  Case Study (LInda Nevin-Drummond) cloud added to the cloudscape OU H818 &#39;The Networked Practitioner&#39; Online Conference 2019 by Linda Nevin-Drummond</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11988">MON: Facebook As A Vehicle For Learning English - A  Case Study (LInda Nevin-Drummond) </a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/3030">OU H818 'The Networked Practitioner' Online Conference 2019</a> by <a href="https://cloudworks.ac.uk/user/view/11610" rel="author">Linda Nevin-Drummond</a></em>]]></description>
+	  	  <pubDate>Wed, 30 Jan 2019 13:53:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT: Using And Creating OERs In Mauritius: A Reality or A Myth? (Louis Jinot BELLE)cloud added to the cloudscape OU H818 &#39;The Networked Practitioner&#39; Online Conference 2019 by Dr Simon Ball</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11984">SAT: Using And Creating OERs In Mauritius: A Reality or A Myth? (Louis Jinot BELLE)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/3030">OU H818 'The Networked Practitioner' Online Conference 2019</a> by <a href="https://cloudworks.ac.uk/user/view/6651" rel="author">Dr Simon Ball</a></em>]]></description>
+	  	  <pubDate>Wed, 30 Jan 2019 10:26:48 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Tue, 29 Jan 2019 20:48:05 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Tue, 29 Jan 2019 20:40:48 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Student Voice. Understanding our students and learning from them.cloud added to the cloudscape eLearning Community by Vicky Cole</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11985">Student Voice. Understanding our students and learning from them.</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/899">eLearning Community</a> by <a href="https://cloudworks.ac.uk/user/view/11273" rel="author">Vicky Cole</a></em>]]></description>
+	  	  <pubDate>Tue, 29 Jan 2019 13:47:12 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Student Voice. Understanding our students and learning from them.new cloud created by Vicky Cole</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11985">Student Voice. Understanding our students and learning from them.</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11273" rel="author">Vicky Cole</a></em>]]></description>
+	  	  <pubDate>Tue, 29 Jan 2019 13:47:12 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT Feb 16: Healing Souls- A website on mental health education for the well-being of Pakistani young women (Munir Moosa)cloud added to the cloudscape OU H818 &#39;The Networked Practitioner&#39; Online Conference 2019 by Dr Simon Ball</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11902">SAT Feb 16: Healing Souls- A website on mental health education for the well-being of Pakistani young women (Munir Moosa)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/3030">OU H818 'The Networked Practitioner' Online Conference 2019</a> by <a href="https://cloudworks.ac.uk/user/view/6651" rel="author">Dr Simon Ball</a></em>]]></description>
+	  	  <pubDate>Mon, 28 Jan 2019 16:40:22 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT Feb 16: Healing Souls- A website on mental health education for the well-being of Pakistani young women (Munir Moosa)new cloud created by Munir Moosa Sadruddin</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11902">SAT Feb 16: Healing Souls- A website on mental health education for the well-being of Pakistani young women (Munir Moosa)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11546" rel="author">Munir Moosa Sadruddin</a></em>]]></description>
+	  	  <pubDate>Mon, 28 Jan 2019 16:40:22 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT: Using And Creating OERs In Mauritius: A Reality or A Myth? (Louis Jinot BELLE)new cloud created by Belle Louis Jinot</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11984">SAT: Using And Creating OERs In Mauritius: A Reality or A Myth? (Louis Jinot BELLE)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11611" rel="author">Belle Louis Jinot</a></em>]]></description>
+	  	  <pubDate>Mon, 28 Jan 2019 09:35:09 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Conference Abstractnew cloud created by Nicole Capon</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11981">Conference Abstract</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/10027" rel="author">Nicole Capon</a></em>]]></description>
+	  	  <pubDate>Sat, 26 Jan 2019 22:46:55 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT: Study Of The Use of Closed Facebook Groups (CFGs) By Standards Professionals And The Presence Of Community (Glenn Bosmans)new cloud created by Glenn Bosmans</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11974">SAT: Study Of The Use of Closed Facebook Groups (CFGs) By Standards Professionals And The Presence Of Community (Glenn Bosmans)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/8484" rel="author">Glenn Bosmans</a></em>]]></description>
+	  	  <pubDate>Sat, 26 Jan 2019 22:46:53 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT: Study Of The Use of Closed Facebook Groups (CFGs) By Standards Professionals And The Presence Of Community (Glenn Bosmans)cloud added to the cloudscape OU H818 &#39;The Networked Practitioner&#39; Online Conference 2019 by Glenn Bosmans</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11974">SAT: Study Of The Use of Closed Facebook Groups (CFGs) By Standards Professionals And The Presence Of Community (Glenn Bosmans)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/3030">OU H818 'The Networked Practitioner' Online Conference 2019</a> by <a href="https://cloudworks.ac.uk/user/view/8484" rel="author">Glenn Bosmans</a></em>]]></description>
+	  	  <pubDate>Sat, 26 Jan 2019 22:46:53 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>MYP Designcloud added to the cloudscape MYP Design by Michael Clifford</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11979">MYP Design</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/3032">MYP Design</a> by <a href="https://cloudworks.ac.uk/user/view/3964" rel="author">Michael Clifford</a></em>]]></description>
+	  	  <pubDate>Fri, 25 Jan 2019 02:36:07 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Conference Abstractnew cloud created by Nicole Capon</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11983">Conference Abstract</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/10027" rel="author">Nicole Capon</a></em>]]></description>
+	  	  <pubDate>Thu, 24 Jan 2019 21:42:36 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Conference Abstractnew cloud created by Nicole Capon</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11982">Conference Abstract</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/10027" rel="author">Nicole Capon</a></em>]]></description>
+	  	  <pubDate>Thu, 24 Jan 2019 21:41:51 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>H818 Conference Abstractnew cloud created by Nicole Capon</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11980">H818 Conference Abstract</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/10027" rel="author">Nicole Capon</a></em>]]></description>
+	  	  <pubDate>Thu, 24 Jan 2019 21:38:26 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT: Study Of The Use of Closed Facebook Groups (CFGs) By Standards Professionals And The Presence Of Community (Glenn Bosmans)new cloud created by Glenn Bosmans</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11975">SAT: Study Of The Use of Closed Facebook Groups (CFGs) By Standards Professionals And The Presence Of Community (Glenn Bosmans)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/8484" rel="author">Glenn Bosmans</a></em>]]></description>
+	  	  <pubDate>Thu, 24 Jan 2019 15:56:20 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT: Study Of The Use of Closed Facebook Groups (CFGs) By Standards Professionals And The Presence Of Community (Glenn Bosmans)cloud added to the cloudscape OU H818 &#39;The Networked Practitioner&#39; Online Conference 2019 by Glenn Bosmans</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11974">SAT: Study Of The Use of Closed Facebook Groups (CFGs) By Standards Professionals And The Presence Of Community (Glenn Bosmans)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/3030">OU H818 'The Networked Practitioner' Online Conference 2019</a> by <a href="https://cloudworks.ac.uk/user/view/8484" rel="author">Glenn Bosmans</a></em>]]></description>
+	  	  <pubDate>Thu, 24 Jan 2019 15:56:18 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT: Study Of The Use of Closed Facebook Groups (CFGs) By Standards Professionals And The Presence Of Community (Glenn Bosmans)new cloud created by Glenn Bosmans</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11974">SAT: Study Of The Use of Closed Facebook Groups (CFGs) By Standards Professionals And The Presence Of Community (Glenn Bosmans)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/8484" rel="author">Glenn Bosmans</a></em>]]></description>
+	  	  <pubDate>Thu, 24 Jan 2019 15:56:18 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>MYP Designnew cloud created by Michael Clifford</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11979">MYP Design</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/3964" rel="author">Michael Clifford</a></em>]]></description>
+	  	  <pubDate>Thu, 24 Jan 2019 04:37:40 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Mon: Open Textbook Implementation: A Caribbean Experience (Andrew Augustine)cloud added to the cloudscape OU H818 &#39;The Networked Practitioner&#39; Online Conference 2019 by Andrew Augustine</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11978">Mon: Open Textbook Implementation: A Caribbean Experience (Andrew Augustine)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/3030">OU H818 'The Networked Practitioner' Online Conference 2019</a> by <a href="https://cloudworks.ac.uk/user/view/11607" rel="author">Andrew Augustine</a></em>]]></description>
+	  	  <pubDate>Thu, 24 Jan 2019 01:17:36 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Mon: Open Textbook Implementation: A Caribbean Experience (Andrew Augustine)new cloud created by Andrew Augustine</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11978">Mon: Open Textbook Implementation: A Caribbean Experience (Andrew Augustine)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11607" rel="author">Andrew Augustine</a></em>]]></description>
+	  	  <pubDate>Thu, 24 Jan 2019 01:17:36 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT: Study Of The Use of Closed Facebook Groups (CFGs) By Standards Professionals And The Presence Of Community (Glenn Bosmans)cloud added to the cloudscape OU H818 &#39;The Networked Practitioner&#39; Online Conference 2019 by Glenn Bosmans</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11974">SAT: Study Of The Use of Closed Facebook Groups (CFGs) By Standards Professionals And The Presence Of Community (Glenn Bosmans)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/3030">OU H818 'The Networked Practitioner' Online Conference 2019</a> by <a href="https://cloudworks.ac.uk/user/view/8484" rel="author">Glenn Bosmans</a></em>]]></description>
+	  	  <pubDate>Wed, 23 Jan 2019 22:38:38 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT: Study Of The Use of Closed Facebook Groups (CFGs) By Standards Professionals And The Presence Of Community (Glenn Bosmans)new cloud created by Glenn Bosmans</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11974">SAT: Study Of The Use of Closed Facebook Groups (CFGs) By Standards Professionals And The Presence Of Community (Glenn Bosmans)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/8484" rel="author">Glenn Bosmans</a></em>]]></description>
+	  	  <pubDate>Wed, 23 Jan 2019 22:38:37 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>MON: Does freely available mean freely accessible? (Penny James)cloud added to the cloudscape OU H818 &#39;The Networked Practitioner&#39; Online Conference 2019 by Catherine Penny James</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11977">MON: Does freely available mean freely accessible? (Penny James)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/3030">OU H818 'The Networked Practitioner' Online Conference 2019</a> by <a href="https://cloudworks.ac.uk/user/view/11605" rel="author">Catherine Penny James</a></em>]]></description>
+	  	  <pubDate>Tue, 22 Jan 2019 11:33:01 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>MON: Does freely available mean freely accessible? (Penny James)new cloud created by Catherine Penny James</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11977">MON: Does freely available mean freely accessible? (Penny James)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11605" rel="author">Catherine Penny James</a></em>]]></description>
+	  	  <pubDate>Tue, 22 Jan 2019 11:33:01 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Mon, 21 Jan 2019 09:32:58 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT: Study Of The Use of Closed Facebook Groups (CFGs) By Standards Professionals And The Presence Of Community (Glenn Bosmans)new cloud created by Glenn Bosmans</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11975">SAT: Study Of The Use of Closed Facebook Groups (CFGs) By Standards Professionals And The Presence Of Community (Glenn Bosmans)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/8484" rel="author">Glenn Bosmans</a></em>]]></description>
+	  	  <pubDate>Sun, 20 Jan 2019 22:37:00 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>MON: Evaluation of game-based SRS (Student Response Systems) as OER and examples of open practices in secondary education (Ognjen Vukas)new cloud created by Ognjen Vukas</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11972">MON: Evaluation of game-based SRS (Student Response Systems) as OER and examples of open practices in secondary education (Ognjen Vukas)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/10061" rel="author">Ognjen Vukas</a></em>]]></description>
+	  	  <pubDate>Sun, 20 Jan 2019 22:36:57 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT: Jekyll and Hyde: An Alternative Mini-MOOC Curated on Trello (Annette Hendley)cloud added to the cloudscape OU H818 &#39;The Networked Practitioner&#39; Online Conference 2019 by Annette Hendley</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11912">SAT: Jekyll and Hyde: An Alternative Mini-MOOC Curated on Trello (Annette Hendley)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/3030">OU H818 'The Networked Practitioner' Online Conference 2019</a> by <a href="https://cloudworks.ac.uk/user/view/11073" rel="author">Annette Hendley</a></em>]]></description>
+	  	  <pubDate>Sun, 20 Jan 2019 22:36:55 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT: Jekyll and Hyde: An Alternative Mini-MOOC Curated on Trello (Annette Hendley)new cloud created by Annette Hendley</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11912">SAT: Jekyll and Hyde: An Alternative Mini-MOOC Curated on Trello (Annette Hendley)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11073" rel="author">Annette Hendley</a></em>]]></description>
+	  	  <pubDate>Sun, 20 Jan 2019 22:36:55 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT: Study Of The Use of Closed Facebook Groups (CFGs) By Standards Professionals And The Presence Of Community (Glenn Bosmans)new cloud created by Glenn Bosmans</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11974">SAT: Study Of The Use of Closed Facebook Groups (CFGs) By Standards Professionals And The Presence Of Community (Glenn Bosmans)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/8484" rel="author">Glenn Bosmans</a></em>]]></description>
+	  	  <pubDate>Sun, 20 Jan 2019 18:55:32 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT: Study Of The Use of Closed Facebook Groups (CFGs) By Standards Professionals And The Presence Of Community (Glenn Bosmans)cloud added to the cloudscape OU H818 &#39;The Networked Practitioner&#39; Online Conference 2019 by Glenn Bosmans</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11974">SAT: Study Of The Use of Closed Facebook Groups (CFGs) By Standards Professionals And The Presence Of Community (Glenn Bosmans)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/3030">OU H818 'The Networked Practitioner' Online Conference 2019</a> by <a href="https://cloudworks.ac.uk/user/view/8484" rel="author">Glenn Bosmans</a></em>]]></description>
+	  	  <pubDate>Sun, 20 Jan 2019 18:55:32 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>MON: Evaluation of game-based SRS (Student Response Systems) as OER and examples of open practices in secondary education (Ognjen Vukas)new cloud created by Ognjen Vukas</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11971">MON: Evaluation of game-based SRS (Student Response Systems) as OER and examples of open practices in secondary education (Ognjen Vukas)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/10061" rel="author">Ognjen Vukas</a></em>]]></description>
+	  	  <pubDate>Sun, 20 Jan 2019 16:12:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>MON: Evaluation of game-based SRS (Student Response Systems) as OER and examples of open practices in secondary education (Ognjen Vukas)cloud added to the cloudscape OU H818 &#39;The Networked Practitioner&#39; Online Conference 2019 by Ognjen Vukas</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11971">MON: Evaluation of game-based SRS (Student Response Systems) as OER and examples of open practices in secondary education (Ognjen Vukas)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/3030">OU H818 'The Networked Practitioner' Online Conference 2019</a> by <a href="https://cloudworks.ac.uk/user/view/10061" rel="author">Ognjen Vukas</a></em>]]></description>
+	  	  <pubDate>Sun, 20 Jan 2019 16:12:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Sat, 19 Jan 2019 10:57:04 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>My Essay Helpnew cloud created by Isaac Nailor</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11967">My Essay Help</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11597" rel="author">Isaac Nailor</a></em>]]></description>
+	  	  <pubDate>Thu, 17 Jan 2019 09:49:26 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SBCGlobal Email Support  or Helpline Numbernew cloud created by Amara willson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11966">SBCGlobal Email Support  or Helpline Number</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11596" rel="author">Amara willson</a></em>]]></description>
+	  	  <pubDate>Thu, 17 Jan 2019 08:42:05 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>FRI: Access To Higher Education For Refugees In Crisis Settings: Adapting An OER to mLearning (Ken Simpson)new cloud created by Kenneth Simpson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11965">FRI: Access To Higher Education For Refugees In Crisis Settings: Adapting An OER to mLearning (Ken Simpson)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11595" rel="author">Kenneth Simpson</a></em>]]></description>
+	  	  <pubDate>Thu, 17 Jan 2019 03:35:26 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>FRI: Access To Higher Education For Refugees In Crisis Settings: Adapting An OER to mLearning (Ken Simpson)cloud added to the cloudscape OU H818 &#39;The Networked Practitioner&#39; Online Conference 2019 by Kenneth Simpson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11965">FRI: Access To Higher Education For Refugees In Crisis Settings: Adapting An OER to mLearning (Ken Simpson)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/3030">OU H818 'The Networked Practitioner' Online Conference 2019</a> by <a href="https://cloudworks.ac.uk/user/view/11595" rel="author">Kenneth Simpson</a></em>]]></description>
+	  	  <pubDate>Thu, 17 Jan 2019 03:35:26 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>FRI: ¡Escúchame! GCSE Spanish Audios (Sonia Pardos)new cloud created by Sonia Pardos</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11964">FRI: ¡Escúchame! GCSE Spanish Audios (Sonia Pardos)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11594" rel="author">Sonia Pardos</a></em>]]></description>
+	  	  <pubDate>Wed, 16 Jan 2019 23:04:49 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>FRI: ¡Escúchame! GCSE Spanish Audios (Sonia Pardos)cloud added to the cloudscape OU H818 &#39;The Networked Practitioner&#39; Online Conference 2019 by Sonia Pardos</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11964">FRI: ¡Escúchame! GCSE Spanish Audios (Sonia Pardos)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/3030">OU H818 'The Networked Practitioner' Online Conference 2019</a> by <a href="https://cloudworks.ac.uk/user/view/11594" rel="author">Sonia Pardos</a></em>]]></description>
+	  	  <pubDate>Wed, 16 Jan 2019 23:04:49 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT: Design Principles For Attracting Older Learners (Caroline Ward)new cloud created by carriee ward</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11963">SAT: Design Principles For Attracting Older Learners (Caroline Ward)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11592" rel="author">carriee ward</a></em>]]></description>
+	  	  <pubDate>Wed, 16 Jan 2019 19:12:14 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT: Design Principles For Attracting Older Learners (Caroline Ward)new cloud created by carriee ward</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11961">SAT: Design Principles For Attracting Older Learners (Caroline Ward)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11592" rel="author">carriee ward</a></em>]]></description>
+	  	  <pubDate>Wed, 16 Jan 2019 19:12:11 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT: Design Principles For Attracting Older Learners (Caroline Ward)new cloud created by carriee ward</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11960">SAT: Design Principles For Attracting Older Learners (Caroline Ward)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11592" rel="author">carriee ward</a></em>]]></description>
+	  	  <pubDate>Wed, 16 Jan 2019 19:12:07 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT: Design Principles For Attracting Older Learners (Caroline Ward)new cloud created by carriee ward</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11957">SAT: Design Principles For Attracting Older Learners (Caroline Ward)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11592" rel="author">carriee ward</a></em>]]></description>
+	  	  <pubDate>Wed, 16 Jan 2019 19:12:01 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>FRI: Bridging The Employability Gap (Bernadette Laffey)cloud added to the cloudscape OU H818 &#39;The Networked Practitioner&#39; Online Conference 2019 by Bernadette Laffey</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11919">FRI: Bridging The Employability Gap (Bernadette Laffey)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/3030">OU H818 'The Networked Practitioner' Online Conference 2019</a> by <a href="https://cloudworks.ac.uk/user/view/11578" rel="author">Bernadette Laffey</a></em>]]></description>
+	  	  <pubDate>Wed, 16 Jan 2019 19:11:58 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>FRI: Bridging The Employability Gap (Bernadette Laffey)new cloud created by Bernadette Laffey</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11919">FRI: Bridging The Employability Gap (Bernadette Laffey)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11578" rel="author">Bernadette Laffey</a></em>]]></description>
+	  	  <pubDate>Wed, 16 Jan 2019 19:11:58 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>MON: Social Work Education In A Connected Age - A Playground Learning Environment. (David Appel)new cloud created by David Appel</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11910">MON: Social Work Education In A Connected Age - A Playground Learning Environment. (David Appel)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/7628" rel="author">David Appel</a></em>]]></description>
+	  	  <pubDate>Wed, 16 Jan 2019 19:11:54 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>MON: Social Work Education In A Connected Age - A Playground Learning Environment. (David Appel)cloud added to the cloudscape OU H818 &#39;The Networked Practitioner&#39; Online Conference 2019 by David Appel</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11910">MON: Social Work Education In A Connected Age - A Playground Learning Environment. (David Appel)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/3030">OU H818 'The Networked Practitioner' Online Conference 2019</a> by <a href="https://cloudworks.ac.uk/user/view/7628" rel="author">David Appel</a></em>]]></description>
+	  	  <pubDate>Wed, 16 Jan 2019 19:11:54 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>FRI: School Inclusion For Seriously Ill Children. A Website To Share Experiences Of Telepresence Robots In Schools. (Samantha Bennett)cloud added to the cloudscape OU H818 &#39;The Networked Practitioner&#39; Online Conference 2019 by Samantha Bennett</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11905">FRI: School Inclusion For Seriously Ill Children. A Website To Share Experiences Of Telepresence Robots In Schools. (Samantha Bennett)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/3030">OU H818 'The Networked Practitioner' Online Conference 2019</a> by <a href="https://cloudworks.ac.uk/user/view/11570" rel="author">Samantha Bennett</a></em>]]></description>
+	  	  <pubDate>Wed, 16 Jan 2019 19:11:51 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>FRI: School Inclusion For Seriously Ill Children. A Website To Share Experiences Of Telepresence Robots In Schools. (Samantha Bennett)new cloud created by Samantha Bennett</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11905">FRI: School Inclusion For Seriously Ill Children. A Website To Share Experiences Of Telepresence Robots In Schools. (Samantha Bennett)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11570" rel="author">Samantha Bennett</a></em>]]></description>
+	  	  <pubDate>Wed, 16 Jan 2019 19:11:51 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT Feb 16: Healing Souls- A website on mental health education for the well-being of Pakistani young women (Munir Moosa)new cloud created by Munir Moosa Sadruddin</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11902">SAT Feb 16: Healing Souls- A website on mental health education for the well-being of Pakistani young women (Munir Moosa)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11546" rel="author">Munir Moosa Sadruddin</a></em>]]></description>
+	  	  <pubDate>Wed, 16 Jan 2019 19:11:48 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT Feb 16: Healing Souls- A website on mental health education for the well-being of Pakistani young women (Munir Moosa)cloud added to the cloudscape OU H818 &#39;The Networked Practitioner&#39; Online Conference 2019 by Dr Simon Ball</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11902">SAT Feb 16: Healing Souls- A website on mental health education for the well-being of Pakistani young women (Munir Moosa)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/3030">OU H818 'The Networked Practitioner' Online Conference 2019</a> by <a href="https://cloudworks.ac.uk/user/view/6651" rel="author">Dr Simon Ball</a></em>]]></description>
+	  	  <pubDate>Wed, 16 Jan 2019 19:11:48 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT: Design Principles For Attracting Older Learners (Caroline Ward)cloud added to the cloudscape OU H818 &#39;The Networked Practitioner&#39; Online Conference 2019 by carriee ward</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11962">SAT: Design Principles For Attracting Older Learners (Caroline Ward)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/3030">OU H818 'The Networked Practitioner' Online Conference 2019</a> by <a href="https://cloudworks.ac.uk/user/view/11592" rel="author">carriee ward</a></em>]]></description>
+	  	  <pubDate>Wed, 16 Jan 2019 13:15:19 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+	    </channel>
+</rss>

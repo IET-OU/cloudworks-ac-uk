@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Cloudstream for Ala&#39;s Cloudscape &#45; oldsmooc</title>
+    <link>https://cloudworks.ac.uk/</link>
+	<description>Cloudstream for Ala&#39;s Cloudscape &#45; oldsmooc</description>
+	<dc:language>en</dc:language>
+	<dc:creator>cloudworks@open.ac.uk</dc:creator>
+	<dc:rights>Copyright 2019 </dc:rights>
+	<admin:generatorAgent>
+    <atom:link href="https://cloudworks.ac.uk/event/cloudscape_rss/2539" rel="self" type="application/rss+xml" />
+    </channel>
+</rss>

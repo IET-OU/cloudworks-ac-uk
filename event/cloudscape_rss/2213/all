@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Cloudstream for Ascilite2010: Curriculum, technology and transformation for an unknown future</title>
+    <link>https://cloudworks.ac.uk/</link>
+	<description>Cloudstream for Ascilite2010: Curriculum, technology and transformation for an unknown future</description>
+	<dc:language>en</dc:language>
+	<dc:creator>cloudworks@open.ac.uk</dc:creator>
+	<dc:rights>Copyright 2019 </dc:rights>
+	<admin:generatorAgent>
+    <atom:link href="https://cloudworks.ac.uk/event/cloudscape_rss/2213" rel="self" type="application/rss+xml" />
+    		    <item>
+	      <title>&quot;Everything I need to know I learnt from World of Warcraft&quot;: why we might need to start asking better questions about games, simulations and virtual worldscloud added to the cloudscape Ascilite2010: Curriculum, technology and transformation for an unknown future by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/4622">"Everything I need to know I learnt from World of Warcraft": why we might need to start asking better questions about games, simulations and virtual worlds</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2213">Ascilite2010: Curriculum, technology and transformation for an unknown future</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Wed, 10 Nov 2010 10:59:56 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;A few of &quot;the game folk&quot; talk about education as a game. Gaming the system is not a new idea. What...new comment on the cloud &quot;Everything I need to know I learnt from World of Warcraft&quot;: why we might need to start asking better questions about games, simulations and virtual worlds by Chris Bigum</title>
+	      <link>https://cloudworks.ac.uk/#comment-4720</link>
+	      <guid>https://cloudworks.ac.uk/#comment-4720</guid>
+	      <description><![CDATA[<strong>"A few of "the game folk" talk about education as a game. Gaming the system is not a new idea. What...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/4622">"Everything I need to know I learnt from World of Warcraft": why we might need to start asking better questions about games, simulations and virtual worlds</a> by <a href="https://cloudworks.ac.uk/user/view/3247" rel="author">Chris Bigum</a></em>]]></description>
+	  	  <pubDate>Wed, 10 Nov 2010 00:54:14 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Presentation abstract on the ASCILITE 2010 site new link on &quot;Everything I need to know I learnt from World of Warcraft&quot;: why we might need to start asking better questions about games, simulations and virtual worlds added by Martin Oliver</title>
+	      <link>https://cloudworks.ac.uk/#link-4047</link>
+	      <guid>https://cloudworks.ac.uk/#link-4047</guid>
+	      <description><![CDATA[<strong>Presentation abstract on the ASCILITE 2010 site </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/4622">"Everything I need to know I learnt from World of Warcraft": why we might need to start asking better questions about games, simulations and virtual worlds</a> added by <a href="https://cloudworks.ac.uk/user/view/626" rel="author">Martin Oliver</a></em>]]></description>
+	  	  <pubDate>Sat, 25 Sep 2010 14:04:32 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;This cloud has been set up to allow people to comment on the abstract, ask questions and so on....new comment on the cloud &quot;Everything I need to know I learnt from World of Warcraft&quot;: why we might need to start asking better questions about games, simulations and virtual worlds by Martin Oliver</title>
+	      <link>https://cloudworks.ac.uk/#comment-4565</link>
+	      <guid>https://cloudworks.ac.uk/#comment-4565</guid>
+	      <description><![CDATA[<strong>"This cloud has been set up to allow people to comment on the abstract, ask questions and so on....</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/4622">"Everything I need to know I learnt from World of Warcraft": why we might need to start asking better questions about games, simulations and virtual worlds</a> by <a href="https://cloudworks.ac.uk/user/view/626" rel="author">Martin Oliver</a></em>]]></description>
+	  	  <pubDate>Sat, 25 Sep 2010 14:02:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+	    </channel>
+</rss>

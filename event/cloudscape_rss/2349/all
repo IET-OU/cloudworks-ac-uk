@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Cloudstream for ASLD 2011 &#45; London Knowledge Lab, 13&#45;14 October</title>
+    <link>https://cloudworks.ac.uk/</link>
+	<description>Cloudstream for ASLD 2011 &#45; London Knowledge Lab, 13&#45;14 October</description>
+	<dc:language>en</dc:language>
+	<dc:creator>cloudworks@open.ac.uk</dc:creator>
+	<dc:rights>Copyright 2019 </dc:rights>
+	<admin:generatorAgent>
+    <atom:link href="https://cloudworks.ac.uk/event/cloudscape_rss/2349" rel="self" type="application/rss+xml" />
+    		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-12630</link>
+	      <guid>https://cloudworks.ac.uk/#comment-12630</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Thu, 19 Apr 2018 10:15:45 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-12312</link>
+	      <guid>https://cloudworks.ac.uk/#comment-12312</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Fri, 02 Feb 2018 05:14:44 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-11996</link>
+	      <guid>https://cloudworks.ac.uk/#comment-11996</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Wed, 01 Nov 2017 05:04:52 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-11827</link>
+	      <guid>https://cloudworks.ac.uk/#comment-11827</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Mon, 16 Oct 2017 05:45:31 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-10369</link>
+	      <guid>https://cloudworks.ac.uk/#comment-10369</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Thu, 20 Aug 2015 08:18:23 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Alice, it may be that this tool has been de-comissioned. It was inspected quite some time...new comment on the cloud Tool: the Learning Design Tool by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#comment-8098</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8098</guid>
+	      <description><![CDATA[<strong>"Hi Alice, it may be that this tool has been de-comissioned. It was inspected quite some time...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5059">Tool: the Learning Design Tool</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Tue, 29 Jan 2013 11:34:21 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Yishay, 
+Chris and I both have tried this tool, but when we try to get registered, we were...new comment on the cloud Tool: the Learning Design Tool by Alice （Xin） Huang</title>
+	      <link>https://cloudworks.ac.uk/#comment-8073</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8073</guid>
+	      <description><![CDATA[<strong>"Hi Yishay,&nbsp;
+Chris and I both have tried this tool, but when we try to get registered, we were...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5059">Tool: the Learning Design Tool</a> by <a href="https://cloudworks.ac.uk/user/view/5833" rel="author">Alice （Xin） Huang</a></em>]]></description>
+	  	  <pubDate>Tue, 29 Jan 2013 07:10:06 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Valerie,
+I&#39;ve added Collins et al at the top of the referneces, I hope that will have the data...new comment on the cloud the Learning Design Challenge by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#comment-5861</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5861</guid>
+	      <description><![CDATA[<strong>"Hi Valerie,
+I've added Collins et al at the top of the referneces, I hope that will have the data...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5862">the Learning Design Challenge</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Tue, 22 Nov 2011 15:11:45 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I&#39;m trying to use ScenEdit tool to formalize the nQuire learning design on microclimates. Using the...new comment on the cloud the Learning Design Challenge by Valerie Emin</title>
+	      <link>https://cloudworks.ac.uk/#comment-5860</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5860</guid>
+	      <description><![CDATA[<strong>"I'm trying to use ScenEdit tool to formalize the nQuire learning design on microclimates. Using the...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5862">the Learning Design Challenge</a> by <a href="https://cloudworks.ac.uk/user/view/4511" rel="author">Valerie Emin</a></em>]]></description>
+	  	  <pubDate>Tue, 22 Nov 2011 14:24:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;ignore this...new comment on the cloud the Learning Design Challenge by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#comment-5816</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5816</guid>
+	      <description><![CDATA[<strong>"ignore this...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5862">the Learning Design Challenge</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Mon, 31 Oct 2011 21:24:53 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Note: 
+This &quot;game&quot; bears some similarity to the &quot;Competitive Challenge on Adapting Activities...new comment on the cloud the Learning Design Challenge by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#comment-5815</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5815</guid>
+	      <description><![CDATA[<strong>"Note:&nbsp;
+This "game" bears some similarity to the "Competitive Challenge on Adapting Activities...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5862">the Learning Design Challenge</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Mon, 31 Oct 2011 21:24:45 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>CADMOS ppt-slidesnew embedded content added to the cloud Mary Katsamani and Symeon Retalis: CADMOS Learning Design tool by Simos Retalis</title>
+	      <link>https://cloudworks.ac.uk/#embed-1675</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1675</guid>
+	      <description><![CDATA[<strong>CADMOS ppt-slides</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5789">Mary Katsamani and Symeon Retalis: CADMOS Learning Design tool</a> by <a href="https://cloudworks.ac.uk/user/view/2349" rel="author">Simos Retalis</a></em>]]></description>
+	  	  <pubDate>Mon, 31 Oct 2011 06:37:36 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>The Learning Designer - User Guidenew embedded content added to the cloud  Diana Laurillard and Liz Masterman: Re-envisioning Pedagogic Planning: the Learning Designer by Dejan Ljubojevic</title>
+	      <link>https://cloudworks.ac.uk/#embed-1674</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1674</guid>
+	      <description><![CDATA[<strong>The Learning Designer - User Guide</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5814"> Diana Laurillard and Liz Masterman: Re-envisioning Pedagogic Planning: the Learning Designer</a> by <a href="https://cloudworks.ac.uk/user/view/2888" rel="author">Dejan Ljubojevic</a></em>]]></description>
+	  	  <pubDate>Sat, 29 Oct 2011 14:47:31 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>&quot;Lots of relevant stuff on the Learning Design Toolbox...new comment on the cloud resources, links and sundry by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#comment-5801</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5801</guid>
+	      <description><![CDATA[<strong>"Lots of relevant stuff on the Learning Design Toolbox...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5854">resources, links and sundry</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Mon, 24 Oct 2011 14:35:21 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Tool: ReCoursecloud added to the cloudscape ASLD 2011 - London Knowledge Lab, 13-14 October by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/5060">Tool: ReCourse</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2349">ASLD 2011 - London Knowledge Lab, 13-14 October</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Mon, 24 Oct 2011 09:21:46 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Tool: ReLoadcloud added to the cloudscape ASLD 2011 - London Knowledge Lab, 13-14 October by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/5616">Tool: ReLoad</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2349">ASLD 2011 - London Knowledge Lab, 13-14 October</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Mon, 24 Oct 2011 09:21:24 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Tool: the Learning Design Toolcloud added to the cloudscape ASLD 2011 - London Knowledge Lab, 13-14 October by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/5059">Tool: the Learning Design Tool</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2349">ASLD 2011 - London Knowledge Lab, 13-14 October</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Mon, 24 Oct 2011 09:21:03 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Tool: Design principles databasecloud added to the cloudscape ASLD 2011 - London Knowledge Lab, 13-14 October by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/1875">Tool: Design principles database</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2349">ASLD 2011 - London Knowledge Lab, 13-14 October</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Mon, 24 Oct 2011 09:16:00 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud Session 1: Practices &amp; Methods (Yannis Dimitriadis) by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#embed-1668</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1668</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5790">Session 1: Practices & Methods (Yannis Dimitriadis)</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Sun, 23 Oct 2011 00:16:33 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud the Participatory Pattern Workshops Methodology by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#embed-1667</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1667</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5874">the Participatory Pattern Workshops Methodology</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Fri, 21 Oct 2011 14:59:03 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud the Participatory Pattern Workshops Methodology by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#embed-1666</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1666</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5874">the Participatory Pattern Workshops Methodology</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Fri, 21 Oct 2011 14:56:01 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>the Participatory Pattern Workshops Methodologycloud added to the cloudscape ASLD 2011 - London Knowledge Lab, 13-14 October by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/5874">the Participatory Pattern Workshops Methodology</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2349">ASLD 2011 - London Knowledge Lab, 13-14 October</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Fri, 21 Oct 2011 12:54:03 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;I&#39;ve used the e-Design Template to show the nQuire learning design. The template can be seen in the...new comment on the cloud the Learning Design Challenge by Helen Walmsley-Smith</title>
+	      <link>https://cloudworks.ac.uk/#comment-5793</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5793</guid>
+	      <description><![CDATA[<strong>"I've used the e-Design Template to show the nQuire learning design. The template can be seen in the...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5862">the Learning Design Challenge</a> by <a href="https://cloudworks.ac.uk/user/view/1498" rel="author">Helen Walmsley-Smith</a></em>]]></description>
+	  	  <pubDate>Tue, 18 Oct 2011 11:53:04 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Using the e-Design Template for the nQuire learning designcloud added to the cloudscape ASLD 2011 - London Knowledge Lab, 13-14 October by Helen Walmsley-Smith</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/5863">Using the e-Design Template for the nQuire learning design</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2349">ASLD 2011 - London Knowledge Lab, 13-14 October</a> by <a href="https://cloudworks.ac.uk/user/view/1498" rel="author">Helen Walmsley-Smith</a></em>]]></description>
+	  	  <pubDate>Tue, 18 Oct 2011 11:50:13 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud Using the e-Design Template for the nQuire learning design by Helen Walmsley-Smith</title>
+	      <link>https://cloudworks.ac.uk/#embed-1661</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1661</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5863">Using the e-Design Template for the nQuire learning design</a> by <a href="https://cloudworks.ac.uk/user/view/1498" rel="author">Helen Walmsley-Smith</a></em>]]></description>
+	  	  <pubDate>Tue, 18 Oct 2011 11:49:39 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>&quot;thanks Helen -
+I posted the &quot;post ASLD learning design...new comment on the cloud Session 4: Plenary discussion: outputs, reflections, and ways forward by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#comment-5792</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5792</guid>
+	      <description><![CDATA[<strong>"thanks Helen -
+I posted the "post ASLD learning design...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5842">Session 4: Plenary discussion: outputs, reflections, and ways forward</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Tue, 18 Oct 2011 11:18:42 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud the Learning Design Challenge by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#embed-1660</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1660</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5862">the Learning Design Challenge</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Tue, 18 Oct 2011 11:11:18 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>the Learning Design Challengecloud added to the cloudscape ASLD 2011 - London Knowledge Lab, 13-14 October by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/5862">the Learning Design Challenge</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2349">ASLD 2011 - London Knowledge Lab, 13-14 October</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Tue, 18 Oct 2011 11:08:16 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;I&#39;ve moved this comment to the cloud I created for the challenge.
+ ...new comment on the cloud Session 4: Plenary discussion: outputs, reflections, and ways forward by Helen Walmsley-Smith</title>
+	      <link>https://cloudworks.ac.uk/#comment-5791</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5791</guid>
+	      <description><![CDATA[<strong>"I've moved this comment to the cloud I created for the challenge.
+&nbsp;...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5842">Session 4: Plenary discussion: outputs, reflections, and ways forward</a> by <a href="https://cloudworks.ac.uk/user/view/1498" rel="author">Helen Walmsley-Smith</a></em>]]></description>
+	  	  <pubDate>Tue, 18 Oct 2011 10:59:00 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>WebInstanceCollage, a pattern-based LD tool allowing particularization of groups and participantscloud added to the cloudscape ASLD 2011 - London Knowledge Lab, 13-14 October by Luis P. Prieto</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/5861">WebInstanceCollage, a pattern-based LD tool allowing particularization of groups and participants</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2349">ASLD 2011 - London Knowledge Lab, 13-14 October</a> by <a href="https://cloudworks.ac.uk/user/view/2343" rel="author">Luis P. Prieto</a></em>]]></description>
+	  	  <pubDate>Tue, 18 Oct 2011 10:27:46 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Demo video of WebCollage (WebInstanceCollage&#39;s old version)new embedded content added to the cloud WebInstanceCollage, a pattern-based LD tool allowing particularization of groups and participants by Luis P. Prieto</title>
+	      <link>https://cloudworks.ac.uk/#embed-1659</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1659</guid>
+	      <description><![CDATA[<strong>Demo video of WebCollage (WebInstanceCollage's old version)</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5861">WebInstanceCollage, a pattern-based LD tool allowing particularization of groups and participants</a> by <a href="https://cloudworks.ac.uk/user/view/2343" rel="author">Luis P. Prieto</a></em>]]></description>
+	  	  <pubDate>Tue, 18 Oct 2011 10:23:34 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Video of WebInstanceCollage+GLUE!-PS for going from design to implementation in Moodlenew embedded content added to the cloud WebInstanceCollage, a pattern-based LD tool allowing particularization of groups and participants by Luis P. Prieto</title>
+	      <link>https://cloudworks.ac.uk/#embed-1658</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1658</guid>
+	      <description><![CDATA[<strong>Video of WebInstanceCollage+GLUE!-PS for going from design to implementation in Moodle</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5861">WebInstanceCollage, a pattern-based LD tool allowing particularization of groups and participants</a> by <a href="https://cloudworks.ac.uk/user/view/2343" rel="author">Luis P. Prieto</a></em>]]></description>
+	  	  <pubDate>Tue, 18 Oct 2011 10:18:23 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>&quot;Learning Design for Mass Production of Content
+Time To Know (T2K) offers a holistic solution...new comment on the cloud Session 1: Practices &amp; Methods (Yannis Dimitriadis) by Adi Kidron</title>
+	      <link>https://cloudworks.ac.uk/#comment-5790</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5790</guid>
+	      <description><![CDATA[<strong>"Learning Design for Mass Production of Content
+Time To Know&nbsp;(T2K) offers a holistic solution...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5790">Session 1: Practices & Methods (Yannis Dimitriadis)</a> by <a href="https://cloudworks.ac.uk/user/view/4507" rel="author">Adi Kidron</a></em>]]></description>
+	  	  <pubDate>Mon, 17 Oct 2011 13:52:36 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Learning Design for Mass Production of Content
+Time To Know (T2K) offers a holistic solution...new comment on the cloud Session 1: Tools and Resources (Mike Sharples) by Adi Kidron</title>
+	      <link>https://cloudworks.ac.uk/#comment-5789</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5789</guid>
+	      <description><![CDATA[<strong>"Learning Design for Mass Production of Content
+Time To Know&nbsp;(T2K) offers a holistic solution...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5793">Session 1: Tools and Resources (Mike Sharples)</a> by <a href="https://cloudworks.ac.uk/user/view/4507" rel="author">Adi Kidron</a></em>]]></description>
+	  	  <pubDate>Mon, 17 Oct 2011 13:50:57 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud Session 1: Practices &amp; Methods (Yannis Dimitriadis) by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#embed-1657</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1657</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5790">Session 1: Practices & Methods (Yannis Dimitriadis)</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Mon, 17 Oct 2011 11:06:05 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Time To Know - Learning Design for Mass Production of Contentcloud added to the cloudscape ASLD 2011 - London Knowledge Lab, 13-14 October by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/5859">Time To Know - Learning Design for Mass Production of Content</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2349">ASLD 2011 - London Knowledge Lab, 13-14 October</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Mon, 17 Oct 2011 11:05:07 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Time To Know website new link on Time To Know - Learning Design for Mass Production of Content added by Adi Kidron</title>
+	      <link>https://cloudworks.ac.uk/#link-4644</link>
+	      <guid>https://cloudworks.ac.uk/#link-4644</guid>
+	      <description><![CDATA[<strong>Time To Know website </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/5859">Time To Know - Learning Design for Mass Production of Content</a> added by <a href="https://cloudworks.ac.uk/user/view/4507" rel="author">Adi Kidron</a></em>]]></description>
+	  	  <pubDate>Mon, 17 Oct 2011 06:31:57 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud Time To Know - Learning Design for Mass Production of Content by Adi Kidron</title>
+	      <link>https://cloudworks.ac.uk/#embed-1656</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1656</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5859">Time To Know - Learning Design for Mass Production of Content</a> by <a href="https://cloudworks.ac.uk/user/view/4507" rel="author">Adi Kidron</a></em>]]></description>
+	  	  <pubDate>Mon, 17 Oct 2011 06:30:40 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud Time To Know - Learning Design for Mass Production of Content by Adi Kidron</title>
+	      <link>https://cloudworks.ac.uk/#embed-1655</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1655</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5859">Time To Know - Learning Design for Mass Production of Content</a> by <a href="https://cloudworks.ac.uk/user/view/4507" rel="author">Adi Kidron</a></em>]]></description>
+	  	  <pubDate>Mon, 17 Oct 2011 06:30:02 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud Dan Kohen-Vacs, Miky Ronen and Ronen Hammer: Designing, Enacting &amp; Sharing Collaborative Online Activities with CeLS by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#embed-1654</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1654</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5805">Dan Kohen-Vacs, Miky Ronen and Ronen Hammer: Designing, Enacting & Sharing Collaborative Online Activities with CeLS</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Sun, 16 Oct 2011 07:07:54 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud Valerie Emin and  Jean-Philippe Pernin:  ScenEdit: an intention-oriented learning design authoring tool by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#embed-1653</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1653</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5809">Valerie Emin and  Jean-Philippe Pernin:  ScenEdit: an intention-oriented learning design authoring tool</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Sun, 16 Oct 2011 07:05:36 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud Valerie Emin and  Jean-Philippe Pernin:  ScenEdit: an intention-oriented learning design authoring tool by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#embed-1652</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1652</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5809">Valerie Emin and  Jean-Philippe Pernin:  ScenEdit: an intention-oriented learning design authoring tool</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Sun, 16 Oct 2011 07:05:16 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud Valerie Emin and  Jean-Philippe Pernin:  ScenEdit: an intention-oriented learning design authoring tool by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#embed-1651</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1651</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5809">Valerie Emin and  Jean-Philippe Pernin:  ScenEdit: an intention-oriented learning design authoring tool</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Sun, 16 Oct 2011 07:04:56 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud Valerie Emin and  Jean-Philippe Pernin:  ScenEdit: an intention-oriented learning design authoring tool by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#embed-1650</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1650</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5809">Valerie Emin and  Jean-Philippe Pernin:  ScenEdit: an intention-oriented learning design authoring tool</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Sun, 16 Oct 2011 07:04:02 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud Mary Katsamani and Symeon Retalis: CADMOS Learning Design tool by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#embed-1649</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1649</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5789">Mary Katsamani and Symeon Retalis: CADMOS Learning Design tool</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Sun, 16 Oct 2011 07:02:26 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud Mary Katsamani and Symeon Retalis: CADMOS Learning Design tool by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#embed-1648</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1648</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5789">Mary Katsamani and Symeon Retalis: CADMOS Learning Design tool</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Sun, 16 Oct 2011 07:02:07 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud  Dejan Ljubojevic and Diana Laurillard: Pedagogical Pattern Collector software tool by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#embed-1647</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1647</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5815"> Dejan Ljubojevic and Diana Laurillard: Pedagogical Pattern Collector software tool</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Sun, 16 Oct 2011 07:00:50 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud  Dejan Ljubojevic and Diana Laurillard: Pedagogical Pattern Collector software tool by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#embed-1646</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1646</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5815"> Dejan Ljubojevic and Diana Laurillard: Pedagogical Pattern Collector software tool</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Sun, 16 Oct 2011 07:00:27 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud  Dejan Ljubojevic and Diana Laurillard: Pedagogical Pattern Collector software tool by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#embed-1645</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1645</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5815"> Dejan Ljubojevic and Diana Laurillard: Pedagogical Pattern Collector software tool</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Sun, 16 Oct 2011 07:00:05 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud Andrew Brasher, Simon Cross and Rebecca Galley: CompendiumLD by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#embed-1644</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1644</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5813">Andrew Brasher, Simon Cross and Rebecca Galley: CompendiumLD</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Sun, 16 Oct 2011 06:58:38 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud Andrew Brasher, Simon Cross and Rebecca Galley: CompendiumLD by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#embed-1643</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1643</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5813">Andrew Brasher, Simon Cross and Rebecca Galley: CompendiumLD</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Sun, 16 Oct 2011 06:57:58 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud Session 1: Theoretical Frameworks and Representations (Gráinne Conole) by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#embed-1642</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1642</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5792">Session 1: Theoretical Frameworks and Representations (Gráinne Conole)</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Sun, 16 Oct 2011 00:09:34 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud Session 1: Tools and Resources (Mike Sharples) by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#embed-1641</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1641</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5793">Session 1: Tools and Resources (Mike Sharples)</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Sat, 15 Oct 2011 23:23:18 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud Mary Katsamani and Symeon Retalis: CADMOS Learning Design tool by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#embed-1640</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1640</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5789">Mary Katsamani and Symeon Retalis: CADMOS Learning Design tool</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Sat, 15 Oct 2011 22:48:05 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>the Design Principles Database (DPD)cloud added to the cloudscape ASLD 2011 - London Knowledge Lab, 13-14 October by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/5858">the Design Principles Database (DPD)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2349">ASLD 2011 - London Knowledge Lab, 13-14 October</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Sat, 15 Oct 2011 22:01:53 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;I dont have experience with this site and I am not sure what the quality-control (if any) of the...new comment on the cloud resources, links and sundry by Gemma Corbalan</title>
+	      <link>https://cloudworks.ac.uk/#comment-5788</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5788</guid>
+	      <description><![CDATA[<strong>"I dont have experience with this site and I am not sure what the quality-control (if any) of the...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5854">resources, links and sundry</a> by <a href="https://cloudworks.ac.uk/user/view/4529" rel="author">Gemma Corbalan</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 17:39:16 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I never know if I should use &quot;extra content&quot; or &quot;discussion&quot;...
+Although not presented in the...new comment on the cloud LD software by Luis P. Prieto</title>
+	      <link>https://cloudworks.ac.uk/#comment-5787</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5787</guid>
+	      <description><![CDATA[<strong>"I never know if I should use "extra content" or "discussion"...
+Although not presented in the...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5791">LD software</a> by <a href="https://cloudworks.ac.uk/user/view/2343" rel="author">Luis P. Prieto</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 14:21:59 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;A bit of a shameless plug, but...
+One step towards the &quot;sexy pack&quot; for practitioners that Yannis...new comment on the cloud Session 4: Plenary discussion: outputs, reflections, and ways forward by Luis P. Prieto</title>
+	      <link>https://cloudworks.ac.uk/#comment-5786</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5786</guid>
+	      <description><![CDATA[<strong>"A bit of a shameless plug, but...
+One step towards the "sexy pack" for practitioners that Yannis...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5842">Session 4: Plenary discussion: outputs, reflections, and ways forward</a> by <a href="https://cloudworks.ac.uk/user/view/2343" rel="author">Luis P. Prieto</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 14:19:23 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;This is really interesting work and i think that &#39;the masses&#39; are getting ready to see stuff like...new comment on the cloud Dan Kohen-Vacs, Miky Ronen and Ronen Hammer: Designing, Enacting &amp; Sharing Collaborative Online Activities with CeLS by Susan McKenney</title>
+	      <link>https://cloudworks.ac.uk/#comment-5785</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5785</guid>
+	      <description><![CDATA[<strong>"This is really interesting work and i think that 'the masses' are getting ready to see stuff like...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5805">Dan Kohen-Vacs, Miky Ronen and Ronen Hammer: Designing, Enacting & Sharing Collaborative Online Activities with CeLS</a> by <a href="https://cloudworks.ac.uk/user/view/4534" rel="author">Susan McKenney</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 12:06:52 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;We all need more time.for playing with these ideas and each others&#39; design tools
+We all need to...new comment on the cloud LD software by Diana Laurilllard</title>
+	      <link>https://cloudworks.ac.uk/#comment-5784</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5784</guid>
+	      <description><![CDATA[<strong>"We all need more time.for playing with these ideas and each others' design tools
+We all need to...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5791">LD software</a> by <a href="https://cloudworks.ac.uk/user/view/1098" rel="author">Diana Laurilllard</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 12:05:04 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Plenary discussion
+ 
+The final audience need time to explore, experiment. The communication...new comment on the cloud Session 4: Plenary discussion: outputs, reflections, and ways forward by Begoña Gros</title>
+	      <link>https://cloudworks.ac.uk/#comment-5783</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5783</guid>
+	      <description><![CDATA[<strong>"Plenary discussion
+&nbsp;
+The final audience need time to explore, experiment. The communication...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5842">Session 4: Plenary discussion: outputs, reflections, and ways forward</a> by <a href="https://cloudworks.ac.uk/user/view/4495" rel="author">Begoña Gros</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 10:59:37 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Notes on the Plenary (ctd)
+We are trying to see teachers as collaborative learners, and through our...new comment on the cloud LD software by Diana Laurilllard</title>
+	      <link>https://cloudworks.ac.uk/#comment-5782</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5782</guid>
+	      <description><![CDATA[<strong>"Notes on the Plenary (ctd)
+We are trying to see teachers as collaborative learners, and through our...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5791">LD software</a> by <a href="https://cloudworks.ac.uk/user/view/1098" rel="author">Diana Laurilllard</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 10:59:09 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Notes on the Plenary (Diana)
+Promulgating learning design tools
+We need the time to understand...new comment on the cloud LD software by Diana Laurilllard</title>
+	      <link>https://cloudworks.ac.uk/#comment-5781</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5781</guid>
+	      <description><![CDATA[<strong>"Notes on the Plenary (Diana)
+Promulgating learning design tools
+We need the time to understand...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5791">LD software</a> by <a href="https://cloudworks.ac.uk/user/view/1098" rel="author">Diana Laurilllard</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 10:57:35 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>A few Units of Learning (Levels A and B mostly) ready to be tested new link on Session 3: Learning Design Tools Bazaar added by Daniel Burgos</title>
+	      <link>https://cloudworks.ac.uk/#link-4643</link>
+	      <guid>https://cloudworks.ac.uk/#link-4643</guid>
+	      <description><![CDATA[<strong>A few Units of Learning (Levels A and B mostly) ready to be tested </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/5841">Session 3: Learning Design Tools Bazaar</a> added by <a href="https://cloudworks.ac.uk/user/view/4533" rel="author">Daniel Burgos</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 10:52:21 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;The application is based on the design of activities, it is very easy to use .  The most...new comment on the cloud Dan Kohen-Vacs, Miky Ronen and Ronen Hammer: Designing, Enacting &amp; Sharing Collaborative Online Activities with CeLS by Begoña Gros</title>
+	      <link>https://cloudworks.ac.uk/#comment-5780</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5780</guid>
+	      <description><![CDATA[<strong>"The application is based on the design of activities, it is very easy to use .&nbsp; The most...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5805">Dan Kohen-Vacs, Miky Ronen and Ronen Hammer: Designing, Enacting & Sharing Collaborative Online Activities with CeLS</a> by <a href="https://cloudworks.ac.uk/user/view/4495" rel="author">Begoña Gros</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 10:43:03 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;In spite of some key aspects on modelling and notation, the two long-lasting missing issues with...new comment on the cloud Session 3: Learning Design Tools Bazaar by Daniel Burgos</title>
+	      <link>https://cloudworks.ac.uk/#comment-5779</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5779</guid>
+	      <description><![CDATA[<strong>"In spite of some key aspects on modelling and notation, the two long-lasting missing issues with...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5841">Session 3: Learning Design Tools Bazaar</a> by <a href="https://cloudworks.ac.uk/user/view/4533" rel="author">Daniel Burgos</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 10:11:20 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;The application is based on the design of activities, it is very easy to use .  The most...new comment on the cloud Dan Kohen-Vacs, Miky Ronen and Ronen Hammer: Designing, Enacting &amp; Sharing Collaborative Online Activities with CeLS by Begoña Gros</title>
+	      <link>https://cloudworks.ac.uk/#comment-5778</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5778</guid>
+	      <description><![CDATA[<strong>"The application is based on the design of activities, it is very easy to use .&nbsp; The most...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5805">Dan Kohen-Vacs, Miky Ronen and Ronen Hammer: Designing, Enacting & Sharing Collaborative Online Activities with CeLS</a> by <a href="https://cloudworks.ac.uk/user/view/4495" rel="author">Begoña Gros</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 10:10:26 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;high expectations -&gt; small outcome &amp; support from IMS and other key actors -&gt; increasing...new comment on the cloud Daniel Burgos: IMS Learning Design next move: extensions and improvements on personalisa-tion and interoperability by Daniel Burgos</title>
+	      <link>https://cloudworks.ac.uk/#comment-5777</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5777</guid>
+	      <description><![CDATA[<strong>"high expectations -&gt; small outcome &amp; support from IMS and other key actors -&gt; increasing...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5808">Daniel Burgos: IMS Learning Design next move: extensions and improvements on personalisa-tion and interoperability</a> by <a href="https://cloudworks.ac.uk/user/view/4533" rel="author">Daniel Burgos</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 10:05:28 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;high expectations -&gt; small outcome &amp; support from IMS and other key actors -&gt; increasing...new comment on the cloud Daniel Burgos: IMS Learning Design next move: extensions and improvements on personalisa-tion and interoperability by Daniel Burgos</title>
+	      <link>https://cloudworks.ac.uk/#comment-5777</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5777</guid>
+	      <description><![CDATA[<strong>"high expectations -&gt; small outcome &amp; support from IMS and other key actors -&gt; increasing...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5808">Daniel Burgos: IMS Learning Design next move: extensions and improvements on personalisa-tion and interoperability</a> by <a href="https://cloudworks.ac.uk/user/view/4533" rel="author">Daniel Burgos</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 10:05:28 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I also tried to use compendium LD to represent a LD I have used last year with my students. It was...new comment on the cloud Andrew Brasher, Simon Cross and Rebecca Galley: CompendiumLD by Donatella Persico</title>
+	      <link>https://cloudworks.ac.uk/#comment-5776</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5776</guid>
+	      <description><![CDATA[<strong>"I also tried to use compendium LD to represent a LD I have used last year with my students. It was...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5813">Andrew Brasher, Simon Cross and Rebecca Galley: CompendiumLD</a> by <a href="https://cloudworks.ac.uk/user/view/4498" rel="author">Donatella Persico</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 09:51:32 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;i was trying to implement my LD for a specific lesson as part of the instruction of a topic in...new comment on the cloud Valerie Emin and  Jean-Philippe Pernin:  ScenEdit: an intention-oriented learning design authoring tool by Adi Kidron</title>
+	      <link>https://cloudworks.ac.uk/#comment-5775</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5775</guid>
+	      <description><![CDATA[<strong>"i was trying to implement my LD for a specific lesson as part of the instruction of a topic in...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5809">Valerie Emin and  Jean-Philippe Pernin:  ScenEdit: an intention-oriented learning design authoring tool</a> by <a href="https://cloudworks.ac.uk/user/view/4507" rel="author">Adi Kidron</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 09:49:52 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;i was trying to implement my LD for a specific lesson as part of the instruction of a topic in...new comment on the cloud Valerie Emin and  Jean-Philippe Pernin:  ScenEdit: an intention-oriented learning design authoring tool by Adi Kidron</title>
+	      <link>https://cloudworks.ac.uk/#comment-5774</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5774</guid>
+	      <description><![CDATA[<strong>"i was trying to implement my LD for a specific lesson as part of the instruction of a topic in...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5809">Valerie Emin and  Jean-Philippe Pernin:  ScenEdit: an intention-oriented learning design authoring tool</a> by <a href="https://cloudworks.ac.uk/user/view/4507" rel="author">Adi Kidron</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 09:49:47 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Cadmos review by Yannis Dimitriadis new link on Mary Katsamani and Symeon Retalis: CADMOS Learning Design tool added by Yannis Dimitriadis</title>
+	      <link>https://cloudworks.ac.uk/#link-4642</link>
+	      <guid>https://cloudworks.ac.uk/#link-4642</guid>
+	      <description><![CDATA[<strong>Cadmos review by Yannis Dimitriadis </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/5789">Mary Katsamani and Symeon Retalis: CADMOS Learning Design tool</a> added by <a href="https://cloudworks.ac.uk/user/view/978" rel="author">Yannis Dimitriadis</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 09:46:28 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;This application support that teachers can create and make any activity that they need, good...new comment on the cloud Dan Kohen-Vacs, Miky Ronen and Ronen Hammer: Designing, Enacting &amp; Sharing Collaborative Online Activities with CeLS by Marta López</title>
+	      <link>https://cloudworks.ac.uk/#comment-5773</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5773</guid>
+	      <description><![CDATA[<strong>"This application support that teachers can create and make any activity that they need, good...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5805">Dan Kohen-Vacs, Miky Ronen and Ronen Hammer: Designing, Enacting & Sharing Collaborative Online Activities with CeLS</a> by <a href="https://cloudworks.ac.uk/user/view/4522" rel="author">Marta López</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 09:45:37 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;This application support that teachers can create and make any activity that they need, good...new comment on the cloud Dan Kohen-Vacs, Miky Ronen and Ronen Hammer: Designing, Enacting &amp; Sharing Collaborative Online Activities with CeLS by Marta López</title>
+	      <link>https://cloudworks.ac.uk/#comment-5772</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5772</guid>
+	      <description><![CDATA[<strong>"This application support that teachers can create and make any activity that they need, good...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5805">Dan Kohen-Vacs, Miky Ronen and Ronen Hammer: Designing, Enacting & Sharing Collaborative Online Activities with CeLS</a> by <a href="https://cloudworks.ac.uk/user/view/4522" rel="author">Marta López</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 09:45:28 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;The system has some really interesting perspectives for building activities for both individual and...new comment on the cloud Dan Kohen-Vacs, Miky Ronen and Ronen Hammer: Designing, Enacting &amp; Sharing Collaborative Online Activities with CeLS by Lillian Buus</title>
+	      <link>https://cloudworks.ac.uk/#comment-5771</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5771</guid>
+	      <description><![CDATA[<strong>"The system has some really interesting perspectives for building activities for both individual and...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5805">Dan Kohen-Vacs, Miky Ronen and Ronen Hammer: Designing, Enacting & Sharing Collaborative Online Activities with CeLS</a> by <a href="https://cloudworks.ac.uk/user/view/1238" rel="author">Lillian Buus</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 09:44:44 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I&#39;ve used the CADMOS editor successfully. I&#39;ve created a learning  design that I typically use in a...new comment on the cloud Session 3: Learning Design Tools Bazaar by Davinia HL</title>
+	      <link>https://cloudworks.ac.uk/#comment-5770</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5770</guid>
+	      <description><![CDATA[<strong>"I've used the CADMOS editor successfully. I've created a learning  design that I typically use in a...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5841">Session 3: Learning Design Tools Bazaar</a> by <a href="https://cloudworks.ac.uk/user/view/2978" rel="author">Davinia HL</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 09:44:24 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;(this is Francesca Pozzi writing, using Donatella&#39;s account)
+In my opinion, the most interesting...new comment on the cloud Valerie Emin and  Jean-Philippe Pernin:  ScenEdit: an intention-oriented learning design authoring tool by Donatella Persico</title>
+	      <link>https://cloudworks.ac.uk/#comment-5769</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5769</guid>
+	      <description><![CDATA[<strong>"(this is Francesca Pozzi writing, using Donatella's account)
+In my opinion, the most interesting...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5809">Valerie Emin and  Jean-Philippe Pernin:  ScenEdit: an intention-oriented learning design authoring tool</a> by <a href="https://cloudworks.ac.uk/user/view/4498" rel="author">Donatella Persico</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 09:43:29 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;The application is one of the few that supports: design, store, use, share, reuse, rework, remix of...new comment on the cloud Dan Kohen-Vacs, Miky Ronen and Ronen Hammer: Designing, Enacting &amp; Sharing Collaborative Online Activities with CeLS by Marcelo Fabián Maina</title>
+	      <link>https://cloudworks.ac.uk/#comment-5768</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5768</guid>
+	      <description><![CDATA[<strong>"The application is one of the few that supports: design, store, use, share, reuse, rework, remix of...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5805">Dan Kohen-Vacs, Miky Ronen and Ronen Hammer: Designing, Enacting & Sharing Collaborative Online Activities with CeLS</a> by <a href="https://cloudworks.ac.uk/user/view/4496" rel="author">Marcelo Fabián Maina</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 09:40:25 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;It is center on the design of learning activities. I like the practical approach and the...new comment on the cloud Dan Kohen-Vacs, Miky Ronen and Ronen Hammer: Designing, Enacting &amp; Sharing Collaborative Online Activities with CeLS by Begoña Gros</title>
+	      <link>https://cloudworks.ac.uk/#comment-5767</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5767</guid>
+	      <description><![CDATA[<strong>"It is center on the design of learning activities. I like the practical approach and the...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5805">Dan Kohen-Vacs, Miky Ronen and Ronen Hammer: Designing, Enacting & Sharing Collaborative Online Activities with CeLS</a> by <a href="https://cloudworks.ac.uk/user/view/4495" rel="author">Begoña Gros</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 09:37:18 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I tried to develop a &#39;back of an envelope&#39; basic learning design with Compendium. I&#39;ve seen this...new comment on the cloud Andrew Brasher, Simon Cross and Rebecca Galley: CompendiumLD by Helen Walmsley-Smith</title>
+	      <link>https://cloudworks.ac.uk/#comment-5766</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5766</guid>
+	      <description><![CDATA[<strong>"I tried to develop a 'back of an envelope' basic learning design with Compendium. I've seen this...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5813">Andrew Brasher, Simon Cross and Rebecca Galley: CompendiumLD</a> by <a href="https://cloudworks.ac.uk/user/view/1498" rel="author">Helen Walmsley-Smith</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 09:36:15 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Three pattern-based learning designs - Pyramidscloud added to the cloudscape ASLD 2011 - London Knowledge Lab, 13-14 October by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/5856">Three pattern-based learning designs - Pyramids</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2349">ASLD 2011 - London Knowledge Lab, 13-14 October</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 09:20:55 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;Well, we focused mostly on what we refer to as orchestration: how teachers design, how they manage...new comment on the cloud  Luis Pablo Prieto, Yannis Dimitriadis and Sara Villagrá-Sobrin: Representing learning design and classroom orchestration through atomic patterns by Luis P. Prieto</title>
+	      <link>https://cloudworks.ac.uk/#comment-5765</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5765</guid>
+	      <description><![CDATA[<strong>"Well, we focused mostly on what we refer to as orchestration: how teachers design, how they manage...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5811"> Luis Pablo Prieto, Yannis Dimitriadis and Sara Villagrá-Sobrin: Representing learning design and classroom orchestration through atomic patterns</a> by <a href="https://cloudworks.ac.uk/user/view/2343" rel="author">Luis P. Prieto</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 08:24:39 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;some more photos:
+https://plus.google.com/photos/102352099876644260792/albums/5663258471420290945...new comment on the cloud resources, links and sundry by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#comment-5764</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5764</guid>
+	      <description><![CDATA[<strong>"some more photos:
+https://plus.google.com/photos/102352099876644260792/albums/5663258471420290945...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5854">resources, links and sundry</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 08:19:23 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Three pattern-based learning designs - Pyramids new link on Learning Designs added by Luis P. Prieto</title>
+	      <link>https://cloudworks.ac.uk/#link-4641</link>
+	      <guid>https://cloudworks.ac.uk/#link-4641</guid>
+	      <description><![CDATA[<strong>Three pattern-based learning designs - Pyramids </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/5855">Learning Designs</a> added by <a href="https://cloudworks.ac.uk/user/view/2343" rel="author">Luis P. Prieto</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 08:06:07 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Green conclusionsnew embedded content added to the cloud Session 2: Integration, green group (Davinia Hernández-Leo) by Davinia HL</title>
+	      <link>https://cloudworks.ac.uk/#embed-1635</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1635</guid>
+	      <description><![CDATA[<strong>Green conclusions</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5838">Session 2: Integration, green group (Davinia Hernández-Leo)</a> by <a href="https://cloudworks.ac.uk/user/view/2978" rel="author">Davinia HL</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 06:53:48 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>green resultsnew embedded content added to the cloud Session 2: Integration, green group (Davinia Hernández-Leo) by Davinia HL</title>
+	      <link>https://cloudworks.ac.uk/#embed-1634</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1634</guid>
+	      <description><![CDATA[<strong>green results</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5838">Session 2: Integration, green group (Davinia Hernández-Leo)</a> by <a href="https://cloudworks.ac.uk/user/view/2978" rel="author">Davinia HL</a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 06:53:36 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Learning Designscloud added to the cloudscape ASLD 2011 - London Knowledge Lab, 13-14 October by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/5855">Learning Designs</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2349">ASLD 2011 - London Knowledge Lab, 13-14 October</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 00:21:19 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;youtube channel:
+http://www.youtube.com/playlist?list=PL056A03F145CF27E3...new comment on the cloud resources, links and sundry by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#comment-5763</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5763</guid>
+	      <description><![CDATA[<strong>"youtube channel:
+http://www.youtube.com/playlist?list=PL056A03F145CF27E3...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5854">resources, links and sundry</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 00:19:36 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;flickr group:
+http://www.flickr.com/groups/1803850@N23/...new comment on the cloud resources, links and sundry by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#comment-5762</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5762</guid>
+	      <description><![CDATA[<strong>"flickr group:
+http://www.flickr.com/groups/1803850@N23/...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5854">resources, links and sundry</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 00:19:05 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>resources, links and sundrycloud added to the cloudscape ASLD 2011 - London Knowledge Lab, 13-14 October by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/5854">resources, links and sundry</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2349">ASLD 2011 - London Knowledge Lab, 13-14 October</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Fri, 14 Oct 2011 00:17:52 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud Session 1: Theoretical Frameworks and Representations (Gráinne Conole) by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#embed-1638</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1638</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5792">Session 1: Theoretical Frameworks and Representations (Gráinne Conole)</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Thu, 13 Oct 2011 18:19:07 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud Session 1: Practices &amp; Methods (Yannis Dimitriadis) by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#embed-1637</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1637</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5790">Session 1: Practices & Methods (Yannis Dimitriadis)</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Thu, 13 Oct 2011 18:18:29 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud Session 1: Tools and Resources (Mike Sharples) by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#embed-1636</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1636</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5793">Session 1: Tools and Resources (Mike Sharples)</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Thu, 13 Oct 2011 18:17:19 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Grand challenges of learning design new link on Session 2: Integration, yellow group (Yael Kali) added by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#link-4640</link>
+	      <guid>https://cloudworks.ac.uk/#link-4640</guid>
+	      <description><![CDATA[<strong>Grand challenges of learning design </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/5839">Session 2: Integration, yellow group (Yael Kali)</a> added by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Thu, 13 Oct 2011 16:05:07 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud Session 1: Theoretical Frameworks and Representations (Gráinne Conole) by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#embed-1633</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1633</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5792">Session 1: Theoretical Frameworks and Representations (Gráinne Conole)</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Thu, 13 Oct 2011 15:54:26 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud Session 1: Theoretical Frameworks and Representations (Gráinne Conole) by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#embed-1631</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1631</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5792">Session 1: Theoretical Frameworks and Representations (Gráinne Conole)</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Thu, 13 Oct 2011 15:38:43 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>General Photoscloud added to the cloudscape ASLD 2011 - London Knowledge Lab, 13-14 October by Brock Craft</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/5848">General Photos</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2349">ASLD 2011 - London Knowledge Lab, 13-14 October</a> by <a href="https://cloudworks.ac.uk/user/view/4490" rel="author">Brock Craft</a></em>]]></description>
+	  	  <pubDate>Thu, 13 Oct 2011 15:32:43 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>another trial to link to map (in mindmeister)new embedded content added to the cloud Session 1: Practices &amp; Methods (Yannis Dimitriadis) by Yael Kali</title>
+	      <link>https://cloudworks.ac.uk/#embed-1630</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1630</guid>
+	      <description><![CDATA[<strong>another trial to link to map (in mindmeister)</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5790">Session 1: Practices & Methods (Yannis Dimitriadis)</a> by <a href="https://cloudworks.ac.uk/user/view/991" rel="author">Yael Kali</a></em>]]></description>
+	  	  <pubDate>Thu, 13 Oct 2011 15:13:14 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>our presentationnew embedded content added to the cloud Session 1: Practices &amp; Methods (Yannis Dimitriadis) by Yael Kali</title>
+	      <link>https://cloudworks.ac.uk/#embed-1629</link>
+	      <guid>https://cloudworks.ac.uk/#embed-1629</guid>
+	      <description><![CDATA[<strong>our presentation</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5790">Session 1: Practices & Methods (Yannis Dimitriadis)</a> by <a href="https://cloudworks.ac.uk/user/view/991" rel="author">Yael Kali</a></em>]]></description>
+	  	  <pubDate>Thu, 13 Oct 2011 15:10:42 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+	    </channel>
+</rss>

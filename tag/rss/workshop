@@ -1,0 +1,2417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: workshop</title>
+        <link>https://cloudworks.ac.uk/tag/rss/workshop</link>
+        <atom:link href="https://cloudworks.ac.uk/tag/rss/workshop" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds tagged workshop</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>DIY Multimedia Pedagogical Pattern Creator - OLDs MOOC WK4</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7975</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7975</guid>
+              <description><![CDATA[<p><strong>Producing 45 minutes of online multimedia activities</strong><br /><br /><strong>To What End:</strong> Teams of three working to create a series of short, simple set of e-tivities. <br /><br /><strong>By what Means:</strong> &nbsp;Introduction to the activity. Collaboration to achieve goal in resources-limited conditions. Reflection on team work, authoring the content, time management and perceived effectiveness of the resource. Day long workshop approach, 2 hours before lunch, 3 hours in the afternoon with ample room for breaks. Expect 15 participants. <br /><br /><strong>Total session time: 300 minutes. 5 Hours.</strong> <br /><br />9.30 am Registration<br />10.00 am Start<br />11.15 am Break<br />11.30 am restart<br />12.30 LUNCH<br />1.30 pm Afternoon Session 1<br />2.30 END<br />2.30 Afternoon Session 2<br />3.30 END<br />3.30Afternoon Session 3<br />4.30 END<br />5.00 Reflection<br /><br /><strong>TLA 1: Introduction to the activity time allotted =55 minutes</strong><br /><br />Instructor presents the session activity, including the objective to achieve, the materials available, the restrictions, and the rules of winning. The task is to create a 45 minute multi-media module using a variety of formats using only Xerte or Wordpress, an accessible power point like platform or a versatile blogging platform and tool. <br /><br />The winning team is decided by peers. (Read Watch Listen - &nbsp;25 minutes)<br /><br />Instructor breaks the whole class into small groups, asks students to introduce themselves to group members and to other groups, and to ask any questions about the activity. (Discuss - &nbsp;30 minutes)<br /><br /><strong>TLA 2: Collaboration to achieve goal in resources-limited conditions time allotted =180 minutes</strong><br /><br />Groups of students work together to complete the task; the instructor walks around the room to monitor the interactions and draft outputs, noting issues for the class discussion; gives 10-minute and 5-minute warnings. Each group makes their finished e-tivity available for the other groups to evaluate.<br /><br />Three iterations of 45 minutes each - with 15 minutes in the hour to break. (Produce - &nbsp;150 minutes)<br /><br />The &lsquo;smorgasbord&rsquo; of activities on the chosen platform might be between 6 to 9, though some of these would be very straight forward - read text, watch and take notes from video, comment on set of pictures or interpret a chart, while others might be more complex, for example creating a set of plausible and valuable multiple-choice questions that both in form and test the participant. Similarly scripting, shooting, editing and loading a short piece of video (aim for under 90 seconds) would take the full 45 minutes allocated. <br /><br />Instructor invites each group to decide on their own criterion for judging what other groups have produced, then to inspect all the others and award 1st 2nd and 3rd prize according to their criterion. (Collaborate - &nbsp;30 minutes)<br /><br /><strong>TLA 3: Reflection on team work time management, criteria formation time allotted =65 minutes</strong><br /><br />Instructor chairs a class discussion about the process, the criteria they have chosen, and prompts them to reflect on their experience of managing time. (Discuss - &nbsp;45 minutes)<br /><br />Instructor sums up some of the key issues for achieving a 45 minute multi-media module using a variety of formats, and the time-management principles that emerge; circulates copies to the class. (Read Watch Listen - &nbsp;20 minutes)<br /><br /><strong>Notes - Post session - Each student is given a similar task to work on independently within a specified time period.</strong><br /><strong id="internal-source-marker_0.33710866514593363"><br /></strong></p>]]></description>
+          <pubDate>Fri, 08 Feb 2013 10:51:18 +0000</pubDate>
+            </item>
+                    <item>
+              <title>&#39;Learning Design&#39; experience - OLD-MOOC 2013</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7796</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7796</guid>
+              <description><![CDATA[<p><strong>Every week I 'design' a programme of learning when I take, one after the other, four groups of swimmers at my local swimming club. </strong></p>
+<p>Some 12 years of doing this, training and CPD means that I no longer prepare a programme in advance, rather I know the stroke and skills we are covering each week and have in my armoury a set of activities. These build from warm-up over 5-8 minutes into a variety of drills tailored to fixing problems with a stroke. The pattern whole-part-whole is used - to swim the stroke, spot problems, then put in a series of drills and exercises, typically involving only the legs or only the arms - as in 'part'. There are then advance 'whole swim' drills and any number of complementary fun activities. Diving or racing typically ends the session.</p>
+<p>Often I draw on sets of images from 'The Swimming Drill Book' to show swimmers poolside what I want them to do - so a sequence of actions or a particular arm, body or leg position. Used in this way these sets of images can become like a set of cards that can be placed in whatever order I feel is appropriate as we go along.</p>
+<p>Planning a programme of work for a squad is akin to creating a curriculum that runs from September through to the competitions season that runs through the Spring and Summer.</p>
+<p><strong>Creating e-learning for corporate clients - compliance on health and safety, data protection, graduate induction and so on, might follow a remarkably similar pattern.</strong></p>
+<p>The 'warm up' is an introduction, ideally something to grab their attention. Headliners on the banking crisis, a news piece on a data protection scandal, a criminal banged up (CPS induction) or a young person (actor) having an asthma attack. Like the swimming session these modules typically run for an hour, so 12 modules at five minutes each isn't unusual. There will be introductions to themes and ideas, following by activities to check learning or integrating an activity with fact finding.</p>
+<p><strong>It isn't all online - learners might have to figure something out on paper and then return to the screen.</strong></p>
+<p>It may also be personalised, so going into the system to generate something like a holiday request as per the instructions in the learning activity. Whilst the swimmer is observed and various skills checked off, in the e-learning experience the ticks relate to an activity successfully completed. This is not always linear, sometimes it is more exploratory, or can be done out of sequence, but the goal is to get everything done and demonstrate knowledge. At some stages a follow up set of questions will be issues to keep the information fresh.</p>
+<p><strong>The outcome is primary - what are you trying to achieve.</strong></p>
+<p>It is either state bluntly or apparent from the activities that day.</p>
+<p><strong>GOAL </strong>- To ensure that all swimmers keep their hands in front of their shoulders when swimming competitive breaststroke.</p>
+<p><strong>GOAL</strong> - To ensure that all graduate lawyers starting with the CPS can visualise a file as a defendant/law breaker - a person on whom all kinds of institutions and other people impact as their case comes to trial.</p>
+<p>I have always used a communications industry brief to spec out the project and to help focus on the ideas that are required. On a single sheet of paper respond to the following:</p>
+<ul>
+<li>What is the problem?</li>
+<li>Who are you speaking to?</li>
+<li>What do you want to say?</li>
+<li>How do you want them to respond to this?</li>
+<li>What else do we need to know?</li>
+</ul>
+<p>In Swimming ideas come from formal courses, from colleagues, from resources online and books. You see something that works, so you give it a go. You show what appears to be an intractable problem with others and they offer a solution.</p>
+<p>In e-learning the ideas are developed in a lengthy workshop - the client(s) and several team members strip down the creative brief, draw on the knowledge of an experience L&amp;D manager at the client end, may include a subject matter expert, but certainly includes a learning designer and project manager. Flip charts and post-it notes are used.</p>
+<p>A number of creative problem solving or idea generating activities can also be used - moderating and leading techniques compiled, trialed and explained by VanGundy, for example.</p>
+<p><strong>Marker pens on large sheets of paper - typically on sheets of A1 Flipchart paper - sometimes these are taped together. </strong></p>
+<p>My personal preference is for wallpaper backing paper as the long strips mean that people around a table can all contribute. These sessions need to be carefully choreographed ... and at various points the outcomes stated, written down so that everyone can see and agreed.</p>
+<p>Once done the Learning Designer takes it all away and compresses it into a form that can be shared digitally - typically a PowerPoint, with the warning that this should not imply a strict linear expression of the learning. Other programmes can be used, usually something built by the agency or a licensed commercial product.</p>
+<p>Other learning experiences I have 'designed' - linear and interactive video to support facilitated learning, run to some 50. These followed a far less collaborative process of taking a brief, brainstorming ideas alone ... sometimes using an interactive tool called 'Ideafisher' then producing a synopsis, treatment and script. When other professionals come in to produce the learning the design stage is complete. For interactive learning the video is scripted as a number of components that are an integral part of the learning journey.</p>
+<p><strong>REFERENCE</strong></p>
+<p>Guzman, R (2007) The Swim Drills Book</p>
+<p>Herd, C., Bentley, J., Morrison, D., Earnshaw,M., Haines,B., Woodford,S., Hooper,M., Lancaster,G., Knox.S., Nebel,A., Doyle,A., Bishop.A. &nbsp;(2003) The Client Brief - A best practice guide to briefing communications agencies - Joint industry guidelines for young marketing professionals in working effectively with agencies. Copyright by ISBA and CAF, representing the IPA, MCCA and PRCA (last accessed 9 Jan 2013 <a href="http://www.apra.cz/data/dokumenty/PRCA-The_Client_Brief-Full_Guidelines.pdf">http://www.apra.cz/data/dokumenty/PRCA-The_Client_Brief-Full_Guidelines.pdf</a>)</p>
+<p>VanGundy, A.B. (1988) Techniques of Structured Problem Solving, 2<sup>nd</sup> ed., Van Norstrand Reinhold.</p>]]></description>
+          <pubDate>Thu, 24 Jan 2013 18:51:08 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Week Two Summary Contextualisation (Sue Watling DIY Multimedia)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7769</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7769</guid>
+              <description><![CDATA[<p>Less about DIY Multimedia and more reflections on the contextualisation of OLD</p>
+<p>Learning and isolation are poor partners. Focus on the learner context enhances the process of OLD through revealing motivations as well as potential barriers. Context can reveal attention hot spots e.g. ease of access to materials, availability of support, the loneliness of the long distance online learner, guidance on specific design criteria e.g. the variety of activities, collaboration with peers and tutors, interaction with content, formative and diagnostic assessment opportunities etc. Context assists the designer make appropriate choices, in particular providing mechanisms for customising learning to suit individual preference e.g. providing information in alternative formats. All this runs in parallel to theoretical approaches to LD for example constructive alignment (Biggs and Tang, 2011).</p>
+<p>Scenarios,&nbsp;<a href="http://www.interaction-design.org/encyclopedia/personas.html" target="_blank">Personas</a>&nbsp;and&nbsp;<a href="http://www.ld-grid.org/resources/representations-and-languages/force-map" target="_blank">Force Maps</a>&nbsp;are useful approaches to OLD. Context can be presented in textual formats but also displayed through mind mapping or diagrams where a visual approach can offer an effective overview of key issues. Constructing context encourages sharing practice; drawing on own experiences and incorporating those of colleagues to bring key issues together. Doing this online rather than round a table can in itself reveal areas of online learning design which need attention.</p>
+<p>For my own practice inclusion is a key concern. Without attention to access, the application of theory to practice becomes diluted. Effective OLD takes into account the diversity of ways people access learning resources and opportunities, this is particularly important where there are no face to face clues or opportunities for discussion. Identifying potential barriers to access and participation are key to retention and success.</p>
+<p>In the future I will be looking to building a collection of contrasting scenarios for future reference and experiment with alternative ways of presenting these e.g. diagrammatically.</p>
+<p>Biggs, J. and Tang, C. (2011)&nbsp;<em>Teaching for Quality Learning at University</em>. 4<sup>th</sup>&nbsp;ed. OUP</p>
+<p>Join the Google DIY Multimedia Group at&nbsp;<a href="https://groups.google.com/forum/?fromgroups=#!forum/olds-mooc-diy-multimedia " target="_blank">https://groups.google.com/forum/?fromgroups=#!forum/olds-mooc-diy-multimedia&nbsp;</a></p>]]></description>
+          <pubDate>Thu, 24 Jan 2013 10:22:12 +0000</pubDate>
+            </item>
+                    <item>
+              <title>the uses of narrative, the value of expertise and the authority of experience</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7681</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7681</guid>
+              <description><![CDATA[<p class="Body1">Bill Law<br /><a href="http://www.hihohiho.com" target="_blank">the career-learning caf&eacute;</a></p>
+<p class="Body1">This is about a day-long workshop, on three-scene storyboarding, for teachers and other careers workers, for their programme managers and for interested academics.&nbsp; In advance of the workshop participants can access two sources...&nbsp;</p>
+<p class="body1" style="text-align: center;" align="center"><a href="http://www.hihohiho.com/storyboarding/sbL4L.pdf">an illustrated account of underpinning thinking<br /></a><a href="http://www.hihohiho.com/storyboarding/sbstrybrd.ppt">an animated workshop presentation</a></p>
+<p class="Body1">The process starts with a question:</p>
+<ul>
+<li>what do you hope for from this?</li>
+</ul>
+<p class="Body1">That opening-up question becomes a continuing conversation.&nbsp; But, to start with, participants are introduced to the process of creating a storyboard.&nbsp; They are asked to recall a turning-point episode in their own life, or of some other person with whom they can empathise.&nbsp; In work-table groups of 4-5, they compare that storyboarding experience.&nbsp; They can then revise their storyboard, or abandon it and start again.&nbsp; In forming and re-forming groups for this work they are encouraged to work with people they have not met before today.&nbsp;</p>
+<p class="Body1">Throughout the day they are asked variants of four questions...</p>
+<ul>
+<li>what do you now hope for from this workshop?</li>
+<li>what question do you have on how to work with storyboarding?</li>
+<li>what reservations do you have about it?</li>
+<li>what potential can you find, or not find, in it?</li>
+</ul>
+<p class="Body1">Their ideas engage cross-flowing interaction in the whole group - the questions become...</p>
+<p align="center"><em>...who has similar ideas?</em><br /><em> ...who has different? </em><br /><em> ...who has contrary? &nbsp;</em><br /><em> ...who has something not yet mentioned?</em></p>
+<p class="Body1">At some point during the day everybody has said who they are, and have shown what they have to contribute.&nbsp; Sources of peer help are identified and professional links are made.&nbsp;</p>
+<p class="Body1">All ideas are flip-charted for continuing review. &nbsp;And, here&rsquo;s the point, that on-going conversation makes it clear that some parts of the presentation need close examination, some can be skipped over, some can be ignored. &nbsp;There is a lot to storyboarding; we were never going to cover it all - but we don&rsquo;t need to.</p>
+<p align="center">____________________________</p>
+<p class="Body1">Whatever learning up-the-front experts might anticipate, it is never identical to the learning that out-there experienced participants actually get.&nbsp; The back-and-forth learning between everybody in the place makes the workshop an innovative research-and-development event for us all.</p>
+<p class="Body1">I&rsquo;ve set out five headings for what that exchange gave us.</p>
+<p class="Body1">&nbsp;</p>
+<p class="Body1"><strong>1. hopes for how storyboarding might help people</strong></p>
+<p class="Body1">helping them to:</p>
+<ul>
+<li>express a sense of identity</li>
+<li>say what they need to say, that is what lies underneath what they do say</li>
+<li>take charge of their own expression, and be calm where there is stress</li>
+<li>enable people for whom language is not a tool but a hurdle</li>
+<li>find and engage active learning-to-learn</li>
+<li>find a focus in the complexity of contemporary life</li>
+<li>help to visualise and recognise possible ways forward</li>
+<li>be able to say it all out loud, meaning it becomes their commitment</li>
+</ul>
+<p class="Body1">&nbsp;</p>
+<p class="Body1"><strong>2. ideas for how it might develop education professionalism</strong></p>
+<p class="Body1">helping professionals to:</p>
+<ul>
+<li>learn a new tool for improved effectiveness</li>
+<li>find new perspective for professional expansion</li>
+<li>see how to recognise when storyboarding will, and will not, be useful</li>
+</ul>
+<p class="Body1">&nbsp;</p>
+<p class="Body1"><strong>3. how-to-do questions</strong></p>
+<p class="Body1">practitioners need to know more about...</p>
+<ul>
+<li>whether the turning-point has to be positive</li>
+<li>whether it is for other peoples&rsquo; stories or only for the person&rsquo;s own</li>
+<li>whether &lsquo;futuring&rsquo; (storyboarding&rsquo;s narrative form of action planning) runs from where the person was in the episode or from where that person is now</li>
+</ul>
+<p class="Body1">&nbsp;</p>
+<p class="Body1"><strong>4. professional reservations </strong></p>
+<p class="Body1">professionals need...</p>
+<ul>
+<li>a framework that gives a reason for doing this</li>
+<li>to be convinced that storyboarding actually makes a useful difference</li>
+<li>a feel for what can be safely shown in a storyboard - not risking too much disclosure</li>
+<li>an idea of the policy focus for storyboarding - say for employability or well-being</li>
+</ul>
+<p class="Body1">&nbsp;</p>
+<p class="Body1"><strong>5. ideas for storyboarding potential</strong></p>
+<p class="Body1">working in this way can open-up possibilities...</p>
+<ul>
+<li>we use storyboarding according to whether or not there is a recognisable turning-point to look at</li>
+<li>conversations are originated by the storyboard, so there is an ethical equality where both we and they learn from each other</li>
+<li>storyboarded episodes must not be ignored - they require action</li>
+<li>the &lsquo;futuring&rsquo; process needs to be un-resolved - and therefore open-ended</li>
+<li>it means thinking about consequences of the facts, what they mean, this person&rsquo;s purpose</li>
+<li>different turning-points, over a period, can reveal helpful patterns in a life</li>
+</ul>
+<p align="center">_______________________</p>
+<p class="Body1">&nbsp;</p>
+<p class="Body1"><strong>issues</strong></p>
+<p class="Body1">I should be clear that I'm the tutor here.&nbsp; But I don't claim I do it well - that&rsquo;s for others to say.&nbsp; I do claim, though, that something like this is required if education professionalism is to be respected, strengthened and voiced.</p>
+<p class="Body1">The implication is that there can be no known-in-advance assumptions about outcomes and how they are to be reached.&nbsp; The workshop is a conversation between participants-and-tutor as a whole.&nbsp; And, in the cross-flow of ideas, that conversation is often between the authority of expertise and the authority of experience.&nbsp;</p>
+<p class="Body1">It&rsquo;s true that there are unavoidable features of storyboarding format and process that need to be learned.&nbsp; But it's also true that participants need to say where they are, where they need to be, where they are going with it, and what is helping them - and hindering them.&nbsp;</p>
+<p class="Body1">One of the most telling signs of what is learned is in the way they first design and then revise the storyboards they create.&nbsp;</p>
+<p class="Body1">On-line exchange means that the thinking can be widely and continuously extended and made the basis for innovative action...</p>
+<ul>
+<li>finding what is critical to the value of storyboarding</li>
+<li>realising what needs more thought, more discussion, or more enquiry</li>
+<li>signposting needed changes in storyboarding format and process</li>
+<li>prioritising future action</li>
+<li>saying what I got wrong and whether I got anything right</li>
+</ul>
+<p>Which is why I'm putting it where there is a space - below - for such comments, ideas and purposes.</p>
+<p align="center">_______________________</p>
+<p align="center">&nbsp;</p>
+<p align="center">some of the workshop storyboards will be made available at the career-learning caf&eacute; in due course - there will be an alert at...</p>
+<p align="center"><a href="https://twitter.com/billaw" target="_blank">https://twitter.com/billaw</a></p>
+<p>&nbsp;</p>
+<p class="Body1" align="center">&nbsp;with thanks to staff, students and alumni at<br />VIA University College, Videreuddannelse og Kompetenceudvikling Aarhus<br />Denmark</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Mon, 21 Jan 2013 12:35:35 +0000</pubDate>
+            </item>
+                    <item>
+              <title>CarpeDiem@UoM</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7514</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7514</guid>
+              <description><![CDATA[<p>Notes on our use of this LD workshop at UoM.</p>]]></description>
+          <pubDate>Thu, 17 Jan 2013 12:48:38 +0000</pubDate>
+            </item>
+                    <item>
+              <title>SofT-Scholarship of and for Teaching-Sharing Event Workshop - 11 September 2012</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6439</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6439</guid>
+              <description><![CDATA[<div dir="ltr"><strong>SofT-Scholarship of and for Teaching-Sharing Event Workshop&nbsp;11 September 2012</strong></div>
+<div dir="ltr"><strong>Location: </strong>Jennie Lee Building Meeting Room 1 Ground floor</div>
+<div dir="ltr">&nbsp;</div>
+<div dir="ltr">
+<div dir="ltr"><strong>&nbsp;AGENDA:<br /></strong>&nbsp;</div>
+<div dir="ltr">10:00 - 10:15<strong> - </strong><strong>Coffee and registration</strong></div>
+<div dir="ltr"><strong>&nbsp;</strong></div>
+<div dir="ltr">10:15<strong> -</strong> 10:25<strong> - </strong><strong>Opening talk - Alan Bassindale</strong></div>
+<div dir="ltr"><strong>&nbsp;</strong></div>
+<div dir="ltr"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Presentations from Project fellows</strong></div>
+<div dir="ltr"><strong>&nbsp;</strong></div>
+<div dir="ltr">10:30 - 10:50<strong> -</strong>&nbsp;<strong>Dena Attar (FELS) </strong></div>
+<div dir="ltr"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>The effectiveness of interventions to support greater participation in, and more purposeful<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; use of online formums on undergraduate English Language studies modules</div>
+<div dir="ltr">
+<div dir="ltr">
+<div dir="ltr"><strong>&nbsp;</strong></div>
+</div>
+<div dir="ltr">10:55 - 11:15<strong> -&nbsp;</strong><strong>Jan Draper and Julie Messenger (HSC)</strong></div>
+<div dir="ltr"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>The impact of the pre-registration nursing programme on nursing workforce development<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with&nbsp;particular reference to employability and career progression</div>
+<div dir="ltr">
+<div dir="ltr"><strong>&nbsp;</strong></div>
+</div>
+<div dir="ltr">11:20 - 11:40 <strong>-&nbsp;Sue McKeogh and Kimberly Safford (FELS)</strong></div>
+<div dir="ltr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student experience of difficulty with digital technologies</div>
+<div dir="ltr">
+<div dir="ltr"><strong>&nbsp;</strong></div>
+</div>
+<div dir="ltr">11:45 - 12:05<strong> - Ingrid Nix (HSC)</strong></div>
+<div dir="ltr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Evaluating approaches for developing digital literacy skills</div>
+<div dir="ltr">
+<div dir="ltr"><strong>&nbsp;</strong></div>
+</div>
+<div dir="ltr">12:10 - 12:30 - <strong>Tita Beaven and Anna Comas Quinn (FELS)</strong>
+<div dir="ltr">
+<div dir="ltr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Integrating LORO into professional development of Associate Lecturers at the Department<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;of&nbsp;Languages</div>
+<div dir="ltr">
+<div dir="ltr"><strong>&nbsp;</strong></div>
+</div>
+<div dir="ltr">12:30 - 14:10 <strong>- Lunch, networking evaluation toolkit</strong></div>
+</div>
+</div>
+<div dir="ltr"><strong>&nbsp;</strong></div>
+<div dir="ltr">14:15 - 14:35<strong> -&nbsp;Roshan Boojihawon (OUBS) </strong></div>
+<div dir="ltr">
+<div dir="ltr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A systematic assessment of the pilot phase of the BS201 offline delivery project</div>
+<strong>&nbsp;</strong></div>
+<div dir="ltr">14:40 - 15:00<strong> - Ruslan Ramanau (OUBS)</strong>
+<div dir="ltr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Becoming an International Distance Student: Learning Experiences and Effective Teaching<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Practices</div>
+<strong>&nbsp;</strong></div>
+<div dir="ltr">15:05 - 15:25<strong> -&nbsp;Peter Taylor (SCIENCE)&nbsp;</strong></div>
+<div dir="ltr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The use of peer assessment/review in distance teaching via the Moodle VLE</div>
+<div dir="ltr"><strong>&nbsp;</strong></div>
+<div dir="ltr">15:30 - 15:50<strong> - Tea and discussion</strong></div>
+<div dir="ltr"><strong>&nbsp;</strong></div>
+<div dir="ltr">15:55 - 16:15<strong> - Plenary Talk - Adrian Kirkwood - SofT Project Leader (IET)</strong></div>
+<div dir="ltr"><strong>&nbsp;</strong></div>
+<div dir="ltr"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you don't know where you are going ... how do you know if you have arrived? Approaches</strong></div>
+<div dir="ltr"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; to researching educational technology.</strong></div>
+<div dir="ltr"><strong>&nbsp;</strong></div>
+<div dir="ltr"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstract (in the CALRG conference abstract&nbsp; book)</strong></div>
+<div dir="ltr"><strong>&nbsp;</strong></div>
+<div dir="ltr">16:20 - 16:45 <strong>- Final discussion and close</strong></div>
+<div dir="ltr"><strong>&nbsp;</strong></div>
+<div dir="ltr"><strong>Please Note:&nbsp;Below the slides you will find the podcasts of the workshop</strong></div>
+<div dir="ltr"><strong>&nbsp;</strong></div>
+<div dir="ltr"><strong>If you wish to post a comment please scroll down to the&nbsp;discussion area at the bottom of the cloud.&nbsp; </strong></div>
+<p>&nbsp;</p>
+</div>
+</div>]]></description>
+          <pubDate>Mon, 10 Sep 2012 16:21:09 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Raspberry Pi workshop</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6435</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6435</guid>
+              <description><![CDATA[<h3>Raspberry Pi workshop, 18 Sept</h3>
+<p>Where: Library Seminar Rooms 1 &amp; 2</p>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->Time: 10.00-12.30</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->Date: Tues 18 September</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->Have you heard of the Raspberry Pi? What is it? How can we use it?</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->In this eLearning Community Workshop, we will explore ideas through brief demonstrations and open discussions.</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->10.00 &ndash; 11.00 Raspberry Pi Demonstrations</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->11.00 coffee break</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->11.15 &ndash; 12.00 Discussions in breakout groups</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->12.00 &ndash; 12.30 Summing up and future plans</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->The Raspberry Pi is a low cost, linux based, single board, credit card sized computer conceived as a response to concerns around IT, programming and computer science skills in schools and colleges. Following its public launch early in 2012, a burgeoning community has grown beyond this original purpose, with uses of the Raspberry Pi ranging from software and operating system customisation through networking and robotics to hardware interfacing, sensing and control. With the huge evident flexibility of this device, we can ask what possibilities the Raspberry Pi holds for distance learners in higher education. Hence&nbsp;</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->Themes to consider include, but are not limited to:</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->Using the Raspberry Pi to deliver e Learning content</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->The Raspberry Pi within science, computing and technology modules?</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->The scope for including the Raspberry Pi in new or current modules</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->The scope for using the Raspberry Pi beyond science and technology?</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->If you have a Raspberry Pi and would like to demonstrate your use and ideas, please contact Paul Hatherly [p.a.hatherly@open.ac.uk] to discuss your requirements.</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->Further Reading:</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->What is the Raspberry Pi? http://www.raspberrypi.org/faqs</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->What people are doing? http://www.raspberrypi.org/phpBB3/viewforum.php?f=15</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->Where to get one?</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->RS: http://uk.rs-online.com/web/generalDisplay.html?id=raspberrypi&amp;cm_mmc=UK-PPC-0212-_-02_Raspberry_PI-_-Raspberry_PI-_-Raspberry_Pi</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->&nbsp;Farnell: http://uk.farnell.com/raspberry-pi</div>
+<p>Time: 10.00-12.30</p>
+<p>Date: Tues 18 September</p>
+<p>Have you heard of the Raspberry Pi? What is it? How can we use it?</p>
+<p><strong>In this eLearning Community Workshop, we will explore ideas through brief demonstrations and open discussions.</strong></p>
+<p>&nbsp;</p>
+<p>10.00 &ndash; 11.00 Raspberry Pi Demonstrations</p>
+<p>11.00 coffee break</p>
+<p>11.15 &ndash; 12.00 Discussions in breakout groups</p>
+<p>12.00 &ndash; 12.30 Summing up and future plans</p>
+<p>&nbsp;</p>
+<p>The Raspberry Pi is a low cost, linux based, single board, credit card sized computer conceived as a response to concerns around IT, programming and computer science skills in schools and colleges. Following its public launch early in 2012, a burgeoning community has grown beyond this original purpose, with uses of the Raspberry Pi ranging from software and operating system customisation through networking and robotics to hardware interfacing, sensing and control. With the huge evident flexibility of this device, we can ask what possibilities the Raspberry Pi holds for distance learners in higher education.&nbsp;</p>
+<p>Themes to consider include, but are not limited to:</p>
+<ul>
+<li>Using the Raspberry Pi to deliver e Learning content</li>
+<li>The Raspberry Pi within science, computing and technology modules?</li>
+<li>The scope for including the Raspberry Pi in new or current modules</li>
+<li>The scope for using the Raspberry Pi beyond science and technology?</li>
+</ul>
+<p>If you have a Raspberry Pi and would like to demonstrate your use and ideas, please contact Paul Hatherly [p.a.hatherly@open.ac.uk] to discuss your requirements.</p>
+<p>&nbsp;</p>
+<p><strong>Further Reading:</strong></p>
+<p>
+<ul>
+<li>What is the Raspberry Pi? http://www.raspberrypi.org/faqs</li>
+<li>What people are doing? http://www.raspberrypi.org/phpBB3/viewforum.php?f=15</li>
+</ul>
+</p>
+<p><strong>Where to get one?</strong></p>
+<p>
+<ul>
+<li>RS: http://uk.rs-online.com/web/generalDisplay.html?id=raspberrypi&amp;cm_mmc=UK-PPC-0212-_-02_Raspberry_PI-_-Raspberry_PI-_-Raspberry_Pi</li>
+<li>Farnell: http://uk.farnell.com/raspberry-pi</li>
+</ul>
+</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Mon, 20 Aug 2012 09:12:06 +0000</pubDate>
+            </item>
+                    <item>
+              <title>UKOER Synthesis and evaluation</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6107</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6107</guid>
+              <description><![CDATA[<p>Presentation given by Allison Littlejohn at the SCORE event Learning from OER Research Projects.</p>]]></description>
+          <pubDate>Wed, 01 Feb 2012 09:54:09 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Webcast of Introduction to Open Education Resources (OER) at York</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5683</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5683</guid>
+              <description><![CDATA[<p>Webcast of the seminar aimed at educators who would like to find out about  the  fundamental concepts of open educational resources (OER). Speakers  are  specialists in their fields and bring a wealth of experience for you   to draw on.</p>]]></description>
+          <pubDate>Tue, 23 Aug 2011 07:58:35 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Team: Social Science: Using technologies in teaching, UK, June 2011</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5583</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5583</guid>
+              <description><![CDATA[<p>Use this Cloud to record discussion and ideas emerging from the workshop.</p>]]></description>
+          <pubDate>Thu, 09 Jun 2011 11:21:36 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Team: MCT: Using technologies in teaching, UK, June 2011</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5578</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5578</guid>
+              <description><![CDATA[<p>Use this Cloud to record discussions and ideas emerging from the workshop.</p>]]></description>
+          <pubDate>Tue, 07 Jun 2011 13:40:11 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Team: FELS: Using technologies in teaching, UK, June 2011</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5576</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5576</guid>
+              <description><![CDATA[<p>Use this Cloud to record discussions and ideas emerging from the workshop.</p>]]></description>
+          <pubDate>Tue, 07 Jun 2011 13:33:20 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Team: Centre of Inclusion and Curriculum: Using technologies in teaching, UK, June 2011</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5575</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5575</guid>
+              <description><![CDATA[<p>Use this Cloud to record discussions and ideas emerging from the workshop.</p>]]></description>
+          <pubDate>Tue, 07 Jun 2011 13:30:13 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Team: Science: Using technologies in teaching, UK, June 2011</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5574</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5574</guid>
+              <description><![CDATA[<p>Use this space to record the discussions and ideas that emerge from the workshop.</p>]]></description>
+          <pubDate>Tue, 07 Jun 2011 13:09:18 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Template: Using technologies in teaching</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5552</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5552</guid>
+              <description><![CDATA[<div id="wikipage">
+<div id="wikipage-inner">
+<p>This workshop template is based around a number of short    introductions,  activities and reflections exploring the theme: <em>Using    Technologies  in Teaching</em>.  We call it Learning Design 'Lite'   because although it uses the OULDI  methodology the theory of Learning   Design is not explicitly discussed.<strong> </strong><strong><a href="http://cloudworks.ac.uk/cloud/view/4876">Please feel free to  use  and adapt this template and tell us how you find it</a></strong></p>
+<table style="width: 100%;" border="0">
+<tbody>
+<tr>
+<td><img id="pbImage76858" src="http://jiscdesignstudio.pbworks.com/f/1290706991/Readtableshot2.png" alt="" width="246" height="220" /><br /></td>
+<td>
+<p>The aims of the workshop are:</p>
+<p>&nbsp;</p>
+<ol>
+<li>To give participants an overview of new technologies and how they    can be used</li>
+<li>To give participants the chance to critically review the affordances    of technologies and their use in different contexts</li>
+<li>To enable them to reflect on the relevance and application to their    own practice</li>
+<li>Exposure to a range of Learning Design tools and approaches</li>
+</ol>&nbsp;
+<p>This workshop was first developed by the OULDI team for the&nbsp;  Design-Practice project (<a href="http://www.design-practice.org/">www.design-practice.org</a>)</p>
+<br /></td>
+</tr>
+</tbody>
+</table>
+<h2 style="cursor:auto"><!--NO CSS-->Agenda</h2>
+<p style="cursor:auto"><!--NO CSS--><strong>9.30-10.00</strong> Arrival and coffee</p>
+<p style="cursor:auto"><!--NO CSS--><strong>10.00-10.20</strong> Introductions and welcome</p>
+<p style="cursor:auto"><!--NO CSS--><strong>10.20-11.00</strong> <a href="http://cloudworks.ac.uk/cloud/view/2597">How to ruin a course</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://cloudworks.ac.uk/cloud/view/4614">video clip of activity</a></p>
+<p style="cursor:auto"><!--NO CSS--><strong>11.00-11.30</strong> <a href="http://cloudworks.ac.uk/cloud/view/3930">Comparing four web 2.0  tools</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://cloudworks.ac.uk/cloud/view/4615"> video  clip of activity</a></p>
+<p style="cursor:auto"><!--NO CSS--><strong>11.30-11.45 </strong>Coffee</p>
+<p style="cursor:auto"><!--NO CSS--><strong>11.45-12.15</strong> <a href="http://cloudworks.ac.uk/cloud/view/3930">Comparing four web 2.0  tools</a> (cont)</p>
+<p style="cursor:auto"><!--NO CSS--><strong>12.15-12.45</strong> <a href="http://cloudworks.ac.uk/cloud/view/4042">Tools in use</a></p>
+<p style="cursor:auto"><!--NO CSS--><strong>12.45-1.30</strong> Lunch</p>
+<p style="cursor:auto"><!--NO CSS--><strong>1.30-2.00</strong> <a href="http://cloudworks.ac.uk/cloud/view/3422">Course map</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://cloudworks.ac.uk/cloud/view/4616"> video clip of activity</a></p>
+<p style="cursor:auto"><!--NO CSS--><strong>2.00-3.00</strong> <a href="http://cloudworks.ac.uk/cloud/view/3421">Mapping a design using   learning design notation</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://cloudworks.ac.uk/cloud/view/4617">video clip of activity</a></p>
+<p style="cursor:auto"><!--NO CSS--><strong>3.00-3.15</strong> Coffee</p>
+<p style="cursor:auto"><!--NO CSS--><strong>3.15-4.00</strong> <a href="http://cloudworks.ac.uk/cloud/view/4278">Sharing and discussing  designs</a>&nbsp;&nbsp; <a href="http://cloudworks.ac.uk/cloud/view/4618"> video  clip of activity</a></p>
+<p style="cursor:auto"><!--NO CSS--><strong>4.00-4.30 </strong><a href="http://cloudworks.ac.uk/cloud/view/4589">Action plan and  evaluation</a></p>
+</div>
+</div>]]></description>
+          <pubDate>Tue, 24 May 2011 17:39:09 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Presentation: Gila Kurtz presentation</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5239</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5239</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Sun, 08 May 2011 10:13:22 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Template: Learning Design &#39;Lite&#39; Workshop</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4876</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4876</guid>
+              <description><![CDATA[<div id="user-entry">
+<p>This workshop is based around a number of short  introductions, activities and reflections exploring the theme: <em>Using  Technologies in Teaching</em>.</p>
+<p>The aims of the workshop are:</p>
+<ol>
+<li>To give participants an overview of new technologies and how they  can be used</li>
+<li>To give participants the chance to critically review the affordances  of technologies and their use in different contexts</li>
+<li>To enable them to reflect on the relevance and application to their  own practice</li>
+<li>Exposure to a range of Learning Design tools and approaches</li>
+</ol>
+<p>This workshop was first developed for the&nbsp; Design-Practice project (<a href="http://www.design-practice.org/">www.design-practice.org</a>)</p>
+<h2>Agenda</h2>
+<div>
+<p><strong>9.30-10.00</strong> Arrival and coffee</p>
+<p><strong>10.00-10.20</strong> Introductions and welcome</p>
+<p><strong>10.20-11.00</strong> <a href="http://cloudworks.ac.uk/cloud/view/2597">How to ruin a course&nbsp;</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="http://cloudworks.ac.uk/cloud/view/4614">video clip of  activity</a></p>
+<p><strong>11.00-11.30</strong> <a href="http://cloudworks.ac.uk/cloud/view/3930">Comparing four web 2.0  tools&nbsp;</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://cloudworks.ac.uk/cloud/view/4615">video  clip of activity</a></p>
+<p><strong>11.30-11.45 </strong>Coffee</p>
+<p><strong>11.45-12.15</strong> <a href="http://cloudworks.ac.uk/cloud/view/3930">Comparing four web 2.0  tools</a> (cont)</p>
+<p><strong>12.15-12.45</strong> <a href="http://cloudworks.ac.uk/cloud/view/4042">Tools in use</a></p>
+<p><strong>12.45-1.30</strong> Lunch</p>
+<p><strong>1.30-2.00</strong> <a href="http://cloudworks.ac.uk/cloud/view/3422">Course map</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://cloudworks.ac.uk/cloud/view/4616"> video clip of activity</a></p>
+<p><strong>2.00-3.00</strong> <a href="http://cloudworks.ac.uk/cloud/view/3421">Mapping a design using  learning design notation</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://cloudworks.ac.uk/cloud/view/4617">video clip of activity</a></p>
+<p><strong>3.00-3.15</strong> Coffee</p>
+<p><strong>3.15-4.00</strong> <a href="http://cloudworks.ac.uk/cloud/view/4278">Sharing and discussing  designs</a>&nbsp;&nbsp; <a href="http://cloudworks.ac.uk/cloud/view/4618">video  clip of activity</a></p>
+<p><strong>4.00-4.30 </strong><a href="http://cloudworks.ac.uk/cloud/view/4589">Action plan and  evaluation</a></p>
+</div>
+</div>]]></description>
+          <pubDate>Thu, 25 Nov 2010 17:28:10 +0000</pubDate>
+            </item>
+                    <item>
+              <title>ενδιαφέροντα Clouds</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4651</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4651</guid>
+              <description><![CDATA[<p>&Pi;&rho;&omicron;&sigma;&theta;έ&sigma;&tau;&epsilon; &mu;&iota;&alpha; &sigma;ύ&nu;&delta;&epsilon;&sigma;&eta; &mu;&epsilon; έ&nu;&alpha; Cloud ή Cloudscape &pi;&omicron;&upsilon; &beta;&rho;ί&sigma;&kappa;&epsilon;&tau;&epsilon; &epsilon;&nu;&delta;&iota;&alpha;&phi;έ&rho;&omicron;&nu; &kappa;&alpha;&iota;, &epsilon;&nu; &sigma;&upsilon;&nu;&tau;&omicron;&mu;ί&alpha;, &epsilon;&xi;&eta;&gamma;ή&sigma;&epsilon;&tau;&epsilon; &gamma;&iota;&alpha;&tau;ί &tau;&omicron; έ&chi;&epsilon;&tau;&epsilon; &epsilon;&pi;&iota;&lambda;έ&xi;&epsilon;&iota;.</p>]]></description>
+          <pubDate>Tue, 05 Oct 2010 09:37:56 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Discussion: Open discussion area</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4626</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4626</guid>
+              <description><![CDATA[<p>Use this space for any discussions arising in or from the workshop.</p>]]></description>
+          <pubDate>Mon, 27 Sep 2010 08:33:33 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Discussion: Is technology being used for technology&#39;s sake in the classroom?</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4590</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4590</guid>
+              <description><![CDATA[<p>This discussion started in the Science Team Cloud set up for the 'Using technologies in teaching' workshop held at the OU.</p>
+<p>I have copied an pasted initial discussion below.</p>
+<p>Rebecca</p>
+<p><a href="http://cloudworks.ac.uk/user/view/983">Rebecca Galley</a> <br /> 3:17pm 16 September 2010                                              (<small><em>Edited 3:27pm 16 September 2010</em></small>)</p>
+<h3>Comment 1 by Prof Lee Hubbard</h3>
+<p><a href="http://cloudworks.ac.uk/user/view/3170">Prof Lee Hubbard</a> <br /> 9:32am 16 September 2010</p>
+<p>Hi there everyone</p>
+<p>I will start the discussion with a question</p>
+<p>Is technology being used for technologies sake in the class room.?..</p>
+<p>Prof Lee Hubbard</p>
+<h3>Comment 2 by Rebecca Galley</h3>
+<div>
+<div><img style="float: left; margin-right: 5px;" src="http://cloudworks.ac.uk/image/user_32/983" alt="" />
+<p><a href="http://cloudworks.ac.uk/user/view/983">Rebecca Galley</a> <br /> 3:17pm 16 September 2010                                              (<small><em>Edited 3:27pm 16 September 2010</em></small>)</p>
+</div>
+<p>Or...are technological tools being<em> installed</em> in the classroom for 'technology''s sake but not really used?</p>
+</div>
+<h3>Comment 3 by Prof Lee Hubbard</h3>
+<div>
+<div><img style="float: left; margin-right: 5px;" src="http://cloudworks.ac.uk/_design/avatar-default-32.jpg" alt="" />
+<p><a href="http://cloudworks.ac.uk/user/view/3170">Prof Lee Hubbard</a> <br /> 12:37pm 18 September 2010</p>
+</div>
+<p>thats an interesting observation and something I have seen supported in my own observations in schools.&nbsp; From what I have observed the technology is there and being used but a such a minimal level that it is basically an illuminated blackboard.</p>
+<p>The problem that I can see for teaching staff is the vast array of functions that modern technology makes available. To take advantage of this new functionality you have to be a professional programmer or have access to the sort of IT support and development which frankly cannot be found at the average school.&nbsp; When observing I ahve thought of a number of wyas in which a presentation could be made more interactive with a little macro here or bit of code there...but how can you ask an already busy teacher to sit down and learn modern programming techniques.</p>
+<p>I think the answer is much better IT support in schools with staff capable of taking on development jobs and building new intereactive solutions within the school. Too often I see technology installed and underused or as a recently mismanaged but inadequately trained IT staff.</p>
+<p>My answer is thus better support for teachers from an IT view point and stronger encouragement to pass on development of new presentations to professional IT staff or hight experienced IT / Teaching staff.</p>
+<p>Prof Lee Hubbard</p>
+</div>
+<h3>Comment 4 by Chris Kirkland</h3>
+<div>
+<div><img style="float: left; margin-right: 5px;" src="http://cloudworks.ac.uk/image/user_32/2702" alt="" />
+<p><a href="http://cloudworks.ac.uk/user/view/2702">Chris Kirkland</a> <br /> 7:48pm 18 September 2010</p>
+</div>
+<br />
+<p>I am lucky enough to have a dry wipe board as well as an interactive whiteboard and internet access. I tend to find the PhET website phet.colorado.edu gets used most lessons. Also Southampton Universities "Waves" resource is excellent for moving diagrams. The advantage over other interactive resources is there is nothing to program or install. Students can also use the applets to try things out. The applets and moving diagrams show extra information that you cannot see in real life but help in the learning process. It is also nice to be able to record information from class/group work in text documents or spreadsheets to make it available for later analysis or review. With so the variety of students to accomodate the technology has to be easy to use and reliable. Some technology is amazing if you can afford to give it your full attention but that is not what we want to do. Having someone show you how easy something is helps to overcome the initial reluctance. I would be lost without my technology toys.</p>
+</div>
+<h3>Comment 5 by Rebecca Galley</h3>
+<div>
+<div><img style="float: left; margin-right: 5px;" src="http://cloudworks.ac.uk/image/user_32/983" alt="" />
+<p><a href="http://cloudworks.ac.uk/user/view/983">Rebecca Galley</a> <br /> 10:52am 20 September 2010</p>
+</div>
+<p>Hi Chris - good to see you in this discussion! And thanks for sharing a few subject specific tools (any chance of the links...:-) ) I agree that having someone showing us that creative use of technology doesn't have to be an all or nothing element in our learning designs is really important, and also hearing about the experiences of experienced teachers who can now not think about teaching in any other way.</p>
+<p>Prof, I come (like Chris) from FE and my experience of schools education is limited but I'd say that FE does have techie people about the place but that in itself is not enough. My experience is that few IT support folk have the pedagogical understanding to support the <em>teaching</em> part of teaching with technology. I think there is a real need for a defined learning technologist role in schools, as there is is most HE institutions and some FE. Someone who's job it is to keep on top of new ideas and uses of technology for learning and teaching and share best practice.</p>
+</div>]]></description>
+          <pubDate>Mon, 20 Sep 2010 14:42:23 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Workshop evaluation: Using technologies in teaching</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4589</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4589</guid>
+              <description><![CDATA[<p>This Cloud collates the feedback from both the UK and Cyprus 'Using technologies in teaching' workshops. Thank you to you all for completing the evaluation forms - I have collated the feedback here. If there is anything you'd like to add do so below in the discussion section. We'd be happy to hear from you :-)</p>]]></description>
+          <pubDate>Mon, 20 Sep 2010 10:38:49 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Team: Design &amp; Technology</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4563</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4563</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Fri, 10 Sep 2010 12:45:09 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Team: Science</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4562</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4562</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Fri, 10 Sep 2010 12:44:01 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Team: Languages</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4561</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4561</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Fri, 10 Sep 2010 12:43:01 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Team: Music2</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4560</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4560</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Fri, 10 Sep 2010 12:41:47 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Team: Music1</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4559</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4559</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Fri, 10 Sep 2010 12:40:50 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Team: Geography</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4558</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4558</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Fri, 10 Sep 2010 12:40:08 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Team: Maths</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4557</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4557</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Fri, 10 Sep 2010 12:36:38 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Events</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4107</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4107</guid>
+              <description><![CDATA[<p>Use this Cloud to add links to your Event Cloudscapes or Clouds. You can either add the link as hyperlink text in 'extra content' (see 7 July 2010 OULTG - Learning and Teaching Groups Workshop below) or by simply 'adding a link'.</p>]]></description>
+          <pubDate>Tue, 06 Jul 2010 09:53:08 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Presentation: Introduction to three learning design representations</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4052</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4052</guid>
+              <description><![CDATA[<p>Introduction to the Course Map, Pedagogy profile and Learning Outcomes representations.</p>]]></description>
+          <pubDate>Tue, 29 Jun 2010 10:40:08 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Agenda: Workshop: New approaches to the design of blended learning</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4030</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4030</guid>
+              <description><![CDATA[<h2>Agenda</h2>
+<table style="height: 305px;" border="0" cellspacing="0" cellpadding="0" width="466">
+<tbody>
+<tr>
+<td width="128" valign="top">
+<p><strong>9.30   - 10</strong></p>
+</td>
+<td width="352" valign="top">
+<p>Introduction   to the workshop</p>
+<p><a href="http://cloudworks.ac.uk/cloud/view/2597">Activity   1: How to ruin a course</a></p>
+</td>
+</tr>
+<tr>
+<td width="128" valign="top">
+<p><strong>10-10.15</strong></p>
+</td>
+<td width="352" valign="top">
+<p><a href="http://cloudworks.ac.uk/cloud/view/3648">Presentation:   What is Learning Design?</a></p>
+</td>
+</tr>
+<tr>
+<td width="128" valign="top">
+<p><strong>10.15-10.45</strong></p>
+</td>
+<td width="352" valign="top">
+<p>Activity   2: What is Blended Learning?</p>
+</td>
+</tr>
+<tr>
+<td width="128" valign="top">
+<p><strong>10.45-11.15</strong></p>
+</td>
+<td width="352" valign="top">
+<p><a href="http://cloudworks.ac.uk/cloud/view/4052">Presentation:   Tools to aid course and curriculum design</a></p>
+<p>Activity   3: Group Discussion</p>
+</td>
+</tr>
+<tr>
+<td width="128" valign="top">
+<p><strong>11.15-12.15</strong></p>
+</td>
+<td width="352" valign="top">
+<p>Activity   4: Introduction to pedagogy and technological choices</p>
+<p><a href="http://cloudworks.ac.uk/cloud/view/4042">Affordances of technologies</a></p>
+</td>
+</tr>
+<tr>
+<td width="128" valign="top">
+<p><strong>12.15-1.00</strong></p>
+</td>
+<td width="352" valign="top">
+<p>Lunch</p>
+</td>
+</tr>
+<tr>
+<td width="128" valign="top">
+<p><strong>1-3</strong></p>
+</td>
+<td width="352" valign="top">
+<p>Activity   5: Design your course/module</p>
+</td>
+</tr>
+<tr>
+<td width="128" valign="top">
+<p><strong>3-3.40</strong></p>
+</td>
+<td width="352" valign="top">
+<p>Activity   6: Sharing Designs</p>
+<p><a href="http://cloudworks.ac.uk/cloud/view/2602">Peer evaluation</a></p>
+</td>
+</tr>
+<tr>
+<td width="128" valign="top">
+<p><strong>3.40-4.30</strong></p>
+</td>
+<td width="352" valign="top">
+<p>Discussion</p>
+</td>
+</tr>
+</tbody>
+</table>]]></description>
+          <pubDate>Wed, 23 Jun 2010 14:43:55 +0000</pubDate>
+            </item>
+                    <item>
+              <title>1Agenda: Workshop: Freedoms offered by SR2: Tools for change</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4010</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4010</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Mon, 21 Jun 2010 17:17:26 +0000</pubDate>
+            </item>
+                    <item>
+              <title>REVIVE workshop at the EDEN 2010 conference</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3217</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3217</guid>
+              <description><![CDATA[<p>If you are interested in social software and how it can be used in vocational education &amp; training and higher education institutions, if you are looking into Personal Learning Environments and how they can help you and/or your students to put some structure into the unstructured world of social networks, learning tools, and educational resources, than you really shouldn&rsquo;t miss this workshop. The workshop will address the following issues:</p>
+<ul>
+<li>How have <em>learning and teaching strategies</em> at vocational education &amp; training (VET) and higher education (HE) institutions changed since the advent of new learning tools and Personal Learning Environments (PLE)? How can success stories be identified?</li>
+</ul>
+<ul>
+<li>What challenges do teachers and trainers, as well as curriculum authors face in relation to this shift in learning and teaching tools?</li>
+</ul>
+<ul>
+<li>What key competences teachers and learners require and develop when learning with social software, new learning tools and Personal Learning Environments?</li>
+</ul>
+<p>The official title of the workshop is: Reviewing and reviving learning and teaching strategies with the new learning tools (REVIVE project)</p>
+<p><strong><br /></strong></p>]]></description>
+          <pubDate>Tue, 30 Mar 2010 16:04:02 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Activity: Ascilite workshop cloudquest challenge</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2702</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2702</guid>
+              <description><![CDATA[<p>This activity is a variant on the idea of a webquest, it provides a fun ways of exploring the cloudworks site and sharing findings. The aim is to explore the site and to give you an idea of what it contains and how it can be used.</p>
+<p><strong>Introduction</strong></p>
+<ul>
+<li>Cluster into teams of 3 or 4</li>
+<li>If you haven't already done so, create a <strong>Cloudworks account </strong>(you can view anything on the site, but to post comments or add anything you need an account)<strong><br /></strong></li>
+<li>Spend a max of fifteen minutes <strong>exploring cloudworks </strong>(suggested stategies - browse clouds and cloudscapes, enter keywords in search, explore by tags, look at individual people's profiles </li>
+<li>You may wish to open your search in a <strong>new tab or page </strong>in your browser so that you can easily navigate back to this cloud</li>
+<li>If you are new to cloudworks you might like to take a look at our <a href="/cloudscape/view/1911">'using cloudworks cloudscape'</a>.</li>
+</ul>
+<p><strong>Activities</strong></p>
+<ul>
+<li>How many people with the firstname "Sue" are registered with cloudworks?</li>
+<li>How many people are registered with cloudworks from "The Open University"?</li>
+<li>How many people are following Rebecca Galley?</li>
+<li>Name three of the people Grainne Conole is following</li>
+<li>Find an interesting cloud on collaborative learning</li>
+<li>Find a cloudscape that was set up for a conference</li>
+<li>Find a cloud you thiink is particularly interesting, say why you like it</li>
+<li>What can you find in the site on mindmapping tools?</li>
+<li>What kinds of clouds and cloudscapes have been tagged with the word "twitter"?</li>
+<li>What's the latest cloud that has been added to the site?</li>
+<li>What is the latest link that has been added to the flash debate cloudscape?</li>
+<li>What three words would you use to describe cloudworks?</li>
+</ul>
+<p><strong>And finally...</strong></p>
+<ul>
+<li><strong>Write up your findings as a group on the flipchart</strong>, but although feel free to add additional comments/reflections here, but note that anything you post here is open for anyone to see!</li>
+<li><strong>Vote</strong> for your favourite cloud or cloudscape using the <a href="http://surveys.polldaddy.com/s/4FECC2CF90277B45/">survey</a></li>
+<li><strong>Use</strong> this cloud to record any thoughts or impressions</li>
+</ul>]]></description>
+          <pubDate>Sat, 05 Dec 2009 17:58:05 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Evaluation: Ascilite workshop evaluation and action plan</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2701</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2701</guid>
+              <description><![CDATA[<div>
+<p>Use the post-it notes around the room to answer the following questions. Please answer the questions as fully as possible:</p>
+<ul>
+<li>Have your objectives for the workshop been met?</li>
+</ul>
+<ul>
+<li>What did you think of the format and content of the workshop?</li>
+<li>What did you like about the session?</li>
+<li>What could be improved?</li>
+<li>What three&nbsp; words would you use to describe the representations presented?</li>
+<li>What 3 words would you use to describe Cloudworks?</li>
+<li>What action points have you identified as a result of this workshop?</li>
+</ul>
+</div>]]></description>
+          <pubDate>Sat, 05 Dec 2009 18:37:12 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Planning for the Curriculum Design Fest</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2680</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2680</guid>
+              <description><![CDATA[<p>This Cloud has been set up to discuss the Design Challenge event to be held at LSBU on 13th May 2010. Please do contribute your ideas and thoughts as the event design develops.</p>]]></description>
+          <pubDate>Fri, 20 Nov 2009 13:07:03 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Welcome and introductions</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2673</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2673</guid>
+              <description><![CDATA[<p>Tom Browne introduced the workshop and the <a href="http://as.exeter.ac.uk/support/educationenhancementprojects/openexeter/abouttheproject/">Open Exeter</a> project. He explained the drivers behind the project</p>
+<ul>
+<li>Several funded projects 7 institutional project and other independent projects</li>
+<li>Exeter's project 360 hours of different types of OERs, across different subjects.</li>
+<li>Challenges - lots of paperwork involved, putting the resources somewhere where people can find them, overcoming the 'so what' response.</li>
+</ul>
+<div>Cloudworks will play a role in the Open Exeter project as a pedagogical 'wrapper for the OERs.</div>]]></description>
+          <pubDate>Tue, 17 Nov 2009 13:59:30 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Template: Agenda for &#39;Cloudworking Open Exeter&#39; Workshop </title>
+              <link>https://cloudworks.ac.uk/cloud/view/2656</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2656</guid>
+              <description><![CDATA[<h2>Outline of the day</h2>
+<p>9.30 &ndash; 9.45&nbsp;&nbsp;<strong>&nbsp;&nbsp;&nbsp; Arrival: Tea and Coffee </strong></p>
+<p>9.45 &ndash; 9.55&nbsp;&nbsp;&nbsp;&nbsp; <strong>Welcome and Introductions </strong></p>
+<p>9.55 &ndash; 10.00&nbsp;&nbsp;&nbsp; <strong>Brief introduction to Open Exeter &ndash; Tom Browne </strong></p>
+<p>10.00 - 10.10 &nbsp; <strong>Brief introduction to Cloudworks and activities&ndash; Giota   Alevizou</strong></p>
+<p>&nbsp;10.10.11.30&nbsp;&nbsp;&nbsp; <strong>Activity 1: Finding and sharing   resources and experiences on teaching and learning </strong></p>
+<p>Participants will be split into groups. You will   discuss and also work through four of the five clouds on the following   topics:</p>
+<p>Participants will be split into groups. You will   discuss and also work through four of the five clouds on the following   topics:</p>
+<ul>
+<li>Cloud   1:&nbsp; Key issues and strategies for   designing learning resources or activities (20 mins)</li>
+<li>Cloud 2: &nbsp;Share your knowledge and use of OERs   (20 mins)</li>
+<li>Cloud 3: Discuss   motivations for and barrier to teachers and learners sharing and remixing OER   &nbsp;(20 mins)</li>
+<li>Clouds 4:   How might web 2.0 tools (such as Cloudworks) be used to support the design of   learning activities or OERs (20 mins</li>
+<li>Cloud 5: Set   up a cloud on your own topic. Suggested topics you might like to consider   include: 
+<ul>
+<li>What QA issues are likely to arise with OERs?</li>
+<li>What training and support might practitioners   need in terms of OER use?</li>
+<li>What kind of technical infrastructure is needed   to support OER?</li>
+<li>What kind of representations are possible for   OERs and how can these be shared?</li>
+<li>Discussion about Open Exeter</li>
+</ul>
+</li>
+</ul>
+<p>11.30 - 11.40&nbsp;&nbsp;&nbsp;<strong> Tea and Coffee </strong></p>
+<p>11.40 - 12. 20&nbsp;&nbsp; <strong>Plenary discussion and demonstration of the ways in which Cloudworks can be used &ndash; Gr&aacute;inne Conole</strong></p>
+<p>12.20 - 12.50&nbsp;&nbsp;&nbsp; <strong>Activity 2: Evaluation and action plan</strong></p>
+<p>&nbsp;</p>
+<p>12.50 &ndash; 1.40&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Lunch &nbsp;(all &frac12; day participants welcome)</strong></p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
+<p>2.00 &ndash; 2.15&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Welcome </strong>&amp; brief introduction to Open Exeter - Tom Browne</p>
+<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Brief introduction to Cloudworks and activities&ndash; </strong><strong>Gr&aacute;inne Conole</strong></p>
+<p>2.15 - 3.25 &nbsp; &nbsp;&nbsp; &nbsp; <strong>Activity 1: Finding and sharing   resources and experiences on teaching and learning </strong></p>
+<p>Participants will be split into groups. You will discuss and also work through four of the five clouds on the following topics:</p>
+<p>Participants will be split into groups. You will   discuss and also work through four of the five clouds on the following   topics:</p>
+<ul>
+<li>Cloud   1:&nbsp; Key issues and strategies for   designing learning resources or activities (20 mins)</li>
+<li>Cloud 2: &nbsp;Share your knowledge and use of OERs   (20 mins)</li>
+<li>Cloud 3: Discuss   motivations for and barrier to teachers and learners sharing and remixing OER   &nbsp;(20 mins)</li>
+<li>Clouds 4:   How might web 2.0 tools (such as Cloudworks) be used to support the design of   learning activities or OERs (20 mins</li>
+<li>Cloud 5: Set   up a cloud on your own topic. Suggested topics you might like to consider   include: 
+<ul>
+<li>What QA issues are likely to arise with OERs?</li>
+<li>What training and support might practitioners   need in terms of OER use?</li>
+<li>What kind of technical infrastructure is needed   to support OER?</li>
+<li>What kind of representations are possible for   OERs and how can these be shared?</li>
+<li>Discussion about Open Exeter</li>
+</ul>
+</li>
+</ul>
+<p><strong>&nbsp;</strong></p>
+<p>3.25 - 3.45 &nbsp; &nbsp; &nbsp;&nbsp; <strong>Plenary discussion and demonstration of the ways in which Cloudworks can be used &ndash; Gr&aacute;inne Conole</strong></p>
+<p>3.45 - 4.10 &nbsp; &nbsp; &nbsp; &nbsp; <strong>Activity 2: Evaluation and action plan</strong></p>
+<p>&nbsp;</p>
+<p><em><br /></em></p>]]></description>
+          <pubDate>Thu, 12 Nov 2009 23:28:12 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Workshop Activity 2: Evaluation and Action Plan </title>
+              <link>https://cloudworks.ac.uk/cloud/view/2632</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2632</guid>
+              <description><![CDATA[<div>
+<p>Use this cloud to reflect on the 'Cloudworking Exeter' workshop, post your responses as comments here and/or use the forms provided.</p>
+<ul>
+<li>What three words would you use&nbsp; to describe  Cloudworks?</li>
+<li>What did you like about the format and content of the workshop?</li>
+<li>What didn&rsquo;t you like or could be improved?</li>
+<li>What action points are you going to take as a result of the workshop?  
+<ul>
+</ul>
+</li>
+</ul>
+<ul>
+</ul>
+</div>]]></description>
+          <pubDate>Fri, 13 Nov 2009 10:38:22 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Template: Agenda for Brunel Blended Design workshop 9th Nov 2009</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2605</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2605</guid>
+              <description><![CDATA[<h2>Outline of the day</h2>
+<p>9.30 &ndash; 9.45&nbsp; Arrival activity Setting personal and team objectives</p>
+<p>9.45 &ndash; 9.55 Welcome and introductions</p>
+<p>9.55 &ndash; 10.15 Derek K Milligan - Blended Learning at Brunel</p>
+<p>10.15 &ndash; 10.35<strong> Activity: How to ruin a course</strong></p>
+<p>This activity will focus on the key issues and   strategies that impact on the success (or otherwise) of learning and teaching   within your context. The output of this activity will be a team checklist   which will be used as one of the design evaluation tools in the design review   and at the end of the workshop.</p>
+<p>10.35 &ndash; 11.15 <strong>Activity: &lsquo;At a glance&rsquo; course map</strong></p>
+<p>&nbsp;We will propose 5 key components of a course:</p>
+<ul>
+<li>Guidance and support</li>
+<li>Information and experience</li>
+<li>Communication and experience</li>
+<li>Thinking and reflection</li>
+<li>Evidence and demonstration</li>
+</ul>
+<p>and introduce a framework/ tool to begin mapping   out the key elements and &lsquo;flavour&rsquo; of the module/ short course designs. We   will discuss the nature of the resultant representations and explore possible   uses of these.</p>
+<p>11.15 &ndash; 11.30 Tea and coffee</p>
+<p>11.30 &ndash; 12.00<strong> Activity: Design review</strong></p>
+<p>We will introduce 3 tools which can be used at   various points in the design process to represent, inform and reflect on   designs:</p>
+<ul>
+<li>Pedagogical profiler</li>
+<li>Design decision assistant</li>
+<li>Ruin a course checklist</li>
+</ul>
+<p>Each team will use these tools to evaluate their   designs and inform their design decision making.</p>
+<p>12.00 &ndash; 12.40&nbsp; <strong>Activity: Stalls activity</strong></p>
+<p>Teams will split in to focus groups. Individuals,   with the support of expert facilitators, will explore one of the following   themes:</p>
+<ul>
+<li>Library, media services and accessibility</li>
+<li>Open Educational Resources</li>
+<li>Pedagogy (including assessment)</li>
+<li>Visualisation and representations</li>
+</ul>
+<p>Individuals will then rejoin their work teams,   share findings and consider what the impact of these findings might be the   emerging designs. The expert facilitators will be available to offer support   for the remainder of the workshop and will upload links and resources to   Cloudworks as appropriate.</p>
+<p>12.40 &ndash; 1.30 Lunch</p>
+<p>1.30 &ndash; 3.00 <strong>Activity: Visualising designs</strong></p>
+<p>Using all the online and physical resources   available, teams will draw up a more detailed representation of their module.   These representations are likely to include i.e. sequence, learning outcomes,   outlines of activities, technologies used, assessment strategies etc. Using   Compendium it is also possible to create links to specific OERs, tools and   resources. Designs and discussions around design problems and decisions will   be added to the Cloudworks site &ndash; allowing for collaborative discussion   between teams and opening up discussion beyond the workshop.</p>
+<p>3.00 &ndash; 3.15 Tea and coffee</p>
+<p>3.15 &ndash; 3.45<strong> Activity: Design Evaluation</strong></p>
+<p>&nbsp;This activity will provide an opportunity to view   and review the designs of other teams and give and receive feedback. It is   recognised that designs at this stage will contain detail but will not   necessarily be &lsquo;finished&rsquo;.</p>
+<p>3.45 &ndash; 4.15<strong> Activity: Next steps and action   planning</strong></p>
+<p><strong>&nbsp;</strong>It is hoped that this practical session will lead   to the design or redesign of modules/short courses and that these will be &lsquo;launched&rsquo;   over the next few months. This activity will give teams an opportunity to   identify the next steps in the design process and what further support they   may need from the University or the OULDI project team.</p>
+<p>4.15 &ndash; 4.30 Close of session and evaluation of workshop</p>
+<p>&nbsp;<em>Two laptops per team will be provided but please also feel free to bring your own if you would like to.</em></p>
+<p><em>&nbsp;So that your teams can export the Compendium maps and save any other work done on workshop laptops, please ensure that you bring at least one USB memory key with you per team.</em></p>]]></description>
+          <pubDate>Wed, 04 Nov 2009 14:10:24 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Activity: 30 mins: Workshop evaluation and next steps</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2603</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2603</guid>
+              <description><![CDATA[<p>Please answer the questions as fully as possible:</p>
+<ul>
+<li>Have your objectives for the workshop been met?</li>
+<li>What 3 words would you use to describe Cloudworks?</li>
+<li>What 3 words would you use to describe CompendiumLD?</li>
+<li>What action points have you identified as a result of this workshop?</li>
+<li>What did you like about the format of the workshop?</li>
+<li>What didn't you like or could be improved?</li>
+</ul>]]></description>
+          <pubDate>Fri, 06 Nov 2009 14:45:49 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Activity: 30 mins: Peer evaluation</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2602</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2602</guid>
+              <description><![CDATA[<p><img src="http://farm3.static.flickr.com/2800/4075040896_315bbe09a2_o.jpg" alt="" hspace="25" width="400" height="500" align="right" />This activity provides teams with an opportunity to give and receive feedback on designs.</p>
+<p>1. Review one other design and compare with your own. What did the other team do differently and what aspects are the same?</p>
+<p>2. Identify 2 things you like about the design and one development point (add these to that teams Cloud)</p>
+<p>3. Identify 2 things you like about your own design and one development point (add to your team Cloud)</p>
+<p><em>Please ask your critical friend to identify 2 things they liked about your design and one development point and add this to your Cloud</em></p>]]></description>
+          <pubDate>Wed, 04 Nov 2009 12:14:12 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Activity: 90 mins: Visualising Designs</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2601</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2601</guid>
+              <description><![CDATA[<h3>Click on the picture to enlarge it</h3>
+<p><a href="http://www.flickr.com/photos/44251404@N06/4074267383/"><img src="http://farm3.static.flickr.com/2510/4074267383_e7d35c5773_o.jpg" alt="Visualising designs" hspace="25" width="360" height="400" align="right" /></a>Work in teams to draw up a visualised overview of your Blended Learning module or short course. The morning activities have been designed to give you&nbsp; the skills and knowledge you need.&nbsp; By this time you will have considered design questions such as staff to student ratio, balance of physical to online learning, the technologies you will use, assessment strategies, pedegogical approach and accessability issues. You, or someone in your team, will have learnt about approaches to visualisation and representataion too.</p>
+<p>We recognise that this is just a one day workshop - and course designing often takes far longer than 6 hours - but we anticipate that by the end of this activity you will have a sound&nbsp; design outline on which to build. Please make proactive use all of the resources that you have to hand.</p>]]></description>
+          <pubDate>Fri, 06 Nov 2009 14:33:05 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Activity: 40 mins: Stalls activity</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2600</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2600</guid>
+              <description><![CDATA[<p>In this activity you will move temporarily out of your curriculum teams and into special interest groups (stalls). The groups available for this session are:</p>
+<ul>
+<li>Pedagogy (including assessment</li>
+<li>Library, Media services and Accessibility</li>
+<li>Visualisations and representations</li>
+<li>Open Educational resources</li>
+</ul>
+<p>To ensure a good skills spead in your team, make sure at least 1 person goes along to each of the stalls.&nbsp; An expert will be facilitating each special interest group and the activity you will do in these groups is likely to be discussion based and focusing on some of the practicalities and also some of the issues. You will spend about 20 mins in your special interest group and then have an opportunity to feedback your findings to your team.</p>
+<p>Learning outcomes:</p>
+<ul>
+<li>Develops Learning Design networks</li>
+<li>Develops individual knowledge in an aspect of learning design/ e-pedagogy</li>
+<li>Broadens teams' knowledge base in aspects of learning design/e-pedagogy</li>
+</ul>
+<p><a href="http://www.flickr.com/photos/44251404@N06/4074250549/"><img src="http://farm3.static.flickr.com/2424/4074250549_10c35028c2_o.jpg" alt="Stalls activity" hspace="25" width="400" height="300" align="centre" /></a></p>
+<h3>Click to enlarge image</h3>]]></description>
+          <pubDate>Fri, 06 Nov 2009 14:26:07 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Activity: 40 mins: Design review</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2599</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2599</guid>
+              <description><![CDATA[<h3>Click on image to enlarge</h3>
+<p><a href="http://www.flickr.com/photos/44251404@N06/4074978676/"><img src="http://farm4.static.flickr.com/3500/4074978676_22f23ac063_o.jpg" alt="Design review" hspace="25" width="300" height="300" align="right" /></a></p>
+<p>In this activity evaluation/ reflection tools will be used to review teams' designs:</p>
+<ul>
+<li>Pedagogy profile</li>
+<li>Course dimensions</li>
+<li>How to ruin a course checklist</li>
+</ul>
+<p>Each tool looks at a different aspect of your design, and each has strengths and limitations. It is intended that they should work effectively together.</p>
+<p>1. Use the 3 tools to review your design (no more than 10 mins per tool)</p>
+<p>2. Make a list of the changes you will make as a consequence of the review</p>
+<p>3. Amend the design, save it to your pen drive and add to Slideshare</p>
+<p>4. Update your&nbsp; Cloud with progress update and images as appropriate</p>]]></description>
+          <pubDate>Fri, 06 Nov 2009 14:09:36 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Activity: 40 mins: At a glance course maps</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2598</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2598</guid>
+              <description><![CDATA[<p><img src="http://farm3.static.flickr.com/2527/4074184471_b2bfdc7bdb_o.jpg" alt="At a glance course maps" hspace="25" width="380" height="600" align="right" />This activity introduces one of the representation tools being developed by the Open University. The tool is text based and built around the premise that key learning design decisions will fall into one of&nbsp; 4 catagories:</p>
+<ul>
+<li>Guidance and support</li>
+<li>Communication and collaboration</li>
+<li>Reflection and demonstration</li>
+<li>Content and experience</li>
+</ul>
+<p>The 'at a glance' representation gives a one-page overview of a module or course and can effectively communicate the 'flavour' or 'vision' of the course.</p>
+<p>1. In your team, and using the Word proforma on the pen drive, outline your 'vision' of your module or short course.</p>
+<p>2. Save a copy&nbsp; to the pen drive.</p>
+<p>3. Upload to the workshop Slideshare account</p>
+<p>4. Have a look at the other groups 'at a glance' representations and discuss the questions:</p>
+<ul>
+<li>How well do the representations communicate the 'flavour of the course'?</li>
+<li>Who might find this representation useful and when?</li>
+<li>What would it be useful to add?</li>
+</ul>]]></description>
+          <pubDate>Fri, 06 Nov 2009 15:26:54 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Activity: 20 mins: How to ruin a course</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2597</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2597</guid>
+              <description><![CDATA[<h3>Click on the image to enlarge</h3>
+<p><a href="http://www.flickr.com/photos/44251404@N06/4687144765/" target="_self"><img src="http://farm5.static.flickr.com/4005/4687144765_994230510c.jpg" alt="How to ruin a course activity" hspace="25" width="313" height="357" align="right" /></a>This activity will focus on the key issues and strategies that impact on the success (or otherwise) of learning and teaching within your context. The output of this activity will be a design checklist which you can use as one of the design evaluation tools in a mid-way design review and at the end of the workshop.</p>
+<p>&nbsp;</p>
+<p>1. List the 10 best ways to ensure your module or short course will fail!</p>
+<p>2. Share these with the others by uploading your lists to this Cloud (<em>'add extra content'</em>).</p>
+<p>3. What are the key themes?</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Wed, 04 Nov 2009 11:01:07 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Activity: 15 mins: Setting workshop objectives</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2596</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2596</guid>
+              <description><![CDATA[<p><img src="http://farm3.static.flickr.com/2460/4074085111_ffed24c8f7_o.jpg" alt="Arrival Activity" hspace="25" width="350" height="400" align="right" /></p>
+<p>&nbsp;</p>
+<p>The aim of this arrival activity is to provide teams with an opportunity to review personal objectives within the team and decide on team objectives for the day. The list will be used at the end of the session to frame reflection and evaluation.</p>
+<p>This activity will take place while everyone is settling in, setting up lap tops etc and before the session starts properly.</p>
+<p>1. Write down 3 personal objectives</p>
+<p>2. Briefly share these with the team</p>
+<p>3. Agree team objectives by identifying common themes within the team (no more than 6!)</p>
+<p>4. Write these on the flip chart paper provided</p>
+<p>5. <em>If you have time</em> add team objectives to this Cloud (by clicking on '<em>add extra content'</em>)</p>]]></description>
+          <pubDate>Tue, 05 Jan 2010 12:59:58 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Template: Workshop CompendiumLD maps</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2595</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2595</guid>
+              <description><![CDATA[<p>CompendiumLD representation of the workshop</p>
+<p>Click on the image to enlarge.</p>]]></description>
+          <pubDate>Tue, 15 Dec 2009 15:56:19 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Workshop: Conole - using the OU Learning Design tools, resources and activities</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2564</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2564</guid>
+              <description><![CDATA[<p>This cloud provides a link to some suggested activities delegates attending the workshop might like to explore. It points to relevant cloudscapes and clouds in cloudworks of interest as wel as appropriate external links. A cloud on my presentation at the conference which gives an overview of this work and some relevant links and reference can be found <a href="/cloud/view/2559">here.</a></p>
+<p><strong>Cloudworks</strong></p>
+<ul>
+<li><a href="/cloud/view/2521">Activity: Creating an account and profile on cloudworks</a></li>
+<li><a href="/cloudscape/view/1882">The OU Learning Design toolbox</a> - a cloudscape with the evolving set of OULDI tools, resources and activiites</li>
+<li><a href="/index.php/cloud/view/2454">Activity: The cloudquest chellenge </a>- this activity cloud enables you to explore the cloudworks site, to get a feel for it and to vote for the cloud or cloudscape you find particularly interesting/useful.</li>
+<li><a href="/index.php/cloud/view/2533">Activity: Design review -</a> this cloud gives you a chance to explore some different tools for thinking about desing from different perspectives.</li>
+<li><a href="/index.php/cloud/view/420.html">Activity: Finding and sharing learning and teraching ideas</a></li>
+<li><a href="/index.php/cloud/view/1906">Cloudworks evaluation </a>- take a moment to give us feedback on your thoughts on cloudworks</li>
+<li>For more on cloudworks, see the cloudscape <a href="/cloudscape/view/1911">Using Cloudworks</a></li>
+</ul>
+<p><strong>CompendiumLD</strong></p>
+<ul>
+<li><a href="/cloud/view/2478">Resource: Help and guidance on getting started with CompendiumLD</a></li>
+<li><a href="/cloud/view/393">Activity: CompendiumLD </a>- an introduction to using the tool, creating visual maps </li>
+<li><a href="/cloud/view/1802">Activity: Deconstructing the design of an OER&nbsp;&nbsp;</a></li>
+<li><a href="/cloud/view/1801">Activity: The power of visualisation</a></li>
+<li><a href="/index.php/cloud/view/2526">Activity: Making a design more collaborative using pedagogical patterns</a></li>
+</ul>
+<div id="site-header">
+<div id="site-header-content"><a id="link-home" rel="home" href="/index.php"> <br /></a></div>
+</div>]]></description>
+          <pubDate>Sat, 24 Oct 2009 13:55:36 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Resource: Pedagogy (including assessment)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2560</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2560</guid>
+              <description><![CDATA[<p>This Cloud has been set up to aggregate tools, resources and discussion around pedagogy in Blended Learning.</p>]]></description>
+          <pubDate>Fri, 23 Oct 2009 08:24:19 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Stall: Library, media services and accessibility</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2557</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2557</guid>
+              <description><![CDATA[<p>This Cloud has been set up to aggregate tools, resources and discussion around using the library and media service teams at Brunel University to support the design and implementation of new or revisited modules. In addition, this stall will begin to highlight the information and tools available for addressing accessability issues early in the design process.</p>]]></description>
+          <pubDate>Thu, 22 Oct 2009 15:27:05 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Stall: OERs</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2556</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2556</guid>
+              <description><![CDATA[<p>This Cloud has been set up to aggregate tools, resources and discussion around Open Educational Resources (OERs) and the finding, use and reuse of these.</p>]]></description>
+          <pubDate>Thu, 22 Oct 2009 15:20:05 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Stall: Visualisation and representations</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2555</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2555</guid>
+              <description><![CDATA[<p>This Cloud has been set up to aggregate tools, resources and discussion around Visualisation and representation of the Curriculum at three levels:</p>
+<ul>
+<li>Curriculum</li>
+<li>Module or unit</li>
+<li>Activity</li>
+</ul>
+<p>The Brunel Blended Design workshop will focus on representing at module or short course level but it should be noted that less work has been done around representing at this level. It is likely that you will take tools and strategies from both the Curriculum and Activity level 'toolboxes'.</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Fri, 23 Oct 2009 14:52:01 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Flyer: Brunel Learning Design Workshop</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2531</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2531</guid>
+              <description><![CDATA[<p>.</p>]]></description>
+          <pubDate>Tue, 20 Oct 2009 10:43:39 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Evaluation: ETUG workshop, 20th October</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2527</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2527</guid>
+              <description><![CDATA[<p>Use this cloud to reflect on the ETUG workshop, post your responses as comments here or use the post-its provided.</p>
+<ul>
+<li>What three words would you use&nbsp; to describe:   
+<ul>
+<li>CompendiumLD</li>
+<li>Cloudworks</li>
+</ul>
+</li>
+<li>What did you like about the format and content of the workshop?</li>
+<li>What didn&rsquo;t you like or could be improved?</li>
+<li>What action points are you going to do as a result of the workshop?</li>
+</ul>]]></description>
+          <pubDate>Mon, 19 Oct 2009 23:27:57 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Discussion: Thoughts on cloudworks</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2517</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2517</guid>
+              <description><![CDATA[<p>Use this space to share your impressions of cloudworks. You might want to reflect on the following questions:</p>
+<ul>
+<li>Initial impressions of the site?</li>
+<li>How easy it is to use?</li>
+<li>What makes this distinct from other social networking sites?</li>
+<li>Can you see youself using the site after the workshop, if so in what ways?</li>
+</ul>]]></description>
+          <pubDate>Mon, 19 Oct 2009 23:24:19 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Activity: 10 mins Introductions and interests</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2463</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2463</guid>
+              <description><![CDATA[<p>This cloud has been set up for participants of the ETUG fall workshop on learning design. Please post here:</p>
+<ul>
+<li>Your name and a little bit about yourself - feel free to use the "add links" and "add references" functions to add further details</li>
+<li>What you hope to get out of the workshop</li>
+</ul>]]></description>
+          <pubDate>Sat, 10 Oct 2009 06:30:22 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Challeges in designing courses</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1928</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1928</guid>
+              <description><![CDATA[<p>What to you are some of the key challenges with designing courses in today's technologically-enhanced environment, which are:</p>
+<ul>
+<li>pedagogically effective</li>
+<li>cost effective</li>
+<li>innovative</li>
+<li>fit for purpose (met student needs, institutional or professional requirements, etc)?</li>
+</ul>]]></description>
+          <pubDate>Wed, 08 Jul 2009 16:26:27 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Ideas for Olnet researcher workshops</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1852</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1852</guid>
+              <description><![CDATA[<p>
+<b>Audience</b><br />
+Workshop for researchers: OER researchers, learning design and pedagogical patterns researcher
+</p>
+<p>
+<br />
+<b>Focus of workshops</b><br />
+•    To develop an evolving collective set of research questions and cumulative data for the area [Maybe some data that they can take away and analyse themselves]. Sharing of raw data – a principle of an open resource approach – to share and discuss<br />
+•    To develop a shared understanding to define the intersections of the three domains and the benefits of combining them, to include: research questions, definitions, areas of activities, tensions and position, and core principles, what are the key journals and areas of activities<br />
+•    To develop a shared research domain definition for this new field
+</p>
+<p>
+<b>Resources<br />
+</b>•    Key papers for the field – could we have an evolving list – papers plus discussion and in particular are there ones that are working at the interface<br />
+•    Expertise database and funding sources<br />
+•    Collective data gathering and reuse which can be mined for different purposes<br />
+Data <br />
+•    1. Collective share knowledge on key research questions, brainstorm and refine research question<br />
+•    2. Data on research questions<br />
+o    ‘’How do teachers do about the design process?” Source of data, findings, and then aggregate [Design strategies clouds, LD workshops, interviews with teacher]<br />
+o    “What are the barriers to reuse of OER?<br />
+•    3. Data mining of cumulative data sources [Could we draw in experts in other fields to help with this?]<br />
+•    Existing tools, templates, processes and methods
+</p>
+<p>
+<b>Activities/workshop ideas<br />
+</b>•    Brainstorm of what they think are the key papers in the field and why and how they relate to this area – could set up clouds to discuss these<br />
+•    Hashtag #olnetkeypapers and short rationale for why to read it<br />
+•    Main research domain definitions - what are pedagogical patterns what are peoples perceptions of this – an evolving collective glossary for the field, could set up as a wiki, could have a jigsaw first, then brainstorm etc [Some sub-domains already have definitions, so need to hook into these]<br />
+•    Virtual writing groups to develop shared understanding to define the intersections of the three domains: research questions, definitions, areas of activities, tensions and position, and core principles, what are the key journals and areas of activities<br />
+•    Build a new social network for OER – share your network (and associated tools and resources) and exploit other people’s networks <br />
+•    Thinking of ways of how each community can use each other’s resources – patterns – which OER should we be looking at? How can visualisation ideas from learning design be used in a pattern context<br />
+•    Workshop on visualising patterns and metaphors for design <br />
+</p>
+]]></description>
+          <pubDate>Thu, 02 Jul 2009 14:04:07 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Olnet OER design workshop</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1839</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1839</guid>
+              <description><![CDATA[<p>Presentation slides for the Olnet workshop on Collaboration and Designs, 30th June 2009.</p>]]></description>
+          <pubDate>Wed, 01 Jul 2009 15:15:05 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Activity: 10 mins Sharing designs</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1811</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1811</guid>
+              <description><![CDATA[<p>Use this space to describe and share your representations and outputs of the discussion from the <a href="/node/1800">Think-Pair-Share exercise</a>. If you have links to the resource or anymore information that would be helpful. Also feel free to add diagrams.</p>]]></description>
+          <pubDate>Tue, 30 Jun 2009 09:31:28 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Activity: 20 mins Deconstructing the design of an OER</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1802</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1802</guid>
+              <description><![CDATA[<ul>
+<li>Explore the follow <a href="/">OER of part of the K113 course </a></li>
+<li>Try to represent one (out of the first two) extracts in CompendiumLD </li>
+<li>
+<h3>&nbsp;</h3>
+<p>How do the designs compare to   <a class="external text" title="http://labspace.open.ac.uk/blocks/compendium/browsemaps.php?context=15&id=3584" rel="nofollow" href="http://labspace.open.ac.uk/blocks/compendium/browsemaps.php?context=15&id=3584">those created by Perry Williams</a>&nbsp;?</p>
+</li>
+<li>
+<p>Each group now revisits one (out of two) extract of K113 and looks at how patterns can be used to make it more collaborative.</p>
+</li>
+<li>
+<p>Share your thoughts and feedback here</p>
+</li>
+<li>
+<p>One person from each group goes with their design to the next group and  explains it.</p>
+</li>
+</ul>]]></description>
+          <pubDate>Tue, 30 Jun 2009 07:22:50 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Activity: 25 mins The power of visualisation</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1801</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1801</guid>
+              <description><![CDATA[<p>Look at <a href="http://titan.tel.uva.es/wikis/yannis/images/0/06/H808_cld_representation.pdf">this representation</a> of part of&nbsp; a course</p>
+<ul>
+<li>In groups explore the H808 design</li>
+<li>Does this give you a good overview of what is it the students are doing?</li>
+<li>How much time does each task take?</li>
+<li>Have the learning outcomes been met?</li>
+<li>Summarise your discussions here</li>
+</ul>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Tue, 30 Jun 2009 07:17:58 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Activity: 20 mins Strategies for design </title>
+              <link>https://cloudworks.ac.uk/cloud/view/1800</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1800</guid>
+              <description><![CDATA[<ul>
+<li>Think of a resource or a learning activity you have created</li>
+<li>Describe its inherent design</li>
+<li>Share with the person next to you</li>
+<li>Summarise your discussions in this cloud </li>
+<li>Share with the wider group</li>
+</ul>]]></description>
+          <pubDate>Mon, 19 Oct 2009 22:17:56 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Olnet OER design workshop</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1745</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1745</guid>
+              <description><![CDATA[<p>
+<b>Overview</b><br />
+The workshop will introduce participants to use a range of tools, methods and approaches to designing and evaluating Open Educational Resources (OERs). The session will include an overview of the OLnet initiative which is a new global network of support for researchers, users and producers of OERs. Participants will have a chance to try out some of the tools that have been developed as part of OLnet and to discuss relevance and application to their own practice. See also the related <a href="/node/562">Olnet cloudscape</a> and the <a href="/node/387">OULDI cloudscape</a>, which have additional resources.
+</p>
+<p>
+<b>Outcomes</b>
+</p>
+<ol>
+	<li>An awareness of the range of resources, tools and methods which are available to support the design and evaluation of OERs – including case studies of good practice, learning object repositories and learning design tools/methods</li>
+	<li>An understanding of the OLnet initiative and how it can be used to support the design and evaluation of OERs</li>
+	<li>Experience of thinking about the OER effectiveness cycle from different perspectives</li>
+	<li>Hands on experience of some of the OLnet tools including CompendiumLD for visualising designs, Cloudworks for sharing and discussing the creation and use of OERs and Cohere for the development of complex collaborative co-argumentation and ideas</li>
+	<li>An understanding of how the OLnet can be applied in their own teaching context.  </li>
+</ol>
+<p>
+<b> Workshop outline</b><br />
+1.    An introduction to the workshop and aims
+</p>
+<p>
+2.    Challenges and opportunities with OERs 
+</p>
+<p>
+3.    Think-Pair-Share exercise
+</p>
+<p>
+4.    Translation into an explict dsign 
+</p>
+<p>
+5.    Introduction to <a href="http://olnet.open.ac.org">Olnet</a> 
+</p>
+<p>
+6.    Walk through example: Reusing Spanish resources 
+</p>
+<p>
+7.    Exercise: Representation of the design of K113
+</p>
+<p>
+8.    Sharing designs and use of pedagogical patterns 
+</p>
+<p>
+9.    Share new redesigns
+</p>
+<p>
+10.  Conclusions and evaluation 
+</p>
+]]></description>
+          <pubDate>Wed, 10 Jun 2009 12:34:55 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Measuring what people know</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1365</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1365</guid>
+              <description><![CDATA[<p>
+Is human capital accounting
+theoretically possible and practically feasible? Economists estimate
+human capital on the basis of years of schooling or formal educational
+attainment levels regardless of actual productive capacity. Financial
+accounting and reporting ignore even these crude measures, leaving
+human capital off the balance sheet for want of rules or conventions. A
+review of innovative policies in OECD countries shows that progress has
+already been made in moving beyond the poor information provided by
+standardized educational certification. Spurred by the emerging
+&quot;knowledge economy&quot;, government policy makers, human resource managers,
+financial accountants and educators are developing methods for
+systematically evaluating and recording knowledge assets acquired
+through experience, education and training. This book explains why it
+is possible, in terms of economic theory, and feasible, from the
+perspective of accounting practices, to implement new human capital
+information and decision-making systems.
+</p>
+<hr color="#dddddd" noshade="noshade" size="1" width="100%" />
+]]></description>
+          <pubDate>Wed, 01 Apr 2009 07:54:12 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Future scenarios for schools</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1363</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1363</guid>
+              <description><![CDATA[<p>
+This report outlines 4 potential scenarios for the future of schooling. Extract from the introduction:
+</p>
+<blockquote>
+	<p>
+	However, as we argue in this publication, there is good reason to think that the first part of the <br />
+	21st century could see radical changes in the socio-economic landscape. If this is the case, can schools <br />
+	retain such a central, durable, institutional role? Should they? Under what conditions could today’s <br />
+	schools play the same roles as in the past? Can the school evolve along with the changing socio- <br />
+	economic context, and if so, how? Would schools act as a brake or an accelerator of desired changes?
+	</p>
+	<p>
+	<br />
+	In this publication, we address these questions and set out a number of possible futures for schools <br />
+	and schooling systems. Our goal is not to generate a single ‘preferred future’, or to offer any kind of <br />
+	prediction, but to contribute to the ongoing debate about future schools by helping to extend the time <br />
+	horizons within which that debate occurs, and by identifying the possible implications of strategic <br />
+	choices that school leaders, policy-makers and others could make in the coming decade. 
+	</p>
+</blockquote>
+]]></description>
+          <pubDate>Wed, 01 Apr 2009 07:43:01 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Case studies on new learning communities</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1343</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1343</guid>
+              <description><![CDATA[<p>
+<b>Case studies on new learning communities emerging results from field analysis</b><br />
+Claudio Dondo and Stefania Aceto
+</p>
+<p>
+<b>Main interest of the study<br />
+</b>To investigate the innovation emerging in 12 online communities in pedagogical and organisational terms 
+</p>
+<p>
+<b>Methodology<br />
+</b>Desk research – indentify and select communities, content analyses and interactional analysis<br />
+Field research – interviews and survey
+</p>
+<p>
+<b>12 communities<br />
+</b>eTwinning, <br />
+CEDDET, <br />
+TappedIn, <br />
+RezEd, <br />
+Microbiilogy forum, <br />
+Englishforums, <br />
+TuDiabetes, <br />
+Bookscrossing, <br />
+Gay,tv, <br />
+muxlim, <br />
+experience project, <br />
+II Centiere
+</p>
+<p>
+<b>Mircobiology Forum<br />
+</b>
+</p>
+<ul>
+	<li>Space for microbiologists to share their practice and keep up to date in the field</li>
+	<li>Learning happens informally and unintentionally and by peer exchange</li>
+	<li>Access to debate and context that members could not access elsewhere</li>
+	<li>Benchmarking of ideas and practices</li>
+	<li>Professional development is coupled with increased self esteem as main outcomes of community participation</li>
+	<li>15 years history, 88 countries</li>
+	<li>Highly acknowledged in the field with negative effect that some companies are reducing their training budget and encouraging their employees to participate in the community instead</li>
+	<li>Professional community funded by corporate sponsors but independent</li>
+</ul>
+<p>
+“The community has also given me the opportunity to demonstrate my own capabilities to my colleagues”
+</p>
+<p>
+‘[Being a member] improve my credibility as a researcher internationally and improved my general personality to be an open-minded person”
+</p>
+<p>
+“{being a member] reinforce my technical decisions, get a handle on common or best practices”
+</p>
+<p>
+Members join to upgrade professionally and take advantage of a very activity community where peer support is key to success<br />
+<br />
+<b>CEDDET<br />
+</b>
+</p>
+<ul>
+	<li>Formal and informal learning happening</li>
+	<li>Community addresses the professional upgrade needs of a closed group of PA experts and practitioners in LA/Spain</li>
+	<li>Learning happens through the sharing of theoretical knowledge and through practice emerging among the participants</li>
+	<li>Quite a structured community</li>
+	<li>Closed expert network</li>
+	<li>Cross-cultural collaborative exchange</li>
+	<li>Community started from the suggestion of the participants to online courses who wanted to keep in touch and keep on discussing relevant topics</li>
+	<li>Community fosters cultural awareness and expression</li>
+	<li>Good example of a community where learning is explicit aim</li>
+	<li>Community started with social aims but then evolved into a learning community</li>
+</ul>
+<p>
+<b>II Cantiere<br />
+</b>
+</p>
+<ul>
+	<li>Aim is to propose and experiment a collaborative approach which finds a concrete output in the development and production of videos on free software use. This is a production orientated community born</li>
+	<li>Learning happens in the very process of sharing and confronting</li>
+	<li>Practical knowledge</li>
+	<li>Practical application of innovative theories</li>
+	<li>Creativity</li>
+	<li>Digital skills improvement</li>
+	<li>Knowledge co-construction</li>
+	<li>Spontaneous self-regulation</li>
+	<li>Potentiality of the collaborative approach</li>
+	<li>Constructive positive fruitful atmosphere</li>
+	<li>General satisfaction of all participants</li>
+	<li>Strong cooperative spirit</li>
+	<li>Flexibility and openness to different viewpoints approaches and ideas</li>
+	<li>Reciprocal respect among participants</li>
+	<li>It is a production driven and self organised community with no explicit learning aims</li>
+	<li>Despite the fact that the community doesn’t have an explicit educational aim, its outputs are educational</li>
+</ul>
+<p>
+<b>Gay.tv<br />
+</b>
+</p>
+<ul>
+	<li>Share experience and information, meet people and socialise</li>
+	<li>Informal, incidental learning</li>
+	<li>Knowledge and experiences sharing</li>
+	<li>Practical knowledge (learning to live homosexually in a positive way)</li>
+	<li>Centralised discussion spurs on gay life topics to raise awareness</li>
+	<li>Community with social network features</li>
+	<li>Strong awareness raising role</li>
+	<li>Members’ sense of belonging</li>
+	<li>Active positive model for LGBT people</li>
+	<li>Majority of lurkers</li>
+</ul>
+<p>
+<b>Rezed<br />
+</b>
+</p>
+<ul>
+	<li>Expert community to explore the features and potential of virtual worlds for learning</li>
+	<li>Newcomers are guided to get to know the community</li>
+	<li>Learning happens by knowledge and practice sharing and by interaction</li>
+	<li>Lurking is not considered negatively rather a way of learning how the community works</li>
+	<li>Expert community exploring the potential of virtual worlds for learning.</li>
+	<li>Focus on theory and practice related to virtual worlds</li>
+	<li>Discussion launched by community animators are tracked those launched by members are not</li>
+	<li>Open community – to real people and avators</li>
+	<li>Marketing strategy but word of mouth important</li>
+	<li>Community used as a platform to start new partnerships and develop one’s network</li>
+	<li>Learning happens informally and unintentionally</li>
+	<li>Members join because they want to be part of a community that does something important and want to learn through participation and for networking and partnership search</li>
+</ul>
+<p>
+<b>EnglishForums<br />
+</b>
+</p>
+<ul>
+	<li>Help people learn English</li>
+	<li>Principle of QandQ</li>
+	<li>Learning is an explicit aim of the community</li>
+	<li>Spills over from the main activity – learning the language  are: learn hw to teach the language, learn how to find information, learning how to use ICT, develop social skills, develop critical thinking</li>
+	<li>Three learning outcomes are mainly developed passively</li>
+	<li>Culture of the community – policy on loose roles, policy on good manner of discussion trust the people you trust</li>
+	<li>Military organisation with a hippie attitude – moderators, administrators and trusted users</li>
+	<li>Most members are lurkers</li>
+	<li>Plan to award qualifications for the different levels of language proficiency</li>
+	<li>Learning  happens mainly by making questions and receiving answers on various issues</li>
+	<li>Community plans to provide formal learning certificates</li>
+	<li>Born as a community for students it has now evolved to help teachers teach better</li>
+	<li>Significant unintentional learning happens in terms of social and critical skills</li>
+	<li>Members join to learn English and benefit from total flexibility couple with the development of the culture of discussion and making new friends</li>
+</ul>
+<p>
+&nbsp;
+</p>
+]]></description>
+          <pubDate>Tue, 31 Mar 2009 12:29:25 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Livemocha online language learning community space</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1330</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1330</guid>
+              <description><![CDATA[<p>
+<a href="http://www.livemocha.com/ ">Livemocha</a> is an interesting web 2.0-based site which aims to connect language learning with native speakers internationally. Language learning is an obvious candidate for harnessing the power of web 2.0 practices given the centrality of communication as part of the learning process.  
+</p>
+<p>
+The site is desribed as follows: 
+</p>
+<p>
+<b>Social Language Learning</b> - Online 
+</p>
+<ul class="orange_bullet">
+	<li>Learn at your own pace with fun online language lessons</li>
+	<li>Connect with foreign language partners around the world </li>
+</ul>
+<p>
+&nbsp;
+</p>
+]]></description>
+          <pubDate>Tue, 31 Mar 2009 08:52:05 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Emergence of new online spaces and communities</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1329</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1329</guid>
+              <description><![CDATA[<p>
+A summary of the IPTS report on Pedagogical innovations in new ICT-facilitated learning communities (see overview cloud http://cloudworks.ac.uk/node/1326)
+</p>
+<p>
+<br />
+<b>Context and motivations for the study<br />
+</b>Need for qualified workers<br />
+Need for new skills for new jobs<br />
+Lifelong learning and mobility<br />
+Equity and active participation<br />
+Quality and efficiency<br />
+Creativity, innovation and entrepreneurship<br />
+Lack of transformative impact through ICT in educational systems, although potential exists.
+</p>
+<p>
+<b>Emergence of social computing <br />
+</b>Wide take up<br />
+Intensive usage<br />
+Not only young people!<br />
+Not only for leisure
+</p>
+<p>
+Good example for language learning – livemocha ‘a powerful opportunity for people around the world to connect with language partners’
+</p>
+<p>
+<b>Questions<br />
+</b>
+</p>
+<ol>
+	<li>Can these emerging online spaces and communities provide learning that is relevant and useful?</li>
+	<li>What can education and training systems learn from them?</li>
+	<li>How could online communities benefit from lifelong learning and competitiveness in Europe?</li>
+	<li>What are the risks and challenges?</li>
+	<li>What should and could policies do?</li>
+	<li>Online  community?</li>
+</ol>
+<p>
+Preece (2000) an online community consists of 1. People who interact socially, 2. A share purpose that provides a reasons for the community, 2. Policies that guide people’s interactions, 4. Computers systems to support and mediate social interaction and facilitate a sense of togetherness
+</p>
+<p>
+In networked online spaces collective actions also follow from individual activities possibly without shared purpose or sense of togetherness. Also these collective can contribute worth exploring – need for articulating the difference to community.
+</p>
+<p>
+<b>Drivers for participation <br />
+</b>1.    Socialising – world of warcract, social networking, YouTube<br />
+2.    Production – FLOSS, wikipedia<br />
+3.    Organisation – Workplace community, HE online course<br />
+4.    Topic – TuDiabetes, Inter VproC, LiveMocha
+</p>
+<p>
+Online platforms and facilities can enable different levels of communities to emerge
+</p>
+<p>
+Often communities accommodation several aspects – especially organisation-based vs. horizontal typically had others drivers as well.
+</p>
+<p>
+<b>Socialisation<br />
+</b>
+</p>
+<ol>
+	<li>Examples – media sharing spaces, blogosphere, online social networks, entertainment</li>
+	<li>Motivation (from OCLC, 2008) – young people its fun, older people its useful</li>
+	<li>Activities (Pew/Internet 2006; OCLC, 2008) – creative expression, share and document knowledge and experiences, manage connections, resources, life</li>
+	<li>Individual’s learning – express and build identity, reflect on one’s life when comparing with others (Park et al. 2008)</li>
+</ol>
+<p>
+<b>Joint production, goal, task<br />
+</b>
+</p>
+<ol>
+	<li>Examples – collaborative joint product development, open soure software development, crowd sourcng for a joint task, collaborative resources repository, social knowledge management systems</li>
+	<li>Motivation – usefulness for oneself, external requirement, intrinsic interest</li>
+	<li>Activiites – collaborative work according to community work model, create concrete products as outputs of work</li>
+	<li>Individual learning – learn to work with others, negotiate, collaborate, observe the practices of others, learn from it</li>
+</ol>
+<p>
+<b>Joint interest, situation expertise<br />
+</b>
+</p>
+<ol>
+	<li>Examples – tool-based knowledge sharing, profession based communities, topic based support, personal health, well being, communtities for context and culture</li>
+	<li>Motivation – connection and sharing with others and similar situations, need for personal support</li>
+	<li>Activities – asking and giving advice, reading and following</li>
+	<li>Individual learning – receiving quick and targeted personal guidance when needed, finding and participating in knowledge development for the area</li>
+</ol>
+<p>
+<br />
+<b>Organisation based<br />
+</b>
+</p>
+<ol>
+	<li>Examples – community model within courses, integrating institutional environment with other resources, lifelong communities set up at institutions, informal workplace communities</li>
+	<li>Motivation – requirement, usefulness, avoiding isolation feeling supported</li>
+	<li>Activities – striving towards given goals, sharing resources, informal advice and support</li>
+	<li>Learning – learn workplace culture to be part of a team, find and create ways for carrying out tasks, change the practices of the organisation</li>
+</ol>
+<p>
+<b>Conclusion<br />
+</b>Online spaces are increasing their importance in people’s lives<br />
+Not all online spaces are communities, but they still can support learning
+</p>
+<p>
+Through online communities people can find out, follow and participate much more than was possible before
+</p>
+<p>
+Approaching communities through the member motivations and supported activities (production, topic, socialisation) could help in finding and developing online places and communities for learning
+</p>
+<p>
+Communities within organisations vs horizontal communities can both have specific important features
+</p>
+<p>
+What should and could be the goals and means in educational institutions
+</p>
+<ol>
+	<li>To develop internal communities (learners, teachers)?</li>
+	<li>To develop participation in external online spaces and communities?</li>
+	<li>To develop horizontal communities?</li>
+	<li>To differentiate between communities/online spaces they support?</li>
+</ol>
+<p>
+&nbsp;
+</p>
+]]></description>
+          <pubDate>Tue, 31 Mar 2009 08:46:32 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Pedagogical innovations in new ICT-facilitated learning communities</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1326</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1326</guid>
+              <description><![CDATA[<p>
+A website for this <a href="http://ipts.jrc.ec.europa.eu/">IPTS</a> review is available <a href="http://is.jrc.ec.europa.eu/pages/EAP/LearnCo.html">here</a> with the draft report and an overview presentation on the work to date. 
+</p>
+<p>
+The aim of this study is to review and assess the new social and pedagogical approaches to learning that are emerging in new ICT-facilitated learning communities.  In addition to formal education, such communities are increasingly emerging in informal and non-formal lifelong learning environments where learning is happening in a freely organised manner, bring together learners, experts, and other parties.  This study aims to examine these new learning communities in order to find innovative pedagogical and organisational practices that support lifelong learning in different settings and foster innovations in the interaction of teachers, learners and organisations. <br />
+<br />
+Description: Through desk research, in-depth case studies and expert workshops, the study aims to:<br />
+<br />
+</p>
+<ul>
+	<li>Provide an overview and understanding of new learning communities that are characterised as socially and pedagogically innovative and identify what is the innovative dimension;</li>
+	<li>Provide an overview and analysis of novel learning and teaching approaches and strategies based on active learning approaches in the communities (such as creative problem solving, discovery, learning by doing, experiential learning, critical thinking and creativity);</li>
+	<li>Investigate the specific role and contribution of ICT in developing and enabling new collaboration models bridging various learning settings (formal, non-formal and informal);</li>
+	<li>Analyse the relationship between ICT, learning and innovation in view of organisational changes in the delivery of learning;</li>
+	<li>Propose avenues for further research and policy-making.</li>
+</ul>
+]]></description>
+          <pubDate>Tue, 31 Mar 2009 08:09:38 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Template: Design challenge</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1196</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1196</guid>
+              <description><![CDATA[<p><strong>The short course design challenge&hellip; are you up to it???</strong></p>
+<p><strong>Background</strong><br /> Curriculum design has never being more challenging or potentially exciting:<br /> &bull;&nbsp;&nbsp; &nbsp;New technologies offer a seemingly endless range of possibilities in terms of use of engaging digital media to support core course material to exciting and authentic communicative and collaborative opportunities<br /> &bull;&nbsp;&nbsp; &nbsp;Modern students are more and more diverse with higher expectations of courses and more diverse needs from formal, work-related possibilities through to learning for informal, personal reasons<br /> &bull;&nbsp;&nbsp; &nbsp;Employers are increasingly demanding evidence of students having developed a diverse range of social skills and competences to meet the challenges of the modern workplace<br /> &bull;&nbsp;&nbsp; &nbsp;There is now a range of educational models that can be applied to help foster different pedagogical approaches.&nbsp;</p>
+<p>This one-day workshop has been developed to introduce course teams to  using a learning design approach. The example below (originally used at  Brunel University in 2009) uses the OULDI learning tools and activities  but we have successfully tried slotting in tools and activities from  other projects (especially the Viewpoints project) and the format holds  well. For a list of other activities and tools you could use try the  learning design toolbox. These and other examples of the template in use:</p>
+<p><a href="http://cloudworks.ac.uk/cloudscape/view/1912">Brunel Blended Design workshop November 2009</a></p>
+<p><a href="http://cloudworks.ac.uk/cloudscape/view/2130">Brunel 'Tools for change' workshop July 2010</a></p>
+<p><a href="http://cloudworks.ac.uk/cloudscape/view/2095">London South Bank  University 'Curriculum Design Fest' May 2010</a></p>
+<p><a href="http://cloudworks.ac.uk/cloudscape/view/2133">Reading University  Curriculum Design Workshop: New approaches to the design of Blended  Learning July 2010</a></p>
+<p>Please feel free to use or  repurpose this template and let us know what you do and how you get on.</p>
+<p>&nbsp;</p>
+<table style="width: 100%;" border="0">
+<tbody>
+<tr>
+<td>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="http://www.open.ac.uk/blogs/OULDI/wp-content/uploads/2010/11/Readteamshot2.png" alt="" width="329" height="295" /><em>&nbsp;</em></p>
+<p style="cursor:auto"><!--NO CSS--><em>"Thank  you for running a whole day event. I think  we needed this time  to  really become familiar with the motivation and </em></p>
+<p style="cursor:auto"><!--NO CSS--><em>nature of the course  and  to develop close cross  curricular</em></p>
+<p style="cursor:auto"><!--NO CSS--><em> links with other  collegues, a secondary but immensely </em></p>
+<p style="cursor:auto"><!--NO CSS--><em>valuable side product" </em>Design Challenge  participant</p>
+</td>
+<td>
+<h2>Session aims</h2>
+<p>&nbsp;</p>
+<ul>
+<li>An awareness of the range of resources, tools and methods which are    available to support learning design &ndash; including case studies of good    practice, learning object repositories and learning design    tools/methods.&nbsp;</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>Experience of thinking about the design process from different    perspectives; an understanding of the issues and challenges involved in    designing blended learning </li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>An understanding that will allow you to transfer the experience    gained from the design challenge to your own context and the blended    learning modules you are involved in designing</li>
+</ul>
+<br /></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>The Challenge...</h2>
+<p>&nbsp;</p>
+<p>The Design  Challenge&rsquo; is intended to be an intense  but fun means of illustrating a  range of resources, tools and ways of  thinking about course design.  Participants are introduced to a range of  tools and techniques by means  of access to advisors who will help them  along the process. <br /> <br /> Towards the end of the afternoon each team  presents their ideas. A  panel evaluates their work and select the  strongest designs. The  session concludes with a reflection on the  usefulness of the event and  on which of the ideas, resources and tools  participants might wish to  pursue further. <br /> <br /> Although designed  as a fun activity, the event gives an awareness of  the latest in  thinking innovatively about curriculum design and is  designed to be  proactive rather than being composed around an  uncontextualised set of  one-to-many presentations. The time-limited  challenge enables  participants to make a preliminary assessment of  which of the ideas,  tools and resources are useful and gives them some  feel for what might  be possible in a longer, term real course  production process. Hopefully  the challenge will open avenues for  participants to pursue this further.</p>
+<p>&nbsp;</p>
+<h2>Resources</h2>
+<p>Paper  and pens (hard copies of tools if appropriate - A3 best)</p>
+<p>'Stalls'  facilitators</p>
+<p>Two laptops per team (can also bring their own  but should be networked)</p>
+<p>So that your teams can export the CompendiumLD maps and save any    other work done on workshop laptops, please ensure that they bring at    least one USB memory key with them per team.</p>
+<h2>Outline  of the day</h2>
+<p>&nbsp;</p>
+<p style="cursor:auto"><!--NO CSS--><strong>9.30 &ndash; 9.45</strong>&nbsp; Arrival  activity: <a href="http://cloudworks.ac.uk/view/2596">Setting personal and team  objectives</a></p>
+<p style="cursor:auto"><!--NO CSS--><strong>9.45 &ndash; 10.15</strong> Welcome and  introductions:<a href="http://cloudworks.ac.uk/view/3648"> What is learning design?</a></p>
+<p style="cursor:auto"><!--NO CSS--><strong>10.15 &ndash; 10.35</strong> <a href="http://cloudworks.ac.uk/view/2597">Activity: How to ruin a  course</a></p>
+<p style="cursor:auto"><!--NO CSS-->This activity will focus on the key issues  and   strategies that  impact on the success (or otherwise) of learning  and teaching   within  your context. The output of this activity will  be a team checklist    which will be used as one of the design  evaluation tools in the design  review   and at the end of the workshop.</p>
+<p style="cursor:auto"><!--NO CSS--><strong>10.35 &ndash; 11.15</strong> <a href="http://cloudworks.ac.uk/view/2598">Activity: &lsquo;At a glance&rsquo;  course map</a>&nbsp;</p>
+<p style="cursor:auto"><!--NO CSS--><strong>11.15 &ndash; 11.30</strong> Tea and coffee</p>
+<p style="cursor:auto"><!--NO CSS--><strong>11.30 &ndash; 12.00</strong> <a href="http://cloudworks.ac.uk/view/2599">Activity: Design review</a></p>
+<p style="cursor:auto"><!--NO CSS-->We will introduce 3 tools which can be  used at   various points in  the design process to represent, inform and  reflect on   designs:</p>
+<ul>
+<li>&nbsp;   
+<ul>
+<li><a href="http://jiscdesignstudio.pbworks.com/w/page/OULDI:-Pedagogy-Profile">Pedagogy  profile</a></li>
+<li><a href="http://jiscdesignstudio.pbworks.com/w/page/OULDI:-Course-Dimensions">Course  dimensions</a></li>
+<li>Ruin a course checklist (created during the first activity)</li>
+</ul>
+</li>
+</ul>
+<p style="cursor:auto"><!--NO CSS-->Each team will use these tools to evaluate  their   designs and inform  their design decision making.</p>
+<p style="cursor:auto"><!--NO CSS--><strong>12.00 &ndash; 12.40</strong>&nbsp; <a href="http://cloudworks.ac.uk/view/2600">Activity: Stalls activity</a></p>
+<p style="cursor:auto"><!--NO CSS-->Teams will split in to focus groups.  Individuals,   with the support  of expert facilitators, will explore  one of the following   themes (examples from Brunel University  workshop):</p>
+<ul>
+<li>&nbsp;   
+<ul>
+<li><a href="http://cloudworks.ac.uk/view/2557">Library, media services  and accessibility</a></li>
+<li><a href="http://cloudworks.ac.uk/view/2556">Open Educational  Resources</a></li>
+<li>Pedagogy (including assessment)</li>
+<li><a href="http://cloudworks.ac.uk/view/2555">Visualisation and  representations</a></li>
+</ul>
+</li>
+</ul>
+<p style="cursor:auto"><!--NO CSS-->Individuals will then rejoin their work  teams,   share findings and  consider what the impact of these findings  might be the   emerging  designs. The expert facilitators will be  available to offer support    for the remainder of the workshop and will  upload links and resources to    Cloudworks as appropriate.</p>
+<p style="cursor:auto"><!--NO CSS--><strong>12.40 &ndash; 1.30</strong> Lunch</p>
+<p style="cursor:auto"><!--NO CSS--><strong>1.30 &ndash; 3.00</strong> <a href="http://cloudworks.ac.uk/view/2601">Activity: Visualising  designs</a></p>
+<p style="cursor:auto"><!--NO CSS-->Using all the online and physical  resources   available, teams will  draw up a more detailed  representation of their module.   These  representations are likely to  include i.e. sequence, learning outcomes,    outlines of activities,  technologies used, assessment strategies etc.  Using   Compendium it is  also possible to create links to specific OERs,  tools and   resources.  Designs and discussions around design problems  and decisions will   be  added to the Cloudworks site &ndash; allowing for  collaborative discussion    between teams and opening up discussion  beyond the workshop.</p>
+<p style="cursor:auto"><!--NO CSS--><strong>3.00 &ndash; 3.15</strong> Tea and  coffee</p>
+<p style="cursor:auto"><!--NO CSS--><strong>3.15 &ndash; 3.45</strong> <a href="http://cloudworks.ac.uk/view/2602">Activity: Design  Evaluation</a></p>
+<p style="cursor:auto"><!--NO CSS-->&nbsp;This activity will provide an opportunity  to view   and review the  designs of other teams and give and receive  feedback. It is   recognised  that designs at this stage will contain  detail but will not    necessarily be &lsquo;finished&rsquo;.</p>
+<p style="cursor:auto"><!--NO CSS--><strong>3.45 &ndash; 4.30</strong><a href="http://cloudworks.ac.uk/view/2603"> Activity: Next steps,  action   planning and evaluation</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>4.15 &ndash; 4.30</strong> Close of  session</p>]]></description>
+          <pubDate>Fri, 06 Mar 2009 16:21:17 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Activity: Clustering  research questions activity</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1164</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1164</guid>
+              <description><![CDATA[<p>An activity used in the <a href="/node/876">evidence and outcomes session </a>at the OER meeting in Monterey March 2009:</p>
+<ul>
+<li>Each person writes down one research question they are interested in on a post-it </li>
+<li>Everyone goes around the room and reads other peoples&rsquo; questions</li>
+<li>Those with a similar research question or focus cluster together</li>
+<li>Clustered post-its are grouped on a board and a plenary session discusses and refines them.</li>
+<li>A final activity can be to brainstorm evidence and examples of existing research or projects that are addressing or provide some answers to these research question </li>
+</ul>]]></description>
+          <pubDate>Mon, 16 Nov 2009 10:59:35 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Integrating Student experience into learning - APEL</title>
+              <link>https://cloudworks.ac.uk/cloud/view/729</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/729</guid>
+              <description><![CDATA[<p>
+We are currently in the process of developing 'supported APEL' routes for our new 60 point courses. These are in fact shortened versions of the 'parent' course with some tutor support, teaching materials and formative assessment. However, we now wonder if there are other more appropriate and efficient ways of recognising prior experience - so that we connect with students' individual needs and make sure that they enter programmes at the best possible place. 
+</p>
+<p>
+&nbsp;
+</p>
+<p>
+For example we might have a 'starter' assessment course which acts as a diagnostic to suggest where within the rest of the award students might start. This may also mean that courses (modules?) need to be offered in smaller chunks - say 10 or 15 points. This could still be within a 60 point framework if we wished. 
+</p>
+<p>
+&nbsp;
+</p>
+<p>
+&nbsp;
+</p>
+]]></description>
+          <pubDate>Thu, 15 Jan 2009 14:22:23 +0000</pubDate>
+            </item>
+                    <item>
+              <title>What would a new FD  look like?</title>
+              <link>https://cloudworks.ac.uk/cloud/view/717</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/717</guid>
+              <description><![CDATA[<p><span class="Apple-style-span" style="cursor:auto"><!--NO CSS-->Recognising acheivement project</span></p><ul>					<li>This will enable the OU to offer an integrated approach to recognising learning from non-traditional routes. The aim is to develop institutional policy and practice for the accreditation of prior experiential learning (APEL), flexible foundation degrees and negotiated learning qualifications, in order to provide pathways from non-accrediated workplace learning and other providers. It will also underpin the concept of recognising achievement in learning. </li></ul><div><span class="Apple-style-span" style="cursor:auto"><!--NO CSS-->Flexible foundation degree</span></div><div><ul>					<li>Alongside this a flexible foundation degree award is being developed. This is an important part of RAP as it will be a vehicle for meeting all of the project outcomes and deliverables such as trailling APEL/negotiated learning processes, informing policy and analysing the impact of these types of developments on university systems.  </li>			<li>This is being developed and piloted using the 'learning through work' (LtW) platform. This is an on-line planning, management and delivery system to enable HEIs to offer negotiated work-based programmes agreed between learners, employers and HEIs. This process results in a customised learning programme that meets specific needs. </li>			<li>The degree includes: work-based learning, APEL, accreditation of employer-based educational programmes, OU courses, learning programme negotiated between student/employee, employer, OU</li></ul><ol>					<li></li></ol></div><p><span style="font-weight: bold" class="Apple-style-span"> iKnow project</span></p><ul>			<li>This is developing a series of information literacy resources to meet the skills development needs of employers and their workforce. The outcomes of the project have been mapped directly to those for RAP and therefore will help to meet the major deliverables. </li></ul><p> </p>]]></description>
+          <pubDate>Thu, 15 Jan 2009 10:32:38 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Overview of foundation degrees at the OU</title>
+              <link>https://cloudworks.ac.uk/cloud/view/716</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/716</guid>
+              <description><![CDATA[<p>Steve Hutchinson is former director of the PBPL CETL - more information available from http://www.open.ac.uk/pbpl/. Steve talked about a review of foundation degrees and in particular work-based, practice-based learning.</p><p> </p><p><span class="Apple-style-span" style="cursor:auto"><!--NO CSS-->PBPL </span></p><p> </p><ul>			<li>PBPL  - a federation of four faculties which aims to codify, enhance and expand work/pracice-based learning opportuniites. </li>		<li>PBPL saw in particular the benefit of setting up a network of people with common interests, and hence set up a SIG for work-based learning courses and to do an audit of good pedagogy across these. </li></ul><p> </p><p> </p><p><span class="Apple-style-span" style="cursor:auto"><!--NO CSS-->University-wider review of FD</span></p><ol>															<li>Began by looking back at the Leitch 2006 report (http://www.work-experience.org/cms/ShowPage/Home_page/News/Archive_2006/Leitch_Report/p!eaLiXgk). UK in a weak skills/knowledge position. Need to be improved by 2020 in order to minimise poverty and inequality. All levels of education need to be improved by 2020. In particular L4 from 29% to 40%. FDs mentioned 9 times in the report.  </li>							<li>Lots of potential opportunities in terms of developing FDs. Over 70% of 2020 workforce have left full-time education, over 50% in 2020 are over 25. No of FDs set to increase from 70K to 100K, 40% of FR students are P/T (2007/8). </li>							<li>However these is a lack of employer/employee awareness, worries about raising expectations (and salaries?), perception of value of this qualifications, also sector turf wars.</li>						<li>Some specific approaches worth exploring: Sector specific not subject specific intelligence is required and generic 'top-up's to honours might be attractive and worthy of further exploration. </li>						<li>Investment in learning and teaching: ensuring advance in open learning are integrated in work-based learning courses, ensuring that the employer voice is integral to course design, production and in presentation. </li>						<li></li>							<li>These means there is a need for real detailed market intelligence. </li>							<li>Key issues - how do we move towards the development of new curricula in this area and how do we ensure we have the right people with the right skills to develop these new programmes</li>					<li>Sharing innovative ideas: turbo-charged FDs - matching time-scales to student interests/linking more closely to work-practice, live briefs - working in a highly distributed sector, personalised/open FD and integrating APEL.  </li>				<li>Need to develop existing systems - approvals, award-based services and flexible, materials re-versioning and competitive APEL process.</li>			<li>Investment in networks - academic and academic related pan-university networks and administration networks.</li>							<li></li></ol><p> </p>]]></description>
+          <pubDate>Thu, 15 Jan 2009 09:32:47 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Skills for Independent Learning</title>
+              <link>https://cloudworks.ac.uk/cloud/view/711</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/711</guid>
+              <description><![CDATA[<p>
+Use this cloud to discuss ideas for helping students to develop their information literacy skills: 
+</p>
+<ul>
+	<li>Level 1: find, select and use information in defined contexts.</li>
+	<li>Level 2: find, critically evaluate and use information in a range of contexts.</li>
+</ul>
+<p>
+The FELS Library team will write activities using different approaches to help students' skills progression from Level 1 to Level 2: eg 
+</p>
+<ul>
+	<li>using a familiar source, help students to 'Get more out of Google' with tips on constructing a successful search. (K115)</li>
+	<li>using a newspaper database, find a specific article; search by topic for a second article and evaluate the content of both. (SDK125)</li>
+	<li>using an e-journals database, follow illustrated guide to plan and carry out a search, view and download results. (E112)</li>
+	<li>using a dual-pane frame with the step-by-step activity in the left pane and live view of a database on the right hand side, carry out a search to find a specific journal article or material on a topic. (D170)</li>
+	<li>following links and instructions, find and review an article, and then follow link to feedback.(B201).</li>
+	<li>using a quizz, test skillls in constructing a search, referencing and evaluating resources (K216)</li>
+</ul>
+<p>
+&nbsp;
+</p>
+<p>
+<img border="0" width="1" src="http://www.open.ac.uk/blogs/LibraryFELS/?page_id=21" height="1" /> 
+</p>
+]]></description>
+          <pubDate>Tue, 13 Jan 2009 18:24:02 +0000</pubDate>
+            </item>
+                    <item>
+              <title>New foundation degrees</title>
+              <link>https://cloudworks.ac.uk/cloud/view/708</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/708</guid>
+              <description><![CDATA[<p>Use this cloud to discuss ideas for what a new foundation degree look like. A summary of some of the discussions from the plenary session at the FELS FD workshop, 15th Jan are noted below and might provide useful points for discussion. </p><p> </p><!--StartFragment--><p class="MsoNormal"><i><span>What works well with existing foundation degrees?<o:p></o:p></span></i></p><p style="text-indent: -18pt" class="MsoListParagraphCxSpFirst"> </p><ul>					<li><span>Good at designing courses and content of high	quality</span></li>			<li><span style="cursor:auto"><!--NO CSS--><span><span style="cursor:auto"><!--NO CSS--> </span></span></span><span>Keep practitioner focus within course teams and	good expertise</span></li>			<li><span>Have adopted a strong evidence-based approach	to our course developments</span></li></ul><p> </p><p class="MsoNormal"><i><span>What might it be good to change?<o:p></o:p></span></i></p><p style="text-indent: -18pt" class="MsoListParagraphCxSpFirst"> </p><ul>					<li><span>Bring student, work-place experiences into the	courses</span></li>			<li><span style="cursor:auto"><!--NO CSS--><span><span style="cursor:auto"><!--NO CSS--> </span></span></span><span>More use of hand-held technologies to record	what is happening in the workplace and making courses more dynamic, valuing	what the students are brining to the course, valuing more the prior knowledge	and experience rather than just accrediting it</span></li>			<li><span style="cursor:auto"><!--NO CSS--><span><span style="cursor:auto"><!--NO CSS--> </span></span></span><span>Assessment: constraints of professional	accreditations that courses are aligned to – such as practice observation, more	flexibility around end of course assessments and more valuing of students	actual practice</span></li>			<li><span style="cursor:auto"><!--NO CSS--><span><span style="cursor:auto"><!--NO CSS--> </span></span></span><span>Electronic ways of collecting evidence</span></li>			<li><span>Initial audit for all students</span></li>		<li><span>Change courses into much smaller units<span>  </span>- 5/10/15 and the build up more personalised	and targeted programmes</span></li>			<li><span style="cursor:auto"><!--NO CSS--><span><span style="cursor:auto"><!--NO CSS--> </span></span></span><span>Assessment – more TMA based throughout the	course rather than end of unit assessment, see the course as an award rather than	individual courses</span></li></ul><p> </p><p class="MsoNormal"><i><span>What challenges do these things present?<o:p></o:p></span></i></p><p style="text-indent: -18pt" class="MsoListParagraphCxSpFirst"> </p><ul>					<li><span>Cost of assessment is a challenge for all FD,	could we use an open-book exam approach as an alternative</span></li>			<li><span>Cost of quality assurance checks</span></li>			<li><span>Procedures for dealing with students who can’t	evidence that the work is their own<span style="cursor:auto"><!--NO CSS--><span><span style="cursor:auto"><!--NO CSS--></span></span></span></span></li>		<li><span><span style="cursor:auto"><!--NO CSS--><span><span style="cursor:auto"><!--NO CSS--> </span></span></span><span>Updating the course materials – keeping policy	documents online, tension between having a tangible asset such as a printed	output rather than online</span></span></li>		<li><span><span>Approval process vs. timescales for development</span></span></li>		<li><span><span>Sharing common resources – online resource	bank?<span style="cursor:auto"><!--NO CSS--><span><span style="cursor:auto"><!--NO CSS--></span></span></span></span></span></li>		<li><span><span><span style="cursor:auto"><!--NO CSS--><span><span style="cursor:auto"><!--NO CSS--> </span></span></span><span>The need to screen students prior to starting	on fast-track or APEL routes</span></span></span></li>		<li><span><span><span>How to provide flexible starting points – roll	on/roll off approach</span></span></span></li>		<li><span><span><span>Institutional systems – such as a the	stage-gate process, registration, tutor roles and appropriateness for	supporting work-based practices, production processes and timescales in	relation to courses, marketing – better knowledge of what our sectors are,	workloads and academic norms</span></span></span></li>		<li><span><span><span>Changing award systems and approval, more	resourcing at an early stage in the process to share ideas and resources</span></span></span></li>		<li><span><span><span>Employer engagement – how to involve them early	in the planning process</span></span></span></li>		<li><span><span><span>Changing systems and changing mindsets</span></span></span></li></ul><p> </p><!--EndFragment--><p> </p>]]></description>
+          <pubDate>Tue, 13 Jan 2009 11:24:45 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Experience of Foundation Degrees</title>
+              <link>https://cloudworks.ac.uk/cloud/view/706</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/706</guid>
+              <description><![CDATA[The Foundation Degree review and various models.  Use this cloud to share ideas and discuss experiences of Foundation Degrees from around the OU
+]]></description>
+          <pubDate>Tue, 13 Jan 2009 11:08:20 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Top issues cited with developing foundation degrees</title>
+              <link>https://cloudworks.ac.uk/cloud/view/694</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/694</guid>
+              <description><![CDATA[<p>What are the key issues cited as most problematic in developing foundation degrees. In a consultation exercise with staff across the faculty the following were cited:</p><p>&nbsp;</p><ol>	<li>Sharing resources</li>	<li>Study support for students</li>	<li>Flexibility in the curriculum</li>	<li>Accommodating different feeder studies</li>	<li>Incorporating the workplace</li>	<li>Addressing student overload issues</li>	<li>Accommodating different nations in the curriculum</li>	<li>Allocating resources</li></ol>What other issues are important in your experience? Use this cloud to discuss or start a new cloud on a particular topic of interest to you.  <br /><p>&nbsp;</p>]]></description>
+          <pubDate>Mon, 12 Jan 2009 10:38:21 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Developing curricula across different nation states</title>
+              <link>https://cloudworks.ac.uk/cloud/view/693</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/693</guid>
+              <description><![CDATA[Use this cloud to discuss issues around developing curricula that require specialised pathways to accommodate different nation states.]]></description>
+          <pubDate>Mon, 12 Jan 2009 10:33:19 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Addressing student overload</title>
+              <link>https://cloudworks.ac.uk/cloud/view/692</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/692</guid>
+              <description><![CDATA[<p>Overloading students is a major issue and a common obstacle to students doing well.</p><p>Use this cloud to discuss ideas, experiences and strategies for dealing with this.  </p>]]></description>
+          <pubDate>Mon, 12 Jan 2009 10:31:15 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Building flexibility into the curriculum</title>
+              <link>https://cloudworks.ac.uk/cloud/view/691</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/691</guid>
+              <description><![CDATA[Use this cloud to discuss ideas around providing flexibility in the curriculum. For example studying in different locations (home, work, etc.), different speeds of learning, different start and finish times, etc.]]></description>
+          <pubDate>Mon, 12 Jan 2009 10:26:24 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Study support</title>
+              <link>https://cloudworks.ac.uk/cloud/view/690</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/690</guid>
+              <description><![CDATA[Use this cloud to discuss issues around study support for students. ]]></description>
+          <pubDate>Mon, 12 Jan 2009 10:24:53 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Sharing resources</title>
+              <link>https://cloudworks.ac.uk/cloud/view/689</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/689</guid>
+              <description><![CDATA[Use this cloud to discuss some of the issues around sharing resources. What are the barriers and enablers? Do you have any examples you can share with other participants in terms of examples of successful sharing of resources?]]></description>
+          <pubDate>Mon, 12 Jan 2009 10:23:36 +0000</pubDate>
+            </item>
+                    <item>
+              <title>The context for design across courses at Sydney</title>
+              <link>https://cloudworks.ac.uk/cloud/view/630</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/630</guid>
+              <description><![CDATA[<p>
+<strong>Three parts</strong>:
+</p>
+<ul>
+	<li>Context of e-learning at Sydney</li>
+	<li>Cycles of design</li>
+	<li>Barriers to teaching as design</li>
+	<li></li>
+</ul>
+<p>
+&nbsp;
+</p>
+<p>
+<strong>Overarching questions<br />
+</strong>
+</p>
+<ul>
+	<li>Will universities ever be configured to use this stuff – ie tools and design ideas?</li>
+	<li>Particularly in a campus based and research intensive university?</li>
+	<li>Idea of researcher as teacher – what are the markers of professional identity</li>
+	<li>Go write a paper, teach what you research, NOT design what you teach</li>
+	<li>Size is an issue – Sydney is a large institution</li>
+</ul>
+<p>
+<br />
+<strong>Cycles of design in relation to ICTs</strong>
+</p>
+<ul>
+	<li>Avoidance ca. 40% - too busy, not relevant, no money, no support</li>
+	<li>Toe in the water ca. 40% little above information based and minor changes</li>
+	<li>Committed approaches to integrated designs</li>
+	<li>Barrier to greater uptake are complex</li>
+</ul>
+<p>
+<br />
+<strong>Barriers to growth</strong>
+</p>
+<ul>
+	<li>Markers of a legitimate professional identity of teacher/designers (with ICTs) – workload recognition for design, budgets for online tutoring, teaching category of online tutoring,</li>
+	<li>Shared design language – linking shared deign language to use of tools for even the technophobic or just slight irritated</li>
+</ul>
+<p>
+<br />
+<strong>How do we overcome the barriers?</strong>
+</p>
+<ul>
+	<li>Better tools?</li>
+	<li>Executive buy-in?</li>
+	<li>Faculty demand?</li>
+	<li>Student demand?</li>
+	<li>Transparent design language?<br />
+	</li>
+</ul>
+]]></description>
+          <pubDate>Wed, 10 Dec 2008 04:08:17 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Views from learning and teaching in HE</title>
+              <link>https://cloudworks.ac.uk/cloud/view/629</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/629</guid>
+              <description><![CDATA[<p>
+<strong>Views from learning and teaching in HE  – some reflections from those with particular expertise in managing and evaluating strategies</strong> <strong>for the enhancement of learning and teaching in HE</strong><br />
+<br />
+1.    Some questions – apply theoretical perspective to very concrete applications<br />
+2.    Teaching as design and changing nature of HE context<br />
+3.    Personal change strategies and identities – how and why people might change their practices<br />
+<br />
+Comment by Peter Goodyear – we need an ethnographic awareness of teachers’ context, its about social context and current social practices and where innovations are introduced and understand how they impact on practice. Constellations, orders of meaning, identity, power relationships
+</p>
+<p>
+&nbsp;
+</p>
+<p>
+<strong>Questions – developing an anthropological lens<br />
+</strong>
+</p>
+<ul>
+	<li>How do the new practices relate to current social practices?</li>
+	<li>What practices are we expecting people to engage in and how do they relate?</li>
+	<li>What codes of signification are evoked by what is being offered?</li>
+	<li>What discourse are we using and what are teachers using?</li>
+	<li>Power relations – what does it do for teacher autonomy, professionalism etc?</li>
+	<li>What are teachers tacit theories?</li>
+	<li>Can you leave room for ‘domestification’ – shaping to current practice, domesticating a new technology?</li>
+	<li>Who are the users and where are the cultural boundaries?</li>
+	<li>Where is the profitability for users and more importantly how can you show them the benefits?</li>
+	<li>What is a reasonable vision for the tools we are developing in terms of scaling up – do you want everyone to use it?</li>
+	<li>What are our theories for change?</li>
+	<li>Discourses of the field give a number of metaphors</li>
+	<li>Gift metaphor – offering – need and want</li>
+	<li>Marketing metaphor – the product</li>
+	<li>Requiring metaphor, co-creating – this is our tool, driver of compliance and sharing</li>
+</ul>
+<p>
+<br />
+Impetus for a more purposive approach to the construction of learning moments, its time has come. Chronic factors are how to create interesting, challenging learning environment for learners, this has been a problem for a long time, coupled with a policy drive and transparency/accountability. <br />
+<br />
+<strong>Three axes of consideration thinking about teaching and teachers as designers</strong>
+</p>
+<ul>
+	<li>1st axes – policy and professional context. In the UK there is a performative impetrative in HE, foregrounding of it as a set of public practices, teachers are having to talk about what they do and why they do it, students are having to pay for HE process, governments are questioning how much money should be distributed to HE. There is a transparency and accountability thrust. The panoptic – being watched, fears of deskilling, being watched etc – i.e. there are negative imperatives about this as well in terms of teacher perspective.</li>
+	<li>2nd axes – the basis on which colleagues in HE might be prepared to change. Drawn from empirical data from evaluation studies around various EU projects. Teachers have embedded theories about change and on what basis they would change. What kind of zeitgeist or frame of mind do teachers need to be in to take this change on board?</li>
+	<li>3rd axes – engagement strategies. On what basis would teachers be prepared to take these new opportunities on board. Palette EU project http://palette.ercim.org/ – set of different CoP applying a participatory design methodology (PDM). People found it hard to understand what PDM was, even though they signed up to the rhetoric. Continuum – developers, teachers and learners (and other boundary brokers between these). Notion was that they would be co-constructors of design solutions. At the other end of the spectrum was the one-dimensional notion of a client and developer, little discourse between them. PDM is a really powerful and important approach.</li>
+</ul>
+<p>
+<br />
+<br />
+<strong>Personal change theories</strong><br />
+This is reflected in the personal change theories Saunders et al have developed. First is a practice-based exemplar. People catch an interesting idea/embodiment and will begin to apply this. The problem is that is a weak theory of change as we don’t know who will take this up and when. There is no theory of engagement. More about them catching it by osmosis. Notion of a demonstrator, a pilot etc. Second is idea of resource dependency. Is strongest way to enact change is attached funding to it. Invite bids against a change programme. Quite a good theory. Third one is the idea of rhetorical support. Need a strong vision statement at a senior level to make it happen. Fourth one, which is one of strongest theories of change. Professional imperative. Looking for interesting and high quality teaching solutions for your learners, which is core to what professional teaching practice should be about. Fifth – to do with technological determinism. Three possible theories. 1. Global marketing – an institution has to engage with new technologies from a competitive perspective and also using the technologies to market their course as well. 2. Students expect the new technologies to be used. Push from student expectation. 3. Affordances of the technologies – what the technologies actually offer. Change in embedded in the technologies. The environment is transformed by them. <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+</p>
+]]></description>
+          <pubDate>Wed, 10 Dec 2008 03:36:19 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Learning, mediating technologies and the social memory</title>
+              <link>https://cloudworks.ac.uk/cloud/view/628</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/628</guid>
+              <description><![CDATA[<p>
+Website: www.ufn.gu.se
+</p>
+<p>
+&nbsp;
+</p>
+<p>
+<strong>Research topics<br />
+</strong>
+</p>
+<ul>
+	<li>Interest in learning and how knowledge and information are organised in complex societies</li>
+	<li>The role of digital media in transforming how information is stored accessed and made use of</li>
+	<li>The role of new media ecology</li>
+	<li>Empirically orientated with studies in schools universities work place etc</li>
+	<li>Theoretical applied and developmental interests</li>
+	<li>Methodological developments</li>
+	<li>Ambition to combine macro and micro studies</li>
+</ul>
+<p>
+<br />
+<strong>Current research projects include<br />
+</strong>
+</p>
+<ul>
+	<li>Learning literacies and media</li>
+	<li>Learning in the context of digital media and new media as resources for learning</li>
+	<li>Classroom discourses and the social organisation of learning</li>
+	<li></li>
+</ul>
+<p>
+&nbsp;
+</p>
+<p>
+<strong>Projects include<br />
+</strong>
+</p>
+<ul>
+	<li>LINT Interdaction and the development narrative knowing and remembering</li>
+	<li>Learning to support in the work place</li>
+	<li>Transforming information into knowledge</li>
+	<li>Learning how to reason and argue</li>
+	<li>Heteroglossia in the process of learning</li>
+	<li>Mediational means in written academic discourse</li>
+</ul>
+<p>
+<br />
+<strong>Conceptual background</strong>
+</p>
+<ul>
+	<li>An interest in the social and interactive shaping of minds</li>
+	<li>Semiotic mediation and division of cognitive labour between minds and intellectual tools and artefacts</li>
+	<li>Forms of appropriation</li>
+	<li>The building up of social memory in complex society</li>
+</ul>
+<p>
+(Dewey social experiences)<br />
+<br />
+Learning/social remembering in a sociocultural and pragmatist perspectives<br />
+1. How individuals, organisations and society at large retain information, knowledge and skills, transform them and make them available to new generations<br />
+2. The issue of how people come to share the experiences of their society the funded capital of socialisation (Dewey) through various forms of communication and social activities<br />
+<br />
+Evolutionary ladder of technologies <br />
+1.    ABC, ruin stones, other technologies that new generations<br />
+<br />
+A key process in the development and expansion of human knowing and sharing of experiences is externalisation through the design of cultural tools <br />
+<br />
+Experiences converted into linguistic/discursive tools (such as concept, categorising practice, narratives, social languages) and material artefacts (technologies)<br />
+<br />
+The technology provides new forms of access to cultural knowledge, we master technologies as part of social practices without needed to know the details of the technologies themselves, transparency of the technologies give us access to very complex social practices<br />
+<br />
+External symbolic storages (ESS) – books, libraries, maps and charts, registers, clocks, databases, instruments - embodied practices<br />
+Artificial memory systems (AMS)<br />
+<br />
+Cultural (or re-presentational) tools – inscriptions and processes of reification/fixation of meaning<br />
+Externalisation or objectification of<br />
+information (texts, spoken narratives, etc), <br />
+also seeing now with technologies – externalisation of human thought processes (expansion of social memory through the technologies) <br />
+<br />
+<strong>Externalisation of cognitive functions</strong>
+</p>
+<ul>
+	<li>Computer software – spell and grammar check, statistical analysis packages, etc</li>
+	<li>Search engines</li>
+	<li>Book keeping programmes</li>
+	<li>Graphical and symbol manipulating calculators</li>
+	<li>Navigators</li>
+	<li>Face recognition devices</li>
+	<li>Medical imaging technologies </li>
+</ul>
+<p>
+<br />
+Technologies come in as cultural and cognitive amplifiers and as access points to cultural knowing<br />
+<br />
+<strong>Transformations of learning</strong>
+</p>
+<ul>
+	<li>We master complex tasks without understanding the sequential steps</li>
+	<li>Technologies function as a black box (trust)</li>
+	<li>We increasingly learne from the complex to the elementary</li>
+	<li>We understand as part of practices we do not necessarily understand as part of the hierarchically organised knowledge such as the disciplines</li>
+</ul>
+<p>
+<br />
+Interpretatins of learning in a digital age<br />
+Metacommunicative and meta cognitive skills (modelling)<br />
+Learing becomes increasingly conceptual and procedural but in coordination with material cultural tools<br />
+Learning is the ability to transform and recontextualise in manners that are relevant for local needs ie learning is in the performative
+</p>
+]]></description>
+          <pubDate>Wed, 10 Dec 2008 01:55:01 +0000</pubDate>
+            </item>
+                    <item>
+              <title>The evolution of human cognition and its implications for instruction</title>
+              <link>https://cloudworks.ac.uk/cloud/view/627</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/627</guid>
+              <description><![CDATA[<p>
+<a href="http://education.arts.unsw.edu.au/staff/staff.php?last=sweller">John Sweller </a>talking about the evolution of human cognition and its implication for instruction.
+</p>
+<p>
+A lot of what is known in human cognition architecture (HCA) domain is not getting picked up in the instructional design field. <br />
+<br />
+Categories of knowledge – D. Geary (2007) Educating the evolved mind – conceptual foundations for an evolutionary educational psychology in J.S, Carlson and J.R. Levin Eds) psychological perspectives on contemporary educational issues, Greenwich, CT: Information Age Publishing. 
+</p>
+<p>
+&nbsp;
+</p>
+<p>
+<strong>Two types of knowledge<br />
+</strong>
+</p>
+<ul>
+	<li><strong></strong>Biologically primary knowledge (BPK) – evolved to acquire over a long time, we can do it easily, rapidly – such as learning a first language, same is true of learning to listen, recognising faces, general problem solving analysis. We evolve to acquire these sort of skills</li>
+	<li>Biologically secondary knowledge (BSK)– knowledge that has become culturally important in last 5,000 years or so, we acquire it differently, not easily or automatically or unconsciously, has different characteristics. Educational institutions were invented because of BSK. Reading and writing are obvious example of this. Knowledge needs to be taught explicitly, directly and takes an effort to acquire this form of knowledge.</li>
+</ul>
+<p>
+<br />
+What aspects of HCA apply to BSK?<br />
+<br />
+Sweller, J. and Sweller, S. (2006) Natural information processing systems, Evolutionary Psychology 4, 434-458<br />
+<br />
+Biological evolution is an information processes system – creates information, transmits it across time and remembers it. The processes we use can be mapped to surprising accuracy to the processes used by Darwinian evolution.
+</p>
+<p>
+&nbsp;
+</p>
+<p>
+<strong>Five principles<br />
+</strong>
+</p>
+<ol>
+	<li>Information store principle: In evolutionary terms, DNA sequences hold masses of information and are central in terms of evolution, the equivalent in HCA is long term memory (LTM)– massive amount of information is stored in LTM, everything we do depends on that huge amount of information held. Chess player master can recognise huge chess moves and configurations. We are our LTM, cognitively at least. If nothing changes in LTM nothing has been learned.</li>
+	<li>Borrowing and reorganising principle. Asexual reproduction produces an exact copy, sexual reproduction is the opposite. Cognitive equivalent? Imitating what others do, listening to others, we borrow information from other peoples’ long term stores. Writing can transmit information over a long period of time. Information is reorganised when we take it in. Not an exact copying process. We obtain most of our information from other people. But that information has to be created in the first place. How is it created?</li>
+	<li>Randomness as genesis principle. In biological systems – the ultimate base for all biological variation is random mutation. What is the equivalent? How can random generation test give sophisticated complex structures. Firstly its not totally random, we use knowledge to reduce the number of options. Use knowledge as much as possible but at some point if it’s a real problem you cant go any further? The only possibility is to randomly generate a move and test it for effectiveness. If it doesn’t work, try an alternative. We have no choice but to engage in random generation. This has instructional implications.</li>
+	<li>Narrow limits of change principle. If we are randomly generate moves, need some mechanism to stop computational explosion. Working memory is extremely limiting in terms of capacity, limited in terms of time span. This only applies to novel information – this also has implications for instructional design. Cognitive load theory – limitations of working memory are central to this theory. Need to take account of this in the design process. Often too much instruction design proceeds as if we don’t have working memory.</li>
+	<li>Environmental organising and linking principle. The whole purpose of the system comes down to this. If working memory is dealing with familiar info from long term memory the limitations disappear, its only limited in terms of novel information. Which comes back to information story principle 1, aim is to get information into LTM, that leads to change, to learning. The purpose of instruction is to get material via working memory (which is limited when dealing with novel info) and then get into LTM and then we can do things we couldn’t do before. Changes us, who we are and what we can do. How should information be presented in spoken form, written, diagrams, etc.</li>
+</ol>
+<p>
+&nbsp;
+</p>
+<p>
+&nbsp;
+</p>
+]]></description>
+          <pubDate>Wed, 10 Dec 2008 01:00:55 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Complex learning about learning science</title>
+              <link>https://cloudworks.ac.uk/cloud/view/624</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/624</guid>
+              <description><![CDATA[<p>
+Peter talked about design aspects related to their course. 
+</p>
+<p>
+Aim was to engage students with concepts and methods from the learning sciences and educational technology research:
+</p>
+<ul>
+	<li>In a blended setting</li>
+	<li>Collaborative activities</li>
+	<li>Design and research practice</li>
+	<li>Using typical representations and tools</li>
+	<li></li>
+</ul>
+<p>
+&nbsp;
+</p>
+<p>
+<em>General design decisions</em><br />
+1. Scripted collaboration and seeding/feedback
+</p>
+<p>
+2. Using wiki engine + web conferencing – leading to participation and contribution, (Text) quality, group process<br />
+<br />
+Trac wiki (from open software community – used as a means of managing their own work)– two levels: Planning level (milestones and tickets (tasks)) and task level<br />
+<br />
+Peter illustrate an interesting range of visual representations they have been using
+</p>
+<p>
+to represent the dynamics of the course. These included: social network analysis and line representations illustrating individual contributions to the wiki over time. 
+</p>
+<p>
+<br />
+Use the visualisations to feed back to the teams and also used by tutors to identify problems with the teams<br />
+Text contribution features – Glosser (text mining tool)<br />
+Process visualisation and decision making <br />
+Knowledge maps<br />
+Trajectories of learning opportunities over a term <br />
+<br />
+<em>(Complex) tasks</em>
+</p>
+<ul>
+	<li>Identify creative ideas and insights in chats and wikis</li>
+	<li>Analyse video recordings of technology rich learning and collaborative episodes</li>
+	<li>Write collaborative research reports</li>
+	<li>Create and compare knowledge maps</li>
+	<li>Create and compare topic maps and ontologies</li>
+	<li>Extent/augment system dynamic models</li>
+</ul>
+<p>
+<br />
+<em>Theoretical basis</em>
+</p>
+<ul>
+	<li>Knowledge building theory Bereiter and Scardamilia</li>
+	<li>Gerhard Fischer’s work on designing software tools for end users to change</li>
+	<li>McGrath group psychology <br />
+	</li>
+</ul>
+]]></description>
+          <pubDate>Tue, 09 Dec 2008 23:37:33 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Workshop formats: World cafe</title>
+              <link>https://cloudworks.ac.uk/cloud/view/599</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/599</guid>
+              <description><![CDATA[<p>&nbsp;Not an original notion - but an interesting one. The World cafe concept has been around a while www.theworldcafe.com.</p>
+<p>We use this technique often in our workshops (dial-e.net), and at a recent event UTS (University of Technology Sydney) it attracted some interesting comments - so perhaps worth a reminder.</p>
+<p>You've done some input, you have some group tasks defined and the groups are all working away. Then there is the dreaded plenary, you've allowed 5 minutes for each group to feedback on their deliberations - but the second group goes on for ages and by the time you get to the sixth round of feedback people feel they have nothing to add.&nbsp;</p>
+<p>In this workshop model (there are lots of variations) 7 groups of 4 each worked away on the task we had assigned them for 15 minutes, supported by a single sheet of A4 on which to record their comments (having white paper tablecloths and lots of pens works even better). Instead of asking for feedback, each group nominates one person to stay seated at their table and all the other people must get up and move to a new table - with each person from the group joining a new table with none of the original members. (this is a good thing to do after lunch!). Once everyone is settled back into a new grouping, the 'resident' person explains that groups comments and accepts observations from the other groups represented (in this case 3). The actual representation is less important, the intention is to have feedback shared widely and talked about. Participants then return to their original groups and spend some time feeding back on what they have heard.&nbsp;</p>
+<p>On a practical level it makes the facilitators time control task easier, and for participants it makes for a more engaging feedback process.&nbsp;</p>
+<p>The variations are part of the fun, but it can work well with 16 or 160 !</p>
+<p>Been thinking about this given Diana Laurillard's suggestion that the workshop was possibly a suitable foci for the majority of dimensions in the conversational framework.</p>
+<p></p>]]></description>
+          <pubDate>Mon, 08 Dec 2008 01:21:41 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Method: A schema for mapping tools and activities to dimensions of learning</title>
+              <link>https://cloudworks.ac.uk/cloud/view/423</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/423</guid>
+              <description><![CDATA[<p>Conole et al. (2004) have developed a pedagogical framework that abstracts out three main dimensions of learning. The 3 dimensions are:</p>
+<ul>
+<li>Individual &ndash; social: i.e. any learning activity can be located somewhere along a spectrum from being an individual, isolated experience to being essentially social in nature</li>
+<li>Active &ndash; passive: i.e. some learning activities involve active engagement, whereas other aspects of learning may occur through some degree of passive immersion</li>
+<li>Information &ndash; experience: learning activities vary in the degree to which they are information or experience based.</li>
+</ul>
+<p>This framework can be used as a basis for mapping out the use of different tools. The dimensional basis of the framework means that you can consider the three dimensions as spectral and hence look at tool use along each of these spectral &ndash; i.e. not as a binary decision &ndash; so use of a tool to support an activity does not have to be labeled as simple an individual or a social activity it can lie somewhere along the spectrum of individual-social.</p>
+<p>Try to indicate the location of the following &lsquo;tools in use &lsquo;on the three dimensions (or continua) of the framework:</p>
+<ul>
+<li> A blog as a reflective diary </li>
+<li> A blog as a collective resource for collating references within a student group </li>
+<li> A web search: i.e. students search the web and collate resources against a given set of criteria </li>
+<li> A drill and practice exercise: i.e. students work through a set of resource and then complete a formative self-assessment </li>
+<li>A structured online debate: i.e. students choose a side for or against an issue, post their views and read other postings </li>
+<li>Use of an e-portfolio: i.e. students gather evidence against learning outcomes in a portfolio.</li>
+</ul>
+<p>A diagram of the framework can be found in Conole (2008), ariadne article, link below.</p>]]></description>
+          <pubDate>Tue, 25 Nov 2008 21:46:45 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Activity: 20 mins A schema mapping tools and activities to four facets of learning</title>
+              <link>https://cloudworks.ac.uk/cloud/view/422</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/422</guid>
+              <description><![CDATA[<p><a rel="embed" href="http://www.slideshare.net/OULDI/schema-for-mapping-pedagogies-and-pedagogies"></a></p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Tue, 25 Nov 2008 21:42:14 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Pedagogical schema</title>
+              <link>https://cloudworks.ac.uk/cloud/view/421</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/421</guid>
+              <description><![CDATA[Conole, G. (2008), New schemas for mapping pedagogies and technologies, Ariadne article,  July 2008. This article reflects on the implications of Web 2.0 for education and offers two new schemas for thinking about harnessing the potential of technologies.]]></description>
+          <pubDate>Tue, 25 Nov 2008 21:20:29 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Activity: 30 mins Finding and sharing learning and teaching ideas and designs</title>
+              <link>https://cloudworks.ac.uk/cloud/view/420</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/420</guid>
+              <description><![CDATA[<p>You are going to begin by exploring different repositories of resources to find information that might be of relevance to a particular teaching scenario. Start by choosing one of the following scenarios (or outline your own) as the teaching and learning context for you explorations:</p>
+<ul>
+<li>Refresher course for returner nurses, providing skills update and outline of latest changes in legislation, etc. Use an e-portfolio as the main vehicle of students demonstrating evidence </li>
+<li>Beginners social work course, large cohort of students, want to encourage lots of communication and ways of students practicing their interpersonal skills </li>
+<li>Final year research project in which students need to demonstrate an evidence-based approach </li>
+<li>Large cohort introductory statistics course for students in a range of different disciplines</li>
+</ul>
+<p>&nbsp;</p>
+<p>Cloudworks is a social networking site for sharing learning and teaching ideas and design. Use the Cloudworks site to help you find useful resources and ideas for your design and suggestions for how you might incorporate different technologies. In terms of specific sites on technologies and how they might be used in an educations context you might want to look in particular at the Educause 7 things you should know about series (see link below). Write down things you like and don&rsquo;t like about the particular resource collection(s) explored. Note the strategies you are using to search in order to locate resources, etc. that are appropriate for your chosen scenario. How useful were the different sites? How useful was the information they provided? What was missing?</p>]]></description>
+          <pubDate>Fri, 23 Oct 2009 23:31:26 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Cloudworks: a social networking site for design</title>
+              <link>https://cloudworks.ac.uk/cloud/view/419</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/419</guid>
+              <description><![CDATA[Conole, G., Culver, J., Well, M., Williams, P., Cross, S., Clark, P. and Brasher, A. (2008), Cloudworks: social networking for learning design, Ascilite Conference, 30th Nov – 3rd Dec 2008, Melbourne. ]]></description>
+          <pubDate>Tue, 25 Nov 2008 21:12:45 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Designing in CompendiumLD</title>
+              <link>https://cloudworks.ac.uk/cloud/view/418</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/418</guid>
+              <description><![CDATA[Go to the CompendiumLD web site, which will provide details of how to download CompendiumLD and get starting in using the tool. Once it is downloaded click on the CompendiumLD icon and explore the software, you will find there is further help within the software itself, include links to various short video slidecasts. Once you are comfortable in general with the software, you can start on the main focus of the activity that is to map a simple learning activity. Now start to map out this activity in CompendiumLD. Reflect on the following questions. Keep a note of what you like and dislike about using this tool and think about how you might use this (individually or within a team) in your own context of practice. Save your design as a jpg. What do you think are its main strengths and weakness? Can you see yourself using this in the future? If so how?
+To what extent this visual representation actually represents the original design intentions, what’s missing? Can you think of other ways in which the design could be represented and shared? 
+]]></description>
+          <pubDate>Tue, 25 Nov 2008 21:08:04 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Creating a learning activity in CompendiumLD</title>
+              <link>https://cloudworks.ac.uk/cloud/view/417</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/417</guid>
+              <description><![CDATA[<p>This 12-minute slidecast by Paul Clark, Simon Cross and Perry Williams provides a useful introduction to how CompendiumLD can be used to create learning activities.</p>]]></description>
+          <pubDate>Mon, 04 Jan 2010 10:59:35 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Visualising learning design to foster and support good practice and creativity</title>
+              <link>https://cloudworks.ac.uk/cloud/view/416</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/416</guid>
+              <description><![CDATA[<p>&nbsp;This paper provides a description of the initial development of a visualisation tool for design, CompendiumLD. A pre-print is available <a href="http://www.e4innovation.com/Papers/conole_EMI_15_june.doc">here.</a></p>]]></description>
+          <pubDate>Tue, 25 Nov 2008 20:52:11 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Activity: 20 mins Strategies for design</title>
+              <link>https://cloudworks.ac.uk/cloud/view/415</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/415</guid>
+              <description><![CDATA[<p>Consider the following questions about strategies for design. If you are not directly involved in teaching or in devising courses, you should think about the modules, classes or programmes that you support in some way. Share your thoughts with others here on Cloudworks</p>
+<ul>
+<li>How do you (or your teaching colleagues) currently design courses?</li>
+<li>How do you and/or your teaching colleagues get new ideas?</li>
+<li>What resources and support are used?</li>
+<li>What issues do new technologies raise for teaching and learning?</li>
+</ul>]]></description>
+          <pubDate>Tue, 25 Nov 2008 20:49:37 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Activity: 40 mins: CompendiumLD introductory activity</title>
+              <link>https://cloudworks.ac.uk/cloud/view/393</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/393</guid>
+              <description><![CDATA[<p>1. Download compendiumld from the <a href="http://compendiumld.open.ac.uk">compendiumld site.</a> <br /> 2. Explore the tool and look at some of the in-built help <br /> 3. Working in pairs or threes create a learning activity.</p>
+<p>This activity is best suited to delegates who have some experience of working with concept mapping tools as it requires them to work independently and proactively.</p>]]></description>
+          <pubDate>Fri, 21 Nov 2008 14:16:24 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: Rebecca Ferguson</title>
+        <link>https://cloudworks.ac.uk/user/rss.1126</link>
+        <atom:link href="https://cloudworks.ac.uk/user/rss.1126" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds by Rebecca Ferguson</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title> Gender and group attitudes to STEM: a pilot evaluation of an outreach robotics activity</title>
+              <link>https://cloudworks.ac.uk/cloud/view/9988</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/9988</guid>
+              <description><![CDATA[<p>Alice Peasgood, Jon Rosewell and Tony Hirst</p>
+<p>Women are underrepresented in Science, Technology, Engineering and Mathematics (STEM) subjects in higher education (HE), although attitudes and participation in STEM are less polarised at younger ages. Outreach activities that aim to inspire and enthuse school-age students may help girls to consider study and careers in STEM subjects. <br /> <br />The Royal Institution run extra-curricular &lsquo;masterclasses&rsquo; that aim to inspire school students in mathematics. Our session in a series of secondary maths masterclasses uses a hands-on robotics activity based on the theme of &lsquo;robot explorers&rsquo;. Students work in small groups to solve the challenge of programming a small mobile robot to navigate by applying their maths and programming skills. This pilot study looked at the possible influence of gender and friendship groups on attitudes to STEM in the context of that activity. <br /> <br />Those attending the masterclass series were Year 9 students nominated by East London schools. Students completed a short evaluation sheet for the session and reported whether they knew others in their group. An observer noted whether boys or girls used the computer, held the robot, and similar measures. All data was collected anonymously and the study was approved by the OU Human Research Ethics Committee (HREC/2016/2238/Rosewell/1). <br /> <br />Preliminary results suggest that girls enjoyed the class more than boys. Girls also showed a greater increase in level of interest in robotics, although from a lower level than boys. There is a suggestion that individuals who found themselves in a group in which they had no friends reported a lower score for enjoyment. <br /> <br />The importance of friendship to the enjoyment and learning experienced in small group activity should be considered in the design of extra-curricular activities if they are to meet their stated aim of enthusing young students.</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Tue, 17 May 2016 20:49:11 +0000</pubDate>
+            </item>
+                    <item>
+              <title> Introducing &#39;opinionated pedagogy&#39;</title>
+              <link>https://cloudworks.ac.uk/cloud/view/9981</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/9981</guid>
+              <description><![CDATA[<p>Mark Nichols</p>
+<p>Abstract:Technology enhanced learning is implemented using technologies built based on particular pedagogical and interactive assumptions. These assumptions, which constitute the opinionated pedagogy of developers, inevitably influence the ways online courses are designed and experienced. In 2014 Open Polytechnic began development of iQualify, an online education platform designed to provide an online-only, mobile-optimised learning experience. iQualify, which is being developed in accordance with a minimum viable product and agile framework, is based on a self-aware opinionated pedagogy. This lightening presentation explores the nature of opinionated pedagogy, and outlines principles for ensuring platform developers have their pedagogical assumptions informed, education-driven, and evidence-based.</p>]]></description>
+          <pubDate>Tue, 17 May 2016 20:15:12 +0000</pubDate>
+            </item>
+                    <item>
+              <title> User evaluation of language learning mobile applications: a case study with learners of Spanish </title>
+              <link>https://cloudworks.ac.uk/cloud/view/9994</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/9994</guid>
+              <description><![CDATA[<p>Fernando Rosell-Aguilar</p>
+<p>Studies into the use of mobile applications (apps) for language learning have mostly focused on small samples of learners using a specific app rather than using the apps they have selected for themselves. More data is required to understand the ways learners engage with apps for language learning (through profiles of app users, how apps are used, and user opinions of learning with apps) to create a realistic picture of users in their natural settings. This paper reviews current research, highlights the potential of mobile apps for language learning, and presents the results of a study into how a group of language learners use mobile apps of their choice. The study is innovative, as it provides the first comparison between app users and app non-users. Data was collected through a questionnaire (n= 85) and interviews (n=7). The results suggest that there are differences in age and gender between learners who use mobile apps and those who do not. The results also indicate that learners use apps mostly for vocabulary development, translation, and grammar practice. Apps are used often, mostly informally, and for relatively short periods of time. Learners like the ability to practise specific areas, rapid access to information, ease of use, and gamification elements, but have concerns about reliability and other factors. All users reported that using apps improved their language skills to different degrees.</p>]]></description>
+          <pubDate>Tue, 17 May 2016 21:05:05 +0000</pubDate>
+            </item>
+                    <item>
+              <title>A Comparison of Indian Learner Experiences on a Local and Global MOOC Platform</title>
+              <link>https://cloudworks.ac.uk/cloud/view/10513</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/10513</guid>
+              <description><![CDATA[<p><a href="http://www.open.ac.uk/people/jvs58" target="_blank">Janesh Sanzgiri</a></p>
+<p><br />As research on MOOCs continues to mature, findings are indicating MOOCs as deepening rather than widening access to education. Further, research on MOOCs is largely concentrated in the West, with over 90% of MOOC research emerging from North America, Europe and Oceania (Veletsianos and Shepherdson 2016). This indicates a need for further research on MOOC learners and their perspectives from non-Western contexts. <br /> <br />This presentation will share results from a study on Indian learners' demographics and experiences on two MOOC platforms - FutureLearn (UK) and NPTEL (India), using results from a survey of 2500 learners, with follow-up interviews with 30 learners. The study found significant differences in demographic profiles and motivations of learners between the two platforms, while interviews revealed unique methods in which MOOCs were used, as well as the technical and contextual challenges that learners faced, and how they overcame these challenges to make the most of the resources of the MOOC. <br /> <br />Finally, this presentation will provide a holistic look at how MOOCs are being used in the Indian context by varied groups of learners, followed by a discussion of the potential role MOOCs can play in improving higher education in India.</p>]]></description>
+          <pubDate>Mon, 15 May 2017 10:45:51 +0000</pubDate>
+            </item>
+                    <item>
+              <title>A European pilot study of a modular assessment system designed to authenticate the authorship of online learners</title>
+              <link>https://cloudworks.ac.uk/cloud/view/10502</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/10502</guid>
+              <description><![CDATA[<p><a href="http://oro.open.ac.uk/view/person/ds23274.html" target="_blank">Duygu Bektik</a>, <a href="http://oro.open.ac.uk/view/person/sc8457.html" target="_blank">Simon Cross</a>, <a href="http://oro.open.ac.uk/view/person/wh2594.html" target="_blank">Wayne Holmes</a>, Lyubka Aleksieva and <a href="http://oro.open.ac.uk/view/person/dmw8.html" target="_blank">Denise Whitelock</a></p>
+<p>In this presentation, we will discuss a pilot study (carried out at seven universities across Europe including the Open University and involving more than 300 students) which investigated a prototype online assessment authentication system currently in development by the EU-funded TeSLA&nbsp;project (http://tesla-project.eu, EU H2020 Grant Agreement: 688520). TeSLA (Adaptive trust-based e-assessment system for learning) aims to allow the vast numbers of&nbsp;learners&nbsp;enrolled in online learning programmes to participate in secure online assessment. It uses&nbsp;a range of software technologies to help authenticate learner authorship: voice/face recognition, keystroke pattern detection, anti-plagiarism&nbsp;and writing style (forensic) analysis.</p>]]></description>
+          <pubDate>Mon, 15 May 2017 09:59:20 +0000</pubDate>
+            </item>
+                    <item>
+              <title>A report on Chinese undergraduate students&#39; online English language learning experiences and perspectives</title>
+              <link>https://cloudworks.ac.uk/cloud/view/10006</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/10006</guid>
+              <description><![CDATA[<p>Chenxi Li</p>
+<p>This is a study of synchronous English language classes through audiographic conferencing tools in China. What are Chinese students&rsquo; online language learning experiences of audio graphic conferencing classrooms and what do they think about them? What are the major problems for audio graphic conferencing ELT classes in China? This study attempts to answer these questions above through questionnaires and interviews with online English teachers and learners. An innovative data collection method proved to be very effective which combines an online survey tool (Survey Star) with a popular social networking mobile App (WeChat). The quantitative findings will be mainly reported in this presentation.</p>]]></description>
+          <pubDate>Wed, 18 May 2016 08:25:04 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Accessibility and Massive Open Online Courses (MOOCs): the current state and next steps</title>
+              <link>https://cloudworks.ac.uk/cloud/view/9985</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/9985</guid>
+              <description><![CDATA[<p>Francisco Iniesto</p>
+<p>Providing accessible Massive Open Online Courses (MOOCs) have the potential to offer flexibility of learning and benefits to all independent of their disability. In my research project I will investigate the perceptions and accessibility-related processes of various stakeholders of MOOC platforms such as designers, content providers and accessibility experts. I will also investigate the experiences, constraints and requirements of users with and without disabilities who are already using MOOCs. I will carry out accessibility evaluations of MOOC platforms for their usability and accessibility. These are some of the questions my research is proposing to address: how MOOCs can help people with disabilities to improve their knowledge and skills?; how could the accessibility in MOOCs be improved?; and how could MOOCs resources be adapted to meet the accessibility needs of the end-users?</p>]]></description>
+          <pubDate>Tue, 17 May 2016 20:32:36 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Activity level Learning Design representations to enhance curriculum design</title>
+              <link>https://cloudworks.ac.uk/cloud/view/10003</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/10003</guid>
+              <description><![CDATA[<p>Andrew Brasher, Peter Devine, Sue Lowe, Gill Macmillan and Lisette Toetenel</p>
+<p>This exploratory study builds on existing approaches in using Learning Design representations in order to enhance curriculum design processes. Our lightning presentation reports on the first stage of the project, which aims to develop and test paper and software-based tools. These tools are envisaged to enable teams to design students&rsquo; learning journeys in detail, at activity level, with clear links to assessment and learning outcomes. In the lightning presentation we will showcase a first draft of the prototype tools, and discuss the strategies developed in order to iteratively design and evaluate these tools.</p>]]></description>
+          <pubDate>Wed, 18 May 2016 08:17:20 +0000</pubDate>
+            </item>
+                    <item>
+              <title>An Adaptive trust-based e-assessment System for Learning TeSLA</title>
+              <link>https://cloudworks.ac.uk/cloud/view/10005</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/10005</guid>
+              <description><![CDATA[<p>Denise Whitelock, Simon Cross, Aida Azadegan and Bart Rienties</p>
+<p>With the arrival of e-assessments in MOOCs and distance learning, a vast body of research has looked at the key success criteria for successful and authentic forms of online assessment and feedback (REF). At the same time, an increasing number of scholars, practitioners, and students have expressed concerns about the authenticity of a person submitting his/her assignments online (REF). At CALRG, we aim to present an innovative approach to learner authentication and authorship that is currently be developed by 18 leading partners in e-assessment. <br /> <br />The overall objective of the TeSLA project is to define and develop an e-assessment system, which ensures learners authentication and authorship in online and blended learning environments while avoiding the time and physical space limitations imposed by face-to-face examination. The TeSLA software is being designed to support any e-assessment model (formative, summative and continuous) covering teaching and learning processes as well as ethical, legal and technological aspects. The OU UK will be one of the partner distance learning institutions, the others include UOC, OUNL, SU,TUS, AU, and JYU that will conduct several pilot studies of the TeSLA e-assessment system that guarantee the equality of opportunity and respect for diversity in real teaching and learning scenarios while ensuring the authentication and authorship of the learners during the e-assessment processes. More importantly the OU is taking the lead evaluation of the pilot studies and associated development activity. This task aims to gather stakeholder views in respect to what measures, indicators and key questions that the project will employ in its evaluation of the pilot studies and associated development activity. These will be used to develop an Evaluation Framework that not only sets the definition of type and format of data to be collected and structure for monitoring and reporting of evaluation data, but will serve to highlight what each stakeholder groups considers most important for determining the success and effectiveness of the assessment tools and their implementation. At CALRG, we are particularly interested to discuss and share best-practice in e-assessment authentication with the audience.</p>]]></description>
+          <pubDate>Wed, 18 May 2016 08:21:49 +0000</pubDate>
+            </item>
+                    <item>
+              <title>An investigation into the phenomenon and discourse of Work Out Loud</title>
+              <link>https://cloudworks.ac.uk/cloud/view/9998</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/9998</guid>
+              <description><![CDATA[<p>Helen Crump</p>
+<p>Networked technologies offer new ways of working; Work Out Loud [WOL] is one such way. Defined as &ldquo;narrating your work + observable work&rdquo; (Williams, 2010), Work Out Loud practices are rapidly gaining widespread adoption both in open networks (the web) or within enterprise social network platforms [ESNs]. <br /> <br />Language plays a crucial role in constructing the WOL phenomenon. The phrase captures something and the use of benign language aids &lsquo;buy in&rsquo; from both individuals and organisations, which suggests issues pertinent to the &lsquo;knowledge sharing paradox&rsquo; and masks relations of power in knowledge sharing practices. <br /> <br />Looking to the work of Michel Foucault, with its emphasis on knowledge, language and power, the research aims to discover how WOL is constructed through discourse and to show its effects. The task is to construct an archive of texts and carry out a discourse analysis to uncover hidden assumptions.</p>]]></description>
+          <pubDate>Wed, 18 May 2016 08:01:35 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

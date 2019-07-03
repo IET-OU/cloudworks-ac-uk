@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: Dr Simon Ball</title>
+        <link>https://cloudworks.ac.uk/user/rss.6651</link>
+        <atom:link href="https://cloudworks.ac.uk/user/rss.6651" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds by Dr Simon Ball</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>CONF TIPS: Etiquette for questions on live presentations</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8525</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8525</guid>
+              <description><![CDATA[<p>Each student presentation will occupy a 15 minute slot. This will include a presentation of no more than 10 minutes, followed by the opportunity for questions to be asked. <br /><br />Questions may be asked by audience members using the text chat facility - whilst questions can be entered into the text chat window at any time during a live presentation, the speakers will be instructed not to interrupt their presentation to answer questions - instead they will be answered after the speaker has delivered their presentation. <br /><br />Questions may also be submitted in advance to the conference organiser (simonjohnball@gmail.com) or via comments on the Cloudworks posters.&nbsp;</p>]]></description>
+          <pubDate>Tue, 14 Jan 2014 14:01:45 +0000</pubDate>
+            </item>
+                    <item>
+              <title>CONF TIPS: What you can do to participate if not attending the live sessions</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8524</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8524</guid>
+              <description><![CDATA[<p>If you are not able or eligible to &nbsp;attend the online conference, you can still engage with the presentations asynchronously via this Cloudscape. Here are a few tips:</p>
+<ul>
+<li>Register here in Cloudworks if you haven't already - this enables you to comment on the sessions asynchronously via their posters.</li>
+<li>In addition to comments you may wish to offer tips or useful links to the presenters on the topic they are covering.</li>
+</ul>]]></description>
+          <pubDate>Tue, 14 Jan 2014 13:44:02 +0000</pubDate>
+            </item>
+                    <item>
+              <title>CONF TIPS: What you need to do if attending the live presentations</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8521</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8521</guid>
+              <description><![CDATA[<p>If you are attending or participating in the online conference, here are a few tips:</p>
+<ul>
+<li>Register here in Cloudworks if you haven't already - this enables you to comment on the sessions asynchronously via their posters.</li>
+<li>Familiarise yourself with Online Rooms prior to the actual conference start date, so you don't miss anything. Information on how to do this can be found in the OU's Computing Guide at&nbsp;<a href="https://learn1.open.ac.uk/mod/oucontent/view.php?id=17649" target="_blank">https://learn1.open.ac.uk/mod/oucontent/view.php?id=17649</a></li>
+<li>You may wish to test that your computer will run Online Rooms (Adobe Connect) smoothly by visiting&nbsp;<a href="https://ou.adobeconnect.com/common/help/en/support/meeting_test.htm" target="_blank">https://ou.adobeconnect.com/common/help/en/support/meeting_test.htm</a> and you may also wish to test your audio by entering a room created specifically for this purpose&nbsp;<a href="https://learn1.open.ac.uk/mod/connecthosted/view.php?id=13922" target="_blank">https://learn1.open.ac.uk/mod/connecthosted/view.php?id=13922</a> . Finally you may wish to access the Accessibility guidance page&nbsp;<a href="https://learn1.open.ac.uk/mod/oucontent/view.php?id=16370" target="_blank">https://learn1.open.ac.uk/mod/oucontent/view.php?id=16370</a>&nbsp;(links open in a new window)</li>
+<li>Prior to the conference look through the posters attached to this Cloudspace to decide which sessions interest you, and check back here periodically for any discussions or content.</li>
+<li>Join us in OU Live for some/all/part of the three sessions on February 15th, 16th and 18th - feel free to ask questions of the presenter after each presentation (questions may be asked only by text chat). You may also submit questions to the conference organiser (simonjohnball@gmail.com) to be asked on your behalf. Do ensure you start the login process a good 15 minutes before the start time of the conference session, to allow for installing Online Rooms and getting your audio sorted.</li>
+</ul>]]></description>
+          <pubDate>Tue, 14 Jan 2014 10:16:52 +0000</pubDate>
+            </item>
+                    <item>
+              <title>FRI: Keynote - Be prepared to resist: Critically evaluating the impact of openness in the developing world. (Dr Leigh-Anne Perryman)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/11881</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/11881</guid>
+              <description><![CDATA[<p>Openness in education is increasingly presented as one of the ways in which we can achieve the Sustainable Development Goals. Indeed, studies conducted by projects such as ROER4D and the OER Hub do suggest that open educational resources and practices have great potential for increasing social and educational equity in the Global South. However, openness is not a universal panacea. Barriers to realizing the potential of openness in the developing world include infrastructure challenges, a lack of locally relevant resources (especially in mother tongue languages), the release of resources in inappropriate formats, and the hazards of encouraging open online participation without also offering guidance about how to keep safe online. In this presentation I argue that the open education community should be prepared to resist uncritical promotion of openness in the developing world and instead that we should adopt collaborative approaches to implementing openness that help ensure initiatives are useful, effective and meet local needs.</p>]]></description>
+          <pubDate>Fri, 30 Nov 2018 08:45:41 +0000</pubDate>
+            </item>
+                    <item>
+              <title>KEYNOTE MON: Wide open or ajar? A personal view of the tensions around openness (Sarah Chesney)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/10234</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/10234</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Tue, 14 Feb 2017 11:01:01 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Keynote Presentation: OERs, Inclusion and Xerte (Simon Ball)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8590</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8590</guid>
+              <description><![CDATA[<p>Simon stepped in at short notice to deliver a keynote presentation on OERs, Inclusion and Xerte. See the link above to the presentation itself.</p>]]></description>
+          <pubDate>Sat, 15 Feb 2014 19:45:33 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Keynote Presentation: Openness and Innovation (Martin Weller)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8574</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8574</guid>
+              <description><![CDATA[<p>Openness is everywhere in education: MOOCs, OERs, open access publishing, open data and nation open policies. In many ways it could be said that the open approach has been victorious. And yet at the same time, many in the open education movement feel that it is being usurped by commercial interests and there is a battle around the direction open education should take. This talk will look at why the open approach has been successful and some of the innovations it has led to, and also at some of the tensions in the area.</p>]]></description>
+          <pubDate>Fri, 07 Feb 2014 12:06:02 +0000</pubDate>
+            </item>
+                    <item>
+              <title>KEYNOTE THU: Design, support, measure, improve: making online learning that works (Patrick McAndrew)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/10177</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/10177</guid>
+              <description><![CDATA[<p>Summary:<br />The way in which we support learning ("teach") has often been seen as more of an art than a science. Indeed there is much to be said for the performance of teaching and the way that experience can build custom and practice that seems to work. However if we are trying to make improvements to how people learn this way of thinking can become unstuck; it is difficult to transfer good practice if we cannot describe what that practice is. Over the last ten years The Open University has built up an approach to learning design that encourages the capture of the intended approach to learning. Having this basis then allows those designs to be supported by materials and people and put into practice. The resulting&nbsp;performance&nbsp;can also be measured in terms such as workload, achievements, feedback and analytics. The learning design approach puts us in a better position to share effective designs across disciplines identifying what is working and how it can be improved. Challenges remain to provide the right sort of activities that fit with designs and to make the improvement cycle operate rapidly enough to help current learners rather than just plan changes that will help in the future.</p>]]></description>
+          <pubDate>Sat, 24 Dec 2016 09:57:40 +0000</pubDate>
+            </item>
+                    <item>
+              <title>KEYNOTE: Open practices: Inclusion, Innovation or Implementation (Gráinne Conole)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8890</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8890</guid>
+              <description><![CDATA[<p class="western" style="cursor:auto"><!--NO CSS-->Digital technologies offer a variety of ways in which learners can interact with multimedia and ways in which they can communicate and collaborate with others. A core characteristic of social and participatory media is the notion of openness. The talk will critique the concept of openness and consider the implications of adopting open practices for learning, teaching and research. It will consider how open practices can support inclusive practices, particularly through the use of Open Educational Resources (OER) and Massive Open Online Courses (MOOCs). It will argue that open practices can lead to more innovative practices, enhancing the learner experience. It will also discuss the barriers to adoption and mechanisms for better take up and adoption.</p>]]></description>
+          <pubDate>Fri, 16 Jan 2015 10:12:58 +0000</pubDate>
+            </item>
+                    <item>
+              <title>MON: (Keynote) Expanding our understanding of openness in the context of disabled students in higher education (Jane Seale)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/11436</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/11436</guid>
+              <description><![CDATA[<p>In this presentation I will argue that if higher education is to be successfully opened up to disabled students, higher education institutions and personnel need to open up to the &lsquo;acceptibility of otherness&rdquo;. I will exemplify and justify my argument by focusing on three phenomena that present significant barriers to such acceptance: labelling; ableism and invisibility.</p>]]></description>
+          <pubDate>Tue, 12 Dec 2017 15:19:03 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

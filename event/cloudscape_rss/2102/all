@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Cloudstream for App Design Workshop</title>
+    <link>https://cloudworks.ac.uk/</link>
+	<description>Cloudstream for App Design Workshop</description>
+	<dc:language>en</dc:language>
+	<dc:creator>cloudworks@open.ac.uk</dc:creator>
+	<dc:rights>Copyright 2019 </dc:rights>
+	<admin:generatorAgent>
+    <atom:link href="https://cloudworks.ac.uk/event/cloudscape_rss/2102" rel="self" type="application/rss+xml" />
+    		    <item>
+	      <title>Travelcloud added to the cloudscape App Design Workshop by Matthew</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/3725">Travel</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2102">App Design Workshop</a> by <a href="https://cloudworks.ac.uk/user/view/2499" rel="author">Matthew</a></em>]]></description>
+	  	  <pubDate>Tue, 25 May 2010 18:25:00 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Timecloud added to the cloudscape App Design Workshop by Matthew</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/3724">Time</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2102">App Design Workshop</a> by <a href="https://cloudworks.ac.uk/user/view/2499" rel="author">Matthew</a></em>]]></description>
+	  	  <pubDate>Tue, 25 May 2010 18:18:04 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Locationcloud added to the cloudscape App Design Workshop by Matthew</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/3723">Location</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2102">App Design Workshop</a> by <a href="https://cloudworks.ac.uk/user/view/2499" rel="author">Matthew</a></em>]]></description>
+	  	  <pubDate>Tue, 25 May 2010 18:17:22 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Accomodationscloud added to the cloudscape App Design Workshop by Matthew</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/3722">Accomodations</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2102">App Design Workshop</a> by <a href="https://cloudworks.ac.uk/user/view/2499" rel="author">Matthew</a></em>]]></description>
+	  	  <pubDate>Tue, 25 May 2010 18:11:25 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+	    </channel>
+</rss>

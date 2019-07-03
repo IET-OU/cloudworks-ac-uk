@@ -1,0 +1,1082 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: blog</title>
+        <link>https://cloudworks.ac.uk/tag/rss/blog</link>
+        <atom:link href="https://cloudworks.ac.uk/tag/rss/blog" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds tagged blog</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>OU Media Player June 2014 release (blog)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8785</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8785</guid>
+              <description><![CDATA[<p><a href="http://freear.org.uk/content/ou-media-player-june-2014-release">Original post</a>.</p>
+<p>I'm happy to be reporting on a new release of the <a href="http://mediaplayer.open.edu">OU Media Player</a> that happened in mid-June. This release fixed a number of bugs, including one relating to Internet Explorer 11 on Windows 8, and another involved fixing security warnings for non-secure audio/video media files when the Player is embedded on a site via HTTPS.</p>
+<p>There were also a couple of enhancements. One entails hiding the title panel on pages that are Open University branded. This has proved to be a stumbling block in some deployments, as the titles are not always meaningful to the public (they may be used internally to distinguish tracks), and it looks odd to have multiple copies the OU's shield logo.</p>
+<p>Another feature we added was Google Analytics for the legacy Open2.net media embedded in <a href="http://www.open.edu/openlearn">OpenLearn</a>. This is feature isn't visible to the end-user. However, it is important so that we can track and report on usage. Based on this, I can already report that the Player is currently embedded in something like 2000 places and receives approaching 4000 plays per month.</p>
+<p>Analytics tracks some "events" for the Player, currently, "play", "pause" and the audio/video track is "ended", . <a href="https://github.com/johndyer/mediaelement/blob/master/src/js/mep-feature-googleanalytics.js">GitHub: ../mediaelement ../mep-feature-googleanalytics.js</a>. We're interested in doing more with the Player analytics, so please watch this space.</p>
+<p>You can see the <a href="http://track.olnet.org/markdown?url=//iet-embed-acct.open.ac.uk/README.md#releases">full release notes</a> for version 1.1.9.</p>]]></description>
+          <pubDate>Wed, 06 Aug 2014 08:54:45 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Creating A PDF Of Your Blog Using Adobe Acrobat Pro.</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8646</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8646</guid>
+              <description><![CDATA[<p dir="ltr"><strong>Title: Creating A PDF Of Your Blog Using Adobe Acrobat Pro.</strong></p>
+<p dir="ltr"><strong>Narrator</strong></p>
+<p dir="ltr">My role in this was to deliver a short instructional session on how to use Adobe Acrobat X to make a PDF archive of a students blog.</p>
+<p dir="ltr"><strong>Situation</strong></p>
+<p dir="ltr">The level 4 undergraduate students (20) &nbsp;had been introduced to blogging as part of their Personal, Professional Practice module of their degree programme. All students had been using Blogger for some months and were required to submit a digital snapshot of their blog for archive purposes and assessment purposes. The session was to be delivered in a fully equipped computer lab and all students had access to appropriate internet resources and a computer each.</p>
+<p dir="ltr">This was a face to face session with a web based supporting document provided for reference and future guidance if required. All guidance materials were placed in the VLE (moodle) as a web page. &nbsp;</p>
+<p dir="ltr"><strong>Task</strong></p>
+<p dir="ltr">The task was to ensure that all students developed an understanding of how to set up their blogs, prior to the PDF making process for maximum readability by the assessors. To identify and articulate common problems that the students may come across and to make sure that students were then able to make a PDF for this and future modules.</p>
+<p dir="ltr"><strong>Actions</strong></p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">Welcome the students</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Introduce the aims and objectives of the session.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Ensure that everyone was logged into their computers and then their blogs. Check to see if everyone was at the same stage.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Talk through the process of setting up their blogs to show maximum number of posts, reminding them why we are doing this.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Help the students all find their way to Adobe acrobat on the computers.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Launch Adobe Acrobat, and create a .pdf from a webpage, paste link in then set up the page sizes.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">PDF and wait&hellip; Whilst the PDFing is happening time for a quick Q&amp;A about the process or follow up if any students are having difficult.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">PDF complete.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Show students how to set blog back to previous settings and save them.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Review of what we have done. Final opportunity for questions</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">End of session. (Lasts about 40-45 minutes.)</p>
+</li>
+</ul>
+<p dir="ltr">The session went quite well but as anticipated there is an inevitable lag with students who can&rsquo;t quite work as fast as others. Other problems encountered were when individuals raced ahead because they thought that they understood what to do then came up against technical issues. In terms of overcoming them I asked individuals to support each other initially as they are a close knit group, then to ask me if there were still problems. Overall though it was a relatively straightforward task.</p>
+<p dir="ltr"><strong>Results</strong></p>
+<p dir="ltr">The anticipated outcome was that students understood how to make a PDF of their blogs. This was demonstrated by the fact that all students submitted a blog for assessment. In terms of perhaps slightly unexpected results it got one or two students who I didn&rsquo;t expect to work together doing so.</p>
+<p dir="ltr"><strong>Reflections</strong></p>
+<p dir="ltr">Overall it was a positive experience but preparation is key, I have run this session before and did so two or three months prior to this session. In the meantime google had updated the interface for blogger slightly and I had to modify the session ever so slightly on the fily. If I had checked that day I would have been prepared. In terms of transferable skills, check your work, be prepared and know your material before you start teaching!</p>]]></description>
+          <pubDate>Tue, 25 Mar 2014 20:53:25 +0000</pubDate>
+            </item>
+                    <item>
+              <title>oEmbed isn&#39;t dead – here&#39;s OU Embed!</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8417</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8417</guid>
+              <description><![CDATA[<p>Brian Mearns has put together a <a href="https://sites.google.com/site/embedlink/home">document describing some concerns around the oEmbed standard</a>, partly around security. It's generally very useful. The discussion on the <a href="https://groups.google.com/forum/?fromgroups=#!topic/oembed/fBpSdT-R_14">oEmbed Google Group</a> goes onto whether <a title="oEmbed specification" href="http://oembed.com/">oEmbed</a> is dead, and what the alternatives are.</p>
+<p>I welcome the discussion, particularly the notes on alternatives. However, I'll add my voice to that of Sean Creeley, CEO of Embed.ly, and say that yes the specification has languished (though it is on Github - this should help keep it alive). But oEmbed isn't dead!</p>
+<p>I concur that the benefits of oEmbed include:</p>
+<ul>
+<li>Simplicity,</li>
+<li>Wide adoption,</li>
+<li>Maleability,</li>
+<li>The ability for site X to provide a ''proxy'' oEmbed service on behalf of site Y,&hellip; for embedding in site Z.</li>
+</ul>
+<p>I also second Sean's wish list.</p>
+<p>I should also probably apologize and pick up on Ross' point that <em>"Though there are some large implementations, new ones aren't really appearing&hellip;"</em>. So, I'm standing up to be counted&hellip;</p>
+<h2>OU Embed</h2>
+<p>We've been developing an <a href="http://embed.open.ac.uk/demo/ouldi">oEmbed service here at The Open University</a>&nbsp;for several years. We are using it as the vehicle to ease deployment of our <a href="http://mediaplayer.open.edu">OU Media Player</a>, which is accessible (to those with disabilities), easy to embed (largely because of oEmbed), and OU branded.</p>
+<p>OU Embed is also a vehicle to:</p>
+<ul>
+<li>Embed from and for research-based projects, for example <a href="http://cloudworks.ac.uk/tag/view/oEmbed">Cloudworks</a>, <a href="http://compendiumld.open.ac.uk">CompendiumLD</a>&nbsp;and&nbsp;<a href="http://ispot.org.uk">iSpot</a>;</li>
+<li>Quickly deploy embedding services, for example, for <a href="http://embed.open.ac.uk/demo/ouldi?url=https://views.scraperwiki.com/run/cloudworks_mindmap">visualizations on Scraperwiki</a>;</li>
+<li>Provide accessible alternatives;</li>
+<li>Experiment with HTML5, RDFa and so on.</li>
+</ul>
+<p>OU Emded is written in PHP, based on CodeIgniter, and I hope to release (most of) it open-source in due course.</p>
+<h2>Useful links:</h2>
+<ul>
+<li><a title="oEmbed specification" href="http://oembed.com/">The oEmbed specification</a></li>
+<li><a href="https://github.com/iamcal/oembed">Specification source on Github</a></li>
+<li><a href="https://groups.google.com/forum/?fromgroups=#!topic/oembed/fBpSdT-R_14">Discussion on oEmbed Google Groups</a></li>
+<li><a href="https://sites.google.com/site/embedlink/home">Brian Mearns' document</a></li>
+<li><a href="http://oohEmbed.com">oohEmbed.com ''proxy'' - merged with Embed.ly in 2011</a></li>
+<li><a href="http://Noembed.com/demo">Noembed.com proxy - very useful</a></li>
+<li><a href="http://embed.ly/providers">Embed.ly proxy - good service, large</a></li>
+<li><a href="http://iframe.ly/pageinfo?url=http://vimeo.com/53156464">Iframely proxy - a new player, v. interesting</a></li>
+<li>
+<p><a href="http://embed.open.ac.uk/demo/ouldi">OU Embed proxy / Embed.open.ac.uk - small, research-based</a></p>
+</li>
+<li>
+<p>http://benalman.com/projects/jquery-postmessage-plugin/</p>
+</li>
+</ul>
+<h2>Conclusion</h2>
+<p>Having thought some more, I suggest that precisely because the oEmbed specification is simple, it is already widely deployed, it works "under the hood", and people can do what they want with it (it just works), there is perhaps the ''perception'' by stakeholders that we don't need to refresh the specification and deal with issues.</p>
+<p>As the Google Group discussion reveals though, we need to both nurture oEmbed and ensure that it is seen to be alive.</p>]]></description>
+          <pubDate>Tue, 23 Apr 2013 11:10:30 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Secret Belfast</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8315</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8315</guid>
+              <description><![CDATA[<h3>Joel Kerr&rsquo;s design narrative: Secret Belfast</h3>
+<h4>Narrator</h4>
+<p>Having just moved to Belfast after three years of university in England I wanted to know more about what the city was about. There was plenty of publicity for the commercially viable activities but I had heard Belfast had a particularly vibrant &lsquo;underground&rsquo; social scene and I wanted to learn more about that.&nbsp;</p>
+<h4>Situation</h4>
+<p>As I was new to the city I had no contacts that could teach me accepted practises of the social scene or introduce me to the community so I realised social networking would play a key role.</p>
+<p>Following a few failed attempts at websites and blogs I discovered a Facebook group called &lsquo;Secret London&rsquo; which aimed to unearth the lesser known locations and events in London. I decided to set up a similar group for Belfast. After a few friends joined and a link to the group appeared in their activity feed, friends of friends joined out of curiosity. The group soon went viral and membership grew in thousands.</p>
+<p>The description in the Facebook group was to share your Belfast secrets so we could learn from one another. Very soon members were posting news of events, favourite restaurants, creative groups and other projects. They were starting their own discussions in the forums and my role went from influencer to moderator, as the group took on a life of its own.</p>
+<p>Due to press interest my role further evolved to organiser as I went from someone on the periphery of Belfast to someone who was considered an expert on what was going on. I got the opportunity to work with local creatives to organise events unearthing talent or activities in &lsquo;secret&rsquo; locations. The group moved from Facebook to include Twitter, a blog and a YouTube channel.</p>
+<p>The common goal of each of the key players was to facilitate innovation within Belfast and foster creativity in it&rsquo;s many forms. We each had something unique to offer and we learnt from one another to advance ideas as opposed to achieving goals.</p>
+<p>Everyone played a role whether they were an expert in their field, someone who like to spread the word or simply someone who wanted to do something a bit different.</p>
+<h4>Task</h4>
+<p>The aim was to learn what was unique about Belfast. Every city has big shopping centres, nice restaurants and trendy night spots but they do not contribute to the personality of the location.</p>
+<p>Success would be knowing <em>all </em>the things to do and the people involved with them.&nbsp;</p>
+<h4>Actions</h4>
+<p>The actions:</p>
+<ol>
+<li>Curiosity</li>
+<li>Experimentation</li>
+<li>Discovery of an existing practise that could be replicated</li>
+<li>Taking action. <em>This can cause embarrassment as you might mess up through trial and error or people question your motives and laugh at your efforts. Keep plugging on!</em></li>
+<li>Successful implementation <em>The project was much more successful than I had anticipated. It required a lot of time and effort in moderating forums, answering questions, facilitating debates, speaking to the press and reacting to peoples requests for collaboration</em></li>
+<li>Growth <em>There were a number of additional social channels that I could take advantage of in order to engage more people</em></li>
+<li>Collaboration <em>The project would&rsquo;ve fallen flat on its face without enlisting expertise from existing projects, and organisations.</em></li>
+<li>Innovation <em>In order to continue engaging people I had to come up with ideas to spark their interest</em></li>
+</ol>
+<p>The obstacles:</p>
+<ol>
+<li>Abuse <em>Giving people open access can lead to inappropriate posts. I found that a few sharp words was a better alternative to deleting the posts. It soon stopped</em></li>
+<li>Spam <em>Popular online forums are susceptible to unwanted sales pitches. Eventually I had to lock down access and approve people who genuinely had something to share</em></li>
+<li>Expertise <em>Because it was my group people assumed I had all the answers so I had to enlist relevant experts</em></li>
+</ol>
+<h4>Results</h4>
+<p>Expected outcomes:&nbsp;</p>
+<ol>
+<li>Learn more about the personality of the city</li>
+<li>Learn about the lesser known events and activities</li>
+<li>Meet the people involved in these events and activities</li>
+</ol>
+<p>Unexpected outcomes</p>
+<ol>
+<li>Expertise in using social media</li>
+<li>Expertise in organising events and promoting them via social media</li>
+<li>Experience dealing with the media</li>
+<li>Learning new skills from local experts (videography and audio production)</li>
+<li>The ability to quickly launch new projects using my acquired knowledge and influence</li>
+<li>The ability to help other creatives promote themselves for free</li>
+</ol>
+<h4>Reflections</h4>
+<p>By acting on my initial curiosity I not only learnt about the city I live in, I became proud to be associated with it and found myself in a position to influence its development from a grass roots level.</p>
+<p>I have replicated the process a few times to varying degrees of success. Each time I used the same format:</p>
+<ol>
+<li>An intriguing title</li>
+<li>A focused message</li>
+<li>A manageable use of social media</li>
+<li>The right tone of voice</li>
+<li>The ability for users to actively influence the progress</li>
+</ol>
+<p>The one obstacle I haven&rsquo;t managed to overcome is people&rsquo;s suspicion at why Secret Belfast is free for them to use, they assume there will be hidden costs.</p>]]></description>
+          <pubDate>Fri, 29 Mar 2013 14:20:53 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Marvin&#39;s Design Narrative</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8258</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8258</guid>
+              <description><![CDATA[<p>This is the design narrative of an Ethics course I have just taught in a theological college.</p>]]></description>
+          <pubDate>Mon, 25 Mar 2013 14:20:34 +0000</pubDate>
+            </item>
+                    <item>
+              <title>The 3 Letters of Learning Design - GBU (The Good, the Bad and the Ugly)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7923</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7923</guid>
+              <description><![CDATA[<p><a href="https://picasaweb.google.com/lh/photo/S-iRSsnQJsxy5BnfKqOCc9MTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-nmMN-qWw0dk/UQtXxCe5RCI/AAAAAAAAi1Q/9wfCtderi5A/s800/JENGA.JPG" alt="" /></a></p>
+<p><strong>I love the simplicity of <a class="zem_slink" title="Jenga" href="http://www.hasbro.com/games/en_US/jenga/" rel="homepage" target="_blank">Jenga</a>. </strong></p>
+<p>Simplicity has a purity about it. Don't knock it. Behind its functionality and its look and feel there will be some hard thinking. Keep it simple, stupid (<a class="zem_slink" title="KISS principle" href="http://en.wikipedia.org/wiki/KISS_principle" rel="wikipedia" target="_blank">K.I.S.S</a>) may be a training cliche but there is considerable truth in it. I've now had three years here at <a class="zem_slink" title="Open University" href="http://maps.google.com/maps?ll=52.025,-0.705555555556&spn=0.01,0.01&q=52.025,-0.705555555556 (Open University)&t=h" rel="geolocation" target="_blank">the OU</a> and here on this Student Blog platform (short of five days). I've been working on my ideas regarding learning and e-learning design in particular. Courtesy of THE OU hosted <a title="OLDS Mooc 2013" href="http://www.olds.ac.uk/the-course">OLDs MOOC 2013</a> (Online Learning Design - <a class="zem_slink" title="Massive open online course" href="http://en.wikipedia.org/wiki/Massive_open_online_course" rel="wikipedia" target="_blank">Massive Open Online Course</a>) I'm experiencing what feels like undertaking an 8 week written examination - the contents of my brain are being pushed through the cookie cutter. And out comes this: <strong><a class="zem_slink" title="The Good, the Bad and the Ugly (Il Buono, il Brutto, il Cattivo.)" href="http://www.rottentomatoes.com/m/good_the_bad_and_the_ugly" rel="rottentomatoes" target="_blank">The Good, the Bad and the Ugly</a>.</strong> <em>(Of course I had shut down for the gadgets for the day and was brushing my teeth when this came to me).</em></p>
+<p><a href="https://picasaweb.google.com/lh/photo/D2bXDdrcCSYGhwT0f3LEiNMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-0Ce0f0Wpyi8/UQtY6oKjJ5I/AAAAAAAAi2c/-b5CsHcMBoQ/s288/The%20good.JPG" alt="" /></a></p>
+<p><strong>The Good</strong></p>
+<p>Learning events or activities, moments that make the participant smile, think, reflect, nod in agreement, understand, be informed and generally feel good about the world and this particular learning experience. Hit them with some of this, as the say so succinctly across the Atlantic - at the 'get go'.</p>
+<p><a href="https://picasaweb.google.com/lh/photo/xUqWmeLuB0QOqucJi6k559MTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-zR7R8ogXYIc/UQtZAD_QDfI/AAAAAAAAi3Y/aeF3UVn7Dfk/s288/The%20bad.JPG" alt="" /></a></p>
+<p><strong>The Bad</strong></p>
+<p>The effort required and built into the learning. OK, we want them to love this too, and you can if you're 'in the flow', have done your work, have wrestled with what you didn't understand, asked for help, listen to fellow students, gone out of your way to do extra reading and research until you have it, one way or another.</p>
+<p><strong>There needs to be assessment.</strong></p>
+<p>An assignment is a soft assessment to me - though like everyone I have terrible days when the thing just slips through my fingers like a snowball on the beach. A dissertation or end of module assignment is tougher, but tough and 'bad' in a certain way - like commitment to a triathlon. And a good analogy as working on and developing three issues at 2,000 words a pop is about right. And you won't get far if you leave training to the week before. It's a slow burn.</p>
+<p><strong>The 'bad' has to be the written examination.</strong></p>
+<p>They have to be hated and feared, and like learning lines for that school play, you have to get it right on the night (or day). And what do you do if you act? You have good lines to learn, you learn and rehearse your lines and you practice, and do a test run or two. The curtains going up is the equivalent of your turning the examination paper over. I feel the fear from a year ago - April 2012. I hadn't sat a written exam in 30 years. All my undergraduate and school-boy fears came back. I used rusty techniques that had last seen service during my first degree. Bad is good. You want to do everything not to feel like you are naked on stage - a dream we all have when faced with such an 'exposing' test? <a href="https://picasaweb.google.com/lh/photo/wWqqYfaV0PTh72j4OhD1ldMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-IvhCwe5Layc/UQtZGBhaShI/AAAAAAAAi3g/Q-hkvFUPdk8/s288/The%20ugly.JPG" alt="" /></a></p>
+<p><strong>The Ugly</strong></p>
+<p>Shock 'em. Not scare the witless. Have up your sleeve some smart stuff. Whether an idea or the technology offer a creepy and certainly memorable surprise. Boring a student into making a fact or issue stick is like throwing mud at a brick wall - it'll stick, it'll coagulate and build up, but is easily washed away in a shower and destroyed in a storm. Use storytelling techniques perhaps, better still, follow the pattern of a ghost story. Scare them? I'm back on fear I guess. We humans are fearful of many things and will go out of our way to avoid, run away or confront our fears. As I said, the idea here isn't to lose your students, but to empathise with them, understand the ugly side of their learning experience then help them confront their worst fears. It is ugly having to tackle the parts of a subject that stink, but inevitably these are the blocks at the base of JENGA.</p>
+<p>My primary colours for learning design, not red, blue and yellow, but good, bad and ugly. We'll have to see.&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>So can I apply it? And can I go back to bed now?</strong></p>
+<p>Which leads me to another theme - we no longer simply bring work home with us, we take it to bed and sleep with it. If this pisses you off then let me introduce you to 'working with dreams'. If you are prepared to get up for an hour in the dead of night, or can flick on a light without invoking divorce then scribble stuff down to catalyse the thought in the morning. Can work wonders, can produce nonsense, can just be some things you need to put on the supermarket shopping list ... or another dream of being naked on the stage, not knowing your lines and needing the lo but all the exits are locked and the orchestra has stopped and you have to say something. <em>Which, courtesy of the wonders of the mind, has me in the front row of a performance of The Tempest at the University Theatre, Newcastle when I was 13 or 14. Caliban was naked, covered in mud and wearing a prosthetic erect penis.</em></p>
+<p><strong>HORROR!</strong></p>
+<p><em>P.S. And give me 20 minutes searching the Internet and I will be able to name the actor, date the show and possibly even find a picture. Perhaps you'd like to have a go. But before you do so, be very fearful of what the search terms you use might throw up. </em> <strong>&nbsp;</strong></p>
+<p><em>P.P.S. I've given up (for now). It may have been David Suchet or Jim Carter. The production was in 1974 at the University Theatre.&nbsp;</em></p>]]></description>
+          <pubDate>Fri, 01 Feb 2013 07:21:12 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Bronwyn Hegarty week one reflection on blog </title>
+              <link>https://cloudworks.ac.uk/cloud/view/7563</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7563</guid>
+              <description><![CDATA[<p>My reflection for the end of week one is on my blog.</p>]]></description>
+          <pubDate>Fri, 18 Jan 2013 02:14:07 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Bronwyn Hegarty blog and learning journal </title>
+              <link>https://cloudworks.ac.uk/cloud/view/7401</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7401</guid>
+              <description><![CDATA[<p>All on my blog.</p>]]></description>
+          <pubDate>Tue, 15 Jan 2013 21:52:58 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Clare Gormley OLDS MOOC Week 1 Reflection: Cloudy with Bright Spells</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7392</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7392</guid>
+              <description><![CDATA[<p>My main learning objectives for week 1 of the OLDS MOOC were as follows:</p>
+<ul>
+<li>Gain familiarity with Cloudworks &amp; engage with the MOOC (by visiting &amp; participating as much as time allows)</li>
+<li>Develop deeper understanding of learning design &amp; issues associated with it (by bookmarking and very briefly annotating three key papers)</li>
+<li>Post details of my own learning design project and browse around/make contact with other potential study groups involved in training/professional development of novice online course developers</li>
+</ul>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->Well here I am as Week 1 of OLDS MOOC Learning Design for a 21st Century Curriculum draws to a close and I&rsquo;m finally getting some ramblings/reflections down on (digital) paper. This week it&rsquo;s been all about the Cloud(works) and the temptation to litter this, my first public blog, with Cloud-related metaphors is proving hard to resist: I&rsquo;m worried there may be storm clouds gathering, I&rsquo;m hoping there may be blue-sky thinking ahead, but I&rsquo;m optimistic there will be plenty of clouds with silver linings. You have been warned&hellip;</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->Joking aside (but not too far, now) getting to know the Cloudworks system has been a major theme for many MOOC partipants this week. As eloquently described in Jane Challinor&rsquo;s blog, the language and workings of Cloudworks are not immediately intuitive and it continues to take some getting used to. However, given that Cloudworks is ultimately a social networking site for those interested in sharing learning designs, and given that my primary objective for participating in this MOOC is to learn more about how to help others develop effective learning designs, I&rsquo;m going to persevere on the learning curve. With some patience and practice, hopefully its potential will become clearer in time.</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->Apart from tinkering with Cloudworks, there have been a number of other noteworthy collaborative activities going on this week:</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->&bull; We&rsquo;ve been introducing ourselves &amp; participating on the open discussion forum (with some gentle reminders from the OU folk about maintaining threads and adhering to discussion forum best practice)</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->&bull; We&rsquo;ve posted our &ldquo;dream&rdquo; learning design project to the Dreambazaar (a kind of campsite for virtual learning designs, as discussed on Twitter)</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->&bull; We&rsquo;ve started the process of project team formation with the objective of collaborating on a learning design project with like-minded souls from the MOOC. Go team Sheila MacNeill, Santanu Vasant, Helen Walmsley to name just a few of those interested so far!</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->I say &ldquo;started the process&rdquo; because I feel I&rsquo;m still really just starting with the team formation process at this point. The tiny little description of this activity in the Team Up area of the OLDS Site makes it sound a lot easier than it actually is, in my view.: &ldquo;Once you have formed a team, you will have to agree on roles, practices and conventions among team members. Then...&rdquo;&nbsp;</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->Would it were that easy! Putting aside my own baggage from previous group learning experiences (some great, some dreadful), I believe that a project manager/team leader role might be needed in order to progress the project. That&rsquo;s something that&rsquo;s difficult to get up and running in an environment when there are so many of us on different schedules who don&rsquo;t know each other working on a project that we might interpret differently using an unfamiliar learning platform. That said, we are planning to have our first Hangout tonight which will hopefully clarify the thinking and point to next steps for the team. At the Converge session today, it was comforting to hear that there is an expectation that the team formation process may well continue for some groups into next week. So it&rsquo;s early days yet..&nbsp;</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->Apart from collaborative activities, I&rsquo;ve been engaged in some personal learning activities, reading up (not as much as I should, I feel) on a small number of recommended links &amp; references. &nbsp;There were some great definitions of learning design contained in the introductory Prezi. For example:&nbsp;</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->&ldquo;Everyone designs who devises courses of action aimed at changing existing situations into desired ones&rdquo; (Simon, 1969)</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->I particularly liked the clarity of Grainne Conole&rsquo;s definition of learning design: &ldquo;A methodology for enabling teachers/designers to make more informed decisions in how they go about designing learning activities and interventions, which is pedagogically informed and makes effective use of appropriate resources and technologies.&rdquo; For my money, this is the definition that most clearly puts the focus on the actual design process and differentiates learning design from its sister instructional design.&nbsp;</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->Also, although it&rsquo;s in a different context, I must also admit to rather liking the late Steve Jobs definition of design, as I think it rather interesting that someone who so obviously commanded the aesthetic perspective actually had more pragmatic concerns about what&rsquo;s important in design.:</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->&ldquo; &lsquo;Design&rsquo; is a really loaded word. I don't know what it means. So we don't talk a lot about design around here, we actually just talk about how things work. Most people think it's [about] how they look. But it's not really how they look, it's how they work."</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->Anyway, looking at my objectives for the week (and I am taking the MOOC on a week-by-week basis depending on other commitments), I&rsquo;m happy to be able to check off the items on my list. That done, I shall float off on my own little cloud of contentment for now&hellip;here&rsquo;s hoping the feeling lasts!</div>
+<p>Well here I am as Week 1 of <a href="http://www.olds.ac.uk/">OLDS MOOC Learning Design for a 21st Century Curriculum</a> draws to a close and I&rsquo;m finally getting some ramblings/reflections down on (digital) paper. This week it&rsquo;s been all about the <a href="http://cloudworks.ac.uk/">Cloudworks&nbsp;</a>and the temptation to litter this, my first public reflection, with Cloud-related metaphors is proving hard to resist: I&rsquo;m worried there may be storm clouds gathering, I&rsquo;m hoping there may be blue-sky thinking ahead, but I&rsquo;m optimistic there will be plenty of clouds with silver linings. You have been warned&hellip;</p>
+<p>Joking aside, getting to know the Cloudworks system has been a major theme for many MOOC participants this week. As eloquently described in <a href="http://thevirtualleader.blogspot.co.uk/2013/01/oldsmooc-diglit-day-4-we-start-to.html">Jane Challinor&rsquo;s blog</a>, the language and workings of Cloudworks are not immediately intuitive and it continues to take some getting used to. However, given that Cloudworks is ultimately a social networking site for those interested in sharing learning designs, and given that my primary objective for participating in this MOOC is to learn more about how to help others develop effective learning designs, I&rsquo;m going to persevere on the learning curve. With some patience and practice, hopefully its potential and value will become clearer in time.</p>
+<p>Apart from tinkering with Cloudworks, there have been a number of other noteworthy collaborative activities going on this week:</p>
+<p>&bull;&nbsp;We&rsquo;ve been introducing ourselves &amp; participating on the open discussion forum (with some gentle reminders from the OU folk about maintaining threads and adhering to discussion forum best practice)</p>
+<p>&bull;&nbsp;We&rsquo;ve posted our &ldquo;dream&rdquo; learning design project to the Dreambazaar (a kind of campsite for virtual learning designs, as described on Twitter)</p>
+<p>&bull;&nbsp;We&rsquo;ve started the process of project team formation with the objective of collaborating on a learning design project with like-minded souls from the MOOC. Go team Sheila MacNeill, , Helen Walmsley and Santanu Vasant to name just a few of those interested so far!</p>
+<p>I say &ldquo;started the process&rdquo; because I feel I&rsquo;m still really just starting with the team formation process at this point. The tiny little description of this activity in the <a href="http://www.olds.ac.uk/the-course/week-1/team-up">Team Up</a> area of the OLDS Site makes it sound a lot easier than it actually is, in my view: <em>&ldquo;Once you have formed a team, you will have to agree on roles, practices and conventions among team members. Then...&rdquo;&nbsp;</em></p>
+<p>Would it were that easy! As I'm undoubtedly bringing some baggage from previous group learning experiences (some great, some dreadful), I'm very curious to see how the team formation will happen and the project will evolve in a MOOC. For example,my initial thoughts wondered whether a project manager or team leader type of role might be needed in order to progress the project and ensure the tasks get done. Getting the team approach working &nbsp;in this environment might be challenging when there are so many of us on different schedules who don&rsquo;t know each other, working on a project that we might interpret differently using an unfamiliar learning platform. Or &nbsp;maybe there's no need for a PM in this context - will it be the case that getting highly motivated &amp; interested people together is the key and once that's done the team members take responsibility and share tasks naturally as things progress? It will be fascinating to see how this works in the weeks ahead.</p>
+<p>I was delighted to meet fellow teammates Helen and Sheila on our very first Team Hangout last night and bounce around some initial project ideas - this felt like a very promising first start as we are all on the same page regarding keeping the project realistic and achievable. At the Converge session on Tuesday, it was also comforting to hear that there is an expectation that the team formation process may well continue for some groups into next week so I still feel on track regarding team set up. However, because I still can't quite get my head around the concept of a Study Circle, I'm going to let that rest over the next while and see what happens.</p>
+<p>Apart from collaborative activities, I&rsquo;ve been engaged in some personal learning activities, reading up (not as much as I should, I feel) on a small number of the recommended links &amp; references. &nbsp;There were some interesting definitions of learning design contained in the introductory Prezi. For example:&nbsp;<em style="cursor:auto"><!--NO CSS-->&ldquo;Everyone designs who devises courses of action aimed at changing existing situations into desired ones&rdquo; (Simon, 1969)</em></p>
+<p>I particularly liked the clarity of Grainne Conole&rsquo;s definition of learning design: <em>&ldquo;A methodology for enabling teachers/designers to make more informed decisions in how they go about designing learning activities and interventions, which is pedagogically informed and makes effective use of appropriate resources and technologies.&rdquo;</em> For my money, this is the definition that most clearly puts the focus on the actual design process and differentiates <strong>learning</strong> design from its learner-centric sister <strong>instructional </strong>design.&nbsp;</p>
+<p>Also, although it&rsquo;s in a different (non educational) context, I must also admit to rather liking the late Steve Jobs definition of design, as I think it rather interesting that someone who so obviously commanded the aesthetic perspective actually had more pragmatic concerns about what&rsquo;s important:&nbsp;<em>&ldquo; &lsquo;Design&rsquo; is a really loaded word. I don't know what it means. So we don't talk a lot about design around here, we actually just talk about how things work. Most people think it's [about] how they look. But it's not really how they look, it's how they work." </em>Getting something to "work" for the learner, in other words creating a design that genuinely leads to students learning, should be the fundamental goal of any learning design project, in my view. Approaches and techniques that can help educators with that messy process of design in a modern context (roll on week 3) are therefore pivotal.</p>
+<p>Anyway, looking at my personal objectives for the week (and I am taking the MOOC on a week-by-week basis depending on other commitments), I&rsquo;m happy to be able to check off the items on my list. That done, I shall float off on my own little cloud of contentment for now&hellip;here&rsquo;s hoping the feeling lasts!</p>]]></description>
+          <pubDate>Tue, 15 Jan 2013 16:42:15 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Of journeys, journals and jottings</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7128</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7128</guid>
+              <description><![CDATA[<p>Is this a learning journal? Perhaps. Perhaps not. It all depends. On what? On how you define 'learning journal'. Time was, in the deepest recesses of time past, a 'learning journal' was an item that you kept on paper and shared only with your tutor or mentor. There was a contract you both signed to this effect, and woe betide the tutor or mentor who shared the content of your learning journal with anyone else.</p>
+<p>And then there's the 'blog.'.. That's what I think this is. It may define a learning&nbsp;<strong>journey</strong>, but, for me, it's by no means a 'learning journal'. It's a collection, a mish-mash, a pot pourri of musings, observations and general reflections on the experience of OLDS MOOC. It's open. It's not private. It's not a 'learning journal'.</p>]]></description>
+          <pubDate>Sat, 12 Jan 2013 16:52:53 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Will Stewart&#39;s Learning Journal</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7123</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7123</guid>
+              <description><![CDATA[<p>My Learning Journal can be accessed <a href="http://sumdy.edublogs.org/">here</a>.</p>]]></description>
+          <pubDate>Sat, 12 Jan 2013 15:52:49 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Daniel&#39;s OLDS MOOC learning journal</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6894</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6894</guid>
+              <description><![CDATA[<p>I decided to use cloudworks to monitor and track my learning experience during the time of OLDS MOOC. I do have a blog (see link) but I want to familiarize myself with this tool, as one of many, to facilitate an online course. It strikes me that this platfrom is more a learner centered design and about organizing, annotating and making sense of informtation and other participants comments and remarks. Looking forward to a great journey in learning.</p>]]></description>
+          <pubDate>Thu, 10 Jan 2013 16:57:06 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Jane Challinor&#39;s Personal Learning Journal</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6847</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6847</guid>
+              <description><![CDATA[<p>I plan to use my existing blog to keep a learning journal throughout this experience. I am also using this as my portfolio where I am "curating" my own work and useful readings from the week.</p>]]></description>
+          <pubDate>Thu, 10 Jan 2013 12:55:51 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Sylvia&#39;s OLDS MOOC learning journal </title>
+              <link>https://cloudworks.ac.uk/cloud/view/6744</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6744</guid>
+              <description><![CDATA[<p>Please follow the link to my <a title="Sylvia's blog" href="http://sylviamoessinger.wordpress.com/" target="_blank">blog</a> where I will report and reflect on the OLDS MOOC.</p>
+<p><a title="Sylvia's blog" href="http://sylviamoessinger.wordpress.com/" target="_blank">http://sylviamoessinger.wordpress.com/</a></p>]]></description>
+          <pubDate>Sun, 06 Jan 2013 18:08:40 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Track OER - frequently asked questions</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6688</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6688</guid>
+              <description><![CDATA[<ol>
+<li>
+<p>Did you make a video blog and where is it?</p>
+<p>There are two &ldquo;Grand Finale&rdquo; videos,</p>
+<ul>
+<li><a href="http://cloudworks.ac.uk/cloud/view/6568">http://cloudworks.ac.uk/cloud/view/6568</a></li>
+<li><a href="http://podcast.open.ac.uk/pod/trackoer">http://podcast.open.ac.uk/pod/trackoer</a></li>
+<li><a href="http://youtube.com/playlist?list=PLbk9PlEH5tn1tLS3oXh_zYUJ5AczPOCpM">YouTube playlist for Track <abbr title="Open Educational Resource,">OER</abbr></a></li>
+</ul>
+</li>
+<li>
+<p>Where is the resultant code?</p>
+<p>The code is available for download under open-source licenses,</p>
+<ul>
+<li><a href="https://github.com/IET-OU/trackoer-core">https://github.com/IET-OU/trackoer-core</a></li>
+<li><a href="https://github.com/IET-OU/piwik-trackoer">https://github.com/IET-OU/piwik-trackoer</a></li>
+</ul>
+<p>It is installed here,</p>
+<ul>
+<li><a href="http://track.olnet.org">http://track.olnet.org</a></li>
+</ul>
+</li>
+<li>
+<p>And is LTS using the code now? Does it have plans to?</p>
+<p><a title="Cut and Paste Reuse Tracking" href="http://capret.mitoeit.org/"><abbr title="Cut and Paste Reuse Tracking,">CaPR&eacute;T</abbr></a> is in use on LabSpace <abbr title="Bridge to Success project">B2S</abbr>, and the <a title="SCORM, IMS Common Cartridge, Plain Zip.." href="http://labspace.open.ac.uk/blocks/formats/download_unit.php?id=7442&name=Learning_to_Learn_1.0">Zip downloads</a> containing tracking codes will be available shortly,</p>
+<ul>
+<li><a href="http://labspace.open.ac.uk/Learning_to_Learn_1.0">http://labspace.open.ac.uk/Learning_to_Learn_1.0</a></li>
+<li><a href="http://labspace.open.ac.uk/Succeed_with_Math_1.0">http://labspace.open.ac.uk/Succeed_with_Math_1.0</a></li>
+</ul>
+</li>
+<li>
+<p>Could you spell out what this will actually mean for <a href="http://www8.open.ac.uk/about/open-educational-resources/what-we-do/open-media-unit">Open Media Unit (OMU)</a> at The Open University in practice?</p>
+<ul>
+<li>
+<p>OMU should be able to find out,</p>
+<ol>
+<li>If OpenLearn/ LabSpace content in being re-used</li>
+<li>The method (that is, download, or cut and paste), and</li>
+<li>Something about who is re-using and how &ndash; see these <a href="http://track.olnet.org/about#links">custom report configurations</a>.</li>
+</ol></li>
+<li>
+<p>We explored <a title="Piwik open source web analytics" href="http://piwik.org/">Piwik</a> and <a title="Google Analytics" href="https://www.google.com/analytics/">Google Analytics</a> based tracking, but in practice, for production purposes we are using <abbr title="Google Analytics">GA</abbr> &ndash; a known quantity for OMU.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>And what will it mean for the Institute of <a title="Institute of Educational Technology" href="http://iet.open.ac.uk/">Educational Technology (IET)</a> from a research perspective?</p>
+<ul>
+<li>We&rsquo;ve met the objectives of the <a title="Joint Information Systems Committee" href="http://www.jisc.ac.uk/"><abbr title="Joint Information Systems Committee">JISC</abbr>-funded</a> Track <abbr title="Open Educational Resource,">OER</abbr> project,</li>
+<li>We've undertaken a successful collaboration with OMU and LTS, including the key <a href="http://www.open.edu/openlearn/">OpenLearn</a> developer, <a href="https://twitter.com/guydbarrett">Guy Barrett</a>,</li>
+<li>We are collecting data that can be visualized later, eg. via the OLNet evidence hub,</li>
+<li>We haven&rsquo;t yet done integration/ visualization work for the evidence hub (out of scope for Track <abbr title="Open Educational Resource,">OER</abbr>),</li>
+</ul>
+</li>
+</ol>]]></description>
+          <pubDate>Fri, 07 Dec 2012 15:05:03 +0000</pubDate>
+            </item>
+                    <item>
+              <title>OU embed proposal (blog)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6684</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6684</guid>
+              <description><![CDATA[<p>I've proposed a mini-project here, for IET to host an experimental embedding service on behalf of The Open University. This will serve a similar purpose to Embed.ly (<a href="http://api.embed.ly/">api.embed.ly</a>) and Oohembed (<a href="http://oohembed.com/">oohembed.com</a>), and act as a proxy on behalf of other embed or service providers, for example, YouTube, <a title="Learning Activity Management System" href="http://wiki.lamsfoundation.org/display/lamsdocs/About+LAMS#AboutLAMS-whatIs">LAMS</a>, Prezi and Google Docs forms.</p>
+<p>The embedding service will provide an oEmbed interface (<a title="The specification" href="http://oembed.com/">oembed.com</a>), compatible with Wordpress 2.9+, jQuery, Drupal and other software. It will provide embeds:</p>
+<ol>
+<li>That are accessible to those with disabilities,</li>
+<li>That are usable on mobiles and tablet devices, eg. iPad,</li>
+<li>On behalf of niche services, eg. LAMS,</li>
+<li>That incorporate analytics/ tracking, eg. Google Analytics, Piwik.</li>
+</ol>
+<p>The four points above are what will differentiate the service from Embed.ly and Oohembed.</p>
+<ul>
+<li>Proposed version 1 services: YouTube, LAMS, Prezi, Google Docs forms (priorities for OULDI).</li>
+<li>Likely version 2 services: <a href="http://www.mathtran.org/">Mathtran.org (OU)</a>, <a href="http://cohere.open.ac.uk/">Cohere.open.ac.uk (OU)</a>, <a href="http://scratch.mit.edu/">MIT Scratch</a>.</li>
+<li>Relates to: this project will build on my prototype at <a href="http://maltwiki.org/">Maltwiki.org</a>, and work through <a href="http://olnet.org/node/142">OLnet</a>. It relates to <a title="Open University Learning Design Initiative" href="http://www.open.ac.uk/blogs/OULDI/">OULDI</a>/Cloudworks, and the <a href="http://freear.org.uk/content/ou-media-player-project">OU media player project</a>.</li>
+<li>Use: I envisage that the service will be used by OU and third-party blogs and web sites. I will be proposing a <a href="http://moodle.org/">Moodle</a> filter plugin for oEmbed.</li>
+</ul>
+<p>A note on terms and conditions</p>
+<p>There will be terms and conditions that state that the OU makes no claims on the intellectual property of service providers like YouTube and Prezi or their contributors. We simply provide a conduit, and act on behalf of the service providers. They should also state that we do NOT store content or software (eg. Flash) from the service providers, except where the content is released under a permissive license (eg. LAMS sequences are Creative Commons licensed, so we may cache copies of LAMS SVG files).</p>
+<p>More soon! Feedback welcome.</p>]]></description>
+          <pubDate>Tue, 04 Dec 2012 17:16:11 +0000</pubDate>
+            </item>
+                    <item>
+              <title>OU media player project (blog)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6683</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6683</guid>
+              <description><![CDATA[<p>Tony <a href="http://blog.ouseful.info/2011/02/06/the-most-accessible-media-player-on-the-web/">Hirst has just blogged</a> about the Office for Disability Issues new accessible media player AKA the "Most Accessible Media Player on the Web". Both he and <a href="http://technocrapy.wordpress.com/2011/02/06/are-waterfalls-agile/">Will Woods</a> have alluded to work that The Open University is undertaking. I thought I'd fill in the gaps.</p>
+<p>The OU is at the start of a 6 month development to create a multimedia player that (we hope):</p>
+<ol>
+<li>Will be an "attractive" player that the average designer/ blogger would be happy to use on their site. </li>
+<li>Can be used in a variety of contexts - our Moodle-based virtual learning environment, OpenLearn, OU-Drupal sites, blogs, Cloudworks... </li>
+<li>Will deliver content mostly from the OU podcast site in the contexts mentioned above. </li>
+<li>Will be accessible to users with disabilities - both in terms of control, and display of alternatives like transcripts and captions. </li>
+<li>Usable on a variety of devices, including mobiles and tablets. </li>
+<li>Will be delivered in a maintainable way. </li>
+</ol>
+<p>Taking points 1 and 2 together, my personal mantra is "<em>If its accessible, but not attractive then we haven't succeeded</em>". So we are talking unobtrusive accessibility.</p>
+<p>Taking the final point regarding delivery. The main method for embedding the player, will be using a REST-ful web service, based on the <a href="http://oembed.com/">oEmbed specification</a>. This service is available for many providers, including YouTube, Flickr, Slideshare, Vimeo... See the <a href="http://oohembed.com/">oohEmbed</a> and <a href="http://api.embed.ly/">Embedly</a> sites. This will be transparent to the end-user and the author of content. An author on a Wordpress blog will merely type something like:</p>
+<pre> [embed] <a href="http://podcast.open.ac.uk/pod/mst209-fun-of-the-fair#079b8e506c">http://podcast.open.ac.uk/pod/mst209-fun-of-the-fair#079b8e506c</a> [/embed]
+</pre>
+<p>The blog software will handle the rest. oEmbed is used or consumed by various software/sites, including <a href="http://codex.wordpress.org/Embeds">Wordpress 2.9 onwards</a>, the <a href="http://twitter.com/#!/noradio/status/24790949420">new Twitter</a>, Ars Technica, StatusNet, and our own Cloudworks/ <a title="Cloudworks open-sourced" href="http://getcloudengine.org//wiki/oEmbed">CloudEngine</a>. Many multimedia providers can be plugged in with little effort, a great benefit, so authors will be able to embed from YouTube, Flickr and OU-podcast in the same way. The promotion of a service-based approach does not preclude bloggers from using conventional embed codes/snippets.</p>
+<p>The player itself will probably be Flash-based on desktops, and will fallback to HTML5 for tablets and mobiles. This is dictated by the encoding infrastructure on the podcast site, and the current state of the various video and audio codecs.</p>
+<p>The controls/ buttons for the player will be HTML and Javascript-based, not Flash-based. This follows examples like Chris Heilmann's <a href="http://icant.co.uk/easy-youtube/?http://youtube.com/watch?v=uBdwM7oQivk">Easy YouTube player</a>, and builds on my own <a href="http://maltwiki.org/">MALT Wiki prototype</a> (MALT Wiki is used by Cloudworks, and is oEmbed-based).</p>
+<p>We will be using third-party Flash and Javascript components where possible, and implementing the player and web service.</p>
+<p>As to the evaluations that we have done. Back in March 2009, I evaluated players including YouTube, Easy YouTube, jwPlayer, NCAM's ccPlayer and Flowplayer. See <a href="http://slideshare.net/nfreear/malt-wiki-techshare2009/18">slide 18 of this presentation</a> and <a href="http://spreadsheets.google.com/pub?key=0AgJMkdi3MO4HdFNDdElzUUhMejAzaWZoMFJ0emw3a0E&hl=en_GB&single=true&gid=1&output=html">this spreadsheet</a>. I tested with screen readers (JAWS, and <a href="http://nvda-project.org/">NVDA</a>), and also compared APIs for the players (how "scriptable" they were), licenses and so on.</p>
+<p>As part of the current player project I wrote a design brief with screen shots of various existing players outside and inside the OU. This included YouTube, EasyYouTube and the <a href="http://www.officefordisability.gov.uk/inclusive-communications/channels/odi-accessible-media-player.php">ODI media player</a> - a late addition. It was not an evaluation per se. It instead presented what was out there - we may want to use some features, we may not.</p>
+<p>In the current project plan, we have built in accessibility testing, using expert evaluation. And we hope to do testing with real users too, using the <a href="http://jennielee.open.ac.uk/labs/">Jennie Lee laboratories</a>.</p>
+<p>I'll conclude by saying that we hope the player will be accessible and will meet the needs of authors/ bloggers and end users. I don't think we will claim to be "the most accessible player on the Web". After all that sets you up for a world of criticism!</p>
+<p>Feedback and ideas are as ever welcome.</p>]]></description>
+          <pubDate>Tue, 04 Dec 2012 17:13:48 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Track OER - OER Commons bookmarklet service screen cast</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6569</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6569</guid>
+              <description><![CDATA[<p>Transcript for a <a href="http://podcast.open.ac.uk/pod/trackoer#!b9379af9b7">screen cast on OU Podcasts</a>. Also available <a href="http://youtube.com/playlist?list=PLbk9PlEH5tn1tLS3oXh_zYUJ5AczPOCpM">via YouTube</a>.</p>
+<p><a title="Watch the screen cast on YouTube" href="http://youtu.be/UWCBAt8_UH4"><img src="http://i2.ytimg.com/vi/UWCBAt8_UH4/hqdefault.jpg" alt="Watch the screen cast on YouTube" /></a></p>
+<h2>Transcript</h2>
+<p><a href="http://track.olnet.org/">Track <abbr title="Open Educational Resource,">OER</abbr></a> is a <abbr title="Joint Information Systems Committee">JISC</abbr>-funded project to demonstrate technical solutions to the problem of tracking <abbr title="Open Educational Resource,">OER</abbr> (Open Educational Resources). As part of the Track <abbr title="Open Educational Resource,">OER</abbr> project we have developed a service to add license-tracker snippets to resources available through the <a href="http://oercommons.org/"><abbr title="Open Educational Resource,">OER</abbr> Commons</a> portal.</p>
+<p>And, here's how it works:</p>
+<ol>
+<li>First visit the link track dot olnet dot org and put at the end a question mark, edge equals one, <a href="http://track.olnet.org/?edge=1">http://track.olnet.org/?edge=1</a> (this just means use experimental features)</li>
+<li>Then make sure your browser's bookmarklets/ bookmarks bar is available</li>
+<li>Then drag the bookmarklet that's in the bottom-left of the site to your bookmarks or favourites bar,</li>
+<li>Now visit <abbr title="Open Educational Resource,">OER</abbr> Commons, <a href="http://oercommons.org">http://oercommons.org</a></li>
+<li>Browse using the menus on the left, among the materials. I'll choose something from the Arts section. Here's a resource available through <abbr title="Open Educational Resource,">OER</abbr> Commons, the Aaron Copland Collection,</li>
+<li>Then simply click on the bookmarklet you saved previously..</li>
+<li>Wait a few [moments]&hellip;</li>
+<li>And view the resulting license-snippet. You get a preview here, and some copy and paste here.</li>
+</ol>
+<p>By default the snippet uses <a title="Piwik open source web analytics" href="http://piwik.org/">Piwik</a> no-Javascript tracking and a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</a>. You can switch to Google Analytics, here, like so&hellip; Here's the Google Analytics [Java]script&hellip;</p>
+<p>Additionally, you can change the license, for example using&hellip; the Attribution-NonCommercial-ShareAlike [License] like so.</p>
+<p>Currently the Track <abbr title="Open Educational Resource,">OER</abbr> bookmarklet service is mostly a demonstration. It can be used by a publisher on small batches of OERs. Download the <a title="Track OER project code, on GitHub" href="https://github.com/IET-OU/trackoer-core">Track <abbr title="Open Educational Resource,">OER</abbr> code</a> and consider integrating it into your publishing workflow for full scale integration of tracking. We are considering extending the current functionality into an &ldquo;<em>Embed Me</em>&rdquo; or &ldquo;<em>Embed 'n' Track</em>&rdquo; service for OpenLearn and <abbr title="Open Educational Resource,">OER</abbr> Commons.</p>
+<p><a href="http://track.olnet.org/"><em>Watch this space</em></a>!</p>]]></description>
+          <pubDate>Fri, 19 Oct 2012 15:30:31 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Track OER - grand finale</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6568</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6568</guid>
+              <description><![CDATA[<p>Below you will find two short videos summarizing the aims and outputs from the <abbr title="Joint Information Systems Committee">JISC</abbr>-funded Track <abbr title="Open Educational Resource,">OER</abbr> Project undertaken in the <a title="Institute of Educational Technology" href="http://iet.open.ac.uk/">Institute of Educational Technology</a> at The Open University.</p>
+<ol>
+<li>A <a title="Finale video by Patrick McAndrew, on OU Podcasts" href="http://podcast.open.ac.uk/pod/trackoer#!edb526f6c0">two minute video by principal investigater, Professor Patrick McAndrew</a>,</li>
+<li>A <a title="Finale slide cast by Nick Freear, on OU Podcasts" href="http://podcast.open.ac.uk/pod/trackoer#!811d8699eb">three minute slide cast by lead developer, Dr Nick Freear</a> (<a title="Slides on Google Docs" href="https://docs.google.com/presentation/pub?id=1LmFrSDU5-jP1Ff34Vee8ug2D7-yq6Ut9nAULC2Ln2lY&start=false&loop=false&delayms=3000">slides</a>).</li>
+</ol>
+<p>You can also <a href="http://youtube.com/playlist?list=PLbk9PlEH5tn1tLS3oXh_zYUJ5AczPOCpM">view them in this YouTube playlist</a>.</p>
+<p>Enjoy!</p>
+<h2>Transcript for the video by Patrick McAndrew</h2>
+<p><a title="Finale video by Patrick McAndrew, on YouTube" href="http://youtu.be/lD6jmQxBa4s"><img src="http://i1.ytimg.com/vi/lD6jmQxBa4s/hqdefault.jpg" alt="Finale video by Patrick McAndrew" /></a></p>
+<p>TRACK <abbr title="Open Educational Resource,">OER</abbr> is a project supported by the <abbr title="Joint Information Systems Committee">JISC</abbr> OER Rapid Innovation programme (OERRI). It has developed ways to help keep track of Open Educational Reources. <abbr title="Open Educational Resource,">OER</abbr> have the challenge of being in the open and so actually what happens to content can become a bit of a mystery &ndash;- if content is trackable then we can improve what we know about use, help increase the evidence base and make it easier for those who want to reuse content to do the right thing.</p>
+<p>In practice we have built three things. A transferable tracking system combining the Cut and Paste &ldquo;<abbr title="Cut and Paste Reuse Tracking,">CaPR&eacute;T</abbr>&rdquo; software built by MIT in a previous JISC project, A way to add tracking code to downloads so that we can see where new copies are being used and served, and tools to help apply tracking. These have all been through the acceptance testing process of The Open University so that they can be rolled out into our systems and of course, the code is all open source and available.</p>
+<p>We see this code as helping us know things that we just couldn't find out before and the content for the Bridge to Success courses has now been marked with the tracking code. We also know that it has triggered ideas that we want to take forward: better ways to embed content with good attribution and tracking, a trackable license chooser for creative commons, and better ways to share evidence in our <abbr title="Open Educational Resource,">OER</abbr> Research hub.</p>
+<p>To get at the software and see it in action visit, <a href="http://track.olnet.org">http://track.olnet.org</a></p>]]></description>
+          <pubDate>Thu, 18 Oct 2012 22:09:47 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Track OER - impact</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6567</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6567</guid>
+              <description><![CDATA[<p>We're now at the end of the Track OER project, so this is a suitable point to consider the impact of the project and any next steps.</p>
+<ol>
+<li>Google Analytics (and Piwik-based) license-trackers for the Bridge to Success downloadable archives/ Zips have undergone technical testing, and have been approved. They will be deployed to the production OpenLearn-Labspace environment in mid-November.</li>
+<li>The license-trackers for B2S archives incorporate GA campaign tracking.</li>
+<li>The CaPReT-Google Analytics and CaPReT-Piwik Javascripts have also undergone testing. They will also be deployed to LabSpace in mid-November.</li>
+<li>We have contributed fixes to the <a title="Tatemae/capret on Github" href="https://github.com/tatemae/capret">original CaPReT code</a> base.</li>
+<li>There is a demo bookmarklte service to add license-trackers to content available through OER Commons.</li>
+<li>And all code is on Github, and available under a GPL-compatible open source license.</li>
+</ol>
+<p>On this basis the project has achieved what it set out to achieve - demonstrating practical analytics-solutions for OERs.</p>
+<h3>Next steps</h3>
+<p>Apart from the deployments mentioned above, these are the next steps:</p>
+<ol>
+<li>Use the current command line PHP batch processor (part of Track OER) as the specification for production-ready XSLT templates. This is the route to add license-tracking to OpenLearn and OpenLearn-LabSpace at scale.</li>
+<li>"Tracking evidence" - find ways to integrate the Google Analytics data in (Google) maps in the <a href="http://ci.olnet.org/#org-orggmap">OLNet Evidence Hub</a>.</li>
+<li>Document recipes to create and export analytics reports.</li>
+<li>Explore an "Embed Me" / "Embed 'n' Track" button for OpenLearn (and OER Commons).</li>
+<li>Show Creative Commons the project outputs.</li>
+<li>Other dissemination activity.</li>
+</ol>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Fri, 19 Oct 2012 13:38:21 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Status, 26 September, CaPReT-GA, testing, performance - Track OER</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6494</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6494</guid>
+              <description><![CDATA[<p>I'm a bit behind with my blogging and I have lot's to talk about, so let's dive in...</p>
+<p>Way back on the 12 September I had two very useful meetings, including one with the wider Track <abbr title="Open Educational Resource,">OER</abbr> team/group. The response to our progress on the technical activities was positive. Some significant outcomes from the meetings were:</p>
+<ul>
+<li>Can we take the <a title="Cut and Paste Reuse Tracking" href="http://capret.mitoeit.org/">CaPReT</a>-Piwik work and extend it to <a title="Google Analytics" href="https://www.google.com/analytics/">Google Analytics</a>? After some discussion we decided that this was my next high priority task.</li>
+<li>A suggestion from <a class="@" rel="interwiki" href="https://twitter.com/guybarrett">Guy Barrett</a> regarding the [CaPReT-<abbr title="Microsoft Internet Explorer browser">MSIE</abbr> problem][cloud:6474] - can we put a HTML comment into the pasted content, to offer the user some help? <code>&lt;!--...--&gt;</code></li>
+<li>Can we ensure that CaPReT/-Piwik/-<abbr title="Google Analytics">GA</abbr> works with Drupal 6 - jQuery 1.3.2 (ie. an old version of the jQuery Javascript library)?</li>
+<li>Can we ensure that the CaPReT Javascripts do not degrade the page load-times for OpenLearn, LabSpace and so on? (<a href="http://weblogs.asp.net/jgalloway/archive/2007/05/10/performant-isn-t-a-word.aspx">Performant isn't a word</a>.. <a class="Define" rel="interwiki" href="http://google.com/search?q=define:performant">it is now</a>.)</li>
+</ul>
+<p>I got stuck into Guy's suggestion straight away, and extended it to include a link to <a class="Toer" rel="interwiki" href="http://track.olnet.org/help/capret/ie">further sources of help</a>. You can see an <a class="Gdoc" rel="interwiki" href="https://docs.google.com/document/d/1aGNOPFACD5KUbSPHELy9CVlrj2AJUzY18YJIZgJjrqI/edit">example of the comment in this Google Doc</a>.</p>
+<p>I'm pleased to say that we have at least a partial solution for CaPReT-<abbr title="Google Analytics">GA</abbr>. I've used <a class="Gdev" rel="interwiki" href="https://developers.google.com/analytics/devguides/collection/gajs/eventTrackerGuide">Google Analytics event tracking</a>, with actions of 'copy' and 'view', the copied text as the event label, and the length of the copied text as the event value (for copy only). The copy action is fully tracked (source host and <abbr title="Uniform Resource Locator,">URL</abbr>), but we haven't been able to get the destination host/<abbr title="Uniform Resource Locator,">URL</abbr>. This seems to be a limitation of Google Analytics. A CaPReT copy uses Javascript, while the tracker that is added to the copied text and used to track views of the pasted content is a no-Javascript web beacon (web bug). You may like to view an <a class="Toer" rel="interwiki" href="http://track.olnet.org/test/capret/math/course-ga">example of CaPReT-GA</a> - and try copying.</p>
+<p>We've done some work on performance too, using Google's <a href="http://closure-compiler.appspot.com/home">online Closure Compiler</a> to [compress the CaPReT Javascripts][Toer:build/capret]. If you wish to add a version of jQuery and change "whitespace-only" to "simple optimizations", <a class="Toer" rel="interwiki" href="http://track.olnet.org/build/capret/simple/1.8.0">try this build script</a>. The <a class="Toer" rel="interwiki" href="http://track.olnet.org/capret/build/capret-ga.min.js">minified CaPReT-GA Javascript is here</a></p>
+<p>The third round of technical testing was put back a week, but I'm happy to say that Roger Moore and Mick Deal have shown great flexibility. Testing is underway this week, <a class="Gdoc" rel="interwiki" href="https://docs.google.com/document/d/1-NUFoxRB2U2xha1TvHC5D25ZYTUPwIv5EDFLf9dVN5M/edit">using this test script</a>. It concentrates on <abbr title="Bridge to Success project">B2S</abbr> testing with campaign tracking, CaPReT-<abbr title="Google Analytics">GA</abbr> testing, and a new strand C, testing the <a class="Toer" rel="interwiki" href="http://track.olnet.org/oerform?edge=1">OER Form service and bookmarklet</a>. I haven't talked much about this last point, but I'll leave that for a future post.</p>
+<p>Nick, signing off. Over and out..</p>]]></description>
+          <pubDate>Wed, 26 Sep 2012 14:13:36 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Week-end status, 7 Sep campaign tracking.. - Track OER</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6476</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6476</guid>
+              <description><![CDATA[<p>Last Friday I had a very productive discussion with Tony Hirst (<a href="http://ouseful.info/">Ouseful.info</a>). I ran through some of my research into Javascript versus no-Javascript web beacons (web-bugs). As ever, it was useful to get some objective criticism and validation from a fellow techie!</p>
+<p>And Tony re-iterated a comment he made on the Project blog on Cloudworks - we should really look at campaign tracking. After our discussions I recognised the significance of this as part of a multi-pronged solution to tracking content re-use. So I got busy and baked something into the command line (CLI) batch processing code.</p>
+<p>The aim should be add the campaign tracking parameters at least into all the external links back to the 'source' server and CreativeCommons.org. My thinking is that if we can share naming conventions for the parameters, and analytics data with Creative Commons then we would all benefit.</p>
+<p>Here is an example link with campaign tracking parameters for Google Analytics (utm_source, utm_medium, utm_campaign..), http://labspace.open.ac.uk/b2s?utm_source=labspace.open.ac.uk!Learning_to_Learn_1.0&amp;utm_medium=online!attr-link&amp;utm_campaign=toer1</p>
+<p>And, here is the <a href="http://support.google.com/analytics/bin/answer.py?hl=en&answer=1033867">Google Analytics URL builder tool</a>, and <a href="https://docs.google.com/document/d/1ResNHBGs22iCntB7Qx5lKYYrFZxxUWm62xn0c7VIFcY/edit#heading=h.2eh8u2m4b2y3">additional notes and discussion in a proposed specification</a>.</p>
+<p>Apart from the attempted <a href="http://cloudworks.ac.uk/cloud/view/6474">fixes for the CaPReT Javascripts discussed here</a> (and JSLint fixes), the main activity over the past week has been implementing the <a href="http://api.creativecommons.org/docs/readme_15.html">Creative Commons API</a> in the Track OER application. This is basically complete, apart from bug fixing. It brings the following substantial benefits:</p>
+<ul>
+<li> Correct terminology and language used for the various Creative Commons Licenses, </li>
+<li> License coverage, </li>
+<li> Convergence between the command line (CLI)/ batch template processor and the Web/oEmbed online interface, </li>
+<li> Support for different jurisdictions, </li>
+<li> Localization. </li>
+</ul>
+<p>Here is a French language snippet, with Google Analytics Javascript tracking, and UK jurisdiction, <a href="http://track.olnet.org/oerform?locale=fr&lic=cc:by/uk&ac=UA-12345-6&url=http://labspace.open.ac.uk/course/view.php?id=7442#cc-code">track.olnet.org/oerform?locale=fr&amp;lic=cc:by/uk&amp;ac=UA-12345-6&amp;url=http://labspace.open.ac.uk/..</a> - link not yet fully operational (server update required!)</p>
+<p>I found Creative Common's REST API straightforward to work with, and the RDF/XML data returned is very useable.</p>
+<p>I'm looking forward to the OERRI challenges webinar hosted by CETIS this morning.</p>
+<p>Over and out.</p>]]></description>
+          <pubDate>Fri, 07 Sep 2012 06:17:48 +0000</pubDate>
+            </item>
+                    <item>
+              <title>CaPReT, Javascript clipboard and Internet Explorer</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6474</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6474</guid>
+              <description><![CDATA[<p>The big headline from technical testing of CaPReT, was that <a title="Thanks to Mick Deal/LTS Tech. Testing" href="https://docs.google.com/document/d/1ci8U920B6DgydrBZZvYZxtvOTw_OpH1AnCX61-OWjpA/edit">copy and paste doesn't work as expected in Internet Explorer (versions 6 - 9)</a>.</p>
+<p>Specifically, in other browsers you can copy from a CaPReT Javascript-enabled page, and simply paste into an online rich-editor (we tested on live Cloudworks, which uses Tiny MCE).  This pastes the text with formatting, with the Piwik web-beacon image and attribution/license meta-data from the source page's <a title="Resource Description Framework - in attributes" href="http://en.wikipedia.org/wiki/RDFa">license RDFa</a> appended.</p>
+<p>My apologies in advance for the technical complexities I detail below. I thought it best to record what we've found before we forget!</p>
+<p>In Internet Explorer, when you try to do a simple paste it pastes the source HTML markup, escaped - so you see "&lt;a href="..."&gt;..&lt;/a&gt;..</p>
+<p>Obviously this workaround is not elegant, so I've been looking at a better solution.  The crux of the issue is the way that CaPReT hooks into the Javascript "copy" event using <a href="https://github.com/niklasvh/jquery.plugin.clipboard">Niklas von Hertzen's jquery.plugin.clipboard Javascript</a>.</p>
+<p>The Internet Explorer branch of this plugin's logic uses clipboardData.setData, which supports copying as "Text" or "URL" (no "HTML" value available).  When the user pastes the destination rich-editor handles the clipboard data as text, escaping and revealinfg the markup.  The plugin's logic for the other browsers manipulates the <a href="http://www.quirksmode.org/dom/range_intro.html">W3C Range</a> that is to be copied,  then hands over to the browser to actually perform the copy (that is, it doesn't prevent the default action).  So, when the clipboard data is pasted it is recognized as rich-text/HTML and works accordingly.</p>
+<p>I've been exploring solutions using <a href="http://code.google.com/p/ierange/">Tim Cameron Ryan's 2009 ierange Javascript</a>, and re-working von Hertzen's clipboard plugin.  So far unfortunately, I've been unsuccessful. ierange.js provides a shim for Internet Explorer, implementing the  <a href="http://w3.org/TR/DOM-Level-2-Traversal-Range/">W3C Range specification (Version 1.0/ 2000)</a> and DOM Selection.  Manipulating ranges is a complex business and I haven't yet determined if the bugs are in ierange.js or my re-worked clipboard2 plugin.</p>
+<p>I need to check priorities with my colleagues, but I am tempted to abandon the ierange/jquery.clipboard2 based solution for the moment, as it could become a big time-sink.</p>
+<p>The work has not been in vain however, as I have a much better understanding of how Javascript interacts with the clipboard, and I've  <a href="https://github.com/tatemae/capret/issues/9">fixed a number of bugs</a> in the <a href="https://github.com/IET-OU/trackoer-core/blob/master/application/assets/capret/js/jquery.plugin.clipboard.js">fork of von Hertzen's jQuery Clipboard plugin used by CaPReT</a>.</p>]]></description>
+          <pubDate>Wed, 05 Sep 2012 15:39:53 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Track OER - status, 29 August: looking back, looking forward..</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6449</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6449</guid>
+              <description><![CDATA[<p>We prepared for the first round of testing, with LTS Technical Testing team at The Open University. This involved writing <a href="https://docs.google.com/document/d/1Hqqm1Rhmsi3SaWwMJ1mRE5gyyIdfFdxqM3D2LKxsYOc/edit">an initial test script</a>. And, significantly we relied on the <a href="http://capret.mitoeit.org">CaPReT evaluation server</a>, which does not have guaranteed up-time or support. So, we took a copy of the CaPReT Javascripts, and extended them to work with Piwik (capret-piwik.js).</p>
+<p>Testing proceeded on schedule last week, and the <a href="https://docs.google.com/document/d/1ci8U920B6DgydrBZZvYZxtvOTw_OpH1AnCX61-OWjpA/edit">results are online</a>.</p>
+<p>We also worked to separate the 'AlternateImage' Piwik plugin in to it's own project repository, and added two more Piwik plugins - 'ExternalLink' (a utility), and 'ContentReuse'. The growing <a href="http://cloudworks.ac.uk/cloud/view/6442">list of outputs is in the register</a>.</p>
+<p>Finally, I finished the command line batch processor. This is our initial solution to add license-tracker code into the HTML pages in the various Zip archives that can be downloaded from LabSpace. We are looking at XSLT solutions going forward, but this has enabled us to proceed with the <a href="https://docs.google.com/document/d/1RIWRsGFQf4CmiPoHl3BMubz3w6TMiFN_oQbnuSKtQA0/edit">second round of testing this week</a>.</p>
+<p>This week and next I'll be working on improving the Google Analytics Javascript to work on work on a local machine (the "file://" protocol). And looking at no-Javascript Google Analytics..</p>
+<p>Last week:</p>
+<ul>
+<li> 20 August, trackoer-ga.js </li>
+<li> 20,23,24,28 August, initial command line/CLI controller/ batch processor, </li>
+<li> 21 August, setting up technical testing round 1, </li>
+<li> 21 August, adding CaPReT test view(s) to trackoer-core based on LabSpace, </li>
+<li> 21-22 August, capret-piwik.js </li>
+<li> 23 August, Piwik 'ExternalLink' utility plugin </li>
+<li> 24 August, separated Piwik plugins (now three) into separate Git repos. - set up .gitmodules/ sub-modules (git clone --recursive..) </li>
+<li> 24-26 (Tuesday 28) August, Oercommons_serv </li>
+<li> 28 August gajs.js </li>
+</ul>
+<p>Looking forward:</p>
+<ul>
+<li> Google Analytics solution for use on local machine ("file://" protocol) - looking at gajs.js - Remy Sharp, </li>
+<li> Google Analytics no-Javascript solution, </li>
+<li> Build script for CaPReT-Piwik Javascripts etc. </li>
+<li> Bug fixes from weeks 1 and 2 of testing, </li>
+<li> Prepare for 3rd round of testing, week of 17 September, </li>
+<li> Complete OER Commons functionality. </li>
+</ul>]]></description>
+          <pubDate>Wed, 29 Aug 2012 11:31:24 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Privacy, EU cookie law and tracking OERs</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6436</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6436</guid>
+              <description><![CDATA[<p>Disclaimer: I'm not a lawyer, and these are my personal views.</p>
+<p>A week ago a colleague of mine highlighted a thorny issue related to tracking the re-use of OERs - balancing the privacy of end-users against the need for analytics by OER publishers. His concerns were specifically around the new <a href="http://ico.gov.uk/for_organisations/privacy_and_electronic_communications/the_guide/cookies.aspx">EU cookie law (e-Privacy Directive)</a>.</p>
+<p>To quote, "tracking images probably breach the new European law on cookies and other tracking devices". My response was, I think Track OER risks breaching the new law, <strong>unless</strong>:</p>
+<ul>
+<li>We make it clear to &lsquo;content-producers&rsquo; that they are adopting a service with tracking/using license code snippets that incorporate tracking &ndash; probably we should try to indemnify ourselves in our T&amp;C (is that the correct term?) </li>
+<li>The &lsquo;content-producers&rsquo; (including the OU) make it clear to end-users that they are viewing/consuming OERs containing a tracking code &ndash; many/most of the sites that may re-use OERs will already incorporate analytics for their own purposes, so I hope this will not be too big a deal, </li>
+<li>Looking at the code bottom-right here - http://creativecommons.org/choose/ - we may need some wording like &ldquo;This work is licensed under a Creative Commons &hellip; License, with tracking.&rdquo; &ndash; where &ldquo;tracking&rdquo; is a link to a page explaining why and what we are tracking, </li>
+<li>We/ content-producers may need to provide mechanism(s) so end users can opt out. </li>
+</ul>
+<p>I made a few further points:</p>
+<ul>
+<li>I&rsquo;ve always considered this part of the &ldquo;Quid pro quo&rdquo; &ndash; we (HE institutions) provide OER content under permissive licenses for use and re-use. In return, we need to find out by some means how they are being used, so that we can provide results to our funders, continue to invest in OER production, make new business cases to funders, our institutions, etc. Yes, OER is good marketing for us, but it costs us. </li>
+<li>If the above point is valid, we need to explain it, There probably needs to be a cultural/legal shift/ change of wording etc., </li>
+<li>It adds to the complexity of what we&rsquo;re doing! </li>
+<li>It may reduce the adoption of the technology/technique, </li>
+<li>OU (OUICE) pages now have a &lsquo;Privacy and cookies&rsquo; link - <a href="http://www.open.ac.uk/">www.open.ac.uk</a> | <a href="http://www.open.ac.uk/privacy">open.ac.uk/privacy</a> - we need this for starters, </li>
+<li>We&rsquo;re collecting anonymous (or semi-anonymous) data, and probably going to <a href="http://track.olnet.org/piwik/">display it publicly</a> - what are the implications? </li>
+</ul>
+<p>Then, while exploring the administrative interface for Piwik I came across the "Do Not Track" feature (<a href="http://donottrack.us/">http://donottrack.us</a>). The end-user configures their browser to send a DNT header when it requests a Web page (a HTTP header is some meta-data about the request or response, normally invisible to the end-user). The Web-server reads the DNT header, and doesn't record or track the user's visit. Do Not Track is available in most recent browsers, including Internet Explorer 9, Firefox 12, Safari and Opera. And critically, Microsoft plan to <a href="http://cookielaw.org/blog/2012/8/9/do-not-track,-the-cookie-law-and-ie10.aspx">turn it on by default in IE 10</a>. A number of big players like Microsoft, Yahoo and some advertising networks are adding support to their servers.</p>
+<p>And the great news is that <a href="http://piwik.org/privacy/#toc-step-4-respect-donottrack-preference">Piwik supports Do Not Track</a> out of the box.</p>]]></description>
+          <pubDate>Wed, 22 Aug 2012 05:27:02 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Track OER - midweek status, 16 August</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6433</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6433</guid>
+              <description><![CDATA[<h3>Subtitle: To script or not to script...</h3>
+<p>At the end of last week and the start of this week I focussed on integrating a Piwik no-Javascript web beacon (web bug) with the  HTML-<a href="http://en.wikipedia.org/wiki/RDFa#Examples_of_RDFa"><abbr title="Resource Description Framework – in – attributes">RDFa</abbr></a> snippet produced by the <a href="http://creativecommons.org/choose">Creative Commons choose-license form</a>.</p>
+<p>This resulted in an initial <a href="http://track.olnet.org/oerform">OER license-tracker</a>, which currently supports OpenLearn-LearningSpace and LabSpace URLs. It makes requests over the Web for <a href="http://labspace.open.ac.uk/Learning_to_Learn_1.0?format=rdf">RDF files from OpenLearn</a>, and queries the Piwik API.</p>
+<p>There is also an <a href="http://oembed.com/">oEmbed-API</a> interface to the OER form - to help with automation and batch processing. It is linked to from the <a title="Alternative formats.. oEmbed" href="http://track.olnet.org/oerform?url=http://labspace.open.ac.uk/Learning_to_Learn_1.0#alt">OER form (#alt)</a>.</p>
+<p>Note, there is the potential to extend the OER license-tracker form to, for example, support <a href="http://oercommons.org/courses/17-042-citizenship-and-pluralism-fall-2003">OER Commons URLs</a> as input, with the resulting license-tracker snippet referencing the source URL at <a href="http://ocw.mit.edu/">MIT</a> for example.</p>
+<p>However, by the middle of the week, we turned our attention to the other strand of the project - <a href="http://capret.mitoeit.org/">CaPReT: Cut and Paste Reuse Tracking</a>. <a href="https://twitter.com/guydbarrett">Guy Barrett</a> and I worked yesterday to add the CaPReT Javascript to a Moodle side-block on the OpenLearn-Labspace test server (behind our firewall). Moodle didn't remove the scripts from the sticky block (yay!) and we're almost ready for our first round of technical testing next week.</p>
+<p>Guy is proving to be a great resource to review ideas, and he pointed out very reasonably that many downloadable OER archives (plain Zip, SCORM etc.) <a title="Learning to Learn downloads, from OpenLearn-LabSpace/B2S" href="http://labspace.open.ac.uk/blocks/formats/download_unit.php?id=7442">provided by OpenLearn</a>, MIT (I checked!) and others contain Javascripts. (It should be noted that the RSS feeds provided by OpenLearn don't link to Javascripts.)</p>
+<p>Anyway, the emphasis of the Track OER project on no-Javascript tracking may be mis-placed. Using custom Google Analytics Javascript contained in the downloadable packages would remove the probable reliance on <a href="http://track.olnet.org/">Track.olnet.org</a> - a long-term support concern in making the Track OER tools production-ready. (Remember, Track.olnet.org does dynamic server-side processing of the web-beacon request, specific to re-used/ re-hosted OERs, before redirecting to the Piwik web-beacon.)</p>
+<p>So, I got busy yesterday and put together a <a href="http://track.olnet.org/test/b2s_learn_gajs">first prototype for a custom Google Analytics Javascript</a> solution. You will need to 'View source' (and/or use Firebug) in your browser to see what is happening...</p>
+<p>Which leads to my question - "To script, or not to script...?"</p>]]></description>
+          <pubDate>Thu, 16 Aug 2012 06:07:00 +0000</pubDate>
+            </item>
+                    <item>
+              <title>blog post test</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6262</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6262</guid>
+              <description><![CDATA[<p style="cursor:auto"><!--NO CSS-->This morning we ran a three hour INSET introducing all 82 teachers to Frog. Planning for this session may be read about&nbsp;<a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" title="Frog INSET planning" href="http://daibarnes.info/blog/2012/04/frog-the-first-inset-day-for-all-teachers/" target="_blank">here</a>. &nbsp;The video below shows the training materials developed to showcase Frog at the same time as providing learning guidance.</p>
+<p style="cursor:auto"><!--NO CSS-->The training was a success with many compliments and positive feedback from our excellent staff. Much praise goes to our lead learner Frog Champions (six in total) who led one classroom each. But it wasn&rsquo;t perfect&hellip;</p>
+<p style="cursor:auto"><!--NO CSS--><strong style="cursor:auto"><!--NO CSS-->Images of the resources used (click to enlarge, video at end of post shows more):</strong></p>
+<div id="attachment_1013" style="cursor:auto"><!--NO CSS--><a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" href="http://daibarnes.info/blog/wp-content/uploads/2012/04/Screen-Shot-2012-04-17-at-17.38.09.png"><img style="border-style: initial; font: inherit; vertical-align: baseline; max-width: 95%; height: auto; border-width: initial; width: auto; padding: 0px; margin: 0px;" title="Lesson Plan" src="http://daibarnes.info/blog/wp-content/uploads/2012/04/Screen-Shot-2012-04-17-at-17.38.09-300x157.png" alt="" width="300" height="157" /></a>
+<p style="cursor:auto"><!--NO CSS-->Section of the Frog Lesson Plan</p>
+</div>
+<div id="attachment_1012" style="cursor:auto"><!--NO CSS--><a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" href="http://daibarnes.info/blog/wp-content/uploads/2012/04/Screen-Shot-2012-04-17-at-17.37.13.png"><img style="border-style: initial; font: inherit; vertical-align: baseline; max-width: 95%; height: auto; border-width: initial; width: auto; padding: 0px; margin: 0px;" title="Self-Evaluation and Feedback Form" src="http://daibarnes.info/blog/wp-content/uploads/2012/04/Screen-Shot-2012-04-17-at-17.37.13-300x204.png" alt="" width="300" height="204" /></a>
+<p style="cursor:auto"><!--NO CSS-->Self-Evaluation and Feedback Form</p>
+</div>
+<div id="attachment_1011" style="cursor:auto"><!--NO CSS--><a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" href="http://daibarnes.info/blog/wp-content/uploads/2012/04/Screen-Shot-2012-04-17-at-17.36.45.png"><img style="border-style: initial; font: inherit; vertical-align: baseline; max-width: 95%; height: auto; border-width: initial; width: auto; padding: 0px; margin: 0px;" title="A page of PDF resources" src="http://daibarnes.info/blog/wp-content/uploads/2012/04/Screen-Shot-2012-04-17-at-17.36.45-300x178.png" alt="" width="300" height="178" /></a>
+<p style="cursor:auto"><!--NO CSS-->Training website: A page of PDF resources</p>
+</div>
+<div id="attachment_1010" style="cursor:auto"><!--NO CSS--><a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" href="http://daibarnes.info/blog/wp-content/uploads/2012/04/Screen-Shot-2012-04-17-at-17.36.23.png"><img style="border-style: initial; font: inherit; vertical-align: baseline; max-width: 95%; height: auto; border-width: initial; width: auto; padding: 0px; margin: 0px;" title="Example of video page" src="http://daibarnes.info/blog/wp-content/uploads/2012/04/Screen-Shot-2012-04-17-at-17.36.23-300x152.png" alt="" width="300" height="152" /></a>
+<p style="cursor:auto"><!--NO CSS-->Training website: Example of video page</p>
+</div>
+<p style="cursor:auto"><!--NO CSS--><strong style="cursor:auto"><!--NO CSS-->Successful things to note:</strong></p>
+<ul style="cursor:auto"><!--NO CSS-->
+<li style="cursor:auto"><!--NO CSS-->Videos were very well&nbsp;received;</li>
+<li style="cursor:auto"><!--NO CSS-->Video annotations with arrows and text were important;</li>
+<li style="cursor:auto"><!--NO CSS-->Sorting audio/headphones on all PCs was also important (all learners were silent and focused during training);</li>
+<li style="cursor:auto"><!--NO CSS-->Keep the presentations to whole staff to a minimum &ndash; we did ten minute intro and fifteen minute plenary;</li>
+<li style="cursor:auto"><!--NO CSS-->Differentiation was an absolute must &ndash; ours seemed to work well.</li>
+</ul>
+<div style="cursor:auto"><!--NO CSS--><strong style="cursor:auto"><!--NO CSS-->Things to improve upon:</strong></div>
+<div style="cursor:auto"><!--NO CSS-->
+<ul style="cursor:auto"><!--NO CSS-->
+<li style="cursor:auto"><!--NO CSS-->Some of the resources were ordered incorrectly (d&rsquo;oh!);</li>
+<li style="cursor:auto"><!--NO CSS-->Some learners watched the video then did the activity rather than pausing. Clearer instruction required;</li>
+<li style="cursor:auto"><!--NO CSS-->Some learners like badges (physical ones) and others do not;</li>
+<li style="cursor:auto"><!--NO CSS-->Nearly all learners like mugs and lanyards are popular too;</li>
+<li style="cursor:auto"><!--NO CSS-->Remember to set permissions on folders so learners do not accidentally move them;</li>
+<li style="cursor:auto"><!--NO CSS-->More time; As a school staff we would have benefitted from more time to start creating resources and discussing how Frog will be used.</li>
+</ul>
+</div>
+<p style="cursor:auto"><!--NO CSS-->This is the first Frog INSET we will run. There is a planned dedicated session in September before it is launched with the pupils. Between now and then we will run workshops with staff wanting to achieve their aims for using the platform. But this was a big deal &ndash; first impressions count for a lot and I hope we have made a very positive impression on as many of our staff as we could. This was also my first time using Frog and it showed &ndash; a bit.</p>
+<p style="cursor:auto"><!--NO CSS--><strong style="cursor:auto"><!--NO CSS-->Video:</strong></p>
+<p style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+<p>&nbsp;</p>
+<p style="cursor:auto"><!--NO CSS--><strong style="cursor:auto"><!--NO CSS-->I would like to publicly thank the following who contributed in some way:</strong></p>
+<p style="cursor:auto"><!--NO CSS--><a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" title="Frog on twitter" href="https://twitter.com/#!/frogtrade" target="_blank">@frogtrade</a>&nbsp;support staff (Edd! helped me via the support desk) &ndash; they were great &ndash; when we employed MoodleDo years ago, the relationship I developed after the bills were paid with<a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" title="Tweet him" href="http://twitter.com/moodledan" target="_blank">Dan Humpherson</a>&nbsp;was priceless &ndash; I get the feeling that similar support will happen with Frog (although Dan would fix any thing at any time as fast as he could possibly muster, far beyond the call of duty &ndash; he&rsquo;s now working for the awesome and innovative&nbsp;<a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" title="check it out - it's cool" href="http://www.lovecleanlondon.org/Reports/Home" target="_blank">Love Clean London</a>);</p>
+<p style="cursor:auto"><!--NO CSS--><a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" title="Tweet him" href="http://twitter.com/jennings_daniel" target="_blank">Daniel Jennings</a>&nbsp;who works for Frog;</p>
+<p style="cursor:auto"><!--NO CSS--><a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" title="Tweet him" href="http://twitter.com/psbenson" target="_blank">Paul Benson</a>, a Frog teacher/coordinator &ndash; just like me;</p>
+<p style="cursor:auto"><!--NO CSS--><a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" title="Tweet him" href="http://twitter.com/jamesmichie" target="_blank">James Michie</a>&nbsp;and&nbsp;<a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" title="Tweet him" href="http://twitter.com/learningspy" target="_blank">David Didau</a>&nbsp;for help clearing my head on learning objectives as discussed<a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" title="blogpost on LOs" href="http://daibarnes.info/blog/2012/04/presentation-of-learning-objectives-and-activities/" target="_blank">here</a>;</p>
+<p style="cursor:auto"><!--NO CSS--><a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" title="Tweet him" href="http://twitter.com/pete___lee" target="_blank">Pete Lee</a>, just left a Frog school for a new post but had some great ideas;</p>
+<p style="cursor:auto"><!--NO CSS--><a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" title="Tweet him" href="https://twitter.com/#!/stevemargetts" target="_blank">Steve Margetts</a>, another Frog teacher/coordinator;</p>
+<p style="cursor:auto"><!--NO CSS-->And, Frog Champion who looked over all the materials as fast as a text message could travel,<a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" title="not a big tweeter but there nonetheless" href="https://twitter.com/#!/search/users/drdavidbrooks" target="_blank">David Brooks</a>.</p>
+<p style="cursor:auto"><!--NO CSS-->Overall, a good day. Positive. Result. There wasn&rsquo;t enough time to discuss learning, but everyone was a learner for the day and seemed enthused by their new Frog.</p>]]></description>
+          <pubDate>Tue, 24 Apr 2012 18:36:33 +0000</pubDate>
+            </item>
+                    <item>
+              <title>OU Media Player rebooted (blog)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6214</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6214</guid>
+              <description><![CDATA[<p>Its been a long time since I've blogged about the <a href="http://freear.org.uk/content/ou-media-player-project">OU Media Player project</a>. So what has been going on?  I thought I'd take a brief look back, then look forward...</p>
+<h3>Last spring - 2011</h3>
+<p>Last spring and summer we developed an embeddable player based on the <a href="http://flowplayer.org/">open-source Flowplayer Flash-based toolkit</a>. Two designers form Learning and Teaching Solutions here at The Open University, David Winter and Peter Devine created to bold and attractive designs or themes.</p>
+<p>The 2011 player hit many of the original aims of the project, namely:</p>
+<ul>
+<li> Developed for a number of contexts, with different requirements - OUVLE, OpenLearn, public sites with OU-Podcast media assets, </li>
+<li> Accessible, including to screen reader and keyboard users - we ran two rounds of user-testing (I should explore whether these reports can be published), </li>
+<li> Easily embeddable via oEmbed, and delivered in a maintainable way. </li>
+</ul>
+<p>However, it also fell down on a number of points:</p>
+<ul>
+<li> The implementation of the designs contained a number of CSS alignment bugs, which proved hard to solve, </li>
+<li>The bold, 'big' nature of the themes took some people by surprise. There are some VLE pages which contain a large number of audio players (the design team had not realised this - preparation and communication is key!),  and the design didn't work in this context, </li>
+<li> There wasn't full screen functionality, due to a combination of a <a href="http://stackoverflow.com/questions/8309086/calling-as3-fullscreen-with-javascript">a Flash security restriction</a>,  and Flowplayer's implementation, </li>
+<li> There remained some bugs on mobile/tablet devices, chiefly Android, </li>
+</ul>
+<p>The first two points proved decisive, and the player was not launched for the VLE or other sites in summer 2011. I and my colleagues moved on to other projects.</p>
+<h3>Reflection</h3>
+<p>On reflection, there were several lessons to learn:</p>
+<ul>
+<li> The VLE variant was added to the project after initial requirements gathering, and some of the issues around multiple audio players on VLE pages weren't picked up, </li>
+<li> Developing a common player with different variants (VLE, podcast/public, OpenLearn) added to the complexity, </li>
+<li> We had not talked to key stakeholders at critical points in the design phase, </li>
+</ul>
+<p>Happily though this isn't the end of the story...</p>
+<h3>Phase 2 - 2012</h3>
+<p>In December 2011 we developed a phase 2 deployment plan, which put in more skaffolding:</p>
+<ul>
+<li> Defined development and consultation phases, </li>
+<li> A date for sign-off of the design by key stakeholders, </li>
+<li> Better defined and closer collaboration, particularly with LTS, </li>
+<li> More testing, </li>
+<li> A steering group, </li>
+<li> Roll-out to the VLE in June 2012, </li>
+<li> Roll-out to other OU sites starting shortly after. </li>
+</ul>
+<p>We have a challenging timetable given our other commitments, but we are keeping to schedule. Watch this space!</p>
+<h3>Technical review and tasks</h3>
+<p>We are working through a number of technical development tasks:</p>
+<ul>
+<li>1. We reviewed our use of Flowplayer, and after consultation and based on a tip from my colleague Guy Carberry, we are moving to Mediaelement.js. This has a number of benefits: </li>
+<li>**  It is a HTML5-based solution, so is more future-proof. Flash is not a 'second-class' citizen though, </li>
+<li>**  There is a fullscreen solution, including for Flash - yay! </li>
+<li>**  It is more accessible than some of the HTML5 media libraries that I've explored, though there are issues, </li>
+<li>**  It is modular and very easy to extend, so accessibility problems can be fixed. And it is open-source and actively developed, </li>
+<li>**  Better support for mobiles and tablets, </li>
+<li>**  It requires either jQuery or Ender. We don't really want a jQuery-based solution, as our VLE is Moodle-based, uses YUI, and research indicates that a   <a title="Search: 'How many users view Yahoo! pages with a full cache'" href="http://www.yuiblog.com/blog/2007/01/04/performance-research-part-2/">surprisingly high proportion of users may view pages with an empty cache</a>.  Ender is a smaller, modular solution when compared to the monolithic jQuery (Ender support is currently less mature), </li>
+<li>**  Also on the performance front, Mediaelement implements a build and minification process, and it is structured with this in mind, </li>
+<li>**  The <a href="https://docs.google.com/document/d/14g0Qbh5CB8YhQWSQ-0MyBN4aumKbmRYJ2NLO3auC8QI/edit">consultation notes are on Google Docs</a>. </li>
+<li>2. We are working to so that no variants of the player (VLE, OU-podcast..) require direct database access. For the OU-podcast variant,  we are building on work by LTS colleague Jamie Daniels from last summer, to implement a loosely-coupled feed-based access.  In time, we can publish documentation for the RSS extensions that the player requires. </li>
+<li>3. Re-structuring the code base so that it will be easier to support and maintain.  Mediaelement.js will be defined as an 'engine' for the player (Flowplayer will be retained as a legacy engine).  Themes will use an engine, and there will be 'engines' and 'themes directories. </li>
+<li>4. Implementation of the new design as a theme. AS we did last summer, we are using sprites to reduce HTTP requests.  We've been quite impressed with the <a href="http://spritegen.website-performance.org/">online CSS Sprite Generator</a>.</li>
+</ul>
+<p>INCOMPLETE!</p>]]></description>
+          <pubDate>Tue, 04 Dec 2012 17:17:26 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Deneme</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6023</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6023</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Sat, 26 Nov 2011 18:07:33 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Blogaliza</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5701</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5701</guid>
+              <description><![CDATA[<p>Plataforma galega de creaci&oacute;n de blogues. Funciona con wordpress.</p>]]></description>
+          <pubDate>Tue, 06 Sep 2011 21:10:10 +0000</pubDate>
+            </item>
+                    <item>
+              <title>The Rapid eLearning Blog </title>
+              <link>https://cloudworks.ac.uk/cloud/view/5151</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5151</guid>
+              <description><![CDATA[<p>Useful resource for learning-design matters.</p>]]></description>
+          <pubDate>Tue, 15 Mar 2011 13:07:40 +0000</pubDate>
+            </item>
+                    <item>
+              <title>How to use educational technology quickly (Under Ten Minutes)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5145</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5145</guid>
+              <description><![CDATA[<p>This site allows users to upload, share or suggest videos (up to 10 minutes in length) on educational technologies of all kinds.</p>]]></description>
+          <pubDate>Mon, 14 Mar 2011 14:34:34 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Comments and conversations: fostering better conversations in comments sections</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5121</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5121</guid>
+              <description><![CDATA[<p>This is an excellent quick best-practice guide to setting up and managing comments online (e.g. on blogs), covering:</p>
+<ul>
+<li>five key principles of  online conversations</li>
+<li>five key aspects of  online commenting environments</li>
+<li>five tips for fostering great conversations.</li>
+</ul>
+<p>Making good use of commenting is part of <a href="http://designinformer.com/how-to-become-a-better-reader/">being a good online reader</a> and therefore an essential skill for online learning. As facilitators/providers of that learning, we need good practices in this area.</p>]]></description>
+          <pubDate>Mon, 07 Mar 2011 16:11:39 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Learning in Public - From Uncourse to Short Course</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3718</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3718</guid>
+              <description><![CDATA[<p>Presentation at CALRG annual conference 2010 by Tony Hirst.</p>]]></description>
+          <pubDate>Tue, 25 May 2010 09:31:19 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Social acceleration and technology</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3650</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3650</guid>
+              <description><![CDATA[<p>An interesting blog (not particularly related to learning, but lots of relevant crossover)</p>]]></description>
+          <pubDate>Mon, 10 May 2010 15:10:52 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Blogging in Gr 4-7</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2566</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2566</guid>
+              <description><![CDATA[<p>I was fortunate enough to participate in our district's Word Weavers conference put on by our Teacher-Librarians. I set up a blogging session for students to learn a little. Around 95% had never blogged before the 45minute session.</p>
+<p>I created a plain Wordpress install (available at www.prn.bc.ca/ww) and used generic accounts and passwords that I provided to students on cards.</p>
+<p>We logged in, showed them how to create a post. In their first post I asked them to tell me their login name (a number), what school they were from, favourite author/book/music/movie. I also had them look at their couple of phrases in their post and add tags, at least one. I suggested the name of their author or anything significant to them from their post.</p>
+<p>We had a fairly slow lab so we had to have them post only a couple at a time but worked well otherwise. I setup a tag cloud on the page so everyone could see the tags. Asked the students the significance of font size in the tag cloud and they quickly picked up that it represented the frequency. Obviously Twighlight shines through as the most significant book for these young authors.</p>
+<p>From there I had the students click on the Story Starters category which was populated with blog posts I and my partner, Toni Thompson (@TonetteThompson) created. We then had the students read through these story starters, click on the one they liked and finish the story using the commenting function for the last activity.</p>
+<p>Several students caught on quickly that they could write some story starters as well and even properly categorized them. This quickly grew the community contribution.</p>
+<p>It was a great success!</p>
+<p>&nbsp;</p><p>Contact details: Jarrod Bell</p>]]></description>
+          <pubDate>Sat, 24 Oct 2009 00:46:17 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Why remix an Open Educational Resource?</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2432</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2432</guid>
+              <description><![CDATA[<p>[First published at: <a href="http://olnet.org/node/68" target="_blank">http://olnet.org/node/68</a>]</p>
+<p>One of the ideas in the world of <a href="http://en.wikipedia.org/wiki/Open_educational_resources" target="_blank">Open Educational Resources</a> (OERs) that can be a bit strange to grasp at first is the idea of &ldquo;remixing&rdquo;. When I first joined the OLnet project and was telling people about it, a mention of remixing would often prompt people to ask &ldquo;why would I want to do that?&rdquo;, a perfectly reasonable question as many will have just experienced education as courses they learn from, but wouldn't actually change. Often OERs are just thought of as free courses, but remixing creates a much bigger opportunity. So I thought I would draw on the collective wisdom of the OLnet team and compile a list of twenty reasons to remix an OER.</p>
+<p>The list is in no particular order, and by its very nature isn't an extensive exploration of the reasons to remix an OER, so if you think of any more it would be great to hear about them in the comments.</p>
+<ol>
+<li>Save yourself time and work by mixing in OERs with your own material to make something richer</li>
+<li>Adapt the material to make it more accessible for people with different disabilities</li>
+<li>Insert some cultural specific references to make a concept easier to understand</li>
+<li>Translate it into another language</li>
+<li>Correct any errors or inaccuracies</li>
+<li>Keep the OER up to date by adding the latest discoveries or theories</li>
+<li>Insert more media or links to other resources</li>
+<li>Chop the OER up into smaller chunks that might be easier to learn from, or could be reused elsewhere</li>
+<li>Adapt it for a different audience</li>
+<li>Use the OER as the basis for a face to face lesson</li>
+<li>Change the target educational level</li>
+<li>Add input and participation from the people who are going to be using your remixed OER</li>
+<li>Use the OER for a wider purpose by adding in other information</li>
+<li>Changing the format of the OER to make it work in different computer based learning environments</li>
+<li>To improve understanding of what an OER is by thinking about reasons to remix it</li>
+<li>Insert a different point of view to that originally given in the material</li>
+<li>Adapt it for different teaching situations</li>
+<li>A way to experiment with new skills yo have gained (could be technical skills, media skills etc.)</li>
+<li>To improve it</li>
+<li>Because you can!</li>
+</ol>
+<p>As an IT person not an academic I'm more familiar with <a href="http://en.wikipedia.org/wiki/Open_source" target="_blank">open source</a> than open educational resources, but the concepts do have a lot in common. With both you can just use the resources, you don't have to remix or contribute, and there is nothing wrong with that. If you do want to contribute though or you might feel an existing resource is near to what you want, you are free to build on it to meet new challenges.</p>]]></description>
+          <pubDate>Wed, 07 Oct 2009 15:45:30 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Blogging doctors</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2284</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2284</guid>
+              <description><![CDATA[<p>Blog post about doctors teaching medical students using blogs at Dundee University (via @ajcann)</p>]]></description>
+          <pubDate>Sun, 13 Sep 2009 15:55:08 +0000</pubDate>
+            </item>
+                    <item>
+              <title> ALT-C 2009 Blog Posts</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2218</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2218</guid>
+              <description><![CDATA[<p>Please add any blog posts about ALT-C to the links for this cloud or, if they are about a specific presentation to the links for the cloud for that presentation.</p>
+<p><a href="http://technorati.com/search/altc2009?language=n&authority=n">Technorati search for altc2009</a></p>]]></description>
+          <pubDate>Mon, 07 Sep 2009 09:23:55 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Closed blog space for Landscapes of practice workshop</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1866</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1866</guid>
+              <description><![CDATA[Closed <a href="http://oulop09.wordpress.com/">blog space</a> for the Landscapes of practice workshop.
+]]></description>
+          <pubDate>Fri, 03 Jul 2009 09:43:38 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Viewpoints Blog</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1782</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1782</guid>
+              <description><![CDATA[<p>From the website:</p>
+<p style="cursor:auto"><!--NO CSS-->This website describes the University of Ulster's work for its JISC-funded curriculum design project. We aim to create a series of user-friendly reflective tools for staff, promoting and enhancing good curriculum design.</p>
+<p><a href="http://viewpointsproject.blogspot.com/">http://viewpointsproject.blogspot.com/</a></p>]]></description>
+          <pubDate>Thu, 12 Nov 2009 09:48:32 +0000</pubDate>
+            </item>
+                    <item>
+              <title>No Sleeping in My Class...Applying Web 2.0</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1247</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1247</guid>
+              <description><![CDATA[<p>This session will look at applying a few meaningful Web 2.0 applications that can&nbsp;help monitor a student's learning and improve quality of instruction.</p><p>Contact details: phenry@scciowa.edu</p>]]></description>
+          <pubDate>Tue, 17 Mar 2009 20:33:27 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Beste Web-sites</title>
+              <link>https://cloudworks.ac.uk/cloud/view/749</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/749</guid>
+              <description><![CDATA[<ol type="1" style="cursor:auto"><!--NO CSS-->
+	<li style="margin: 0cm 0cm 0pt; color: navy; tab-stops: list 36.0pt" class="MsoNormal"><strong><span style="font-family: Arial" lang="NL"><a href="http://www.top100nl.net/"><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS-->In Nederland</span></span></a><o:p></o:p></span></strong></li>
+	<li style="margin: 0cm 0cm 0pt; color: navy; tab-stops: list 36.0pt" class="MsoNormal"><strong><span style="font-family: Arial" lang="NL"><a href="http://www.worldbestwebsites.com/"><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS-->Wereldwijd</span></span></a><o:p></o:p></span></strong></li>
+</ol>
+]]></description>
+          <pubDate>Tue, 20 Jan 2009 11:20:54 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Onderzoek</title>
+              <link>https://cloudworks.ac.uk/cloud/view/748</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/748</guid>
+              <description><![CDATA[<span style="cursor:auto"><!--NO CSS--><span>1.<span style="cursor:auto"><!--NO CSS-->         </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://www.mediaonderzoek.nl/"><span style="cursor:auto"><!--NO CSS-->Media Loket</span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> </span><span style="cursor:auto"><!--NO CSS--><o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span>2.<span style="cursor:auto"><!--NO CSS-->         </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://www.waag.org/"><span style="cursor:auto"><!--NO CSS-->De Waag Projecten</span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> </span><span style="cursor:auto"><!--NO CSS--><o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span>3.<span style="cursor:auto"><!--NO CSS-->         </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://www.ilsemedia.nl/en-web-home.php"><span style="cursor:auto"><!--NO CSS-->ilse Media</span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> </span><span style="cursor:auto"><!--NO CSS--><o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span><span style="cursor:auto"><!--NO CSS--><span>1.<span style="cursor:auto"><!--NO CSS-->         </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://www.mediaonderzoek.nl/"><span style="cursor:auto"><!--NO CSS-->Media Loket</span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> </span><span style="cursor:auto"><!--NO CSS--><o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span>2.<span style="cursor:auto"><!--NO CSS-->         </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://www.waag.org/"><span style="cursor:auto"><!--NO CSS-->De Waag Projecten</span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> </span><span style="cursor:auto"><!--NO CSS--><o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span>3.<span style="cursor:auto"><!--NO CSS-->         </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://www.ilsemedia.nl/en-web-home.php"><span style="cursor:auto"><!--NO CSS-->ilse Media</span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> </span><span style="cursor:auto"><!--NO CSS--><o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span>4.<span style="cursor:auto"><!--NO CSS-->         </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://open.bbc.co.uk/newmediaresearch/"><span style="cursor:auto"><!--NO CSS-->BBC New Media Research</span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> </span><span style="cursor:auto"><!--NO CSS--><o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span>5.<span style="cursor:auto"><!--NO CSS-->         </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://www.media.mit.edu/research/"><span style="cursor:auto"><!--NO CSS-->MIT Media Lab</span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> </span><span style="cursor:auto"><!--NO CSS--><o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span>6.<span style="cursor:auto"><!--NO CSS-->         </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://www.podcastingnews.com/2008/08/15/podcasting-new-media-taking-off-in-top-corporations/"><span style="cursor:auto"><!--NO CSS-->New Media Update</span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> </span><span style="cursor:auto"><!--NO CSS--><o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span>7.<span style="cursor:auto"><!--NO CSS-->         </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://www.nl.nielsen.com/site/index.shtml"><span style="cursor:auto"><!--NO CSS-->Nielsen Media Studies</span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> </span><span style="cursor:auto"><!--NO CSS--><o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span>8.<span style="cursor:auto"><!--NO CSS-->         </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://ucnewmedia.english.ucsb.edu/"><span style="cursor:auto"><!--NO CSS-->University of California New Media Research</span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> </span><span style="cursor:auto"><!--NO CSS--><o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span>9.<span style="cursor:auto"><!--NO CSS-->         </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://www.inms.umn.edu/events/past/newresearch_2004/papers.htm"><span style="cursor:auto"><!--NO CSS-->New Research for New Media</span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> </span><span style="cursor:auto"><!--NO CSS--><o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span>10.<span style="cursor:auto"><!--NO CSS-->       </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://convergence.beds.ac.uk/"><span style="cursor:auto"><!--NO CSS-->Convergence: The International Journal of Research into New Media Technologies</span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> </span><span style="cursor:auto"><!--NO CSS--><o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span>11.<span style="cursor:auto"><!--NO CSS-->       </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://www.manovich.net/"><span style="cursor:auto"><!--NO CSS-->Lev Manovich: Software Studies Initiative</span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> </span><span style="cursor:auto"><!--NO CSS--><o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span>12.<span style="cursor:auto"><!--NO CSS-->       </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-9234732362736798&amp;dt=1224723255421&amp;lmt=1224723255&amp;output=html&amp;slotname=4978476288&amp;correlator=1224723255406&amp;url=http%3A%2F%2Fwww.allacademic.com%2Fmeta%2Fp_mla_apa_research_citation%2F1%2F7%2F1%2F9%2F8%2Fp171986_index.html&amp;ea=0&amp;ref=http%3A%2F%2Fwww.google.nl%2Fsearch%3Fsource%3Dig%26hl%3Dnl%26rlz%3D%26q%3Dnew%2Bmedia%2Bresearch%26meta%3D&amp;frm=0&amp;ga_vid=1964308505.1224723255&amp;ga_sid=1224723255&amp;ga_hid=2084707931&amp;flash=9.0.124.0&amp;u_h=900&amp;u_w=1440&amp;u_ah=870&amp;u_aw=1440&amp;u_cd=32&amp;u_tz=120&amp;u_his=7&amp;u_java=true&amp;format=fp_al_lp&amp;kw_type=radlink&amp;prev_fmts=120x90_0ads_al_s&amp;rt=ChBI_8shAAYiWwrUDgQLuxRIEg5SZXNlYXJjaCBQYXBlchoIQxKvd1Gjnc8g5d7QxAIoAUjl3tDEAlITCJqEmcqRvJYCFQUx1AodsF75LQ&amp;hl=en&amp;kw0=Research+Paper&amp;kw1=Research+Job&amp;kw2=Medical+Research&amp;kw3=Physics+Research&amp;kw4=Medical+Journals&amp;okw=Research+Paper"><span style="cursor:auto"><!--NO CSS-->How to write your Media Article?</span></a></span><span style="cursor:auto"><!--NO CSS--><o:p></o:p></span></span></span>
+]]></description>
+          <pubDate>Tue, 20 Jan 2009 11:17:54 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Medianieuws: Actualiteit en Toekomst</title>
+              <link>https://cloudworks.ac.uk/cloud/view/747</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/747</guid>
+              <description><![CDATA[<span style="color: #534741; font-family: Arial" lang="NL"><span><span style="cursor:auto"><!--NO CSS--><span style="color: navy; font-family: Arial" lang="NL"><span>1.<span style="cursor:auto"><!--NO CSS-->      </span></span></span><span style="color: navy; font-family: Arial" lang="NL"><a href="http://weblogs2.nrc.nl/hebben/"><span style="cursor:auto"><!--NO CSS-->NRC</span></a>, <a href="http://www.volkskrant.nl/multimedia/"><span style="cursor:auto"><!--NO CSS-->Volkskrant</span></a>, <a href="http://www.telegraaf.nl/digitaal/"><span style="cursor:auto"><!--NO CSS-->Telegraaf</span></a><o:p></o:p></span><span style="cursor:auto"><!--NO CSS--><span>2.<span style="cursor:auto"><!--NO CSS-->      </span></span></span><span style="color: navy; font-family: Arial" lang="NL"><a href="http://www.rondomtien.nl/?nav=smvocEsHtGAgcCvcCuGP"><span style="color: navy" lang="EN-US">Rondom Tien: Info Stress</span></a></span><span style="cursor:auto"><!--NO CSS--> <o:p></o:p></span><span style="cursor:auto"><!--NO CSS--><span>3.<span style="cursor:auto"><!--NO CSS-->      </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://www.dutchcowboys.nl/"><span style="cursor:auto"><!--NO CSS-->Dutch Cowboys/-Girls</span></a> <o:p></o:p></span><span style="cursor:auto"><!--NO CSS--><span>4.<span style="cursor:auto"><!--NO CSS-->      </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://news.google.nl/news?tab=wn&amp;ned=nl_nl&amp;hl=nl&amp;ned=nl_nl&amp;nolr=1&amp;q=internet+communicatie"><span style="cursor:auto"><!--NO CSS-->Google en Internet Communicatie</span></a> <o:p></o:p></span><span style="cursor:auto"><!--NO CSS--><span>5.<span style="cursor:auto"><!--NO CSS-->      </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/"><span style="cursor:auto"><!--NO CSS-->First Monday: Journal on the Internet</span></a> <o:p></o:p></span><span style="cursor:auto"><!--NO CSS--><span>6.<span style="cursor:auto"><!--NO CSS-->      </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://edition.cnn.com/TECH/"><span style="cursor:auto"><!--NO CSS-->CNN New Media Technology</span></a> <o:p></o:p></span><span style="cursor:auto"><!--NO CSS--><span>7.<span style="cursor:auto"><!--NO CSS-->      </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://news.digitaltrends.com/"><span style="cursor:auto"><!--NO CSS-->Digital Trends</span></a> <o:p></o:p></span><span style="cursor:auto"><!--NO CSS--><span>8.<span style="cursor:auto"><!--NO CSS-->      </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://www.ce.org/"><span style="cursor:auto"><!--NO CSS-->CEA - Consumer Electronics Association</span></a>  <o:p></o:p></span>
+<p style="margin: 0cm 0cm 0pt 54pt; text-indent: -18pt; tab-stops: list 54.0pt" class="MsoNormal">
+<span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--></span></span>
+</p>
+</span></span></span>
+]]></description>
+          <pubDate>Tue, 20 Jan 2009 11:14:38 +0000</pubDate>
+            </item>
+                    <item>
+              <title>NieweMediaToepassingen</title>
+              <link>https://cloudworks.ac.uk/cloud/view/746</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/746</guid>
+              <description><![CDATA[<h1 style="cursor:auto"><!--NO CSS--><span lang="NL"><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS-->Ontwerpen van Nieuwe Media-Toepassingen<o:p></o:p></span></span></span></span></h1>
+<h3 style="cursor:auto"><!--NO CSS--><strong><span style="font-weight: normal; font-size: 10pt; font-family: Arial" lang="NL"><span style="cursor:auto"><!--NO CSS-->In het vak </span><a href="https://teletopa.utwente.nl/08241304.nsf"><b><span style="cursor:auto"><!--NO CSS-->Communicatiekundig Ontwerpen</span></b></a><span style="cursor:auto"><!--NO CSS--> dat je al eerder volgde werd de volgende omschrijving van communicatiekundig ontwerpen gegeven: <o:p></o:p></span></span></strong></h3>
+<h3 style="cursor:auto"><!--NO CSS--><strong><i><span style="font-weight: normal; font-size: 10pt; font-family: Arial" lang="NL"><span style="cursor:auto"><!--NO CSS-->“We spreken van een communicatiekundig ontwerpproces als organisaties op systematische wijze werken aan de oplossing van communicatieproblemen.” Dit kunnen zijn: Een tekort, een teveel of een mismatch tussen behoefte en communicatie.<o:p></o:p></span></span></i></strong></h3>
+<h3 style="cursor:auto"><!--NO CSS--><strong><span style="font-weight: normal; font-size: 10pt; font-family: Arial" lang="NL"><span style="cursor:auto"><!--NO CSS-->Als kenmerk van een ontwerpproces wordt gesteld dat het gaat om een fasering van activiteiten en dat er gebruik gemaakt wordt van (toegepast en fundamenteel) onderzoek. Ook staat de samenwerking tussen professionals en een organisatorische inbedding centraal.<o:p></o:p></span></span></strong></h3>
+<h3 style="cursor:auto"><!--NO CSS--><strong><span style="font-weight: normal; font-size: 10pt; font-family: Arial" lang="NL"><span style="cursor:auto"><!--NO CSS-->Binnen dit vak “</span><a href="https://teletopa.utwente.nl/07243120.nsf"><b><span style="cursor:auto"><!--NO CSS-->Ontwerpen van Nieuwe Mediatoepassingen</span></b></a><span style="cursor:auto"><!--NO CSS-->“ gaat het vooral om communicatie die we in de nabije toekomst mogen verwachten. We kijken naar de toekomst omdat de “nieuwe” media zich steeds sneller ontwikkelen; en daarmee ontwikkelen zich ook nieuwe mediatoepassingen. In dit vak kijken we vanuit toekomstige media naar de nieuwe vormen van communicatie. Voorbeelden van de impact van media op de huidige communicatie zijn natuurlijk het internet, maar ook mobiele communicatie, computer games, webgemeenschappen en ook computer games. Als we de recente voorspellingen over de nieuwste gadgets serieus nemen dan staan er ons heel wat veranderingen te wachten in communicatieland. Het is de bedoeling dat je in dit vak actief met ideeën speelt over hoe communicatie er over drie á vijf jaar uitziet. Na een aantal ontwerpfasen maak je een geavanceerde web site waarop je demonstreert hoe jouw voorgestelde mediatoepassing in de toekomst er uit ziet en hoe ze gaat werken.</span></span></strong><span style="font-weight: normal; font-size: 10pt; font-family: Arial" lang="NL"><o:p></o:p></span></h3><span style="font-size: 10pt; color: #534741; font-family: Arial" lang="NL">In dit vak wordt in groepen van vier studenten gewerkt aan het (her)ontwerp van een nieuwe mediatoepassing vanuit een communicatiewetenschappelijk perspectief <o:p></o:p></span><span style="cursor:auto"><!--NO CSS--><o:p><span style="cursor:auto"><!--NO CSS--> </span></o:p></span> 
+<table border="1" cellPadding="0" cellSpacing="0" style="border-collapse: collapse; border: medium none" class="MsoTableGrid">
+	<tbody>
+		<tr>
+			<td width="118" vAlign="top" style="cursor:auto"><!--NO CSS--><b><span style="font-size: 9pt; font-family: Arial" lang="NL"><a href="https://teletopa.utwente.nl/07243120.nsf"><span style="cursor:auto"><!--NO CSS-->Ontwerpen van Nieuwe Media Toepassingen</span></a><o:p></o:p></span></b></td>
+			<td width="118" vAlign="top" style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS-->Ontwerp<o:p></o:p></span></span></span></td>
+			<td width="118" vAlign="top" style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS-->Implementatie<o:p></o:p></span></span></span></td>
+			<td width="118" vAlign="top" style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS-->Evaluatie<o:p></o:p></span></span></span></td>
+		</tr>
+		<tr>
+			<td width="118" vAlign="top" style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS-->Voorbeelden<o:p></o:p></span></span></span></td>
+			<td width="118" vAlign="top" style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS-->Actualiteit<o:p></o:p></span></span></span></td>
+			<td width="118" vAlign="top" style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS-->Beste Sites<o:p></o:p></span></span></span></td>
+			<td width="118" vAlign="top" style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS-->Usability<o:p></o:p></span></span></span></td>
+		</tr>
+		<tr>
+			<td width="118" vAlign="top" style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS-->Onderzoek<o:p></o:p></span></span></span></td>
+			<td width="118" vAlign="top" style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS-->Doelgroep<o:p></o:p></span></span></span></td>
+			<td width="118" vAlign="top" style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS-->Gereedschappen<o:p></o:p></span></span></span></td>
+			<td width="118" vAlign="top" style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS-->Observaties<o:p></o:p></span></span></span></td>
+		</tr>
+		<tr>
+			<td width="118" vAlign="top" style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><a href="http://mediatoepassingen.wordpress.com/"><span style="cursor:auto"><!--NO CSS-->Communicatie</span></a><o:p></o:p></span></td>
+			<td width="118" vAlign="top" style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><a href="/"><span style="cursor:auto"><!--NO CSS-->Cloudworks</span></a><o:p></o:p></span></td>
+			<td width="118" vAlign="top" style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS-->Vaardigheden<o:p></o:p></span></span></span></td>
+			<td width="118" vAlign="top" style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS-->Eindverslag<o:p></o:p></span></span></span></td>
+		</tr>
+	</tbody>
+</table>
+<span style="cursor:auto"><!--NO CSS--><o:p><span style="cursor:auto"><!--NO CSS--> </span></o:p></span><span style="font-size: 10pt; color: #534741; font-family: Arial" lang="NL"><o:p> </o:p></span><span style="font-size: 10pt; color: #534741; font-family: Arial" lang="NL">  <o:p></o:p></span><b><i><span style="font-size: 14pt; font-family: Arial" lang="NL"><br clear="all" style="page-break-before: always" />
+</span></i></b>
+<h2 style="cursor:auto"><!--NO CSS--><a name="TOC-Actualiteit:-Hoe-orienteer-ik-mij-r" title="TOC-Actualiteit:-Hoe-orienteer-ik-mij-r"></a><em><span style="cursor:auto"><!--NO CSS-->Medianieuws: Actualiteit en Toekomst </span></em></h2>
+<h3 style="cursor:auto"><!--NO CSS--><span style="font-weight: normal; font-size: 12pt; color: #534741; font-family: Arial" lang="NL">Hoe oriënteer ik mij over nieuwe media?</span><span style="font-weight: normal; color: #534741; font-family: Arial" lang="NL"><o:p></o:p></span></h3>
+<div align="center">
+<table border="0" width="100%" cellPadding="0" style="width: 100%" class="MsoNormalTable">
+	<tbody>
+		<tr>
+			<td width="100%" vAlign="top" style="cursor:auto"><!--NO CSS--><span style="color: #534741; font-family: Arial" lang="NL"><span><span style="cursor:auto"><!--NO CSS-->1.</span><span style="cursor:auto"><!--NO CSS-->      </span></span></span><span style="color: #534741; font-family: Arial" lang="NL"><a href="http://weblogs2.nrc.nl/hebben/"><span style="cursor:auto"><!--NO CSS-->NRC</span></a><span style="cursor:auto"><!--NO CSS-->, </span><a href="http://www.volkskrant.nl/multimedia/"><span style="cursor:auto"><!--NO CSS-->Volkskrant</span></a><span style="cursor:auto"><!--NO CSS-->, </span><a href="http://www.telegraaf.nl/digitaal/"><span style="cursor:auto"><!--NO CSS-->Telegraaf</span></a><o:p></o:p></span><span style="cursor:auto"><!--NO CSS--><span><span style="cursor:auto"><!--NO CSS-->2.</span><span style="cursor:auto"><!--NO CSS-->      </span></span></span><span style="color: #534741; font-family: Arial" lang="NL"><a href="http://www.rondomtien.nl/?nav=smvocEsHtGAgcCvcCuGP"><span lang="EN-US"><span style="cursor:auto"><!--NO CSS-->Rondom Tien: Info Stress</span></span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> <o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span><span style="cursor:auto"><!--NO CSS-->3.</span><span style="cursor:auto"><!--NO CSS-->      </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://www.dutchcowboys.nl/"><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS-->Dutch Cowboys/-Girls</span></span></a><span style="cursor:auto"><!--NO CSS--> <o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span><span style="cursor:auto"><!--NO CSS-->4.</span><span style="cursor:auto"><!--NO CSS-->      </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://news.google.nl/news?tab=wn&amp;ned=nl_nl&amp;hl=nl&amp;ned=nl_nl&amp;nolr=1&amp;q=internet+communicatie"><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS-->Google en Internet Communicatie</span></span></a><span style="cursor:auto"><!--NO CSS--> <o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span><span style="cursor:auto"><!--NO CSS-->5.</span><span style="cursor:auto"><!--NO CSS-->      </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/"><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS-->First Monday: Journal on the Internet</span></span></a><span style="cursor:auto"><!--NO CSS--> <o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span><span style="cursor:auto"><!--NO CSS-->6.</span><span style="cursor:auto"><!--NO CSS-->      </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://edition.cnn.com/TECH/"><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS-->CNN New Media Technology</span></span></a><span style="cursor:auto"><!--NO CSS--> <o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span><span style="cursor:auto"><!--NO CSS-->7.</span><span style="cursor:auto"><!--NO CSS-->      </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://news.digitaltrends.com/"><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS-->Digital Trends</span></span></a><span style="cursor:auto"><!--NO CSS--> <o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span><span style="cursor:auto"><!--NO CSS-->8.</span><span style="cursor:auto"><!--NO CSS-->      </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://www.ce.org/"><span style="cursor:auto"><!--NO CSS-->CEA - Consumer Electronics Association</span></a><span style="cursor:auto"><!--NO CSS-->  <o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span><span style="cursor:auto"><!--NO CSS-->9.</span><span style="cursor:auto"><!--NO CSS-->      </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://www.innovateonline.info/?view=issue"><span style="cursor:auto"><!--NO CSS-->Journal of Online Education</span></a><o:p></o:p></span></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<h2 style="cursor:auto"><!--NO CSS--><a name="TOC-Onderzoek-naar-nieuwe-media:-Waar-v" title="TOC-Onderzoek-naar-nieuwe-media:-Waar-v"></a><em><span style="cursor:auto"><!--NO CSS-->Onderzoek</span></em></h2>
+<h3 style="cursor:auto"><!--NO CSS--><strong><span style="font-weight: normal; font-size: 12pt; color: #534741; font-family: Arial" lang="NL">Waar vind ik onderzoek naar nieuwe media?</span></strong><span style="font-weight: normal; color: #534741; font-family: Arial" lang="NL"><o:p></o:p></span></h3>
+<div align="center">
+<table border="0" width="100%" cellPadding="0" style="width: 100%" class="MsoNormalTable">
+	<tbody>
+		<tr>
+			<td width="100%" vAlign="top" style="cursor:auto"><!--NO CSS-->
+			<p>
+			<span style="cursor:auto"><!--NO CSS--><span>1.<span style="cursor:auto"><!--NO CSS-->         </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://www.mediaonderzoek.nl/"><span style="cursor:auto"><!--NO CSS-->Media Loket</span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> </span></span>
+			</p>
+			<span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--></span><span style="cursor:auto"><!--NO CSS--><o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span>2.<span style="cursor:auto"><!--NO CSS-->         </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://www.waag.org/"><span style="cursor:auto"><!--NO CSS-->De Waag Projecten</span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> </span></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--></span><span style="cursor:auto"><!--NO CSS--><o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span>3.<span style="cursor:auto"><!--NO CSS-->         </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://www.ilsemedia.nl/en-web-home.php"><span style="cursor:auto"><!--NO CSS-->ilse Media</span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> </span></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--></span><span style="cursor:auto"><!--NO CSS--><o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span>4.<span style="cursor:auto"><!--NO CSS-->         </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://open.bbc.co.uk/newmediaresearch/"><span style="cursor:auto"><!--NO CSS-->BBC New Media Research</span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> </span></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--></span><span style="cursor:auto"><!--NO CSS--><o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span>5.<span style="cursor:auto"><!--NO CSS-->         </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://www.media.mit.edu/research/"><span style="cursor:auto"><!--NO CSS-->MIT Media Lab</span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> </span></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--></span><span style="cursor:auto"><!--NO CSS--><o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span>6.<span style="cursor:auto"><!--NO CSS-->         </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://www.podcastingnews.com/2008/08/15/podcasting-new-media-taking-off-in-top-corporations/"><span style="cursor:auto"><!--NO CSS-->New Media Update</span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> </span></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--></span><span style="cursor:auto"><!--NO CSS--><o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span>7.<span style="cursor:auto"><!--NO CSS-->         </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://www.nl.nielsen.com/site/index.shtml"><span style="cursor:auto"><!--NO CSS-->Nielsen Media Studies</span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> </span></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--></span><span style="cursor:auto"><!--NO CSS--><o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span>8.<span style="cursor:auto"><!--NO CSS-->         </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://ucnewmedia.english.ucsb.edu/"><span style="cursor:auto"><!--NO CSS-->University of California New Media Research</span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> </span></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--></span><span style="cursor:auto"><!--NO CSS--><o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span>9.<span style="cursor:auto"><!--NO CSS-->         </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://www.inms.umn.edu/events/past/newresearch_2004/papers.htm"><span style="cursor:auto"><!--NO CSS-->New Research for New Media</span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> </span></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--></span><span style="cursor:auto"><!--NO CSS--><o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span>10.<span style="cursor:auto"><!--NO CSS-->       </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://convergence.beds.ac.uk/"><span style="cursor:auto"><!--NO CSS-->Convergence: The International Journal of Research into New Media Technologies</span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> </span></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--></span><span style="cursor:auto"><!--NO CSS--><o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span>11.<span style="cursor:auto"><!--NO CSS-->       </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://www.manovich.net/"><span style="cursor:auto"><!--NO CSS-->Lev Manovich: Software Studies Initiative</span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> </span></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--></span><span style="cursor:auto"><!--NO CSS--><o:p></o:p></span></span><span style="cursor:auto"><!--NO CSS--><span>12.<span style="cursor:auto"><!--NO CSS-->       </span></span></span><span style="cursor:auto"><!--NO CSS--><a href="http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-9234732362736798&amp;dt=1224723255421&amp;lmt=1224723255&amp;output=html&amp;slotname=4978476288&amp;correlator=1224723255406&amp;url=http%3A%2F%2Fwww.allacademic.com%2Fmeta%2Fp_mla_apa_research_citation%2F1%2F7%2F1%2F9%2F8%2Fp171986_index.html&amp;ea=0&amp;ref=http%3A%2F%2Fwww.google.nl%2Fsearch%3Fsource%3Dig%26hl%3Dnl%26rlz%3D%26q%3Dnew%2Bmedia%2Bresearch%26meta%3D&amp;frm=0&amp;ga_vid=1964308505.1224723255&amp;ga_sid=1224723255&amp;ga_hid=2084707931&amp;flash=9.0.124.0&amp;u_h=900&amp;u_w=1440&amp;u_ah=870&amp;u_aw=1440&amp;u_cd=32&amp;u_tz=120&amp;u_his=7&amp;u_java=true&amp;format=fp_al_lp&amp;kw_type=radlink&amp;prev_fmts=120x90_0ads_al_s&amp;rt=ChBI_8shAAYiWwrUDgQLuxRIEg5SZXNlYXJjaCBQYXBlchoIQxKvd1Gjnc8g5d7QxAIoAUjl3tDEAlITCJqEmcqRvJYCFQUx1AodsF75LQ&amp;hl=en&amp;kw0=Research+Paper&amp;kw1=Research+Job&amp;kw2=Medical+Research&amp;kw3=Physics+Research&amp;kw4=Medical+Journals&amp;okw=Research+Paper"><span style="cursor:auto"><!--NO CSS-->How to write your Media Article?</span></a><o:p></o:p></span></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<h2 style="cursor:auto"><!--NO CSS--><a name="TOC-Ontwerpstadia:-Welke-stappen-neem-i" title="TOC-Ontwerpstadia:-Welke-stappen-neem-i"></a><em><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--><span lang="NL">Beste Web-sites</span><span style="font-weight: normal" lang="NL"><o:p></o:p></span></span></span></em></h2>
+<h3 style="cursor:auto"><!--NO CSS--><strong><span style="font-weight: normal; font-family: Arial" lang="NL"><a href="http://www.top100nl.net/"><b><span style="cursor:auto"><!--NO CSS-->In Nederland</span></b></a><o:p></o:p></span></strong></h3>
+<h3 style="cursor:auto"><!--NO CSS--><strong><span style="font-weight: normal; font-family: Arial" lang="NL"><a href="http://www.worldbestwebsites.com/"><b><span style="cursor:auto"><!--NO CSS-->Wereldwijd</span></b></a><o:p></o:p></span></strong></h3>
+<div style="cursor:auto"><!--NO CSS-->
+<h2 style="cursor:auto"><!--NO CSS--><strong><span style="font-weight: normal; font-family: Arial" lang="NL"><o:p><span style="cursor:auto"><!--NO CSS--><em> </em></span></o:p></span></strong></h2>
+</div>
+<strong><span style="font-weight: normal; font-size: 14pt; font-family: Arial" lang="NL"><br clear="all" style="page-break-before: always" />
+</span></strong>
+<h2 style="cursor:auto"><!--NO CSS--><strong><span style="cursor:auto"><!--NO CSS--><em><span style="cursor:auto"><!--NO CSS-->Ontwerpmethoden<o:p></o:p></span></em></span></strong></h2>
+<h3 style="cursor:auto"><!--NO CSS--><strong><span style="font-weight: normal; font-family: Arial" lang="NL"><span style="cursor:auto"><!--NO CSS-->Een ontwerp is een beschrijving of een model van de werkelijkheid. Voordat je begint moet je vooral goed nadenken over je plan van aanpak: Welke </span><a href="http://nl.wikipedia.org/wiki/Ontwerp"><span style="cursor:auto"><!--NO CSS-->ontwerpmethode</span></a><span style="cursor:auto"><!--NO CSS--> kies je?<o:p></o:p></span></span></strong></h3>
+<h3 style="cursor:auto"><!--NO CSS--><strong><span style="font-weight: normal; font-size: 12pt; color: #534741; font-family: Arial" lang="NL">Ontwerptechnieken</span></strong><strong><span style="cursor:auto"><!--NO CSS--><o:p></o:p></span></strong></h3>
+<h3 style="cursor:auto"><!--NO CSS--><strong><span style="font-weight: normal; font-size: 12pt; color: #534741; font-family: Arial" lang="NL">Welke creatieve technieken kun je als team gebruiken? </span></strong><span style="font-weight: normal; color: #534741; font-family: Arial" lang="NL"><o:p></o:p></span></h3>
+<div align="center">
+<table border="0" width="100%" cellPadding="0" style="width: 100%" class="MsoNormalTable">
+	<tbody>
+		<tr>
+			<td width="100%" vAlign="top" style="cursor:auto"><!--NO CSS-->
+			<ol type="1">
+				<li style="margin: 0cm 0cm 0pt; color: #534741; tab-stops: list 36.0pt" class="MsoNormal"><span style="cursor:auto"><!--NO CSS--><a href="http://www.steelcase.com/Files/eef28f3f464146199441e14c1ed69111.pdf"><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS-->Napkin Sketches</span></span></a><span style="cursor:auto"><!--NO CSS--> <o:p></o:p></span></span></li>
+				<li style="margin: 0cm 0cm 0pt; color: #534741; tab-stops: list 36.0pt" class="MsoNormal"><span style="cursor:auto"><!--NO CSS--><a href="http://www.thebackofthenapkin.com/"><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS-->The Back of the Napkin</span></span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> <o:p></o:p></span></span></li>
+				<li style="margin: 0cm 0cm 0pt; color: #534741; tab-stops: list 36.0pt" class="MsoNormal"><span style="cursor:auto"><!--NO CSS--><a href="http://www.duarte.com/"><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS-->Duarte Design</span></span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> <o:p></o:p></span></span></li>
+				<li style="margin: 0cm 0cm 0pt; color: #534741; tab-stops: list 36.0pt" class="MsoNormal"><span style="cursor:auto"><!--NO CSS--><a href="http://www.vizthink.com/blog/2008/06/18/webinar-creating-powerful-presentations-with-nancy-duarte/"><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS-->Creating Powerfull Presentations</span></span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> <o:p></o:p></span></span></li>
+				<li style="margin: 0cm 0cm 0pt; color: #534741; tab-stops: list 36.0pt" class="MsoNormal"><span style="cursor:auto"><!--NO CSS--><a href="http://www.flickr.com/photos/ripplevision/collections/72157607526511231/"><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS-->JAM Visueel Denken</span></span></a></span><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS--> <o:p></o:p></span></span></li>
+				<li style="margin: 0cm 0cm 0pt; color: #534741; tab-stops: list 36.0pt" class="MsoNormal"><span style="cursor:auto"><!--NO CSS--><a href="http://www.vizthink.nl/"><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS-->Visual Thinking</span></span></a><span style="cursor:auto"><!--NO CSS--> <o:p></o:p></span></span></li>
+				<li style="margin: 0cm 0cm 0pt; color: #534741; tab-stops: list 36.0pt" class="MsoNormal"><span style="cursor:auto"><!--NO CSS--><a href="http://www.creativechallengecall.nl/?page=home"><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS-->Creative Challenge</span></span></a><o:p></o:p></span></li>
+			</ol>
+			<span style="cursor:auto"><!--NO CSS--><o:p> </o:p></span></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<h2 style="cursor:auto"><!--NO CSS--><span lang="NL"><em><span style="cursor:auto"><!--NO CSS--><span style="cursor:auto"><!--NO CSS-->Ontwerpstadia<o:p></o:p></span></span></em></span></h2>
+<h3 style="cursor:auto"><!--NO CSS--><span style="font-weight: normal; font-size: 12pt; color: #534741; font-family: Arial" lang="NL">Welke stappen neem ik bij het ontwerpen van een multimediaal programma?</span><span style="font-weight: normal; color: #534741; font-family: Arial" lang="NL"><o:p></o:p></span></h3>
+<h3 style="cursor:auto"><!--NO CSS--><span style="font-weight: normal; color: #534741; font-family: Arial" lang="NL"><span>1.<span style="cursor:auto"><!--NO CSS-->     </span></span></span><span style="font-weight: normal; font-size: 12pt; color: #534741; font-family: Arial" lang="NL">Existentieel: Wat vind ik belangrijk? Voor wie? Welk effect wil ik bereiken? </span><span style="font-weight: normal; color: #534741; font-family: Arial" lang="NL"><o:p></o:p></span></h3>
+<h3 style="cursor:auto"><!--NO CSS--><span style="font-weight: normal; color: #534741; font-family: Arial" lang="NL"><span>2.<span style="cursor:auto"><!--NO CSS-->     </span></span></span><span style="font-weight: normal; font-size: 12pt; color: #534741; font-family: Arial" lang="NL">Conceptueel: Waar gaat mijn mediumtoepassing/-programma over? </span><span style="font-weight: normal; color: #534741; font-family: Arial" lang="NL"><o:p></o:p></span></h3>
+<h3 style="cursor:auto"><!--NO CSS--><span style="font-weight: normal; color: #534741; font-family: Arial" lang="NL"><span>3.<span style="cursor:auto"><!--NO CSS-->     </span></span></span><span style="font-weight: normal; font-size: 12pt; color: #534741; font-family: Arial" lang="NL">Metaforisch: Welke uiterlijke vorm is geschikt? </span><span style="font-weight: normal; color: #534741; font-family: Arial" lang="NL"><o:p></o:p></span></h3>
+<h3 style="cursor:auto"><!--NO CSS--><span style="font-weight: normal; color: #534741; font-family: Arial" lang="NL"><span>4.<span style="cursor:auto"><!--NO CSS-->     </span></span></span><span style="font-weight: normal; font-size: 12pt; color: #534741; font-family: Arial" lang="NL">Structureel: Hoe moet het programma in elkaar zitten? </span><span style="font-weight: normal; color: #534741; font-family: Arial" lang="NL"><o:p></o:p></span></h3>
+<h3 style="cursor:auto"><!--NO CSS--><span style="font-weight: normal; color: #534741; font-family: Arial" lang="NL"><span>5.<span style="cursor:auto"><!--NO CSS-->     </span></span></span><span style="font-weight: normal; font-size: 12pt; color: #534741; font-family: Arial" lang="NL">Navigatie: Hoe komt de gebruiker waar hij/zij wil zijn?</span><span style="font-weight: normal; color: #534741; font-family: Arial" lang="NL"><o:p></o:p></span></h3>
+<h3 style="cursor:auto"><!--NO CSS--><a name="TOC-1" title="TOC-1"></a><span style="font-weight: normal; font-size: 12pt; color: #534741; font-family: Arial" lang="NL"> </span><span style="font-weight: normal; color: #534741; font-family: Arial" lang="NL"><o:p></o:p></span></h3>
+<p>Contact details: kommers@edte.utwente.nl</p>]]></description>
+          <pubDate>Tue, 20 Jan 2009 00:21:02 +0000</pubDate>
+            </item>
+                    <item>
+              <title>CCK08</title>
+              <link>https://cloudworks.ac.uk/cloud/view/494</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/494</guid>
+              <description><![CDATA[<p>Any comments about the recent CCK08 course? It seems to fit with the spirit and practice of sharing learning designs and I'd be interested in the views of others- even if it means relinking to your blogs posts.</p>
+<p>This could all get very self referential......</p>
+<p>See http://ltc.umanitoba.ca/wiki/Connectivism for more details.</p>
+<p>"Delivered in partnership with: Extended Education and Learning Technologies Centre, University of Manitoba</p>
+<p>Course Code: 98813- 08-01</p>
+<p>Course Description: Connectivism and Connective Knowledge is a twelve week course that will explore the concepts of connectivism and connective knowledge and explore their application as a framework for theories of teaching and learning. It will outline a connectivist understanding of educational systems of the future. This course will help participants make sense of the transformative impact of technology in teaching and learning over the last decade. The voices calling for reform do so from many perspectives, with some suggesting 'new learners' require different learning models, others suggesting reform is needed due to globalization and increased competition, and still others suggesting technology is the salvation for the shortfalls evident in the system today. While each of these views tell us about the need for change, they overlook the primary reasons why change is required.</p>
+<p>Programs: For credit in Certificate in Adult and Continuing Education and Certificate in Emerging Technologies for Learning (certificate will be available January, 2009.</p>
+<p>Date: September 8, 2008 - November 30, 2008</p>
+<p>Technologies Used: Through out this "course" participants will use a variety of technologies. For example, participants will use blogs, Second Life, Page Flakes, attend UStream sessions, attend Elluminate sessions, participate in discussions in Moodle forums, and so on. Additional technologies will be introduced as is required to attend to concerns or opportunities arising over the next 12 weeks.</p>
+<p>Facilitators: George Siemens and Stephen Downes will co-facilitate this innovative and timely course."</p>]]></description>
+          <pubDate>Mon, 01 Dec 2008 09:00:14 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Trading room</title>
+              <link>https://cloudworks.ac.uk/cloud/view/489</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/489</guid>
+              <description><![CDATA[Farley et al. presentation on their Trading room project where they created a social networking site in Drupal and had students blogging as part of the course with contributions counting towards the students assessment. Follow on initiative FinanceCentre which is a social space for current staff and students and alumni.]]></description>
+          <pubDate>Mon, 01 Dec 2008 02:56:02 +0000</pubDate>
+            </item>
+                    <item>
+              <title>death in passendale</title>
+              <link>https://cloudworks.ac.uk/cloud/view/217</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/217</guid>
+              <description><![CDATA[DVD: 35 minute drama written produced and performed by mental health service users. This play could be reused for the law course. 
+After watching the drama students could
+search for relevant legislation
+listen to podcasts of stakeholders (e.g. other service users, social workers, advocates)
+reflect (as an individual student) and post on course forum
+tutor moderated discussion
+Assignment reflecting on the process and responding to a number of key questions in relation to issues raised by the drama, demonstrating an understanding of the different / competing perspectives
+possible other tools - blog; wiki; debate 
+[Ali Wyllie]
+]]></description>
+          <pubDate>Fri, 06 Jun 2008 13:59:42 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Journaling reflections on computer modelling</title>
+              <link>https://cloudworks.ac.uk/cloud/view/165</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/165</guid>
+              <description><![CDATA[Computer modelling can be conceptually challenging for students, and needs to be made exciting and relevant to them.
+
+In this course on ecosystems, students start by building very basic models, progressing gradually to more complex models of ecosystems or global climate, into which they input data which they have found for themselves.
+
+As they work through their tasks, they are expected to record in a learning journal their thoughts and findings. Their assessment task includes presentation of a summary and extracts from their journal.
+
+[David Gowing, Sarah-Jane Davies]]]></description>
+          <pubDate>Tue, 29 Apr 2008 11:04:48 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

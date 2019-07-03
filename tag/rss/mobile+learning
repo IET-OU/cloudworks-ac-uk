@@ -1,0 +1,1347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: mobile learning</title>
+        <link>https://cloudworks.ac.uk/tag/rss/mobile+learning</link>
+        <atom:link href="https://cloudworks.ac.uk/tag/rss/mobile+learning" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds tagged mobile learning</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>SAT: Break Out of the Box! How you can use xAPI to free in-house staff development (Katherine Hinchey)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/11472</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/11472</guid>
+              <description><![CDATA[<h2>Abstract</h2>
+<p>You learn by doing and collaborating, watching videos, accessing just-in-time information from your mobile device, mentoring, and more. Why, then, does the Human Resources department only give you slides to learn from?</p>
+<p>Today&rsquo;s workers and corporations are united in wanting more access to the formal, non-formal, and informal learning needed to support an increasingly skilled workforce (The Education Commission, 2016; Pew Research Center, 2016a and 2016b). However, today&rsquo;s corporations largely store their learning resources in virtual learning environments (VLEs) that have adopted a uniform way of storing content. This uniform way, called SCORM, was incredibly helpful when it was designed nineteen years ago, and it still has an important role to play today. When SCORM was created, computer-based training was relatively new and organisations needed a single way to store and track training. For a time, innovation in elearning stopped at the known, established boundaries of the VLE (Weller, 2014, p. 194).</p>
+<p>Now, a new need has developed: a way to store and track learning when it occurs on mobile devices, or through social and collaborative activities, or offline by reading a book or engaging in stretch assignments, or when participating in simulations or augmented and virtual reality programmes.</p>
+<p>An innovation that meets that need was first released in 2013, and had its last planned update in 2016. It is the Experience API (xAPI). xAPI provides a common format for capturing data from today&rsquo;s distributed learning landscape (Rustici Software, n.d.). With xAPI in place, you can free staff development from the confines of SCORM:</p>
+<ul>
+<li>Rely less on elearning courses designed from slides and more on learning experiences;</li>
+<li>Recognise learning from formal and informal or non-formal activities (Downes, 2015);</li>
+<li>And track not only clicks and views but also correlate learning with performance (Torrance, 2016).</li>
+</ul>
+<p>Managers and other decision-makers within learning departments and organisations are at a critical point. They need a source from which to gain a high-level, jargon-free understanding of the benefits of xAPI, common applications and uses of xAPI to support learners as they access modern and innovative learning opportunities, best practices and lessons learned, and information they should provide to their learning development and learning technology teams to prepare for implementation of xAPI (HT2 Labs, n.d.).</p>
+<p>In my conference presentation, I will discuss and share a workshop created to meet those needs. The workshop helps managers, even those without extensive technical backgrounds, to be prepared to move forward with discussions and decisions about xAPI within their organisation. My presentation will show some of the workshop features and provide attendees with tools they can take with them, for use in their future endeavours.</p>
+<h3>References</h3>
+<p>Downes, A. (2015) '9 Practical Applications of Tin Can API', webinar presented by Rustici Software. 31 March. Available at <a href="https://www.slideshare.net/RusticiSoftware/ nine-applications-of-the-tin-can-api-xapi">https://www.slideshare.net/RusticiSoftware/</a><br /><a href="https://www.slideshare.net/RusticiSoftware/ nine-applications-of-the-tin-can-api-xapi">nine-applications-of-the-tin-can-api-xapi</a> (Accessed 1 November 2017).</p>
+<p>The Education Commission (aka the International Commission on Financing Global Education Opportunity) (2016) <em>The Learning Generation: Investing in education for a changing world</em> [Online]. Available at <a href="http://report.educationcommission.org/downloads/">http://report.educationcommission.org/downloads/</a> (Accessed 18 November 2017).</p>
+<p>HT2 Labs (n.d.) <em>The Learning Technology Manager's Guide to xAPI</em> [Online]. Available at <a href="https://www.ht2labs.com/resources/the-learning-technology-managers-guide-to-the-xapi/">https://www.ht2labs.com/resources/the-learning-technology-managers-guide-to-the-xapi/</a> (Accessed 9 December 2017).</p>
+<p>Pew Research Center (2016a) <em>Lifelong Learning and Technology</em> [Online]. Available at <a href="http://www.pewinternet.org/2016/03/22/lifelong-learning-and-technology/">http://www.pewinternet.org/2016/03/22/lifelong-learning-and-technology/</a> (Accessed 18 November 2017).</p>
+<p>Pew Research Center (2016b) <em>The State of American Jobs: How the shifting economic landscape is reshaping work and society and affecting the way people think about the skills and training they need to get ahead</em> [Online]. Available at <a href="http://www.pewsocialtrends.org/2016/10/06/the-state-of-american-jobs/">http://www.pewsocialtrends.org/2016/10/06/the-state-of-american-jobs/</a> (Accessed 18 November 2017).</p>
+<p>Rustici Software (n.d.) <em>Experience API</em> [Online]. Available at <a href="https://experienceapi.com/">https://experienceapi.com/</a> (Accessed 1 November 2017).</p>
+<p>Torrance, M. (2016) 'The xAPI: What Does an Instructional Designer Need to Know?', presentation given at <em>Learning Solutions Conference &amp; Expo.</em> Orlando, Florida, 16-18 March. Available at <a href="https://www.slideshare.net/torrancelearning/xapi-what-does-an-instructional-designer-need-to-know">https://www.slideshare.net/torrancelearning/xapi-what-does-an-instructional-designer-need-to-know</a> (Accessed 1 November 2017).</p>
+<p>Weller, M. (2014) <em>The Battle for Open: How openness won and why it doesn't feel like victory</em>, London, ubiquity press. Available at <a href="http://www.ubiquitypress.com/ site/books/detail/11/battle-for-open/">http://www.ubiquitypress.com/</a><br /><a href="http://www.ubiquitypress.com/ site/books/detail/11/battle-for-open/">site/books/detail/11/battle-for-open/</a> (Accessed 2 May 2016).</p>]]></description>
+          <pubDate>Thu, 04 Jan 2018 15:39:49 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Where is the learning occurring in mobile learning? Applying systems thinking to a messy situation.</title>
+              <link>https://cloudworks.ac.uk/cloud/view/10509</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/10509</guid>
+              <description><![CDATA[<p><a href="http://oro.open.ac.uk/view/person/ap6.html" target="_blank">Alice Peasgood</a></p>
+<p>The use of mobile digital devices for learning has been the subject of considerable research. It appears, however, that the investigative lens offered by systems thinking approaches is not widely represented in the literature of mobile learning. In systems thinking, a &lsquo;messy situation&rsquo; is one that has complexity and ambiguity. This paper reports upon a theoretical study of the learner-device-environment system and subsystems within it. The environment includes physical, digital and social factors. The core research question is &lsquo;where is the learning occurring?&rsquo; Systems maps are used to explore various concepts of the mobile device: as a tool, as a medium (or mediating technology) or as an extension of the learner&rsquo;s capabilities. The concept of the device as a tool implies that the learner is in control and uses the device&rsquo;s capabilities to access learning content or to learn in communication with others via the device. Drawing upon the work of Gordon Pask, the question arises as to how the mediating technology may impact upon the learning, and may itself change during the learning process (for example, a digital device employs algorithms which change as the learner uses the device). Building upon Marshall McLuhan&rsquo;s idea of technology as augmenting human capabilities, the mobile device could be seen as externalising memory, for example. By considering how to define the learning system in each case, this paper examines the interrelationships between the learner, the device and the environment. This analysis provides some insights, and raises further questions, that are relevant to other areas of research in mobile learning.</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Mon, 15 May 2017 10:33:26 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Migrants learning languages using smartphones: tensions between wanting to belong and wanting to learn</title>
+              <link>https://cloudworks.ac.uk/cloud/view/10491</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/10491</guid>
+              <description><![CDATA[<p><a href="http://oro.open.ac.uk/view/person/ap6.html" target="_blank">Alice Peasgood</a> and <a href="http://oro.open.ac.uk/view/person/mbg57.html" target="_blank">Mark Gaved</a></p>
+<p>This paper presents work recently published in the Journal of Media in Education (JIME), but not previously presented at a conference. <br />There is great interest in the potential of smartphones to enable language learning during daily activities. However, this overlooks the paradox faced by migrant learners that while they have the educational goal of seeking to improve their language skills, they also have the cultural goal of fitting into the host society. Inappropriate use of smartphones as learning aids makes learners stand out as outsiders. <br />Here, we investigate the use of smartphones by migrants for Mobile Assisted Language Learning (MALL) in their daily lives. We report on their participation in the trial of a system that coupled a custom smart&not;phone app with location-based hardware triggers. This presented learning activities based on scenarios from everyday life that were prompted when approaching relevant locations around a UK town. Analysis of pre- and post- interviews indicates that social and cultural influences affect the location, timing and type of learning undertaken using the system. <br />Participants preferred to learn in ways that were unobtrusive, and deferred engagement with content if social context inhibited use of the phone. For example, playing audio in public was seen as inappropriate. Although the app was designed with location-specific content, many participants chose to study elsewhere and at other times, in addition to accessing content from the phone at the time and place that the activity was triggered. <br />We conclude that social context and wanting to belong are important influences for migrant learners, and emphasise the potential of MALL systems in encouraging engagement with physical and digital spaces and reflections about citizenship.</p>]]></description>
+          <pubDate>Mon, 15 May 2017 09:20:23 +0000</pubDate>
+            </item>
+                    <item>
+              <title>ESOL and Mobile Learning</title>
+              <link>https://cloudworks.ac.uk/cloud/view/10388</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/10388</guid>
+              <description><![CDATA[<h2>Narrator</h2>
+<p><em>I was an ESOL teacher in a community setting which had been relatively technology-free. I suppose I was lucky to have an interactive whiteboard (which frequently did not work) connected to an extremely old laptop running XP.</em></p>
+<h2>Situation</h2>
+<p><em>The room in which I was teaching was spacious, with tables and chairs and only1 laptop, connected to the Interactive Smartboard. I planned my sessions for a class of about 10 students, however, due to changes in rules for childcare, only recruited 7 students.</em></p>
+<p><em>I was not able to use most of the Internet sites and tools I wanted to as the browsers on the laptop could not be updated, except by the local council IT department, who had never responded to any requests for updating. In addition, certain sites, eg. YouTube, were blocked and access to the Internet was restricted by a convoluted process of applying for a temporary account, lasting 1 day. </em></p>
+<p><em>&nbsp;</em><em>My class had a module on the college VLE. However, the VLE was not very ESOL-friendly and so had not used it with the students. I hoped by using mobile-learning to find an alternative online space for the class.</em></p>
+<h2>Task</h2>
+<p><em>I wanted to find an alternative way to use technology with the group, take advantage of existing mobile phone skills and develop digital literacy with tablets.</em></p>
+<p><em>My learners came from diverse countries, including refugee and asylum-seeker populations and I was also aware of an existing digital divide. Fortunately, there was a small amount of money available to purchase some tablet computers. I investigated the possibility of using them by connecting to a portable wifi hotspot (initially borrowed from the technician). I hoped to address the digital divide by prioritising access to tablets for students without Smartphones. I also included a trip to the local library, encouraging students to join and use computers there.</em></p>
+<h2><strong>Actions</strong></h2>
+<p>&nbsp;1. I purchased 4 tablets, researched apps useful for teaching and learning English language and downloaded onto tablets.</p>
+<p>2. Introduced tablets to the students and demonstrated some useful apps for spelling and grammar that they could download onto their smartphones. Students liked using the tablets and did so in pairs or groups of 3. Some students were able to download apps and use their own phones.</p>
+<p>3, Experimented with mindmapping apps for vocabulary and planning presentations and writing on the tablets.</p>
+<p>4. Presented sessions on Internet safety and creating strong passwords.</p>
+<p>5. Set up an online virtual classroom space using the app Edmodo. This app is safe for the learners as it does not require them to supply any personal information or email addresses. First session with Edmodo, students introduced themselves and got used to sending messages to each other and teacher.I linked in some lesson objects I had created online for grammar and punctuation practice.</p>
+<p>6. Also linked in a visual noticeboard (Lino) as a collaborative space for showing student work and building up links to videos and other resources around topics. Our first topic was Media-Cinema and Films.</p>
+<p>7. Students used mindmapping to plan presentations, then created them using PowerPoint. (We were able to borrow a couple of ancient laptops which had PowerPoint 2003 and were just about able to surf the Internet for images).They also read film reviews, planned and wrote their own film review.</p>
+<h2>Results</h2>
+<p>The students enjoyed using the tablets and got used to using Edmodo app on their phones. Edmodo has a similar look to Facebook and students used it between classes for communicating with me and each other.</p>
+<p>However, the class had under-recruited and was stopped at the end of the autumn term so my experiment was rather short-lived.</p>
+<p>For the purposes of getting students through the compulsory assessments, the tablets usefulness was limited, however. They were good for practising with apps, recording audio and video for role play, listening and pronunciation practice and surfing the Internet but a desktop in the main college was necessary for typing up writing and printing out research materials from the Internet, as we did not have access to a printer in the community centre.</p>
+<p>There were some apps I really wanted to use in the classroom, such as Kahoot, but couldn't because of the dodgy browsers on the XP computer connected to the Smartboard.</p>
+<h2>Reflections</h2>
+<p>I think that the experiment was a useful experience. It was quite frustrating at times with the unreliable wifi and it revealed many challenges to be overcome.</p>
+<p>I believe that, if more money becomes available, more tablets and also new laptops should be invested in to help develop digital and employability skills in community settings.</p>
+<p>At the time, I also took on the editing of the community ESOL magazine, which gave me the opportunity to visit other community ESOL classes and find out what teachers were doing with technology. I found that most classes also did not have access to computers, however, some enterprising students had taken the initiative and set up a WhatsApp group called &lsquo;ESOL Mums&rsquo;, which they used for sending photos and recipes to each other and messages about the class. They reported that they found this helpful for their writing skills.</p>
+<p>Mobile learning has lots of potential for English language students and most students like talking about and using their phones for learning.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Sun, 09 Apr 2017 21:44:10 +0000</pubDate>
+            </item>
+                    <item>
+              <title>WED: Removing Geographical and Time Boundaries: Mobile Learning for Mobile Workers (Alison Walker)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8873</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8873</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Sat, 17 Jan 2015 12:15:44 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Conceptualising ethical issues for social, mobile teaching and learning</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8798</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8798</guid>
+              <description><![CDATA[<p>Slides from the workshop with the new framework to enabling thinking through the range of ethical issues that may crop up in social, mobile learning research and teaching.</p>]]></description>
+          <pubDate>Fri, 19 Sep 2014 10:38:18 +0000</pubDate>
+            </item>
+                    <item>
+              <title>MON: Leveraging mobile technologies and Web 2.0 tools to engage those with an interest in the centenary of the First World War cont.....(Jonathon Vernon)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8563</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8563</guid>
+              <description><![CDATA[<p>Full title:<br />Leveraging mobile technologies and Web 2.0 tools to engage those with an interest in the centenary of the First World War in the stories of the people of the era using strategically placed Quick Response Codes.<br /><br />Abstract:<br />In relation to the First World War, during its centenary commemoration, there are many places, such as war memorials, cemeteries, historic houses and battlefields that are bereft of quality, supporting information. With consideration for the needs and interests of visitors to such sites rich, multimedia information, such as audio guides and photographs, links to databases and to others with a similar interest can be provided through the use of Quick Response (QR) codes. Of interest here is to personalise commemorisation through the use of a self-generated QR code and content with the code put onto a British Legion Poppy. <br /><br />This opens up the possibility of providing information at war memorials, large and small, even down to the single name, as well as at sites, buildings and on battlefields, for example informing walkers and cyclists that the old airfield was once a training area for the Royal Flying Corps showing them photographs of what it looked like or that that council building that was a convalescence home or that part of the Downs that had trenches dug in it for training or the concrete pill-box on the former Western Front where it is known an officer and two of his men died. <br /><br />QR codes, originally the creation of a supplier to Toyota, have grown in popular use in Japan and China in the 1990s, then the US, Canada and Germany. They are now used at point of sale for marketing purposes, and increasingly in libraries and museums were research is indicating how they can best be used. Implementation issues relate to the percentage of the population that do not have smart devices, the possible cost of 2G and 3G away from free Wi-Fi and adequate support for the use of QR codes which are not yet ubiquitous in the UK.<br /> <br />The purpose of this paper is to pull together current experiences of the use of QR codes in order to consider ways they could add to the our collective understanding of the events of the First World War. QR codes offer multiple potentials, not simply providing rich mobile multimedia content, but letting people create their own content and QR codes, to share, form hubs of like-minds and respond in their own way whether by contributing to the historical debate, offering their own family stories or being inspired or angered by the events as described and wanting to express their views in prose, poetry, painting or performance.&nbsp;</p>]]></description>
+          <pubDate>Sun, 09 Feb 2014 17:01:36 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Bristol Ideas in Mobile Learning 2014 Programme</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8540</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8540</guid>
+              <description><![CDATA[<h2 id="docs-internal-guid-7cff7682-c400-52ce-93de-f6349d59d1f4" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr">BIIML 2014 Programme</h2>
+<p>Can you dance with data? Trust intimate information with strangers? Solve historical puzzles about your city on <em>in situ</em>? Share your walk in the streets of Bristol? <a href="http://cloudworks.ac.uk/cloud/view/8604" target="_blank">Press release</a></p>
+<p>Proceedings ‪#&lrm;BIIML14‬ are now online at&nbsp;<a href="http://dx.doi.org/10.6084/m9.figshare.1047193">http://dx.doi.org/10.6084/m9.figshare.1047193</a> please pass on to your networks.</p>
+<p>There was a Google+ webcast / hangout on our <a href="http://www.youtube.com/user/d4dlearn" target="_blank">YouTube Channel.</a></p>
+<p>Tweets (on Storify): we collated all the tweets <a href="http://storify.com/yishaym/bristol-ideas-in-mobile-learning-2014" target="_blank">here</a> unedited, just so they don't fade away. Also see the edited <a href="http://storify.com/psantos/bristol-ideas-in-mobile-learning-2014-biiml" target="_blank">two day story</a>&nbsp;&nbsp; <a class="_58cn" href="https://www.facebook.com/hashtag/biiml" data-ft="{">#biiml</a></p>
+<p><a href="http://cloudworks.ac.uk/cloud/view/8750" target="_blank">Feedback</a></p>
+<h3>Thursday, 6th March</h3>
+<p><strong>09:30</strong> Coffee<br /><strong>10:00</strong> <a href="http://cloudworks.ac.uk/cloud/view/8610" target="_blank">Opening</a>: John Cook, Co-founder of LMLG<br /><strong>10:15</strong> Keynote: <a href="http://celstec.org.uk/user/25" target="_blank">Marcus Specht</a>, Co-ordinator&nbsp;<a href="http://celstec.org.uk/" target="_blank">CELSTEC</a> Laboratories, Open University of the Netherlands - <a href="http://cloudworks.ac.uk/cloud/view/8581" target="_blank">Towards mobile seamless learning</a><br /><strong>11:15</strong> Break<br /><strong>11:30</strong> Ideas Paper sessions (3 x 30 min full papers)</p>
+<ul>
+<li><strong style="cursor:auto"><!--NO CSS--><strong style="cursor:auto"><!--NO CSS-->Debbie Holley: <a href="http://cloudworks.ac.uk/cloud/view/8593" target="_blank">Mobile &lsquo;comfort&rsquo; zones: overcoming barriers to enable facilitated learning in the workplace</a><br /></strong></strong></li>
+<li>
+<p id="docs-internal-guid-2362c218-445c-5771-e5e3-ecf5c34b140e" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr">Javier Melero, Davinia Hern&aacute;ndez-Leo and Josep Blat: <a href="http://cloudworks.ac.uk/cloud/view/8611" target="_blank">Being able to accommodate activity&rsquo;s formal purposes as a critical factor when designing for &lsquo;location-based learning games&rsquo; at scale</a></p>
+</li>
+<li><strong style="cursor:auto"><!--NO CSS-->Helen Crompton: <a href="http://cloudworks.ac.uk/cloud/view/8606" target="_blank">Using Context-Aware Ubiquitous Learning to Support Students in Learning Angle Concepts</a></strong></li>
+</ul>
+<p><strong>13:00</strong> Lunch</p>
+<p><strong>14:15</strong> Invited talk -&nbsp;<a href="http://www.ben-bachmair.de/Home.html" target="_blank">Ben Bachmair</a>, <a href="http://www.londonmobilelearning.net/" target="_blank">Co-founder of LMLG</a>, Institute of Education, UK (40 minutes) <a href="http://cloudworks.ac.uk/cloud/view/8579" target="_blank">Sustainability for mobile learning under the societal and cultural condition of delimitation, a conceptual framework with a proposal of practical tools</a><br /><strong>14:55</strong> Industry Ideas paper session <strong>Geoff Stead</strong> (30 min full paper) <a href="http://cloudworks.ac.uk/cloud/view/8585" target="_blank">The future of mobile learning in the workplace: Qualcomm Insights</a><br /><strong>15:25</strong> break<br /><strong>16:00</strong> MobiLearnFest (this is open to anyone free of charge). <a href="http://cloudworks.ac.uk/cloud/view/8615" target="_blank">Link</a> to how we will organise it&nbsp;</p>
+<ul>
+<li><a href="http://cloudworks.ac.uk/cloud/view/8536" target="_blank">#taggedlife: a mobile game and social experiement</a></li>
+<li><a href="http://cloudworks.ac.uk/cloud/view/8537" target="_blank">etiquetAR: a living demo during the MobiLearnfest!</a></li>
+<li><a href="http://cloudworks.ac.uk/cloud/view/8533" target="_blank">Exploring Practice-based Learning through the Living Archives and the AffeXity Projects</a></li>
+<li><a href="http://cloudworks.ac.uk/cloud/view/8538" target="_blank">Questinsitu - The Game: a living demo during the MobiLearnFest! </a></li>
+<li><a href="http://cloudworks.ac.uk/cloud/view/8559" target="_blank">Experiencing street art with SharedWalk: a living demo during the MobiLearnFest!</a></li>
+</ul>
+<p><strong>18:00</strong> Close<br /><strong>18:30</strong> Dinner @ <a href="http://www.riverstation.co.uk/home" target="_blank">riverstation</a></p>
+<h3 style="line-height: 1.15; margin-top: 10pt; margin-bottom: 0pt;" dir="ltr">Friday, 7th March</h3>
+<p><strong>08:30</strong> Coffee<br /><strong>09:00</strong> Reflections on day 1 (by 3 Co-Chairs)<br /><br /><strong>9:15</strong>&nbsp;Ideas Paper sessions (3 x 30 min full papers)</p>
+<ul>
+<li>Jane Andrews and Mark Jones: <a href="http://cloudworks.ac.uk/cloud/view/8608" target="_blank">What&rsquo;s happening in &lsquo;their space&rsquo;? Exploring the borders of formal and informal learning with undergraduate students of education in the age of mobile technologies</a></li>
+<li>Christoph Pimmer, Sebastian Linxen, Jennifer Chipps, Petra Brysiewicz, Urs Gr&ouml;hbiel and Fiona Walters: <a href="http://cloudworks.ac.uk/cloud/view/8595" target="_blank">Mobile phones to facilitate connected social learning and work-based practices in marginalized settings. Insights from a research project in rural South Africa.</a></li>
+<li>John Stav and Katerina Zourou: <a href="http://cloudworks.ac.uk/cloud/view/8596">Linking mobile enhanced collective learning to open educational practice (OEP)</a></li>
+</ul>
+<p><strong>10:45</strong> Break (get coffee/tea and go to Roundtable)<br /><strong>11:00</strong> Roundtable Ideas</p>
+<ul>
+<li>Notes: 4 tables, each table 4 papers x 15 minutes + 30 min discussion. Each of 3 Co-Chairs (+John Traxler) leads a table that are grouped around the <a href="http://cloudworks.ac.uk/cloud/view/8501" target="_blank">Symposium Call themes</a>, kicking off with our own paper. 30 minutes report back from the tables by lead person. See <a href="http://cloudworks.ac.uk/cloud/view/8616" target="_blank">how to present during a roundtable</a></li>
+<li>
+<div>Round table 1. Focus on new patterns of connected social learning and work-based practices (Chair JC)</div>
+</li>
+<ul>
+<li><a href="http://tinyurl.com/p9sez8a" target="_blank">John Cook</a>&nbsp;- <a href="http://cloudworks.ac.uk/cloud/view/8586" target="_blank">User Generated Contexts: Thinking about changes in mass communication in terms of agency, innovation, trust and risk</a></li>
+<li>
+<p id="docs-internal-guid-2362c218-4460-8550-e025-3bdaf05c50e7" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr">Bernhard Gross - <a href="http://cloudworks.ac.uk/cloud/view/8614" target="_blank">Journalist, citizen and learner? &mdash; A consideration of context in learning mobile journalism through mobile learning</a></p>
+</li>
+<li>
+<p id="docs-internal-guid-2362c218-4460-8550-e025-3bdaf05c50e7" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr">David Barber: <a href="http://cloudworks.ac.uk/cloud/view/8599" target="_blank">Keep Taking the Tablets: Integrating the Mobile in Work-Based Learning</a></p>
+</li>
+</ul>
+<li>
+<div>Round table 2.Focus on designing for &lsquo;mobile learning&rsquo; at scale (Chair&nbsp;YM)</div>
+</li>
+<ul>
+<li><a href="http://www.yishaymor.org" target="_blank">Yishay Mor</a> - <a href="http://cloudworks.ac.uk/cloud/view/8617" target="_blank">The SoMoLearn initiative: empowering teachers to recruit mobile technologies and social media as an ally</a></li>
+<li><strong style="cursor:auto"><!--NO CSS--><strong style="cursor:auto"><!--NO CSS-->Ivica Boticki, Peter Seow, Gean Chia, Chee-Kit Looi and Jelena Baksa: <a href="http://cloudworks.ac.uk/cloud/view/8605" target="_blank">How can Badges be Used in Seamless Mobile Learning</a></strong></strong></li>
+<li><strong style="cursor:auto"><!--NO CSS--><strong style="cursor:auto"><!--NO CSS-->Alessia Messuti - <a href="http://cloudworks.ac.uk/cloud/view/8613" target="_blank">m-Workplace learning @ ITC-ILO</a></strong></strong></li>
+</ul>
+<li>
+<div>Round table 3.Focus on the boundaries of learning that the &lsquo;m&rsquo; in m-learning forces us to explore (Chair&nbsp;PS)</div>
+</li>
+<ul>
+<li><a href="http://tinyurl.com/n7ohf77" target="_blank">Patricia Santos</a> - <a href="http://cloudworks.ac.uk/cloud/view/8588" target="_blank">Interaction matters in m-learning in situ</a></li>
+<li>
+<p id="docs-internal-guid-2362c218-4489-1643-8924-838c6c4de656" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr">Daniyar Sapargaliyev: <a href="http://cloudworks.ac.uk/cloud/view/8612" target="_blank">Wearable learning: How Google Glass is changing education?</a></p>
+</li>
+<li><strong style="cursor:auto"><!--NO CSS--><strong style="cursor:auto"><!--NO CSS-->Birgit Schmitz, Dirk B&ouml;rner, Marco Kalz, Roland Klemke and Marcus Specht: <a href="http://cloudworks.ac.uk/cloud/view/8609" target="_blank">Creating and understanding mobile game simulations for school children</a></strong></strong></li>
+<li>Daniel Spikol and Axel Olsson: <a href="http://cloudworks.ac.uk/cloud/view/8601" target="_blank">Designing for Drawing-based Modelling for tablet computers</a></li>
+</ul>
+<li>
+<div>Round table 4.Innovation, creativity and sustainability:&nbsp;crisis and response (Chair&nbsp;JT)</div>
+</li>
+<ul>
+<li><a href="http://www.wlv.ac.uk/default.aspx?page=31497" target="_blank">John Traxler</a> - <a href="http://cloudworks.ac.uk/cloud/view/8589" target="_blank">Mobile Learning in the Global South</a></li>
+<li><strong style="cursor:auto"><!--NO CSS--><strong style="cursor:auto"><!--NO CSS--><strong style="cursor:auto"><!--NO CSS-->Stuart Mitchell and Bastian Pelka: <a href="http://cloudworks.ac.uk/cloud/view/8607" target="_blank">Social Media based learning from a European perspective: A Framework for Social Innovation</a></strong></strong></strong></li>
+<li><strong style="cursor:auto"><!--NO CSS--><strong style="cursor:auto"><!--NO CSS--><strong style="cursor:auto"><!--NO CSS-->Carl Smith - <a href="http://cloudworks.ac.uk/cloud/view/8619" target="_blank">Experience (Re)Design Techniques using Innovative Mobile Assistive Technologies and Creative Context Engineering</a></strong></strong></strong></li>
+</ul>
+</ul>
+<p><strong>13:00</strong> Lunch<br /><strong>14:15</strong>&nbsp;Ideas Paper sessions (2 x 30 min full papers)</p>
+<ul>
+<li>Daniel Spikol, Camilla Ryd, Jacek Smolicki, Jeannette Ginslov and Susan Kozel: <a href="http://cloudworks.ac.uk/cloud/view/8600" target="_blank">Using Augmented Reality, Artistic Research and Mobile Phones to Explore Practice-based Learning</a></li>
+<li>Graham Attwell, Owen Gray and Martina Luebbing Developing context and work based mobile learning in the Construction sector</li>
+</ul>
+<p><strong>15:15</strong> Invited talk -&nbsp;<a href="http://www.norbertpachler.net/" target="_blank">Norbert Pachler</a>, <a href="http://www.londonmobilelearning.net/">Convenor LMLG</a>, Institute of Education, UK - <a href="http://cloudworks.ac.uk/cloud/view/8584" target="_blank">Literacy in a culture of delimitation and provisionality</a> (40 minutes)</p>
+<p><strong>15:55</strong> Break<br /><strong>16:15</strong> Concluding plenary &amp; Special Issue of <a href="http://www-jime.open.ac.uk/" target="_blank">JIME</a> process (to be published Spring 2015)<br /><strong>17:00</strong> Close</p>
+<p><em>Organised by <a href="http://cloudworks.ac.uk/cloudscape/view/2435" target="_blank">Designing for Digital Learners</a> (D4DL) Research Group. This event is supported by QR (Quality Research) funds from UWE Bristol.</em></p>]]></description>
+          <pubDate>Fri, 24 Jan 2014 14:06:39 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Critical visual literacy and mLearning: meaningful connections between school and real life</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8539</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8539</guid>
+              <description><![CDATA[<p>See my slide in site above.</p>]]></description>
+          <pubDate>Thu, 23 Jan 2014 19:01:37 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Call Cloud: Ideas in Mobile Learning, Symposium 6th - 7th March 2014, Watershed, Bristol UK</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8498</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8498</guid>
+              <description><![CDATA[<h3>Organised by <a href="http://cloudworks.ac.uk/cloudscape/view/2435" target="_blank">Designing for Digital Learners</a> (D4DL) Research Group. This event is supported by QR (Quality Research) funds from <a href="http://www.uwe.ac.uk/" target="_blank">UWE Bristol</a></h3>
+<h4>Now closed to new submission</h4>
+<h3>BIIML 2014 Programme now available: <a href="http://cloudworks.ac.uk/cloud/view/8540" target="_blank">http://cloudworks.ac.uk/cloud/view/8540</a></h3>
+<p>&nbsp;</p>
+<p>The <strong>Ideas in Mobile Learning symposium</strong> invites either 'ideas' abstracts or 'ideas' for the mobiLearnFest component of the Symposium around the broad themes of &lsquo;innovation, creativity and sustainability&rsquo;&nbsp;for <a href="http://www.londonmobilelearning.net/#theory.php?state=0" target="_blank">mobile learning</a>. However, we have a strong preference that papers address at least one of the following three trends of mobile learning state-of-the-art research (<a href="http://cloudworks.ac.uk/cloud/view/8501" target="_blank">click here for details</a>):</p>
+<ul>
+<li>Focus on new patterns of connected social learning and work-based practices.</li>
+<li>Focus on designing for &lsquo;mobile learning&rsquo; at scale.</li>
+<li>Focus on the boundaries of learning that the &lsquo;m&rsquo; in m-learning forces us to explore.</li>
+</ul>
+<p>The symposium is a research off-shoot of the successful workshop &lsquo;<a href="http://cloudworks.ac.uk/cloud/view/8434" target="_blank">Towards sustainable mobile learning scenarios</a>&rsquo; held in Bristol 9<sup>th</sup>-10<sup>th</sup> October, 2013. Requested contributions should offer any combination of conceptual, critical, design, empirical, theoretical or experimental work that relates in some way to the symposium&rsquo;s broad themes and/or the three trends. Places are limited to 40 participants in order to enable a single track event where engaging, interdisciplinary conversational threads will be centre stage.</p>
+<p>The&nbsp;online space for the Symposium can be reached by clicking <a href="http://cloudworks.ac.uk/cloudscape/view/2896" target="_blank">here</a></p>
+<h3><strong>Keynote</strong></h3>
+<ul>
+<li><a href="http://celstec.org.uk/user/25" target="_blank">Marcus Specht</a>, Co-ordinator&nbsp;<a href="http://celstec.org.uk/" target="_blank">CELSTEC</a> Laboratories, Open University of the Netherlands</li>
+</ul>
+<h3><strong>Key dates</strong></h3>
+<ul>
+<li>December 2013 &ndash; Keynotes announced</li>
+<li>*now extended* January 20<sup>th</sup> 2014 &ndash; Deadline for 1000 word 'idea' paper abstracts (excludes references) to <a href="https://www.easychair.org/conferences/?conf=biiml14" target="_blank">EasyChair</a> or an 'idea' to <a href="http://cloudworks.ac.uk/cloud/view/8507" target="_blank">mobiLearnFest</a> component of the Symposium</li>
+<li>February 10<sup>th</sup> 2014 &ndash; &nbsp;Reviews decisions</li>
+<li>February 17<sup>th</sup> 2014 &ndash; Camera Ready Copy of abstracts due (via EasyChair), register for event (fee &pound;135, includes evening meal 6th March, link to follow)</li>
+<li>5<sup>th</sup> March 2014 &ndash; John Cook&rsquo;s Professorial Lecture, all attending Symposium are invited, as are those not involved in the Symposium: <a href="http://info.uwe.ac.uk/events/event.aspx?id=14630" target="_blank">Social Network Innovation in the Internet's Global Coffeehouses: Pandora, Learning Layers, Design Seeking and Scaling</a>.</li>
+<li>6<sup>th</sup> - 7<sup>th</sup> March 2014 &ndash; Symposium takes place, Watershed, Bristol UK</li>
+<li>1<sup>st</sup> April 2014 &ndash; All Symposium participants invited to use feedback from event to expand on the abstract and submit full paper to edited book or Special Issue of a journal&nbsp; (details tbc, we are in negotiation with Open publishers)</li>
+</ul>
+<h3><strong>Symposium Co-chairs </strong></h3>
+<ul>
+<li><a href="http://tinyurl.com/p9sez8a" target="_blank">John Cook</a>, <a href="http://tinyurl.com/n7ohf77" target="_blank">Patricia Santos</a> (<a href="http://cloudworks.ac.uk/cloudscape/view/2435" target="_blank">D4DL</a>, UWE Bristol) &amp; Yishay Mor (<a href="http://www.yishaymor.org" target="_blank">www.yishaymor.org</a>)</li>
+</ul>
+<h3><strong>Programme Committee<br /></strong></h3>
+<ul>
+<li><a href="http://htk.tlu.ee/new/people/mohammad-al-smadi/" target="_blank">Mohammad AL-Smadi</a>, <a href="http://learning-layers.eu/team/tallinn-university-center-for-educational-technology/" target="_blank">Centre for Educational Technology</a>, Tallinn University, Estonia</li>
+<li><a href="http://www.pontydysgu.org/pontydysgu-and-people/graham-attwell/" target="_blank">Graham Attwell</a>, Director of <a href="http://www.pontydysgu.org/" target="_blank">Pontydysgu</a>, Wales&nbsp;</li>
+<li><a href="http://www.ben-bachmair.de/Home_(English).html" target="_blank">Ben Bachmair</a>, <a href="http://www.londonmobilelearning.net/" target="_blank">Co-founder of LMLG</a>, Institute of Education, UK</li>
+<li><a href="https://people.aalto.fi/index.html?profilepage=isfor#!merja_bauters" target="_blank">Merja Bauters</a>,&nbsp; <a href="http://legroup.aalto.fi/" target="_blank">LeGroup</a>, Learning Environments research group, Media Lab, Aalto University, Finland</li>
+<li><a href="http://www.imb-uni-augsburg.de/klaus-bredl" target="_blank">Klaus Bredl</a>, <a href="http://research-explorer.dfg.de/research_explorer.en.html?institution_id=160718854&schritt=detail&sv=deutschlandkarte&stichwort;=" target="_blank">Institute of Media and Educational Technology</a>, University of Augsburg, Austria</li>
+<li><a href="http://www2.hull.ac.uk/ifl/ces/staff-in-ces/kevin-burden.aspx" target="_blank">Kevin Burden</a>, <a href="http://www2.hull.ac.uk/ifl/ces.aspx" target="_blank">Centre for Educational Studies</a>, University of Hull, UK</li>
+<li><a href="http://www.react-hub.org.uk/staff" target="_blank">Jonathan Dovey</a>, Director <a href="http://www.react-hub.org.uk/" target="_blank">REACT</a>, UWE Bristol,UK</li>
+<li><a href="http://gti.upf.edu/davinia-hernandez-leo/" target="_blank">Davinia Hern&aacute;ndez-Leo</a>,&nbsp;coordinator of the educational technologies research line within <a href="http://gti.upf.edu/who-we-are/" target="_blank">Interactive Technologies Group</a>, Universitat Pompeu Fabra, Spain</li>
+<li><a href="http://www.anglia.ac.uk/ruskin/en/home/faculties/fhsce/about/staff/a-z/debbie_holley.html" target="_blank">Debbie Holley</a>, <a href="http://www.anglia.ac.uk/ruskin/en/home/faculties/fhsce/about/staff/education.html" target="_blank">Department of Education</a>, Anglia Ruskin University, UK</li>
+<li><a href="http://www.edusci.umu.se/om-institutionen/personal/isa-jahnke" target="_blank">Isa Jahnke</a>, <a href="http://www.edusci.umu.se/english/?languageId=1" target="_blank">Department of Applied Educational Science</a>, Ume&aring; University, Sweden</li>
+<li><a href="http://celstec.org.uk/users/mkl" target="_blank">Marco Kalz</a>, <a href="http://celstec.org.uk/" target="_blank">CELSTEC</a>, Open University of the Netherlands</li>
+<li><a href="http://gti.upf.edu/javier-melero/" target="_blank">Javier Melero</a>,&nbsp;<a href="http://gti.upf.edu/who-we-are/" target="_blank">Interactive Technologies Group</a>, Universitat Pompeu Fabra, Spain</li>
+<li><a href="http://www.norbertpachler.net/" target="_blank">Norbert Pachler</a>, <a href="http://www.londonmobilelearning.net/">Convenor LMLG</a>, Institute of Education, UK</li>
+<li><a href="http://mperezsanagustin.wordpress.com/" target="_blank">Mar P&eacute;rez-Sanagust&iacute;n</a>, <a href="http://gradient.it.uc3m.es/" target="_blank">Gradient Lab</a> of the Universidad Carlos III de Madrid (UC3M)</li>
+<li><a href="http://www.cimne.com/simweb/consortium.asp" target="_blank">Gilbert Peffer</a>, <a href="http://www.cimne.com/cdl1/ctrhome/2" target="_blank">CIMNE</a>, Spain</li>
+<li><a href="http://www.fhnw.ch/personen/christoph-pimmer" target="_blank">Christoph Pimmer</a>, <a href="http://www.fhnw.ch/business/iwi/institute-for-information-systems-where-it-and-business-meet?set_language=en">Institute for Information Systems</a>, FHNW, Switzerland</li>
+<li><a href="http://unifi.academia.edu/mariaranieri" target="_blank">Maria Ranieri</a>, <a href="http://unifi.academia.edu/Departments/Department_of_Education" target="_blank">Department of Education</a>, Universit&agrave; degli Studi di Firenze, Italy</li>
+<li><a href="http://www.judith-seipold.de/cv/" target="_blank">Judith Seipold</a>,&nbsp;Faculty of Arts and Humanities, Department of Media Studies, University of Siegen, Germany</li>
+<li><a href="http://cloudworks.ac.uk/spikol.tumblr.com" target="_blank">Daniel Spikol</a>, <a href="https://www.mah.se/eng/ts" target="_blank">School of Technology and Society</a>, Malm&ouml; University, Sweden</li>
+<li><a href="http://learning.londonmet.ac.uk/TLTC/carl/index.htm" target="_blank">Carl Smith</a>, Director of <a href="http://learning.londonmet.ac.uk/ltri/website/" target="_blank">LTRI</a>, London Metropolitan University</li>
+<li><a href="http://www.bristol.ac.uk/education/people/jocelyn-m-wishart/index.html" target="_blank">Jocelyn Wishart</a>, <a title="Graduate School of Education" href="http://www.bristol.ac.uk/education/">Graduate School of Education</a>, University of Bristol, UK</li>
+</ul>
+<h3><strong>Local organisation</strong></h3>
+<ul>
+<li>Kate Last (D4DL, UWE Bristol)</li>
+</ul>
+<h3><strong>Follow &amp; tags<br /></strong></h3>
+<p><a href="https://twitter.com/d4dl_uk" target="_blank">@d4dl_uk</a>&nbsp; <a href="https://twitter.com/johnnigelcook" target="_blank">@johnnigelcook</a></p>
+<p>&nbsp;#biiml (Bristol ideas in mobile learning) #mobiLearnFest #d4dl</p>
+<h3><strong>Notes</strong></h3>
+<ol>
+<li>All those wishing to attend have to submit a 1000 word abstract and get it accepted (these 40 abstracts will be published electronically), a programme will be created that has a balance reflecting symposium <a href="http://cloudworks.ac.uk/cloud/view/8501" target="_blank">key themes</a>, some colleagues will be invited to give individual 20 minute presentation followed by 10 minutes Q&amp;A, others will be involved in mobiLearnFest activiteis or presenting in roundtables and providing plenary feedback; all will be involved in un-conference activities.</li>
+<li><a href="http://cloudworks.ac.uk/cloud/view/8507" target="_blank">mobiLearnFest</a> is part of the&nbsp;Ideas in Mobile Learning Symposium. It is an experimental, interactive, hands-on, open session which aims to give participants an opportunity to experience the ideas discussed at the Symposium and engage the general public in our conversation.</li>
+<li>By taking part in the event you agree to the presentations, mobiLearnFest activities, roundtables and associated Q&amp;A being recorded and edited highlights placed on the D4DL Youtube Channel (coming soon) so that the &lsquo;Ideas&rsquo; reach a wider audience and have an impact. Informal sessions will not be recorded.</li>
+<li>Participants will need to register for this event when accepted (fee and details to be confirmed soon) as well as find the cost of their accommodation, travel, breakfast and evening meals.</li>
+<li>There is a strong chance of doing an <strong>acousic jazz set</strong> at the symposium! Marcus Specht on drums, John Cook double bass ... we are looking for more players / singers ... sax etc ... if you get an abstract accepted and are up for this let John Cook know.</li>
+<li>Event organised by <a href="http://cloudworks.ac.uk/cloudscape/view/2435" target="_blank">Designing for Digital Learners</a> (D4DL, UWE Bristol), in association with Designing for Innovation and Creativity (D4IC, UWE Bristol) &amp; <a href="http://www.londonmobilelearning.net/" target="_blank">London Mobile Learning Group</a> (LMLG)</li>
+<li>This event is very different to the LMLG 'mobile learning scenarios group', which will have its own meetings in early 2014.</li>
+<li>This event is inspired by the eclectic approach of Ideas in Cyberspace Education; e.g. see <a href="http://www.ice3.education.ed.ac.uk/papers.html" target="_blank">http://www.ice3.education.ed.ac.uk/papers.html</a>. Specifically, see "<a href="http://www.ice3.education.ed.ac.uk/papers/cook.html" target="_blank">Smells Like Teen Spirit: Generation CX</a>" by Cook (2007, March) who makes one of the first references to learner generated context or <strong>C</strong>onte<strong>X</strong>t: CX (London Knowledge Lab colleagues led on the other parallel approach, which included Cook, see <a href="http://kn.open.ac.uk/public/getfile.cfm?documentfileid=12197" target="_blank">2007 </a><a href="http://kn.open.ac.uk/public/getfile.cfm?documentfileid=12197" target="_blank">October</a>).</li>
+<li>LMLG spent 2 years writing the <a href="http://www.amazon.co.uk/Mobile-Learning-Structures-Agency-Practices/dp/1441956786">first ever monograph on mobile learning</a> (published in 2010, but note that others key researchers published earlier than this with significant edited volumes). We used the monograph and other outputs to put a web site together that provides, amongst other things, a definition of mobile learning: <a href="http://cloudworks.ac.uk/redir.aspx?C=OMe3E-JorUCWGAEigz6MYQPAlPqTm9BINzxhNdy-HH4R15ingW5uJ-tqlugq53dbXcPDL0BKeMk.&URL=http://www.londonmobilelearning.net/#theory.php?state=0" target="_blank">http://www.londonmobilelearning.net/#theory.php?state=0</a></li>
+</ol>]]></description>
+          <pubDate>Wed, 23 Oct 2013 13:30:43 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Resources: for prototyping mobile learning apps</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7995</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7995</guid>
+              <description><![CDATA[<h2>Slidedecks</h2>
+<p><a href="http://www.slideshare.net/visualrinse/prototyping-on-a-shoestring-with-virtually-no-tech-skills"><strong>Prototyping on a Shoestring with Virtually No Tech Skills</strong>!</a>&nbsp;slidedeck from Chad Udell mLearning DevCon 2011</p>
+<p><strong><a href="http://www.slideshare.net/nickfloro/mobile-design-prototyping">Mobile Design &amp; Prototyping</a></strong>&nbsp;slidedeck from Nick Floro&nbsp; mLearning DevCon 2011</p>
+<p><strong><a href="http://www.slideshare.net/ScottFloat/scott-mc-cormick-float-mobile-learningprototyping-strategymlearncon-2012" target="_blank">Implementing an mLearning Prototyping Strategy</a></strong> slidedeck by Scott McCormick &nbsp;mLearnCon 2012</p>
+<p><a href="http://www.slideshare.net/afole4/prototype-8575260">Prototype Development in Mobile-Learning Design Research</a> Slidedeck From Alan Foley&nbsp; EdMedia 2011</p>
+<h2>Tool</h2>
+<p><strong><a href="http://fieldtestapp.com/">Fieldtest</a></strong> &ndash; tool to create mobile prototypes fast</p>]]></description>
+          <pubDate>Sun, 10 Feb 2013 12:02:07 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Mark Johnstone: scenario (mobile learning and second language vocabulary development)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7772</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7772</guid>
+              <description><![CDATA[<h3 dir="ltr">Yezin&rsquo;s Engineering Odyssey</h3>
+<p><strong id="internal-source-marker_0.06367512908764184">Yezin lives in Riyadh and is hoping to study engineering at university. He is in a preparatory year program that includes instruction in English, math and science. Yezin has difficulty reading the articles he is given and is specially worried about the technical vocabulary.&nbsp;</strong></p>
+<p><strong id="internal-source-marker_0.06367512908764184">Yezin&rsquo;s English teacher suggests that he try using a social-network based glossary application on his phone. First, he scans the article he is reading with his learning set and saves it to text. Then he uses the application to identify several words and enters them into his personal glossary. He tags two words using pre-configured tags and creates his own tag for a third. Using concordance software he finds examples of these new words in the British National Corpus and compares these to his own text. He writes a provisional definition for the word and saves it to his learning space. <br /><br />Later, Yezin scans another text and finds his previously entered words highlighted in the new text. He remembers two of these but has forgotten what the third one meant. He finds it in his glossary, linked to the text where he tagged it. He looks there and remembers what it means. Yezin is impressed and tells other people in his learning set about the tool. He thinks that if he can get them to work with him, they will all benefit by sharing their personal glossaries.<br /><br />Using the application, Yezin and his friends have been able to turn an isolated and dull reading task into a social activity. The application not only helps them learn together, but it helps them learn more quickly by connecting prior knowledge to new tasks, and by connecting their individual expertise to that of the group. &nbsp;They also begin to discover shared areas of interest within their field of study and think they might like to collaborate on other levels too.</strong></p>]]></description>
+          <pubDate>Thu, 24 Jan 2013 09:51:23 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Personas</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7740</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7740</guid>
+              <description><![CDATA[<p><strong>Lauren</strong> is a disabled swimmer with cerebral palsy who has a national classification as competitive swimmer and would like to take some of the e-learning modules on such topics as nutrition and hydration and preparing for competition. The key issues for her are mobility, coordination and sight issues since childhood. In her case self-belief derives from supportive and encouraging parents and the specialist schools. An assessment got her a Macintosh computer and she uses a minidisk recorder and can sometimes claim a taxi to workshops when needed.<br /><br /><strong>George</strong> is a qualified ASA Level 2 teacher with some hearing impairment and wishes to take a Level 2 Coaching course to qualify to work with squad swimmers. &nbsp;He used a note taker for exams - all video clips would required a transcript. In an earlier risk appraisal between the club and pool operator a number of fire alarms required the addition of a flashing light and a policy of informing the duty manager when poolside was adopted so that staff - the lifeguard in particular, understood the aural signalling alone might not be adequate.<br /><br /><strong>Emma</strong> is a competitive squad athlete interested in working &lsquo;poolside&rsquo; as a teacher who is dyslexic - they know from a positive college experience that overlays, or her choices of font colours and backgrounds goes a long way to solve the problems. Her Line Manager, the Head Coach, is aware of the value of providing her with swimming schedules printed on coloured sheets of paper.</p>]]></description>
+          <pubDate>Wed, 23 Jan 2013 12:13:20 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Bronwyn Hegarty blog and learning journal </title>
+              <link>https://cloudworks.ac.uk/cloud/view/7401</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7401</guid>
+              <description><![CDATA[<p>All on my blog.</p>]]></description>
+          <pubDate>Tue, 15 Jan 2013 21:52:58 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Team up - Using OER to create curriculum for mobile era</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7394</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7394</guid>
+              <description><![CDATA[<p>Goal :</p>
+<p>Help educators using OER to create learning materials for mobile era by developing a solution or an eCourse</p>
+<p>Dream:</p>
+<p>OER + Learning Design + Self-publishing from educators + Mobile learning + Game elements (storytelling, playfulness)</p>
+<p>Experts in different areas speak their own languages, &nbsp;but best solutions often appear at the overlap of many areas. Have you thought of the best answer from an expert's view and a non-expert's view ? umm, in a dream? Maybe you don't want to join this team idea, but you are very welcome to throw in here any example or idea that comes into your mind. No limit.</p>
+<p>Interested in heterogeneous network, welcome in.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Tue, 15 Jan 2013 18:00:19 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Jonathan Vernon : A Virtual Companion for Swimming Coaches</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7256</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7256</guid>
+              <description><![CDATA[Poolside with 16 - 40 swimmers you need eyes in the back of your head to monitor each swimmer, keep tabs on a programme, monitor what is going on and take on board and apply a myriad of new techniques and approaches. A Google headset may be the answer - how would it then support the coach who needs to keep his or her eyes on the athletes? What lessons in this testing enivronment could be applied to applied learning for others 'in the field' on an oil rig, in a battle zone, a farm or civil engineering project?]]></description>
+          <pubDate>Sun, 13 Jan 2013 22:15:17 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Deborah Arnold: Dream 1: revamping online course / Dream 2: improving staff development programme</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7226</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7226</guid>
+              <description><![CDATA[<p><strong>Dream N&deg;1 : online course on social media for learning</strong></p>
+<p>I currently teach a 12-week totally online module on social media for teaching and learning, on the<a title="Description of AIGEME Master" href="http://www.univ-paris3.fr/master-2-aigeme-ifd-br-applications-informatiques-gestion-education-aux-medias-e-formation-br-i-parcours-ingenierie-de-la-formation-a-distance-i--26468.kjsp" target="_blank"> AIGEME Masters course</a> for Universit&eacute; Paris 3 Sorbonne-Nouvelle, with an international French-speaking intake of students. I co-teach this module with a great colleague based in Morocco. Until recently, the course was split in two parts, web 2.0 and analysis of educational media.</p>
+<p>This year we have revamped the course to improve the integration of the two parts and to get the students using a specific Twitter hashtag for the course combined with content curation via <a title="Scoop.it topic for AIGEME module on social media for learning" href="http://www.scoop.it/t/master-aigeme-web-2-0-et-usages-dynamiques" target="_blank">scoop.it</a>. This revamp was the result of a joint reflection between my colleague and myself, but I would now like to apply what we will be learning in the OLDSMOOC to validate and improve these design choices. I suppose what I'm really looking for is a solid framework and for exchanges with others involved in a similar process.</p>
+<p><strong>Dream N&deg;2: improve our staff development programme in teaching and learning innovation through the use of learning technology.</strong></p>
+<p>When I arrived at the University of Burgundy a year ago, there was a sound staff development programme already in place, but for the areas dealt with by my department, the focus was mainly on tools (Moodle, podcasts, webconferencing..). We are gradually shifting the focus to 'pedagogical use' and have developed a course we co-run with the pedagogical innovation department, in which the starting point is the pedagogical scenario (project-based learning, collaborative learning...), bringing in the technology as a way of supporting these approaches. The first session is to take place on January 31st, so we still have a bit of time to refine the design, and this is where I hope the OLDSMOOC will come in handy! It will also help us in the evaluation stage. So again, if anyone else is working on staff development programmes in the field of learning technology, then let's team up!</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Sun, 13 Jan 2013 16:48:27 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Larry Bonura: My dream: Have Smartphone, Will Write</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7045</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7045</guid>
+              <description><![CDATA[<h3>Why should I, a writer, own and use a smartphone?</h3>
+<p>The smartphone is becoming ubiquitous, with more than half of users now owning one,&nbsp; Author Nancy Hendrickson calls them the &ldquo;go anywhere machines.&rdquo;&nbsp; These 6-ounce computer powerhouses offer the writer incredible business functions in addition to mobility and the ability to work anywhere anytime, with nearly a fully functioning set of applications that can make your life as a writer easier, even if your writing continues to be difficult and challenging.</p>
+<p>I'd like to develop the design structure for a smartphone app that will not only help the professional writer learn what can be done on the device, but also allows them to actually accomplish those goals.&nbsp; It will be a unique app because its primary goal is to instruct writers on the value of the smartphone and what can be accomplished to maximize managing their writing business activities,  including actually writing on the device.</p>
+<p>A smartphone keeps your writing project as close as your shirt pocket in distance, and less than 15 seconds away in time.&nbsp; With your smartphone, you can write virtually anywhere&mdash;quickly and efficiently.&nbsp; If you can write it with a pen and paper, you can write it using a smartphone.</p>
+<h3>20 reasons why</h3>
+<p>Here are some reasons why a smartphone should be your best buddy when you write.&nbsp; Included are some software and hardware possibilities with web sites URLs as well as pictures illustration each of these options.&nbsp; In no particular order, here are my favorite 20 reasons to own and use a smartphone as a professional writer:</p>
+<ol>
+<li>
+<p>Writing and editing documents</p>
+</li>
+<li>
+<p>Taking notes and capturing ideas</p>
+</li>
+<li>
+<p>Organizing thoughts</p>
+</li>
+<li>
+<p>Managing writing projects</p>
+</li>
+<li>
+<p>Managing publishing contacts</p>
+</li>
+<li>
+<p>Recording your thoughts</p>
+</li>
+<li>
+<p>Releasing your creative artist side</p>
+</li>
+<li>
+<p>Entertaining yourself</p>
+</li>
+<li>
+<p>Delivering Information</p>
+</li>
+<li>
+<p>Sharing data easily</p>
+</li>
+<li>
+<p>Browsing the web</p>
+</li>
+<li>
+<p>Plotting your way with GPS</p>
+</li>
+<li>
+<p>Calendaring your writing life</p>
+</li>
+<li>
+<p>Getting email on the road</p>
+</li>
+<li>
+<p>Inputting through various means</p>
+</li>
+<li>
+<p>Putting reference material at hand</p>
+</li>
+<li>
+<p>Tracking your writing expenses as a business</p>
+</li>
+<li>
+<p>Keeping tour tasks at hand</p>
+</li>
+<li>
+<p>Carrying your data with you</p>
+</li>
+<li>
+<p>Browsing the library</p>
+</li>
+</ol>
+<p>Anyone with thoughts about this project?</p>]]></description>
+          <pubDate>Fri, 11 Jan 2013 18:27:44 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Larry B&#39;s Learning Journal Cloud</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6889</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6889</guid>
+              <description><![CDATA[<p>I am a technical trainer working in the oil and gas industry.</p>
+<p>I'm most interested in mobile learning and wish to create an app to help writers use smartphones in their daily worklife.</p>]]></description>
+          <pubDate>Thu, 10 Jan 2013 16:12:21 +0000</pubDate>
+            </item>
+                    <item>
+              <title>eLearning Community Event: eBooks and related technologies</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6566</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6566</guid>
+              <description><![CDATA[<div id="workspace_content">
+<h2><em>eBooks and related technologies</em></h2>
+<p><strong>Date:</strong> 13 November 2012</p>
+<div>
+<div id="workspace_content">
+<p><strong>Location: </strong>Library Seminar Rooms 1 and 2</p>
+<p><strong>PROGRAMME: - 10:00 - 12:30</strong></p>
+<p><strong>10:00 -</strong> <strong>Presenters: </strong>Nick Watson, Elizabeth Ellis and Andrew McDermott&nbsp;(LTS)</p>
+<p><strong>Title:</strong>&nbsp;Mobile learning: a whistlestop tour&nbsp;</p>
+<p><strong>Abstract:</strong> Mobile Learning gives the Open University an opportunity to offer our students the same world class learning traditionally available through books, DVDs, and the VLE via digital book formats.&nbsp; This session will offer an overview of the process and workflow carried out by the LTD-based project team to bring formal learning to students in this format, and how this forks into informal learning via courses in the iTunes U APP.</p>
+<p>Link to the course <a href="https://itunes.apple.com/gb/course/learning-about-itunes-u-course/id575138360"><strong>'Learning about itunes U Course Manager'</strong></a> which goes into detail about the app and how we generated content for it. &nbsp;It features video from the team and academics who developed the courses.</p>
+<p><strong>10:45 -</strong> <strong>Presenters:</strong> Mike Sharples and Simon Cross (IET);</p>
+<p><strong>Title:</strong> Student use of e-book readers and tablets</p>
+<p><strong>Abstract: </strong>We shall present the findings from a recent study of student use of e-book readers and tablets, comprising an international literature review, survey of OU taught postgraduate students, and interviews with early adopter students.</p>
+<p><strong><a href="http://kn.open.ac.uk/workspace.cfm?wpid=9673">e-Books in higher education: Findings from a literature survey</a></strong></p>
+<p><strong>11:30</strong> - Coffee</p>
+<p><strong>11:45</strong> - <strong>Presenters: </strong>Clive Sexton and Rob Parsons (ARTS R13)</p>
+<p><strong>Title:</strong> Learning from 'Foyle's War'</p>
+<p><strong>Abstract:</strong> A day-school event, built around the Hastings-based <em>Foyle&rsquo;s War,</em> focused on examining learning issues within AA100: a multidisciplinary level 1 Arts and Humanities module. The diverse skills and concepts encompassed potentially makes teaching them very challenging, and the module adopts a multidisciplinary mode where possible. Our aim was to examine if using iPads for content delivery was a suitable opportunity for mobile learning, thereby enhancing the student experience and deepening learning through use of provocative contexts.</p>
+<p><strong>12:30</strong> - Close of event<br /><br />A Podcast of the event will be held on the Stadium website and webpage - please see below:<br /><a href=" http://stadium.open.ac.uk/webcast-ou/ "><strong>Live streaming via&nbsp;Stadium</strong></a><strong>&nbsp;<br /></strong><a href="http://stadium.open.ac.uk/stadia/preview.php?whichevent=2079&s=31 "><strong>Stadium webpage</strong></a></p>
+</div>
+<hr />
+</div>
+</div>]]></description>
+          <pubDate>Thu, 15 Nov 2012 14:08:36 +0000</pubDate>
+            </item>
+                    <item>
+              <title>New FP7 IP Work-based Learning Project: Learning Layers</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6498</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6498</guid>
+              <description><![CDATA[<div>
+<p>BRILLE&rsquo;s Professor John Cook is part of a successful submission to the EC&rsquo;s FP7 for an Integrating Project (IP) called Learning Layers.&nbsp; The project looks at how informal learning in the workplace can be supported by new technologies like mobile phone and tablet apps. Together with 20 partners from across Europe the project scales up support for informal workplace learning in regional clusters of small and medium sized enterprises. We will trial these innovations in two sectors that have been particularly hesitant to take up learning technologies: health care in the North East of England and building and construction in North Germany. The challenge is one of how to embed support and learning in meaningful working practices and to redesign work environments to support learning. For example, when a problem is encountered at work or when you are given a task to achieve, our system will scaffold you and your group as you &lsquo;seek out a solution&rsquo; by putting you in contact with other people and relevant resources. One focus of the project is supporting workplace practices in SMEs that unlock peer production and hence scaffold learning in networks of SMEs. For example, we see learning materials being generated through the work process and then shared though networks of individuals and organisations as important. However, most importantly for BRILLE&rsquo;s contribution will be the scaffolding of interactions with networks people. In the course of this project we hope to reshape both workplace design and designs for learning in networks.</p>
+<p>Project Summary:</p>
+<ul>
+<li>Top ranked on 14.5 out of 15</li>
+<li>Scaling up Lifelong Learning using TEL (Technology Enhanced Learning) in large clusters of Small to Medium Enterprises in the Health Professions and building industry</li>
+<li>John Cook leads workpackage &lsquo;Networked Scaffolding &ndash; Interacting with People&rsquo;</li>
+<li>&pound;0.5 million for BRILLE/UWE</li>
+</ul>
+Kick-off November 2012
+<p style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+<p style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+</div>]]></description>
+          <pubDate>Thu, 27 Sep 2012 09:26:40 +0000</pubDate>
+            </item>
+                    <item>
+              <title>The Handheld Learning Project in 5 primary schools North East Lincolnshire</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6495</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6495</guid>
+              <description><![CDATA[<p>The Handheld Learning Project is being researched by staff from the University of Hull. This is a research and development project which seeks to explore how  handheld learning devices (in this case Apple's iPodtouch) might support  the transformation of pedagogical practices across a number of primary  schools in North East Lincolnshire. Five primary schools are involved in  phase I of the project where there are approximately 700 iPodtouch in  use across these schools. The project is being researched by teachers in  the school and education staff from the University of Hull, led by <a rel="nofollow" href="http://hull.academia.edu/KevinBurden/About" target="_blank">Kevin Burden</a>, the principal investigator.</p>]]></description>
+          <pubDate>Thu, 27 Sep 2012 07:59:40 +0000</pubDate>
+            </item>
+                    <item>
+              <title>MLCW12 - Workshop Documentation</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6485</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6485</guid>
+              <description><![CDATA[<p>Thank you everyone for local and remote participation in the Mobile Learning and Creativity Workshop which was held on September 19th 2012 at the EC-TEL Conference in Saarbruecken, Germany.</p>
+<p>In this cloud we compile all artifacts from the workshop. If there is anything that is missing, it would be great if you could let us know e.g. by commenting on this cloud.</p>
+<h3>Live Stream</h3>
+<p>Recordings of the live stream:&nbsp;<a href="http://www.ustream.tv/channel/mlcw12" target="_blank">http://www.ustream.tv/channel/mlcw12</a></p>
+<h3>Pecha kucha presentations</h3>
+<ol style="cursor:auto"><!--NO CSS-->
+<li style="cursor:auto"><!--NO CSS-->Alessandro Soriani&nbsp;and&nbsp;Luca Ferrari:&nbsp;<em>L4ALL: a repository to foster mobile learning design.</em></li>
+<li style="cursor:auto"><!--NO CSS-->Thomas Cochrane, Helen Keegan, Averill Gordon, Ilona Buchem and Mar Camacho:&nbsp;<em><a href="https://plus.google.com/photos/104071444159890894025/albums/5784267350399332721/5784268009377403682?banner=pwa" target="_blank">Global Mobile Social Media Reporters.&nbsp;</a></em></li>
+<li style="cursor:auto"><!--NO CSS-->Isa Jahnke:&nbsp;<em><a href="http://www.slideshare.net/isaja/presmlcw2012ectel2012isajahnkev1" target="_blank">Preparing Didactical Designs for Learning to be Creative Using iPads.</a></em></li>
+<li style="cursor:auto"><!--NO CSS-->Jennifer Masters:&nbsp;<em>Teaching and Learning Strategies for Novice Users of Mobile Technologies</em></li>
+<li style="cursor:auto"><!--NO CSS-->Ursula Wolz:&nbsp;<em>Learning to Program Mobile Apps via a Mobile Game.</em></li>
+<li style="cursor:auto"><!--NO CSS-->Thomas Herrmann and Alexander Nolte:&nbsp;<em>Mobile devices &ndash; a medium to participate in collaborative creativity and learning.</em></li>
+<li style="cursor:auto"><!--NO CSS-->Ilona Buchem:&nbsp;<em><a href="http://www.slideshare.net/ibuchem/designing-serendipitous-learning-spaces-to-foster-creativity" target="_blank">Designing serendipitous learning spaces to foster creativity in mobile learning.</a></em></li>
+<li style="cursor:auto"><!--NO CSS-->Mikhail Fominykh, Terje Valjataga, Venla Vallivaara and Monica Divitini:&nbsp;<em><a href="http://www.slideshare.net/mfominykh/creative-collaboration-on-a-media-handbook-for-educators-design-of-a-joint-european-course-14342505" target="_blank">Creative Collaboration on a Media Handbook for Educators: Design of a Joint European Course.</a></em></li>
+<li style="cursor:auto"><!--NO CSS-->Holger Muegge, Sabine Polko and Danilo Dietsch:&nbsp;<em>Creativity Elicitation on Authoring Location-Based Games.</em></li>
+<li style="cursor:auto"><!--NO CSS-->Sobah Abbas Petersen, Emma Procter-Legg, Annamaria Cacchione, Mikhail Fominykh and Monica Divitini:&nbsp;<em>Creativity and Mobile Language Learning</em></li>
+<li style="cursor:auto"><!--NO CSS-->Carl Smith:<em>&nbsp;</em><a href="http://www.slideshare.net/behindthebeats/ectel-2012-carlsmithltriv3" target="_blank">Enabling Creative Context Engineering within Augmented Spaces.</a></li>
+</ol>
+<h3>Pictures</h3>
+<p><a href="http://www.flickr.com/groups/2065961@N24/" target="_blank">http://www.flickr.com/groups/2065961@N24/</a></p>
+<h3>Mind maps and story boards</h3>
+<p>see below</p>
+<h3>Call for Special Issue</h3>
+<p>Deadline for extended abstracts : 30th September 2012</p>
+<p><a style="color: #00822b;" href="http://www.igi-global.com/calls-for-papers-special/international-journal-mobile-blended-learning/1115" target="_blank">Special Issue of the International Journal of Mobile and Blended Learning (IJMBL) - Special Issue On: Mobile Learning and Creativity: Current Concepts and Studies</a></p>]]></description>
+          <pubDate>Thu, 20 Sep 2012 09:34:01 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Supporting learners in mobile discovery of library resources</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6366</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6366</guid>
+              <description><![CDATA[<p>The Macon project (Mobilising Academic Content Online) aims to address the challenges involved in delivering quality academic content to mobile phones and small tablets in a seamless and user-friendly manner.&nbsp; The project is working with EBSCO, a major content and systems provider, to prototype a mobile optimised resource discovery interface which can be used to discover and expose quality academic content from both third party &amp; local collections.&nbsp; Local collections included the Open University&rsquo;s Open Research Online (ORO) repository and audiovisual content from podcast.open.ac.uk.&nbsp; The project uses a combination of the API from EBSCO Discovery Solution (EDS) and open source software (Mobile Web from MIT and the Open University&rsquo;s Open Media Player).</p>
+<p>The development of the interface has been heavily influenced by user requirements and by external recommendations for good practice in mobile usability.&nbsp; The prototype systems are being evaluated to ascertain the usability and quality of the user experience.</p>
+<p>The project will also produce a &lsquo;good practice&rsquo; toolkit for content providers which documents the rewards, risks and barriers involved in making academic content accessible to mobile devices.&nbsp;&nbsp; This presentation will discuss the methods used by the library for gathering user requirements and ensuring that our support offerings meet learner needs. It will also share the lessons learnt in the process.</p>]]></description>
+          <pubDate>Tue, 19 Jun 2012 09:44:54 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Mobile Learning and Creativity Workshop: Call for Papers and Submissions</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6210</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6210</guid>
+              <description><![CDATA[<h2>Organisers</h2>
+<ul>
+<li>Prof. Dr. Ilona Buchem (Germany)</li>
+<li>Prof. Dr. Isa Jahnke (Sweden)</li>
+<li>Carl Smith (UK)</li>
+</ul>
+<h2>About</h2>
+<p><strong>Mobile Learning and Creativity Workshop (MLCW12)</strong> is a full-day workshop devoted to sharing and designing innovative  approaches and solutions aimed fostering creative learning with mobile technologies such as Tablet PCs, smartphones or other devices. The workshop will take place on Wednesday, <strong>19th September 2012</strong> as part of the <strong>EC-TEL Conference 2012</strong>.</p>
+<p>The workshop is looking for ideas, concepts and application related to the following question: <strong>How to design &ldquo;learning to be creative&rdquo; when the answer to the problem is not  known?</strong> (Gerhard Fischer, 2011).</p>
+<p>We invite students, educators, instructional  designers, teachers, researchers, practitioners and developers to share and create  innovative, creative mobile learning scenarios and applications  utilizing multiple perspectives and collective intelligence of the  participants.</p>
+<p>The workshop is composed of the morning event during which  innovative ideas to fostering creative mobile learning will be  presented in the <a href="http://en.wikipedia.org/wiki/Pecha_Kucha" target="_blank">Pecha Kucha</a> format to ignite creative thinking and  inspire the collaborative development of future mobile learning  scenarios and applications during the afternoon session. This format  aims at encouraging joint design of creative mobile learning while  utilizing a mix of different creativity techniques and mobile media.  Based on the underpinnings of design-based research, we start with an  open concept of connective, social creativity with the aim to design  mobile learning environments and applications of tomorrow. The workshop  will be recorded and live streamed with the <a href="http://www.panopto.com/" target="_blank">Panopto software</a>. For more information about the format of the workshop please see the section at the bottom of the page.</p>
+<p><strong>MLCW12 QUICK LINKS:</strong></p>
+<ul>
+<li>EC-TEL 2012 <a href="http://ectel2012.celtech.de/program/workshops-and-tutorials#mlcw" target="_blank">Workshop programme</a></li>
+<li>Discussions related to the MLCW12 workshop: <a href="https://www.facebook.com/groups/439136609431549/441037822574761" target="_blank">MLCW12 Facebook group</a></li>
+<li>News about the MLCW12 workshop: <a href="https://twitter.com/#!/search/#mlcw12" target="_blank">#MCLW12 Twitter</a> stream</li>
+<li>LinkedIn&nbsp; <a href="http://linkd.in/J4uny4" target="_blank">#MLCW12 event</a> you can share with your community</li>
+</ul>
+<h2>Submissions</h2>
+<p>We invite different types of contributions ranging from work in progress, demonstrations and results from research and practice, academia and commerce. Authors are invited to submit original unpublished research as <strong>extended abstracts (max. 4 pages) by August 20th, 2012</strong> via the EasyChair conference system.</p>
+<p>Extended abstracts should include:&nbsp;</p>
+<ul>
+<li> theoretical perspective and definition of the <strong>creativity concept</strong>, e.g. collaborative creativity, social creativity, including the description of your understanding of <strong>creative learning</strong>,</li>
+<li>theoretical underpinnings of<strong> learning</strong>, including <strong>definition and </strong><strong>context of learning</strong> (e.g. higher education, schools, workplace learning, informal learning), on which you build your contribution,</li>
+<li>the discussion about the <strong>role of the mobile technologies</strong> in supporting creative learning,</li>
+<li><strong>research methods and empirical research results,</strong> if applicable.</li>
+</ul>
+<p>Here are the submission details:</p>
+<ul>
+<li><strong>URL</strong><a href="https://www.easychair.org/conferences/?conf=mlcw12" target="_blank">: MLCW12 submission page in EasyChair</a></li>
+<li><strong>Format</strong>: extended abstract (max. 4 pages)</li>
+<li><strong>Template</strong>: Please use the template of ECTEL2012 <a title="http://ec-tel.eu/  " href="http://ec-tel.eu/">http://ec-tel.eu/</a> / Springer template: <a href="http://www.springer.com/computer/lncs?SGWID=0-164-7-72376-0">http://www.springer.com/computer/lncs?SGWID=0-164-7-72376-0</a></li>
+<li><strong>Review process: </strong>Papers will be reviewed through a non-blind review process.</li>
+<li><strong>Submission deadline</strong>: Monday, August 20th, 2012</li>
+</ul>
+<p>Extended  abstracts should include description of the creativity    concept, a definition of creativity and mobile learning, presented work    and empirical research results (if available). Since the  approach is    interdisciplinary, the workshop seeks to attract different     participants, including students, school and university teachers,     instructional designers, researchers, practitioners and developers.</p>
+<p>Authors of accepted abstracts will be able to submit <strong>short (max. 6 pages)</strong> and <strong>full papers (max. 14 pages)</strong>. Papers reviewed and selected by the Programme Committee will be published in the Special Issue of <a href="http://www.igi-global.com/journal/international-journal-mobile-blended-learning/1115" target="_blank"><strong>the International Journal of Mobile and Blended Learning</strong></a> under the patronage of <a href="http://www.londonmobilelearning.net" target="_blank"><strong>the London Mobile Learning Group</strong></a>.</p>
+<p>There is also a separate Call for Papers for the Special Issue of the International Journal of Mobile and Blended Learning-. For more information please visit:</p>
+<p><a href="http://www.igi-global.com/calls-for-papers-special/international-journal-mobile-blended-learning/1115">http://www.igi-global.com/calls-for-papers-special/international-journal-mobile-blended-learning/1115</a></p>
+<p><img alt="" /></p>
+<h2>Topics</h2>
+<p>There is an urgent need to rethink current design approaches to mobile learning with regard to creativity. With emerging jobs and requiring solutions that do not even exist yet, the key challenge is <em>how to design &ldquo;learning to be creative&rdquo; when the answer to the problem is not yet known?</em> The topics of interest include:</p>
+<ul>
+<li>Theories, pedagogies and models for creative learning and enhancing creative skills</li>
+<li>Learning design approaches to enhancing creative learning including design patterns </li>
+<li>Media-/didactical designs enhanced by mobile devices</li>
+<li>Development methodologies for creative mobile learning </li>
+<li>Innovative mobile applications and tools for fostering creative learning </li>
+<li>Innovative mobile user interfaces for creativity including concepts and products</li>
+<li>User stories, case studies and evaluations of creative mobile learning </li>
+<li>Future visions for creative mobile learning including frameworks and methodologies </li>
+</ul>
+<h2>Workshop location</h2>
+<p>The workshop takes place at EC-TEL2012, European Conference for Technology-Enhanced Learning 2012, conference website <a href="http://ec-tel.eu/">http://ec-tel.eu/</a> ,&nbsp; Saarbr&uuml;cken/Germany.</p>
+<ul>
+<li>Date: 19 September 2012 (09:00-15:00 CEST)</li>
+<li>Venue: Saarbr&uuml;cken/Germany</li>
+<li>More information about the venue: <a href="http://ec-tel.eu/places" target="_blank">http://ec-tel.eu/places</a></li>
+</ul>
+<h2>Workshop participation</h2>
+<p>You will be able to participate in the Mobile Learning and Creativity Workshop #MLCW12 as part of the EC-TEL Conference 2012. For more information about the registration process please go to the EC-TEL Conference 2012 website: <a href="http://ec-tel.eu/" target="_blank">http://ec-tel.eu/</a></p>
+<p>Selected parts of the event will be also livestreamed and the link will be announced shortly before the conference.</p>
+<h2>Programme Committee</h2>
+<ul>
+<li>Ilona Buchem (Beuth University of Applied Science, Germany) </li>
+<li>John Cook (London Metropolitan University, London Mobile Learning Group, UK)</li>
+<li>Sean Goggins, (iSchool, Drexel University, USA)</li>
+<li>Geza Fischl (Institute of Design, Ume&aring; University, Sweden)</li>
+<li>Isa Jahnke (Ume&aring; University, Sweden)</li>
+<li>Piet Kommers (University of Twente, Learning and Media Department, Netherlands)</li>
+<li>Jennifer Masters (LaTrobe University, ICT in Education, Australia)</li>
+<li>Norbert Pachler (University of London, London Mobile Learning Group, UK)</li>
+<li>Wolfgang Reinhard (University of Paderborn, Germany)</li>
+<li>Barbara Wasson (Bergen University, Pedagogical Information Science, Norway)</li>
+<li>Martin Wolpers (Fraunhofer FIT, Germany)</li>
+</ul>
+<h2>Workshop organisers</h2>
+<p><strong>Ilona Buchem, Isa Jahnke &amp; Carl Smith </strong></p>
+<p><strong>Ilona Buchem (Germany)<br /> </strong>Beuth University of Applied Sciences Berlin<br /> Department I Economics and Social Sciences<br /> Digital Media Studies (DMS)<br /> <a href="mailto:buchem@beuth-hochschule.de">buchem@beuth-hochschule.de</a><br /> <a href="http://ibuchem.wordpress.com/" target="_blank">http://ibuchem.wordpress.com</a></p>
+<p><strong>Isa Jahnke</strong> (Sweden)<br /> Ume&aring; University<br /> Department of Applied Educational Science<br /> Interactive Media and Learning (IML)<a href="mailto:isa.jahnke@edusci.umu.se"><br /> isa.jahnke@edusci.umu.se</a><br /> <a href="http://isajahnke.webnode.com/">http://isajahnke.webnode.com</a>&nbsp;</p>
+<p><strong>Carl Smith</strong>&nbsp; (UK)<br /> London Metropolitan University<br /> Learning Technology Research Institute (LTRI)<br /><a href="mailto:carl.smith@londonmet.ac.uk"> carl.smith@londonmet.ac.uk</a></p>
+<h2>Workshop format (09:00 - 15:00 CEST)</h2>
+<p>The aim of this workshop is to share current research and practice and to initiate a joint design of '<strong>creative mobile learning scenarios</strong>, sociotechnical-didactical designs or applications.</p>
+<p>The workshop is composed of the <em>morning inspiration event</em> during which innovative ideas to fostering creative mobile learning will  be presented in the Pecha Kucha format to ignite creative thinking and  inspire the collaborative development during the afternoon session. The  Pecha Kucha event is based on a simple idea: each presenter presents 20  slides - 20 seconds each (approx. 6' 40" in total). It is a creative  presentation format that enhances sharing of multiple ideas and gives  more presenters the chance to share their research.</p>
+<p>During the <em>afternoon creative design session</em>, the joint  creative design of creative mobile learning will be supported by  workshop organisers utilizing a mix of different creativity techniques  in combination with mobile media. The inputs from the Pecha Kutcha  session will be used to inspire work in small groups aiming at designing  creative mobile learning. Group work will include brainstorming and  storyboarding as creativity techniques, which will be supported by  mobile media, i.e. (a) the Socrative app for mobile generation of  creative ideas based on the spring-boarding technique, (b) MindMeister  for collaborative, mobile mind mapping, and (c) Evernote for documenting  collaborative story boarding with white boards. Participants of the  workshop should bring their laptops and smart phones to be able to  participate in interactive workshop activities. The workshop takes place  on Wednesday, 19<sup>th</sup> September, 2012 from 09:00 am till 15:00  (6 hrs in total including 1 hr lunch break). The organization of the  workshop is summarized in the table below:</p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="69" valign="top">
+<p><strong>Time</strong></p>
+</td>
+<td width="107" valign="top">
+<p><strong>Topics</strong></p>
+</td>
+<td width="88" valign="top">
+<p><strong>Methods</strong></p>
+</td>
+<td width="88" valign="top">
+<p><strong>Tools</strong></p>
+</td>
+</tr>
+<tr>
+<td width="69" valign="top">
+<p>09:00-09:30 (30   mins)</p>
+</td>
+<td width="107" valign="top">
+<p>Welcome and   introduction of the workshop and participants</p>
+</td>
+<td width="88" valign="top">
+<p>Surprise Egg</p>
+</td>
+<td width="88" valign="top">
+<p>Surprise chocolate   eggs</p>
+</td>
+</tr>
+<tr>
+<td width="69" valign="top">
+<p>9:30-11:00</p>
+<p>(90 mins.)</p>
+</td>
+<td width="107" valign="top">
+<p><strong>Pecha Kutcha Event </strong></p>
+</td>
+<td width="88" valign="top">
+<p>Pecha Kucha presentations   and spring-boarding</p>
+</td>
+<td width="88" valign="top">
+<p>Panopto for Pecha   Kutcha live streaming and recording, Socrative for ideas generation</p>
+</td>
+</tr>
+<tr>
+<td width="69" valign="top">
+<p><em>15 mins</em></p>
+</td>
+<td colspan="3" width="284" valign="top">
+<p align="center"><em>Coffee break</em></p>
+</td>
+</tr>
+<tr>
+<td width="69" valign="top">
+<p>11:15-12:15</p>
+<p>(60 mins.)</p>
+</td>
+<td width="107" valign="top">
+<p><strong>Power Mind Mapping</strong></p>
+</td>
+<td width="88" valign="top">
+<p>Mind mapping in   small groups</p>
+</td>
+<td width="88" valign="top">
+<p>MindMeister app</p>
+</td>
+</tr>
+<tr>
+<td width="69" valign="top">
+<p>12:15-13:15</p>
+<p><em>(60 mins)</em></p>
+</td>
+<td colspan="3" width="284" valign="top">
+<p align="center"><em>Lunch break</em></p>
+</td>
+</tr>
+<tr>
+<td width="69" valign="top">
+<p>13:15-14:30</p>
+<p>(75 mins.)</p>
+</td>
+<td width="107" valign="top">
+<p><strong>Story Boarding</strong></p>
+</td>
+<td width="88" valign="top">
+<p>Story boarding in   small groups</p>
+</td>
+<td width="88" valign="top">
+<p>White boards and digital   documentation with Evernote</p>
+</td>
+</tr>
+<tr>
+<td width="69" valign="top">
+<p>14:30-15:00</p>
+<p>(30 mins.)</p>
+</td>
+<td width="107" valign="top">
+<p><strong>Group Presentations </strong></p>
+</td>
+<td width="88" valign="top">
+<p>Short   presentations based on Evernote</p>
+</td>
+<td width="88" valign="top">
+<p>Panopto</p>
+<p>(live streaming   &amp; recording)</p>
+</td>
+</tr>
+<tr>
+<td width="69" valign="top">
+<p>10 mins</p>
+</td>
+<td width="107" valign="top">
+<p>Summary and   outlook</p>
+</td>
+<td width="88" valign="top">
+<p>Weather forecast</p>
+</td>
+<td width="88" valign="top">
+<p>Postcards</p>
+</td>
+</tr>
+</tbody>
+</table>]]></description>
+          <pubDate>Mon, 14 May 2012 12:40:58 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Regional AL Conference 2 April 2011 - Mobile learning workshop</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5263</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5263</guid>
+              <description><![CDATA[Moving Mobile Learning into the Mainstream:
+
+
+The use of mobile devices such as mobile phones, mp3 players, ebook readers and games consoles has become commonplace, and in many cases they are used to support and enhance learning. What are the implications of these developments for student learning and learning support? 
+
+
+Associate Lecturers need to become better informed about mobile learning, to have opportunities to raise issues or concerns, and to help shape the future of mobile learning at The Open University. ]]></description>
+          <pubDate>Sat, 02 Apr 2011 08:54:03 +0000</pubDate>
+            </item>
+                    <item>
+              <title>John Cook: Educational Design Research Investigation of the Temporal Nature of Learning: Taking a Vygotskian Approach</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5194</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5194</guid>
+              <description><![CDATA[<p align="left">The nature of learning is being augmented by new digital tools, particularly by mobile devices and the networks and structures to which they connect people. In this paper I examine: (i) the powerful perspectives on learning and development put forward by Vygotsky, (ii) an evolutionary educational design research approach, and (iii) notions surrounding the temporal nature of learning. Specifically, this paper presentation will focus on exploring my research from the present, in order to propose some preliminary thoughts on the nature of what I am calling Augmented Contexts for Development (Cook, 2010a; Cook 2010b); an extension of Vygotsky&rsquo;s Zone of Proximal Development (Vygotsky, 1978 / 1930) that takes into account the characteristics of 21st Century mass media structures, agency and practices.</p>
+<p align="left"><strong>References</strong></p>
+<p align="left">Cook, J. (2002). The Role of Dialogue in Computer-Based Learning and Observing Learning: An Evolutionary Approach to Theory. Journal of Interactive Media in Education, 5. Available from <a href="http://cloudworks.ac.uk/www-jime.open.ac.uk/2002/5">www-jime.open.ac.uk/2002/5</a></p>
+<p align="left">Cook, J. (2010a). Longitudinal, Educational Design Research Investigation of the Temporal Nature of Learning: Taking a Vygotskian Approach. <em>Journal of Interactive Media in Education. </em>Available from <a href="http://jime.open.ac.uk/2010/11">http://jime.open.ac.uk/2010/11</a></p>
+<p align="left">Cook, J. (2010b). Mobile Phones as Mediating Tools Within Augmented Contexts for Development. <em>International Journal of Mobile and Blended Learning,</em> 2(3), 1-12. (see <a href="http://bit.ly/czg9k6">http://bit.ly/czg9k6</a>&nbsp; or email for pre-print).</p>
+<p align="left">Plomp, T. (2009). Educational Design Research: An Introduction. In Tjeerd Plomp &amp; Nienke Nieveen (Eds.), An Introduction to Educational Design Research. Enschede: The Netherlands: SLO Netherlands Institute for Curriculum Development.</p>
+<p align="left">Vygotsky, L. (1978 / 1930). <em>Mind in society. The development of higher psychological processes. </em>Edited by M. Cole et al., Cambridge, MA: Harvard University Press.</p>
+<p align="left">&nbsp;</p>
+<p align="left">Slides at <a href="http://slidesha.re/g9jJ5z">http://slidesha.re/g9jJ5z</a></p>
+<p align="left">&nbsp;</p>
+<p align="left">Link back main conference Cloud <a href="http://cloudworks.ac.uk/cloudscape/view/2212">http://cloudworks.ac.uk/cloudscape/view/2212</a></p>]]></description>
+          <pubDate>Mon, 21 Mar 2011 09:28:31 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Theory of mobile learning</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5181</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5181</guid>
+              <description><![CDATA[<div style="cursor:auto"><!--NO CSS-->
+<p>This cloud represents the strand on theory of mobile learning. The abstracts of the presentations will be added as additional content to this cloud.&nbsp;</p>
+<p>Please use this cloud to add your comments on the presentations and to continue the debate afterwards.&nbsp;</p>
+</div>]]></description>
+          <pubDate>Sat, 19 Mar 2011 13:07:13 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Mobile Learning in the field of health care</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5180</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5180</guid>
+              <description><![CDATA[<p>This cloud represents the strand on health care and mobile learning. The abstracts of the presentations will be added as additional content to this cloud.&nbsp;</p>
+<p>Please use this cloud to add your comments on the presentations and to continue the debate afterwards.&nbsp;</p>]]></description>
+          <pubDate>Sat, 19 Mar 2011 13:05:11 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Vygotski &amp; Learning</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5179</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5179</guid>
+              <description><![CDATA[<div style="cursor:auto"><!--NO CSS-->
+<div style="cursor:auto"><!--NO CSS-->
+<p style="cursor:auto"><!--NO CSS-->This cloud represents the strand on Vygotski and learning. The abstracts of the presentations will be added as additional content to this cloud.&nbsp;</p>
+<p style="cursor:auto"><!--NO CSS-->Please use this cloud to add your comments on the presentations and to continue the debate afterwards.&nbsp;</p>
+</div>
+</div>]]></description>
+          <pubDate>Sat, 19 Mar 2011 13:01:20 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Apps: Anatomy app for medical students on the move</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5155</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5155</guid>
+              <description><![CDATA[<p>Warwick Medical School has produced an app, '<a title="http://www2.warwick.ac.uk/newsandevents/pressreleases/anatomy_app" href="http://www2.warwick.ac.uk/newsandevents/pressreleases/anatomy_app">Aspects  of Anatomy</a>', comprising 38 short teaching videos using real, plastinated  prosections of the lungs, thorax and the arm, from shoulder to  hand:</p>
+<p>&lsquo;You can watch  how the professor teaches and demonstrates the function of nerves, tiny  twig-like bronchioles or heart valves which very effectively bring medical  theory to life. Students can even check progress on their learning by completing  the short spot check tests also part of the app...</p>
+<p>&lsquo;&ldquo;It&rsquo;s a way of  refreshing your knowledge &ndash; something that&rsquo;s absolutely vital in the medical  profession and perfect for busy GPs or practice  nurses.&rdquo;&rsquo;</p>]]></description>
+          <pubDate>Wed, 16 Mar 2011 12:53:19 +0000</pubDate>
+            </item>
+                    <item>
+              <title>TCM Feedback: Mobile Connections: Joining up OU provision for Mobile Learners </title>
+              <link>https://cloudworks.ac.uk/cloud/view/5114</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5114</guid>
+              <description><![CDATA[<p><strong>Abstract:&nbsp;</strong>As a result of the work done by the Roadmap Acceleration Programme (RAP), mobile-optimised learning systems have been enhanced for our students who are learning on-the-move or away from a typical study environment. In particular, the Mobile VLE delivered through Moodle has extended the work initiated in the previous beta version on v1.9.x of Moodle (or OU VLE1) to include new improved layout and navigation for students not only to read and catch up with their studies, but also contribute back to their peers on OU VLE2 (Moodle v2.x).&nbsp;</p>
+<p>The Mobile VLE can be seen as a student entitlement, that is available to all with little input initially required by curriculum teams. In order to maximise the potential of these and other mobile tools, this session will offer an opportunity to discuss what could be customised further through resources and activities, what usage there has been and also how best to coordinate activities for the future.&nbsp;</p>
+<p>For more information, you can access the Mobile VLE updates at: <a title="http://www.open.ac.uk/blogs/mLearn/?cat=19" href="http://www.open.ac.uk/blogs/mLearn/?cat=19">http://www.open.ac.uk/blogs/mLearn/?cat=19</a> , RAP strands and projects <a title="http://intranet.open.ac.uk/learning-systems" href="http://intranet.open.ac.uk/learning-systems">http://intranet.open.ac.uk/learning-systems</a> and also coordination activities supported by: <a title="http://www.open.ac.uk/mobisite" href="http://www.open.ac.uk/mobisite">http://www.open.ac.uk/mobisite</a>&nbsp;</p>
+<p><strong>Presenter: </strong>Rhodri Thomas (LTQ, LIO)</p>
+<p><strong>Date: </strong>16 November 2011</p>
+<p><strong>Location: </strong>Jennie Lee Building Meeting Room 1&nbsp;Ground Floor</p>
+<p><strong>Link to TCM 2011 Schedule:</strong> <a href="http://cloudworks.ac.uk/cloudscape/view/2107">http://cloudworks.ac.uk/cloudscape/view/2107</a></p>
+<p><a rel="nofollow" href="http://www.youtube.com/user/ietou"><strong>"TCM YouTube Podcasts"</strong></a></p>]]></description>
+          <pubDate>Wed, 23 Nov 2011 15:17:23 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Judith Seipold: A critical perspective on mobile learning</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5056</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5056</guid>
+              <description><![CDATA[<p align="left">Paper to be presented at MLCB conference Bremen, March 21st, 2011.</p>
+<p align="left">Short abstract:</p>
+<p align="left">Educational and pedagogic research on mobile learning is about ten years old. Over this time the scientific process can be split into three phases, which reach from (1) research on practice via (2) the application of existing learning theories to (3) the generation of new theoretical and conceptual frameworks for mobile learning. With a view to the different lines of development within these phases it becomes evident that there are e.g. attempts not only to understand what mobile learning is, but also to demand changes in the educational system. The latter refers not least to a process of democratisation of learners and learning that is about to take place.</p>
+<p align="left">Focussing on mobile learning practice, ambiguities and contradictions in the use of mobile devices in learning contexts appear. They stand in contrast to what research on mobile learning suggests, e.g. ad-hoc use of mobile devices, collaborative learning, the crossing of conceptual and local contexts etc. On the other hand, practice also suggests the power of learners being able to create new learning spaces and concepts as well as implementing multimedia and multiple modes into school learning that replace the written text as dominant mode for learning.</p>
+<p align="left">The paper will outline the scientific processes of the mobile learning field with a focus on the educational and pedagogic developments in mobile learning taking place in the UK and in Germany. The results deriving from this heuristic and hermeneutic analysis will be reflected critically in order to reveal &lsquo;pseudo&rsquo; changes and &lsquo;success stories&rsquo; in the use of mobile devices for learning, as well as the potential of such a discussion.</p>]]></description>
+          <pubDate>Sat, 26 Feb 2011 20:58:16 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Mobile Learning Winter Festival 2011</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4967</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4967</guid>
+              <description><![CDATA[<p>Hello everybody,</p>
+<p>The Open University's (OU) Institute of Educational Technology (IET)&nbsp;is holding it's first ever 'Mobile Learning Winter Festival'&nbsp; <strong>for OU staff</strong> on 18th and 19th January 2011. You are all most&nbsp;welcome to attend or/and to discuss the various activities taking place using this online discussion space.</p>
+<p>See below for the two day festival programme of mobile learning activities.</p>
+<table border="0" cellspacing="0" cellpadding="0" width="614">
+<tbody>
+<tr>
+<td colspan="2" valign="top">
+<p align="center"><strong>Mobile Learning Winter Festival </strong><br /> Date: 18<sup>th</sup> &ndash; 19<sup>th</sup> January 2011<br /> Time: 10am &ndash; 3pm<br /> Venue: Jennie Lee Building Ground Floor<strong></strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<p align="center"><strong>Programme</strong><strong> for both Day 1 &amp; Day 2</strong><br /> &nbsp;Drop in anytime &ndash; please register on arrival!&nbsp;<br /> Doors open at 10am<br /> Refreshments available<br /> 11 am Welcome address by Prof Agnes Kukulska-Hulme, IET&nbsp;<strong></strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<p align="center"><strong>Theme 1: Mobile technologies in teaching &amp; learning</strong></p>
+</td>
+</tr>
+<tr>
+<td width="389" align="center" valign="top"><strong>Key information for module teams</strong></td>
+<td width="225" align="center" valign="top"><strong>Champion </strong></td>
+</tr>
+<tr>
+<td width="389" valign="top"><a href="http://www.open.ac.uk/blogs/mLearn/?cat=19" target="_blank">Mobile VLE</a></td>
+<td width="225" valign="top">Stuart Nixon &amp; Anthony Forth</td>
+</tr>
+<tr>
+<td width="389" valign="top">OU Library&rsquo;s mobile services</td>
+<td width="225" valign="top">Keren Mills &amp; Hassan Sheikh</td>
+</tr>
+<tr>
+<td width="389" valign="top">E-books on mobile devices</td>
+<td width="225" valign="top">Liz Mallett &amp; Pete Mitton</td>
+</tr>
+<tr>
+<td width="389" valign="top">M-Assessment (IOA project) and Mobile Language Learning on L120</td>
+<td width="225" valign="top">Valerie Demouy</td>
+</tr>
+<tr>
+<td width="389" valign="top">Residential school experiences (L204)</td>
+<td width="225" valign="top">Anna Comas Quinn, Raquel Mardomingo and Chris Valentine</td>
+</tr>
+<tr>
+<td width="389" valign="top">Podcasting + Learning and Teaching Solutions</td>
+<td width="225" valign="top">Pete Mitton &amp; Rafael Hidalgo</td>
+</tr>
+<tr>
+<td width="389" valign="top"><a href="http://projects.kmi.open.ac.uk/itunesu/" target="_blank">iTunesU</a></td>
+<td width="225" valign="top">Catherine Chambers &amp; LTS Corporate team</td>
+</tr>
+<tr>
+<td colspan="2" width="614" valign="top"><strong>Mobile pedagogies </strong></td>
+</tr>
+<tr>
+<td width="389" valign="top"><a href="http://www.ispot.org.uk/" target="_blank">iSpot</a> / Crowdsourcing</td>
+<td width="225" valign="top">Jon Rosewell</td>
+</tr>
+<tr>
+<td width="389" valign="top">Using mobile devices to support inquiry learning</td>
+<td width="225" valign="top">Canan Blake</td>
+</tr>
+<tr>
+<td width="389" valign="top">Mobile knowledge sharing (tumblr)</td>
+<td width="225" valign="top">Daisy Mwanza-Simwami</td>
+</tr>
+<tr>
+<td width="389" valign="top">Work-based mobile learning</td>
+<td width="225" valign="top">Canan Blake</td>
+</tr>
+<tr>
+<td width="389" valign="top">Geo-caching for learning</td>
+<td width="225" valign="top">Gill Clough</td>
+</tr>
+<tr>
+<td width="389" valign="top"><a href="http://www.eiabd.com/eia/" target="_blank">English in Action (EIA) project</a></td>
+<td width="225" valign="top">Clare Woodward</td>
+</tr>
+<tr>
+<td width="389" valign="top">Mobile Language Learning (<a href="http://projects.kmi.open.ac.uk/mobiles/apps/chinesechars/" target="_blank">OU Chinese iPhone app for L197</a>)</td>
+<td width="225" valign="top">Qian Khan &amp; KMi Mobile Innovations Group<br /></td>
+</tr>
+<tr>
+<td width="389" valign="top">Use of SMS (nursing and healthcare education)</td>
+<td width="225" valign="top">Sheila Counihan</td>
+</tr>
+<tr>
+<td colspan="2" width="614" valign="top"><strong>Accessibility</strong></td>
+</tr>
+<tr>
+<td width="389" valign="top">Accessibility for the iPad</td>
+<td width="225" valign="top">Chetz Colwell</td>
+</tr>
+<tr>
+<td width="389" valign="top">Mobile OTIH (<a href="http://www.open.ac.uk/blogs/otih/?page_id=2" target="_blank">Out There In Here</a>) project</td>
+<td width="225" valign="top">Tim Coughlan&nbsp; &amp; Trevor Collins</td>
+</tr>
+<tr>
+<td colspan="2" width="614" valign="top"><strong>Looking to the future</strong></td>
+</tr>
+<tr>
+<td width="389" valign="top">Mobile &amp; Location-aware technologies (Oxford mobile experience)</td>
+<td width="225" valign="top">Andrew Brasher</td>
+</tr>
+<tr>
+<td colspan="2" width="614" valign="top">
+<p align="center"><strong>Theme 2: Mobile learning for fun</strong></p>
+</td>
+</tr>
+<tr>
+<td width="389" align="center" valign="top"><strong>Key information for module teams</strong></td>
+<td width="225" align="center" valign="top"><strong>Champion </strong></td>
+</tr>
+<tr>
+<td width="389" valign="top">Mobile Games and Maps</td>
+<td width="225" valign="top">James Aczel</td>
+</tr>
+<tr>
+<td width="389" valign="top">Drumkit app</td>
+<td width="225" valign="top">Daisy Mwanza-Simwami &amp; Mariano Rico</td>
+</tr>
+<tr>
+<td width="389" valign="top">E-Health / Calorie Counter apps &ndash; iTracker, RunKeeper, etc</td>
+<td width="225" valign="top">Daisy Mwanza-Simwami &amp; Mariano Rico</td>
+</tr>
+<tr>
+<td width="389" valign="top">Knowledge management / visualisation apps - Mind mapping, Mappiness, Doodle Buddy, Simple Mind</td>
+<td width="225" valign="top">Mariano Rico &amp; Daisy Mwanza-Simwami</td>
+</tr>
+<tr>
+<td width="389" valign="top">Image morphing apps - OU Devolve me app</td>
+<td width="225" valign="top">Mariano Rico</td>
+</tr>
+<tr>
+<td width="389" valign="top">Fun reading - Wattpad</td>
+<td width="225" valign="top">Mariano Rico</td>
+</tr>
+<tr>
+<td width="389" valign="top">QR codes (treasure trail)</td>
+<td width="225" valign="top">Keren Mills</td>
+</tr>
+<tr>
+<td width="389" valign="top">Survey / Quiz on mobile devices</td>
+<td width="225" valign="top">Canan Blake</td>
+</tr>
+<tr>
+<td colspan="2" width="614" valign="top">
+<p align="center"><strong>Theme 3: Mobile Learning Communities and Resources</strong></p>
+</td>
+</tr>
+<tr>
+<td width="389" align="center" valign="top"><strong>Key information for module teams</strong></td>
+<td width="225" align="center" valign="top"><strong>Champion </strong></td>
+</tr>
+<tr>
+<td width="389" valign="top"><a href="http://www.open.ac.uk/wikis/m-tech-group/" target="_blank">MTech SIG</a> of the eLearning Community at the OU</td>
+<td width="225" valign="top">Keren Mills</td>
+</tr>
+<tr>
+<td width="389" valign="top">OU <a href="http://www.open.ac.uk/mobisite" target="_blank">'mobisite'</a> &ndash; the Open University&rsquo;s website for mobile learning</td>
+<td width="225" valign="top">Rhodri Thomas</td>
+</tr>
+<tr>
+<td width="389" valign="top"><a href="http://cloudworks.ac.uk/" target="_blank">Cloudworks</a> community and resources</td>
+<td width="225" valign="top">Grainne Conole</td>
+</tr>
+<tr>
+<td width="389" valign="top">IET&rsquo;s 10 <a href="http://epd.open.ac.uk/browse.cfm?activityID=752&method=displayActDetails" target="_blank">Mobile Experiences</a></td>
+<td width="225" valign="top">Andrew Brasher</td>
+</tr>
+<tr>
+<td width="389" valign="top"><a href="http://mlearning.noe-kaleidoscope.org/" target="_blank">IamLearn</a> &ndash; the International Association for Mobile Learning</td>
+<td width="225" valign="top">Agnes Kukulska-Hulme</td>
+</tr>
+<tr>
+<td width="389" valign="top"><a href="http://www.motill.eu/" target="_blank">MOTILL</a> project resources &ndash; mobile lifelong learning (database and case studies)</td>
+<td width="225" valign="top">Agnes Kukulska-Hulme</td>
+</tr>
+</tbody>
+</table>]]></description>
+          <pubDate>Thu, 13 Jan 2011 13:58:43 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Learn About Fair 2011 - Mobile Learning</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4909</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4909</guid>
+              <description><![CDATA[<p>The Mobile Learning Theme at the 2011 Learn About Fair will include stalls on the following:</p>
+<ul>
+<li>Mobile Learning (mobile VLE)</li>
+<li>eBooks</li>
+</ul>]]></description>
+          <pubDate>Mon, 21 Mar 2011 13:40:07 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Bob and Sue - Adult Learners returning to Higher Education</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4103</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4103</guid>
+              <description><![CDATA[<p>Meet Bob and Sue to listen to their perspectives as adult learners returning to University to study Technology Enhanced Learning.</p>
+<p>Scroll down to view latest videos:<br /><strong>OpenEd10 held in Barcelona 2-4 November<br />What "Siemens Says" about 21st Century knowledge<br />Transavartarts Boo and Sob<br />Preparing for the NZ Tertiary Writers Network Colloquium<br />The Graduate, Bob and Sue version</strong></p>
+<p>Series 2: <a href="http://cloudworks.ac.uk/cloud/view/4686">Rog, Bob and Sue</a>&nbsp;on ethics</p>]]></description>
+          <pubDate>Mon, 05 Jul 2010 05:25:58 +0000</pubDate>
+            </item>
+                    <item>
+              <title>mobile learning</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3791</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3791</guid>
+              <description><![CDATA[<p style="cursor:auto"><!--NO CSS-->we have plenty of technology at our hands now which allow us to connect to the internet through phones, text messages to groups of students using text tools, applications on Iphones and other similar devices, cameras, sound recorders and video are all made into small easy to use and edit packages.&nbsp; There is&nbsp;a great opportunity to use these as tools in learning, but does it push the student away? These mobile worlds are great, but does it encourage the ethos of distant learning? - Which is great for holidays and out of hours contact, but not for day to day attendance.&nbsp;</p>
+<p style="cursor:auto"><!--NO CSS-->&nbsp;To use mobile technology in the classroom is a good thing, photos, documentary, collage and working in groups with materials that students own themselves.&nbsp; But the initiatives have to come from technological savvy tutors.&nbsp; There is, however, always someone at hand.&nbsp; In our own college we have great technical support and this isn&rsquo;t just in IT use but through our Flexible Learning Areas who understand how the technology could work in learning and thus are keen to be involved in projects.</p>
+<p style="cursor:auto"><!--NO CSS-->We don&rsquo;t utilise the opportunities as we should, but one day soon, that will all change.</p>]]></description>
+          <pubDate>Tue, 01 Jun 2010 09:56:29 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Evaluating a mobile learning environment in a home car domain</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3754</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3754</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Tue, 08 Jun 2010 13:34:24 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Mobiles, Mobility, Connectedness and the &#39;Learner Experience&#39;  [John Traxler Presentation]</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3472</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3472</guid>
+              <description><![CDATA[<p style="cursor:auto"><!--NO CSS--><strong>Mobiles, Mobility, Connectedness and the 'Learner Experience'</strong></p>
+<p style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+<p style="cursor:auto"><!--NO CSS-->Prof. John Traxler, University of Wolverhampton</p>
+<p style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+<p style="cursor:auto"><!--NO CSS-->PDF and ppt</p>
+<p style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+<p style="cursor:auto"><!--NO CSS-->Presentation given at ELESIG Symposium: Digital Futures: 21 Jan 2010</p>
+<p>iLab, Innovation Works, University of Reading</p>
+<p style="cursor:auto"><!--NO CSS-->This session considered some of the findings from the literature of mobilities and asked participants to discuss the resonance with the 'learner experience' and learner attitudes.</p>
+<p style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+<p style="cursor:auto"><!--NO CSS-->Background paper</p>
+<p style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+<p><a href="http://api.ning.com/files/rIwYhQ01zqOnyAg1DCiCjgTug33jRprmlQ5NXu4sasmk6bVVyXkyjZ3Ph0W7mcLViprbWWsup0*ODkeuPiatAAfG1JOBM-D-/">ELESIG Draft Mobiles.pdf</a></p>
+<p>Presentation</p>
+<p><a href="http://api.ning.com/files/On97HN1tDNRUvlxyhh8dd12I0s9vqheF6i*aYalhSJiOKGptKq9MU8ZJAfG-6*yNMl9ovfYOonycxgMgypDmNX*kJQo*PLpC/ELESIGMobilesMobilityConnectednes.ppsx">ELESIG Mobiles, Mobility, Connectednes.ppsx</a></p>
+<p>Added to ELESIG Ning, January 2010</p>
+<p>[Must be a member of ELESIG to view:<strong> <a href="http://elesig.ning.com/main/authorization/signUp" target="_blank">Join us</a></strong>]</p>]]></description>
+          <pubDate>Tue, 27 Apr 2010 14:52:59 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Using mobile devices for listening and speaking practice in languages (case study)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3226</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3226</guid>
+              <description><![CDATA[<p>The L120 Mobile Project at The Open University (2009) investigated the use of mobile devices  for listening and speaking practice on a French language course. The project was led by Val&eacute;rie Demouy, with contributions from Annie Eardley, Agnes Kukulska-Hulme and Rhodri Thomas. The results have been summarised as a case study which can be accessed at this web address: http://kn.open.ac.uk/document.cfm?documentid=12913.</p>
+<p>A more developed version is being written up for publication in a journal.</p>]]></description>
+          <pubDate>Wed, 31 Mar 2010 17:43:51 +0000</pubDate>
+            </item>
+                    <item>
+              <title>The Ethics of Mobile Learning</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3142</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3142</guid>
+              <description><![CDATA[<p>One of the striking things to come out of the MOTILL Project was the apparent lack of any coherent ethical guidance with respect to the use of mobile devices for teaching and learning.&nbsp; The practicioners I interviewed all brought this up as an area where guidance is crucially needed.</p>
+<p>Much of the existing work that has been done in this area concerns research ethics and the ways in which one might research mobile learning in an ethical way.&nbsp; This is certainly something that I'm interested in, but it seems more innovative to me to expand the boundaries of the investigation beyond teaching and learning to look at the impact of communications technologies on social interaction more generally construed, on (inter-)subjectivity, and on processes of norm-formation and social mores.</p>
+<p>I apreciate that this might take the project somewhat outside of the IET purview.&nbsp; The challenge of understanding the wider ethical ramifications of modern technologies is undoubtedly one which educational technologists should address.</p>
+<p>I have two lines of inquiry in mind at the moment.&nbsp; Firstly, and drawing on my PhD research, would be a more general account of the relationship between technology and autonomy arising from the Frankfurt School tradition in critical theory.&nbsp; This will provide an initial framework for showing where some of the ethical considerations specific to mobile technologes might arise, and also has the virtue of allowing me to draw parallels and other links with pedagogies which emphasize the autonomy of the learner.&nbsp; I am also interested in drawing on Heidegger's later philosophy of technology to flesh out the kind of philosophical worries associated with the advance of technologies.</p>
+<p>Obvioulsy, this might seem a little philosophy heavy for TEL, and I am keen to be quite explicit about the link to teaching and learning.</p>
+<p>One realistic output might be a 'tool-kit' for practitioners with a bit of ethical guidance and ten principles to think about.&nbsp; It might even be worth looking up the relevant legislation and sticking that in there too!</p>
+<p>I welcome any thoughts or reflections you may have to offer.</p>]]></description>
+          <pubDate>Mon, 15 Mar 2010 12:46:23 +0000</pubDate>
+            </item>
+                    <item>
+              <title>MOTILL: Mobile Technologies in Lifelong Learning</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2957</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2957</guid>
+              <description><![CDATA[<p>MOTILL, which stands for &ldquo;Mobile Technologies in Lifelong Learning: best practices&rdquo;, is funded by the European Commission within the National Lifelong Learning Strategies (NLLS) &ndash; Transversal programme &ndash; Key Activity1: Policy Cooperation and Innovation of the Lifelong Learning Programme 2007-2013.</p>
+<p>The key concepts in MOTILL are <strong><em>Lifelong Learning</em></strong> and <strong><em>Mobile Technologies</em></strong>. The MOTILL project investigates how these technologies may impact on the diffusion of a social model where learning and knowledge are accessible to all, regardless of social and economic background, age, gender, religion, ethnicity or disability.</p>
+<p>The consortium:</p>
+<ul>
+<li><a href="http://www.pa.itd.cnr.it/">Italian National Research Council &ndash; Institute for Educational Technology of Palermo &ndash; Italy (coordinator)</a></li>
+<li><a href="http://motill.open.ac.uk/home.cfm">The Open University (UK) - Institute of Educational Technology;</a></li>
+<li><a href="http://www.scss.tcd.ie/">Trinity college of Dublin (Ireland) &ndash; Department of Computer Science &amp; Education;</a></li>
+<li>Corvinus University of Budapest (Hungary) - Department of Information Systems</li>
+</ul>
+<p>Project website: <a href="http://www.motill.eu">http://www.motill.eu</a></p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Tue, 23 Feb 2010 10:19:09 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Mobile Learning, augmenting your context or missing what&#39;s going on in the real world?</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2885</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2885</guid>
+              <description><![CDATA[<p>Mobiles can give you access to an array of information any time, any where, but is this always a good thing? If you're using GPS or accessing location-related information on the internet when outdoors, are you augmenting your context, or just missing out on what is going on in the real world around you?</p>]]></description>
+          <pubDate>Tue, 02 Feb 2010 16:12:23 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Learn about...mobile learning</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2834</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2834</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Wed, 20 Jan 2010 13:40:39 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Alpine Conzilla</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2795</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2795</guid>
+              <description><![CDATA[<p>Dear all - Happy New Year/Decennium !!</p>
+<p>The publication problem has been fixed, and the maps should be visible now. Don't hesitate to contact me if you experience any problems in navigating them.</p>
+<p>Stockholm, 8 January 2010<br />/Ambj&ouml;rn</p>
+<p>=======</p>
+<p>This cloud describes how to download and launch <strong><em>Conzilla</em></strong>, and how to access the Conzilla models of the different sessions of the workhop <strong><em>TEL in the context of technological, societal and cultural transformation</em></strong> that took place in Garmisch Partenkirchen Nov 30 - Dec 1, 2009.</p>
+<p>Conzilla can be downloaded from <a href="http://www.conzilla.org" target="_blank">http://www.conzilla.org</a> . Click on <em><strong>Download</strong></em> (in the menu to the left) and then click on the yellow button <strong><em>Launch</em></strong> (under the heading <strong><em>Conzilla 2.2</em></strong>). Conzilla needs Java version 1.5 (or newer) to function properly. If the Java system doesn't start, you must install a newer version of <strong>JRE</strong> (<strong><em>Java Runtime Environment</em></strong>). This can be done by clicking the "Java Runtime Environment" link in the text above the yellow Launch-button.<br /><br />When you have installed and started Conzilla, you will see a yellow map called <em><strong>Startmap</strong></em>. Just above the map itself there is an address-window called <em><strong>Context-Map URI</strong></em>, If you copy the following <strong><em>"Conzilla-URL"</em></strong> :<br /><a href=" http://www.conzilla.org/people/amb/TEL-research-community/presentation/CM#ea00241132f2d1e2c"><br />http://www.conzilla.org/people/amb/TEL-research-community/presentation/CM#ea00241132f2d1e2c</a><br /><br />into this window (and then hit "Return"), you will arrive at the entrance to my <em><strong>Knowledge Patch</strong></em>, connecting about 800 published Conzilla maps. When you see this map, it's a good idea to bookmark it. Then it will be easily accessible whenever you open Conzilla. You can also make this map your starting map, by clicking on "Settings" (in the top menu) and then selecting <em><strong>Set as startmap</strong></em>.</p>
+<p>The maps I created at the workshop are available by double-clicking the <em><strong>Alpine</strong></em> concept at the top left of this map&nbsp; (which is called <strong><em>Ambj&ouml;rn's maps</em></strong>). This takes you to the Conzilla map called <strong><em>Participants</em></strong> at the Conzilla-URL</p>
+<p><a href="http://www.conzilla.org/people/amb/projects/stellar/layout/contextmap#c61cab812536169703" target="_blank">http://www.conzilla.org/people/amb/projects/stellar/layout/contextmap#c61cab812536169703</a></p>
+<p>By right-clicking on the concept <strong><em>TEL in the context of transformation</em></strong> you can navigate to the different sessions of the workshop.</p>
+<p>====================================================================================</p>
+<p>How to navigate and bring up information in Conzilla is described under <strong><em>Navigation</em></strong> at<a href="http://www.conzilla.org/wiki/Doc/Navigation"><br />http://www.conzilla.org/wiki/Doc/Navigation</a> It is a good idea to keep this page open while running Conzilla, so that you can directly test what is described there.<br /><br />Further information about Conzilla - such as how to&nbsp; create + edit + publish Conzilla maps - can be found at<br /><br /><a href="http://www.conzilla.org/wiki/Doc/Editing">http://www.conzilla.org/wiki/Doc/Editing</a><br /><a href="http://www.conzilla.org/wiki/Doc/AdvancedEditing">http://www.conzilla.org/wiki/Doc/AdvancedEditing</a><br /><a href="http://www.conzilla.org/wiki/Doc/Publishing">http://www.conzilla.org/wiki/Doc/Publishing</a><br /><a href="http://www.conzilla.org/wiki/Doc/Exchange">http://www.conzilla.org/wiki/Doc/Exchange</a></p>
+<p>Here are a few (non-technical) papers that explain the main ideas behind Conzilla:</p>
+<p>&bull; Naeve, A., (2001a) <a href="http://kmr.nada.kth.se/papers/KnowledgeManifolds/KnowledgeManifold.pdf" target="_blank"><em>The Knowledge Manifold &ndash; an educational architecture that supports inquiry-based customizable forms of e-learning</em></a>, 2:nd European Conference on Web-Based Learning Environments, Lund, October 24-26, 2001.</p>
+<p>&bull; Naeve, A., (2001b) <a href="http://kmr.nada.kth.se/papers/ConceptualBrowsing/ConceptBrowser.doc" target="_blank"><em>The Concept Browser, a New Form of Knowledge Management Tool</em></a>, Proc. of the 2:nd european conference on Web Based Learning Environments, Lund, Oct. 24-26, 2001.<br /><br />&bull; Naeve, A., (2005), <a href="http://kmr.nada.kth.se/papers/SemanticWeb/HSW.pdf" target="_blank"><em>The Human Semantic Web &ndash; Shifting from Knowledge Push to Knowledge Pull</em></a>, International Journal of Semantic Web and Information Systems (IJSWIS) Vol 1, No. 3, pp. 1-30, July-September 2005.</p>
+<p>==========================================</p><p>Contact details: Ambjörn Naeve (amb@nada.kth.se)</p>]]></description>
+          <pubDate>Fri, 08 Jan 2010 15:58:48 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Ebooks: &#39;Mobile Learning: Transforming the Delivery of Education and Training&#39;</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2778</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2778</guid>
+              <description><![CDATA[<p>The collective book is edited by Mohamed Ally, published by Athabasca University Press and licensed with a Creative Commons License.&nbsp; The whole ebook or specific chapters are downloadable <a href="http://www.aupress.ca/index.php/books/120155" target="_blank">here.</a></p>
+<p>TABLE OF CONTENT</p>
+<p><strong>INTRODUCTION</strong></p>
+<p class="chapter odd"><strong>PART ONE: Advances in Mobile Learning</strong></p>
+<p class="chapter even"><strong>Chapter 1</strong><br />Current State of Mobile Learning<br /><em>John Traxler</em></p>
+<p class="chapter odd"><strong>Chapter 2</strong><br />A Model for Framing Mobile Learning<br /><em>Marguerite L. Koole</em></p>
+<p class="chapter even"><strong>PART TWO: Research on Mobile Learning</strong></p>
+<p class="chapter odd"><strong>Chapter 3</strong><br />Mobile Distance Learning with PDAs: Development and Testing of Pedagogical and System <br />Solutions Supporting Mobile Distance Learners<br /><em>Torstein Rekkedal and Aleksander Dye</em></p>
+<p class="chapter even"><strong>Chapter 4</strong><br />Using Mobile Learning to Enhance the Quality of Nursing Practice Education<br /><em>Richard F. Kenny, Caroline Park, Jocelyne M. C. Van Neste-Kenny, Pamela A. Burton, and Jan Meiers</em></p>
+<p class="chapter odd"><strong>Chapter 5</strong><br />Informal Learning Evidence in Online Communities of Mobile Device Enthusiasts<br /><em>Gill Clough, Ann C. Jones, Patrick McAndrew, and Eileen Scanlon</em></p>
+<p class="chapter even"><strong>Chapter 6</strong><br />M-learning: Positioning Educators for a Mobile, Connected Future<br /><em>Kristine Peters</em></p>
+<p class="chapter odd"><strong>PART THREE: Applications of Mobile Learning</strong></p>
+<p class="chapter even"><strong>Chapter 7</strong><br />Practitioners as Innovators: Emergent Practice in Personal Mobile Teaching, Learning, Work, and Leisure<br /><em>Agnes Kukulska-Hulme and John Pettit</em></p>
+<p class="chapter odd"><strong>Chapter 8</strong><br />Design and Development of Multimedia Learning Objects for Mobile Phones<br /><em>Claire Bradley, Richard Haynes, John Cook, Tom Boyle, and Carl Smith</em></p>
+<p class="chapter even"><strong>Chapter 9</strong><br />From E-learning to Mobile Learning: New Opportunities<br /><em>Michelle Pieri and Davide Diamantini</em></p>
+<p class="chapter odd"><strong>Chapter 10</strong><br />MobilED &ndash; Mobile Tools and Services Platform for Formal and Informal Learning<br /><em>Merryl Ford and Teemu Leinonen</em></p>
+<p class="chapter even"><strong>Chapter 11</strong><br />Exploring the Challenges and Opportunities of M-learning within an International Distance <br />Education Programme<br /><em>Jon Gregson and Dolf Jordaan</em></p>
+<p class="chapter odd"><strong>Chapter 12</strong><br />Using Mobile Technologies for Multimedia Tours in a Traditional Museum Setting<br /><em>Laura Naismith and M. Paul Smith</em></p>
+<p class="chapter even"><strong>Chapter 13</strong><br />Use of Mobile Technology for Teacher Training<br /><em>Jocelyn Wishart</em></p>]]></description>
+          <pubDate>Wed, 09 Dec 2009 16:40:48 +0000</pubDate>
+            </item>
+                    <item>
+              <title>The Future of Learning</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2759</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2759</guid>
+              <description><![CDATA[<p>The world is changing. <br />&nbsp;<br />Technologies are changing. <br />&nbsp;<br />Learning is changing. <br />&nbsp;<br />Our learners are changing. How they learn, where they learn and with whom they learn, all are changing. <br />&nbsp;<br />Web 2.0 technologies allow learners to remove the social, geographical and physical <br />barriers to communicate and learn with others. <br />&nbsp;<br />Mobile technologies allow learners to be more mobile and be able to access learning and learning communities in ways which have never been possible before. <br />&nbsp;<br />James has extensive experience of mobile learning and has a vision that goes beyond <br />mobile technologies and focuses on the mobility of the learner, blurring the demarcation <br />between formal and informal learning. His current vision for tertiary education <br />encompasses the use of Web 2.0 technologies embedded into an institutional VLE which can be accessed through mobile technologies. Allowing learners a focal point for their studying, whilst allowing the depth and breadth of Web 2.0 to bring a personalised learning experience to students at a time and space to suit them. For the future, James hopes that institutions and others will allow for a flexible, personalised, accessible learning experience for all.</p><p>Contact details: James Clay</p>]]></description>
+          <pubDate>Mon, 07 Dec 2009 04:14:15 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Exploring Mobile Space: Pedagogical affordances of Wireless Mobile Devices</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2750</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2750</guid>
+              <description><![CDATA[<p>A &lsquo;hands-on&rsquo; exploration of some of the potential applications of wireless mobile devices in tertiary education</p><p>Contact details: James Clay</p>]]></description>
+          <pubDate>Sat, 05 Dec 2009 22:04:53 +0000</pubDate>
+            </item>
+                    <item>
+              <title>What is the educational problem that contextual and location-based mobile learning is trying to solve?</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2736</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2736</guid>
+              <description><![CDATA[<p>Gill Clough, Nicola Beddall-Hill and Jacqui Taylor brainstormed for key issues and used Compendium LD to mindmap their thoughts and to share them with the rest of the group.</p>
+<p>After discussing and modifying the mindmap, it was uploaded to a webpage (see link).</p>]]></description>
+          <pubDate>Wed, 02 Dec 2009 18:42:04 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Mobile Phones as Mediating Tools Within Augmented Contexts for Development</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2711</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2711</guid>
+              <description><![CDATA[<p>Some preliminary thoughts on the nature of what I am calling Augmented Contexts for Development; an extension of Vygotsky&rsquo;s Zone of Proximal Development that takes into account the characteristics of 21st Century mass media structures and practices. Presentation at Education in the Wild, Alpine Rendez-Vous, within the framework of the STELLAR Network of Excellence. December 3-4, Garmisch-Partenkirchen, Bavaria, Germany.</p>
+<p>I will talk with colleagues in Garmisch about extending my notion of Augmented Contexts for Development to work based learning and will also use it in literact session of another workshop that i am involved in (Technology-enhanced learning in the context of technological, societal and cultural transformations; see link below). I would welcome any comments from&nbsp; colleagues about how it relates to all areas of learning.</p>
+<p>Slides for my talk: available in slideshare <a title="http://bit.ly/7VsaOB" href="http://bit.ly/7VsaOB">http://bit.ly/7VsaOB</a>.<br /> Download short paper: <a title="http://www.stellarnet.eu/index.php/download_file/-/view/644" href="http://www.stellarnet.eu/index.php/download_file/-/view/644">http://www.stellarnet.eu/index.php/download_file/-/view/644</a></p><p>Contact details: john.cook@londonmet.ac.uk</p>]]></description>
+          <pubDate>Thu, 26 Nov 2009 17:06:04 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Ebook: &#39;New technologies, new pedagogies: Mobile learning in higher education&#39;</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2514</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2514</guid>
+              <description><![CDATA[<p>Jan Herrington, Anthony Herrington, Jessica Mantei, Ian Olney and Brian Ferry (editors), <strong>New technologies, new pedagogies: Mobile learning in higher education</strong>, Faculty of Education, University of Wollongong, 2009, 138p. ISBN: 978-1-74128-169-9 (online)</p>
+<h3><strong>From the</strong> Preface:</h3>
+<p>The purpose of this e-book is to explore the use of mobile devices in learning in higher education, and to provide examples of good pedagogy. (...) This book is made up of a collection of double blind peer-reviewed chapters written by participants in the project <strong><em>New technologies, new pedagogies: Using mobile technologies to develop new ways of teaching and learning.</em></strong></p>
+<h3>Table of Contents</h3>
+<ul>
+<li>1 - <strong>Introduction</strong>: <a href="http://ro.uow.edu.au/edupapers/75">Using mobile technologies to develop new ways of teaching and learning</a><sup class="printOnly">3</sup>, Jan Herrington, Anthony Herrington, Jessica Mantei, Ian Olney and Brian Ferry</li>
+<li>2 - <strong>Professional development</strong>: <a href="http://ro.uow.edu.au/edupapers/77">Faculty development for new technologies: Putting mobile learning in the hands of the teachers</a><sup class="printOnly">4</sup>, Geraldine Lefoe, Ian Olney, Rob Wright and Anthony Herrington</li>
+<li>3 - <strong>Adult education</strong>: <a href="http://ro.uow.edu.au/edupapers/78">Using a smartphone to create digital teaching episodes as resources in adult education</a><sup class="printOnly">5</sup>, Anthony Herrington</li>
+<li>4 - <strong>Early childhood education</strong>: <a href="http://ro.uow.edu.au/edupapers/79">Digital story telling using iPods</a><sup class="printOnly">6</sup>, Ian Olney, Jan Herrington and Irina Verenikina</li>
+<li>5 - <strong>Environmental education</strong>: <a href="http://ro.uow.edu.au/edupapers/80">Using mobile phones to enhance teacher learning in environmental education</a><sup class="printOnly">7</sup>, Brian Ferry</li>
+<li>6 - <strong>Information technology education</strong>: <a href="http://ro.uow.edu.au/edupapers/81">Incorporating mobile technologies within constructivist-based curriculum resources</a><sup class="printOnly">8</sup>, Anthony Herrington</li>
+<li>7 - <strong>Language and literacy education</strong>: <a href="http://ro.uow.edu.au/edupapers/82">Using iPods to capture professional dialogue between early career teachers to enrich reflective practice</a><sup class="printOnly">9</sup>, Jessica Mantei and Lisa Kervin</li>
+<li>8 - <strong>Mathematics education</strong>: <a href="http://ro.uow.edu.au/edupapers/83">Role of mobile digital technology in fostering the construction of pedagogical and content knowledge of mathematics</a><sup class="printOnly">10</sup>, Mohan Chinnappan</li>
+<li>9 - <strong>Physical education</strong>: <a href="http://ro.uow.edu.au/edupapers/84">Using iPods to enhance the teaching of games in physical education</a><sup class="printOnly">11</sup>, Greg Forrest</li>
+<li>10 - <strong>Reflective practice</strong>: <a href="http://ro.uow.edu.au/edupapers/85">Collaborative gathering, evaluating and communicating &lsquo;wisdom&rsquo; using iPods</a><sup class="printOnly">12</sup>, Lisa Kervin and Jessica Mantei</li>
+<li>11 - <strong>Science education</strong>: <a href="http://ro.uow.edu.au/edupapers/86">Using mobile phone cameras to capture images for slowmations: Student-generated science animations</a><sup class="printOnly">13</sup>, Garry Hoban</li>
+<li>12 - <strong>Visual arts education</strong>: <a href="http://ro.uow.edu.au/edupapers/87">Art on the move: Mobility &ndash; a way of life</a><sup class="printOnly">14</sup>, Ian Brown</li>
+<li>13 - <strong>Design principles</strong>: <a href="http://ro.uow.edu.au/edupapers/88">Design principles for mobile learning</a><sup class="printOnly">15</sup>, Anthony Herrington, Jan Herrington and Jessica Mantei</li>
+</ul>]]></description>
+          <pubDate>Sat, 16 Jan 2010 18:54:53 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Tangibles, tabletops or mobiles: which is best for collaborative learning?</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2424</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2424</guid>
+              <description><![CDATA[<p>Presentation by Professor Yvonne Rogers</p>]]></description>
+          <pubDate>Wed, 07 Oct 2009 12:23:50 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Womble (Work Oriented MoBile Learning Environment) </title>
+              <link>https://cloudworks.ac.uk/cloud/view/2344</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2344</guid>
+              <description><![CDATA[<p>I am working on several mobile learning projects. For example, on the MATURE IP (http://mature-ip.eu/) I am providing a lead for a Womble! Just call me Great Uncle Bulgaria :-) http://en.wikipedia.org/wiki/The_Wombles</p>
+<p>Womble (Work Oriented MoBile Learning Environment)&nbsp; will enable workers to appropriate the mobile phone as a Personal Learning Maturing Environment (PLME) for knowledge maturing. The Womble USP is that it provides contextualising of WBL problem-solving, interaction and knowledge maturing via a user-owned mobile PLE.</p>
+<p>If anyone is working on a similar area let me know. Below is a potted description of Womble. There are several partners involved in&nbsp; this demonstrator from around Europe. We have only just got started on this.</p>
+<p>Cheers John</p>
+<p>The demonstrator aims to develop a prototype Womble. Specifically, the project will extend the current implementation of mPLE (Mark van Harmelen) and structured learning dialogue frameworks, such as Dialogue Games and InterLoc (Andrew Ravenscroft), providing worker with a joined-up mobile PLME services. A social software &lsquo;substrate&rsquo; and multi-user / multi-media spaces allows workers to meet co-workers. Womble services will, for example, allow workers to tag fellow work colleagues (contacts); when a problem arises this service will enable collaborative problem solving. In the longer term a &lsquo;lite&rsquo; dialogue game service, that can be linked to the tagging of personal competencies, will be available to scaffold workers in their active collaboration and &lsquo;on the spot&rsquo; problem solving. Graham Attwell provides WBL &amp; PLE expertise.</p><p>Contact details: john.cook@londonmet.ac.uk</p>]]></description>
+          <pubDate>Sat, 21 Nov 2009 00:30:10 +0000</pubDate>
+            </item>
+                    <item>
+              <title>E-books and reading on mobile phones</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2310</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2310</guid>
+              <description><![CDATA[<p>With the emergence of a number of reasonable cheap e-book readers and better interfaces on new generation phones like the iphone, the issue of how these can be used for learniing becomes more prominent. In addition, there are now a number of excellent sources of free e-books. So the questions are:</p>
+<ul>
+<li>What are the benefits of these tools for learners, how might they be used?</li>
+<li>What are the disadvantages?</li>
+<li>Are there any good case studies/examples of how these are being used in education? </li>
+<li>Are there particular ways in which learning activiites can be structured to take advantage of these tools?</li>
+</ul>]]></description>
+          <pubDate>Thu, 17 Sep 2009 10:42:50 +0000</pubDate>
+            </item>
+                    <item>
+              <title>A fusion of mobile technology and Second Life in a learning environment to support the transition from school to university</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2187</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2187</guid>
+              <description><![CDATA[<p>ALT-C 2009 Session: This Cloud has been set up to aggregate live blogs, comments, discussion and links for this session.</p>]]></description>
+          <pubDate>Thu, 27 Aug 2009 14:35:49 +0000</pubDate>
+            </item>
+                    <item>
+              <title>The Glossy Project</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2174</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2174</guid>
+              <description><![CDATA[<p>ALT-C 2009 Session: This Cloud has been set up to aggregate live blogs, comments, discussion and links for this session.</p>]]></description>
+          <pubDate>Thu, 27 Aug 2009 14:23:19 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Scenario: Creating an OER course module on mobile learning</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1837</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1837</guid>
+              <description><![CDATA[<ul>
+<li>Before creating my module, I want to know what other resources on this topic are available across OER repositories. Is there a meta-search engine available?</li>
+<li>I need to develop an activity. I could use patterns to aid this process but again will fall into the search problem.</li>
+<li>Lastly, I need a method to apply the patterns to the OER to support my reuse of it. Do such methods exist? Might a learning design help?</li>
+</ul>]]></description>
+          <pubDate>Wed, 01 Jul 2009 15:06:28 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Mentoring, metacognition and music to mobile learning</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1621</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1621</guid>
+              <description><![CDATA[&lt;!--StartFragment--&gt;
+<p class="MsoNormal">Reflections on a 16-yearresearch journey from mentoring, metacognition and music to Mobile learning</p>
+<p class="MsoNormal">Cooperative problem seeingdialogues in learning Cook 2000</p>
+<ul>
+<li>Does not focus on winning the argument or persuading your partner</li>
+<li>Instead involves an acceptance by participants that they will attempt to find and refine a problem specification</li>
+<li>A problem specification is a description of a problem that is interesting or novel</li>
+<li>Creative discourse in music</li>
+<li>Empirical work &ndash; model of interaction and learning and computer-based learning support</li>
+<li>Meta-muse &ndash; computational implementation</li>
+<li>Metamuse is a pedagogical agent that has been designed to adaptively structure interactions between pairs of cooperative learners</li>
+<li>Tried to generate musical ideas to get people thinking</li>
+<li>Conclusion&ndash; claim that metamuse encouraged problem seeking</li>
+</ul>
+<p class="MsoNormal">Going for a localwalkabout: putting urban planning education in context with mobile phones Cook,2009</p>
+<ul>
+<li>To provide a contextualised social and historical account of urban education, focusing on systems and beliefs that contribute to the construction of the surrounding discourses</li>
+<li>Going round London exploring how schools have changed over the last century</li>
+<li>Part of CONTSENS EU project</li>
+</ul>
+<div style="cursor:auto"><!--NO CSS-->&nbsp;</div>
+<div style="cursor:auto"><!--NO CSS-->Future work</div>
+<div style="cursor:auto"><!--NO CSS-->Learning pathways across multiple contexts for learning&nbsp;</div>
+<p>Learner generated context</p>
+<p>Appropriation&nbsp;</p>
+&lt;!--EndFragment--&gt;]]></description>
+          <pubDate>Mon, 18 May 2009 10:11:14 +0000</pubDate>
+            </item>
+                    <item>
+              <title>QTEK II</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1547</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1547</guid>
+              <description><![CDATA[<p>Investigating the update and exploitation of mobile devices in teaching and learning.</p>]]></description>
+          <pubDate>Wed, 06 May 2009 09:13:04 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

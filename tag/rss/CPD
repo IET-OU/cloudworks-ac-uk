@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: CPD</title>
+        <link>https://cloudworks.ac.uk/tag/rss/CPD</link>
+        <atom:link href="https://cloudworks.ac.uk/tag/rss/CPD" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds tagged CPD</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>WED: Designing accessible courses - a reflection on the use of UDL and OERs to create an open education course (Danny Ball)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/10192</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/10192</guid>
+              <description><![CDATA[<p>Since 1974, disabled students in England have been able to apply for non-repayable grants, known as &lsquo;Disabled Students&rsquo; Allowances (DSAs)&rsquo;, to assist with the additional costs incurred whilst completing higher education study (Willetts, 2014). Such grants provided allowances for specialised equipment, non-medical assistance such as note takers and specialised tutors, books and consumables, as well as travel allowances (Disability Rights UK, 2015). In addition to the support provided by DSAs, the introduction of the Equality Act 2010 placed a legal duty on businesses and education providers to take positive steps, referred to as &lsquo;reasonable adjustments&rsquo;, to remove barriers faced by people, due to their disability (Citizens Advice, n.d.). This includes making changes to the ways things are done e.g. provision, criterion or practice; physical features of buildings such as entrances and exits; as well as the provision of extra aids or services such as: induction hearing loops, providing information in alternative formats etc. (Citizens Advice, n.d.).</p>
+<p>Despite the reasonable adjustments implemented by higher education institutions (HEIs), the costs of the DSA provision have risen sharply from &pound;101.3m in 2009-10 to &pound;145.8m in 2012-13, an increase of 44% (Weale, 2015). In 2014, the Minister for Universities and Science announced a series of changes to modernise the existing system to &lsquo;rebalance&rsquo; responsibilities for student support. Thus, ensuring that the limited public funding is available to those most in need, and provides the support they require (Willetts, 2014). The changes are designed to move away from a system of individualised support funded by DSAs, to one where HEIs play a greater role in supporting all students, regardless of whether they have a disability or not.</p>
+<p>With these changes coming into force from September 2016, HEIs within England have been required to review and, if required, revise their current student support arrangements to ensure they are prepared for these changes and can support learners effectively (McNaught, 2016). Whilst there are many small and simple changes academic staff can take to improve the accessibility of their teaching such as: providing information ahead of sessions, creating learning materials which meet accessibility guidelines and encouraging students to record teaching sessions etc. (Canterbury Christ Church University, n.d.), this does not resolve the underlying issues. As McNaught (2016) summarises &lsquo;[t]eaching and learning pedagogies, practices and technologies can inadvertently create barriers for students with disabilities&rsquo;, to overcome these a different approach is required.</p>
+<p>To address some of the challenges raised by these recent changes and the need for HEIs to make anticipatory, rather than reactive changes, this conference presentation will provide an overview and demonstration of a short online course being developed by the author. Built using the Canvas open education platform, this short course aimed at academics working within UK HEIs, will provide a more in-depth overview of the changes to disabled student support, whilst also introducing delegates to two educational frameworks; Universal Design for Learning (UDL) and Inclusive Curriculum. Building on research undertaken by Marquis et al. (2016), this course will utilise a flipped learning pedagogy; whereby the learning materials are placed online and classroom sessions are used to enable deeper exploration and discussion of the topics raised (The Higher Education Academy, n.d.). The work-in-progress can be viewed at:&nbsp;<a href="https://canvas.instructure.com/courses/1112741" target="_blank">https://canvas.instructure.com/courses/1112741</a></p>
+<p><strong>References:</strong></p>
+<p>Canterbury Christ Church University (n.d.) <em>Changes to Disabled Students&rsquo; Allowances</em> [Online]. Available at <a href="http://www.canterbury.ac.uk/learning-and-teaching-enhancement/academic-professional-development/changes-to-disabled-student-allowance.aspx" target="_blank">http://www.canterbury.ac.uk/learning-and-teaching-enhancement/academic-professional-development/changes-to-disabled-student-allowance.aspx</a> (Accessed 1 January 2017).</p>
+<p>Citizens Advice (n.d.) <em>Duty to make reasonable adjustments for disabled people</em> [Online]. Available at <a href="https://www.citizensadvice.org.uk/discrimination/what-are-the-different-types-of-discrimination/duty-to-make-reasonable-adjustments-for-disabled-people/" target="_blank">https://www.citizensadvice.org.uk/discrimination/what-are-the-different-types-of-discrimination/duty-to-make-reasonable-adjustments-for-disabled-people/</a> (Accessed 2 January 2017).</p>
+<p>Disability Rights UK (2015) <em>Applying for Disabled Students&rsquo; Allowances (DSAs)</em> [Online]. Available at http://www.disabilityrightsuk.org/applying-disabled-students&rsquo;-allowances-dsas (Accessed 3 December 2016).</p>
+<p>Marquis, E., Jung, B., Fudge Schormans, A., Lukmanji, S., Wilton, R. and Baptiste, S. (2016) &lsquo;Developing inclusive educators: enhancing the accessibility of teaching and learning in higher education&rsquo;, <em>International Journal for Academic Development</em>, Routledge, vol. 21, no. 4, pp. 337&ndash;349 [Online]. Available at <a href="http://dx.doi.org/10.1080/1360144X.2016.1181071" target="_blank">http://dx.doi.org/10.1080/1360144X.2016.1181071</a> (Accessed 21 December 2016).</p>
+<p>McNaught, A. (2016) &lsquo;Minimising pain, maximising gain: top tips for supporting learners affected by DSA changes&rsquo;, <em>JISC Blog</em>, 19 February [Blog]. Available at <a href="https://www.jisc.ac.uk/blog/minimising-pain-maximising-gain-top-tips-for-supporting-learners-affected-by-dsa-changes-19-feb" target="_blank">https://www.jisc.ac.uk/blog/minimising-pain-maximising-gain-top-tips-for-supporting-learners-affected-by-dsa-changes-19-feb</a> (Accessed 4 December 2016).</p>
+<p>Scope UK (n.d.) <em>What is the social model of disability?</em> [Online]. Available at <a href="http://www.scope.org.uk/about-us/our-brand/social-model-of-disability" target="_blank">http://www.scope.org.uk/about-us/our-brand/social-model-of-disability</a> (Accessed 2 January 2017).</p>
+<p>The Higher Education Academy (n.d.) <em>Flipped learning</em> [Online]. Available at <a href="https://www.heacademy.ac.uk/enhancement/starter-tools/flipped-learning-0" target="_blank">https://www.heacademy.ac.uk/enhancement/starter-tools/flipped-learning-0</a> (Accessed 23 December 2016).</p>
+<p>University of Leicester (n.d.) <em>The social and medical model of disability</em> [Online]. Available at <a href="http://www2.le.ac.uk/offices/accessability/staff/accessabilitytutors/information-for-accessability-tutors/the-social-and-medical-model-of-disability" target="_blank">http://www2.le.ac.uk/offices/accessability/staff/accessabilitytutors/information-for-accessability-tutors/the-social-and-medical-model-of-disability</a> (Accessed 2 January 2017).</p>
+<p>Weale, S. (2015) <em>Government to cut funding for disabled university students</em> [Online]. Available at <a href="https://www.theguardian.com/education/2015/dec/02/government-to-cut-funding-disabled-university-students-jo-johnson" target="_blank">https://www.theguardian.com/education/2015/dec/02/government-to-cut-funding-disabled-university-students-jo-johnson</a> (Accessed 2 January 2017).</p>
+<p>Willetts, D. (2014) <em>Higher education: student support: changes to Disabled Students&rsquo; Allowances (DSA)</em> [Online]. Available at <a href="https://www.gov.uk/government/speeches/higher-education-student-support-changes-to-disabled-students-allowances-dsa" target="_blank">https://www.gov.uk/government/speeches/higher-education-student-support-changes-to-disabled-students-allowances-dsa</a> (Accessed 2 January 2017).</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Sun, 08 Jan 2017 13:52:09 +0000</pubDate>
+            </item>
+                    <item>
+              <title>SAT: A case study in understanding the impact of openness on CPD: how does sharing lesson footage across an open platform enhance professional development?(Mulligan)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8885</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8885</guid>
+              <description><![CDATA[<p>The need for effective Continuing Professional Development (CPD) in teaching is bigger now than ever before in Northern Ireland. This case study is born out of a desire to reflect and develop as a teacher in a contextual environment which is currently not facilitating that demand. Budget cuts and area-based planning mean that schools are shrinking, teachers are being cut and the duties that teachers are being asked to take on are becoming more diverse.</p>
+<p>Current CPD in Northern Ireland (NI) involves a once a year lesson observation from a senior teacher and the filling in of paperwork to show the inspectors. This is uninspiring and unhelpful in a challenging and competitive profession which needs good quality training, with investment from leaders and realistic ideas for how to remain fresh and innovative. Bill Gates (2013) is a strong proponent of teachers receiving ‘real feedback’ in America and there is no doubt that this is very much required for professionals who want to retain their jobs in the current educational climate in NI.</p>
+<p>So how can openness and a fifty pound video camera enhance professional development at this crucial time for a teacher in NI: by innovating conventional CPD and opening up a classroom to peers across the world. It is time to put CPD back in the hands of the people who are at the centre of the process; the teachers. The innovation is that of sharing short clips and asking specific questions about them. The hope is that it could offer more effective feedback than an annual lesson observation. The openness element involves sharing lesson footage openly with peers online who would never normally be privy to classroom practice.</p>
+<p>The conference presentation will focus on presenting a case study of a trial version of this within the H818 community. The case study being the artefact, the presentation will be a multi-media tour of the key elements of the case study including clips from the classroom in Northern Ireland, screen shots of peer feedback from within H818 and an evaluation of the efficacy of the process in comparison to current CPD arrangements in Northern Ireland. There is a degree of de-formalising the process of CPD within this case study. And this, essentially, is the point. Holmes (2013, p. 97) calls this concept of sharing and learning with peers, ‘informal learning’. The hope is that this peer review process, which has been a significant design feature of the H818 module, can be applied to a teacher in Northern Ireland who is hoping to glean as much as possible to improve specific aspects of teaching and learning within the classroom.</p>
+<p>Attendees will leave the presentation with an increased awareness of how making CPD more open might engender better quality feedback. They may also come away with ideas for how to refresh their own CPD in an informal, discreet yet effective way.</p>
+<p> </p>]]></description>
+          <pubDate>Sun, 11 Jan 2015 16:34:57 +0000</pubDate>
+            </item>
+                    <item>
+              <title>WED: Blended Learning for CPD:A case study on the development &amp; implementation of a blended learning model to enhance study day learning opportunities (Robert Avery)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8881</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8881</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Tue, 27 Jan 2015 15:23:18 +0000</pubDate>
+            </item>
+                    <item>
+              <title>WED: Who teaches the teacher? Networking professional staff to implement learning technology innovations (Stefanie Anyadi)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8862</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8862</guid>
+              <description><![CDATA[<p>Recent years have seen rapid development in the area of technology to support learning. This presentation will explore how innovation in technology enhanced learning (TEL) can be encouraged and supported in complex organisations like universities. Roger&rsquo;s Diffusion of Innovation concept will provide a framework to discuss and address some of the difficulties. &nbsp;</p>
+<p><br />TEL is supported by a wide range of staff groups in UK universities. We will focus on teaching administrators (TAs), professional services staff based in academic departments in student-facing roles. A case study will show how a network of TAs might be able to encourage and support innovation in TEL and the benefits and difficulties associated with this approach. The network has made it possible to roll out updates, enhance staff development, and implement TEL-related guidelines and standards.&nbsp; It has improved collaboration and sharing of best practice across traditional boundaries but has also highlighted difficulties such as variability of resources and management support.</p>
+<p><br />We will discuss the development of the project artefact, a multimedia presentation about this case study which will demonstrate the benefits of networking teaching administrators to support innovation and best practice. The artefact will include interview extracts with teaching administrators, students and academic staff to illustrate the points made, and some of these will be shown as part of the presentation.</p>
+<p><br />The final part of the presentation will report on the results of a survey which aimed to establish how wide-spread the involvement of teaching administrators is in supporting and developing TEL at UK universities. Early indications are that there is an increasing interest in involving this staff group and some of the reservations and perceived benefits will be discussed.<br /><br /></p>]]></description>
+          <pubDate>Sun, 14 Dec 2014 16:25:57 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Deborah Arnold: Dream 1: revamping online course / Dream 2: improving staff development programme</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7226</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7226</guid>
+              <description><![CDATA[<p><strong>Dream N&deg;1 : online course on social media for learning</strong></p>
+<p>I currently teach a 12-week totally online module on social media for teaching and learning, on the<a title="Description of AIGEME Master" href="http://www.univ-paris3.fr/master-2-aigeme-ifd-br-applications-informatiques-gestion-education-aux-medias-e-formation-br-i-parcours-ingenierie-de-la-formation-a-distance-i--26468.kjsp" target="_blank"> AIGEME Masters course</a> for Universit&eacute; Paris 3 Sorbonne-Nouvelle, with an international French-speaking intake of students. I co-teach this module with a great colleague based in Morocco. Until recently, the course was split in two parts, web 2.0 and analysis of educational media.</p>
+<p>This year we have revamped the course to improve the integration of the two parts and to get the students using a specific Twitter hashtag for the course combined with content curation via <a title="Scoop.it topic for AIGEME module on social media for learning" href="http://www.scoop.it/t/master-aigeme-web-2-0-et-usages-dynamiques" target="_blank">scoop.it</a>. This revamp was the result of a joint reflection between my colleague and myself, but I would now like to apply what we will be learning in the OLDSMOOC to validate and improve these design choices. I suppose what I'm really looking for is a solid framework and for exchanges with others involved in a similar process.</p>
+<p><strong>Dream N&deg;2: improve our staff development programme in teaching and learning innovation through the use of learning technology.</strong></p>
+<p>When I arrived at the University of Burgundy a year ago, there was a sound staff development programme already in place, but for the areas dealt with by my department, the focus was mainly on tools (Moodle, podcasts, webconferencing..). We are gradually shifting the focus to 'pedagogical use' and have developed a course we co-run with the pedagogical innovation department, in which the starting point is the pedagogical scenario (project-based learning, collaborative learning...), bringing in the technology as a way of supporting these approaches. The first session is to take place on January 31st, so we still have a bit of time to refine the design, and this is where I hope the OLDSMOOC will come in handy! It will also help us in the evaluation stage. So again, if anyone else is working on staff development programmes in the field of learning technology, then let's team up!</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Mon, 14 Jan 2013 11:33:55 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Lesley&#39;s thoughts: Research design, dissemination and getting published</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7147</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7147</guid>
+              <description><![CDATA[<p>So, here's a brainstormed suggestion. It links to study skills, communication skills, academic writing ...</p>
+<hr />
+<p><strong style="cursor:auto"><!--NO CSS-->Context:&nbsp;</strong>This arises from observations about similar needs for a wide range of (newish) researchers, as follows:</p>
+<ol>
+<li>Postgraduate students on programmes such as the Open University&rsquo;s MA in Online and Distance Education (MAODE)</li>
+<li>Reviewing proposals from teachers at various levels (primary, secondary, tertiary, higher, further, special needs, and so on) to international conferences</li>
+<li>Reviewing submissions to several peer-reviewed journals in the areas of learning technology and technology-enhanced language learning</li>
+</ol>
+<p><strong>Challenge&nbsp;</strong>New(ish) researchers often have little experience of research methodologies.&nbsp; This lack of experience can lead to disappointment in terms of assignment marks or acceptance of presentations or papers for publication because certain protocols have been omitted in the research design. Related to this is the need to heed the requirements stated in assignment rubrics, conference calls and journals&rsquo; information for authors&hellip; something here about academic writing?</p>
+<p>As a result, innovative and interesting research may not reach a wider audience and some researchers may be discouraged in their quest to disseminate their work.&nbsp;</p>
+<p>For academics, the challenge in the current economic climate, failure to publish and/or disseminate research findings may lead to redundancy. I would, therefore, like to offer a short, general research methodology course that would be appropriate for both postgraduate students and CPD purposes working in the fields of education&nbsp; and learning technologies.</p>
+<p><strong>Aim:&nbsp;</strong>The aim is to give participants the tools to design and disseminate their research effectively.</p>
+<p>While it is recognised that there are intercultural differences between research methodologies, this online, international course would concentrate on the Anglo-American tradition of research, though participants would have the opportunity to share their own traditions, discussing the benefits and disadvantages of different approaches.</p>
+<h3><strong>Designing and communicating research in education and learning technologies</strong></h3>
+<p><strong>Designing your research</strong></p>
+<ul>
+<li>Identifying a &lsquo;gap&rsquo;: the importance of the literature review</li>
+<li>Developing a research question</li>
+<li>Designing your method               
+<ul>
+<li>Identifying the target</li>
+<li>Quantitative or qualitative?&nbsp; Both? Or neither?</li>
+<li>Designing your instrument(s)</li>
+<li>Ethical considerations</li>
+<li>Data collection</li>
+</ul>
+</li>
+<li>Data analysis</li>
+<li>Drawing conclusions</li>
+<li>Identifying gaps in the research and areas to take forward</li>
+</ul>
+<p><strong>Disseminating your research</strong></p>
+<ul>
+<li>Identifying your audience               
+<ul>
+<li>Who is your audience?&nbsp; Your tutor? An international conference? An academic, peer-reviewed journal?</li>
+</ul>
+</li>
+<li>Checking requirements          
+<ul>
+<li>What are the requirements of the assignment? The call for proposals and, if accepted, the presentation? The journal?</li>
+</ul>
+</li>
+<li>Communicating appropriately               
+<ul>
+<li>Following instructions</li>
+<li>Degrees of formality</li>
+<li>Academic writing</li>
+</ul>
+</li>
+<li>Acting on feedback</li>
+</ul>
+<p>Participants will have the opportunity to share and critique each other&rsquo;s research proposals and/or conference abstracts&nbsp; and/or potential journal submissions, depending on their backgrounds and needs.</p>
+<p>Potentially, this could be developed as a formal or informal course, within a highly structured VLE or a wider MOOC.</p>
+<p><strong>Potential resources</strong></p>
+<ul>
+<li>Free online resources around research methodologies (e.g. Palgrave Study Skills - http://www.palgrave.com/skills4study/studentlife/postgraduate/choosing.asp)</li>
+<li>Example &lsquo;guidance to authors&rsquo; from sample peer-reviewed journals in the field (e.g. Australasian Journal of Educational Technology, Computer Assisted Language Learning Journal, ALT-J etc.)</li>
+<li>Other participants&rsquo; research proposals, papers and abstracts</li>
+<li>Feedback from other participants regarding research proposals, papers and abstracts.</li>
+<li>Other?</li>
+</ul>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Sat, 12 Jan 2013 18:59:41 +0000</pubDate>
+            </item>
+                    <item>
+              <title>CPD for digital and information literacies</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7138</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7138</guid>
+              <description><![CDATA[<p>I'm sure like many others participating in this MOOC, I've seen far too many institutional technology initiatives come and go and result in frustration at the missed opportunities because the business change process and staff development wasn't in place either in a timely or appropriate manner.<br /><br />Professional Services staff play a key mediating role between available services and the requirements of academic staff and students. Their practices are pivotal for promoting organisational change. A coherent CPD programme for Professional Service staff that seeks to develop digital and information literacies in the context of existing practice is of fundamental importance for enabling institution-wide business change.<br /><br />My assertion is that educational institutions require organisational structures and processes dedicated to the creation and delivery of flexible and agile CPD tailored for Professional Services staff roles. In an ideal world, this would be initiated and driven by a central staff development service through a coordinated programme linked to staff appraisal. At Cardiff University this remains a vision and something to aspire to. Most current staff development opportunities are through voluntary attendance at occasional presentations and workshops, the majority of which are commissioned from external third parties which do little to address the specific challenges and opportunities within the institution. More often than not, what people experience is something that is pre-packaged and removed from context in which they work.<br /><br />For staff to be able to develop relevant digital and information literacies it is something that has to be done through meaningful practice. The challenge, in busy organisations where people feel time pressured, overwhelmed and reluctant to change what they do, is to find ways of engaging them so that they recognise value and benefit from participating and working to develop their knowledge and skills.<br /><br />I'm hoping to use this OLDSMOOC opportunity to explore the potential for designing a curriculum to develop the digital and information literacies of staff in Information Services at Cardiff University.</p>]]></description>
+          <pubDate>Sat, 12 Jan 2013 17:26:32 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Gill W: Dream - supporting students studying for Microsoft Certifications</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7034</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7034</guid>
+              <description><![CDATA[<p><strong>Context</strong></p>
+<p>We offer Microsoft Technology Associate (MTA) exams to our undergraduate and postgraduate students. &nbsp;For some of the exams they will have covered some relevant materials as part of their normal taught courses. &nbsp;There are some online resourses and practice test for them to look at supplied to us under licence by an external supplier. &nbsp;There are also other books and websites &nbsp;around that they can use to prepare. &nbsp;they can also help each otehr through self-study groups.</p>
+<p><strong>Challenges</strong></p>
+<ul>
+<li>To help structure the above material for students and facilitate the formation and running study groups. &nbsp;</li>
+<li>To provide some tutor support but to minimise the call on staff time.</li>
+<li>Flexibility. &nbsp;Diffcult to organise students into cohorts</li>
+</ul>
+<p><strong>Proposal</strong></p>
+<p>Miraculously meet the challenges! &nbsp;Decide the best approach: totally online, blended learning etc. &nbsp;</p>]]></description>
+          <pubDate>Fri, 11 Jan 2013 16:59:35 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Careers Profession Taskforce in England: Progress Update</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5530</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5530</guid>
+              <description><![CDATA[<p align="left">In October 2010, the Careers Profession Task Force published its report, 'Towards A Strong Careers Profession&nbsp;in England. The report makes 14 recommendations that focus on the actions needed to assure a high standard of professional practice throughout the careers workforce. This document reports on the progress made by those responsible for implementing the Task Force&rsquo;s recommendations.</p>
+<p align="left"><em><strong>The report sets out the Task Force&rsquo;s vision for the careers profession in England but has wider implications for the UK careers profession.&nbsp; The contents of the paper are available in the link below.&nbsp;A progress update was presented&nbsp;to John Hayes, Minister of State for Further Education, Skills and Lifelong Learning in March 2011.</strong></em></p>
+<p align="left"><strong><em>Can you spot innovation in the sub-text? If so, what does it look like and if you were the Minister what top 3 priorities would you choose to focus on?</em></strong></p>]]></description>
+          <pubDate>Mon, 16 May 2011 20:43:53 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Are training courses dead?</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5152</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5152</guid>
+              <description><![CDATA[<p>Stimulating review by Al Bird of the <a rel="external" href="http://www.c4lpt.co.uk/handbook/index.html">Social Learning Handbook </a>and the <a rel="external" href="http://www.lulu.com/product/paperback/working-smarter-fieldbook-|-september-2010-edition/14309750">Working Smarter Fieldbook</a>. Concludes that training and development professionals must show themselves to be credible. How? By focusing formal training where it works best (and weeding it out where it doesn't - especially when it's costly and unnecessary). Both books point to 'performance consulting' in their analyses of people-productivity challenges (as opposed to 'training needs analysis'). They argue that we should probe deep and look at what creates the 'problem' for an individual/team/organisation and what can be done to improve performance in a hard business sense. The answer will not necessarily be 'training' (it may involve, for example, clearer role definition, opportunities for collaboration, better performance management or regular coaching). 'As with some of my clients, better to knock off the word "training" and simply call it a "needs analysis"'. This means not prejudging the outcomes (as we are wont to do).</p>]]></description>
+          <pubDate>Tue, 15 Mar 2011 13:37:44 +0000</pubDate>
+            </item>
+                    <item>
+              <title>CPD for language professionals</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4701</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4701</guid>
+              <description><![CDATA[<p>What kind of CPD does a language professional need to do?</p>
+<p>Keep up to date - but with what?</p>
+<p>With the languages they work in?</p>
+<p>With the environment in which they work? What constitutes that environment?</p>
+<p>Should they learn new languages?</p>
+<p>To what extent do they need to know about running a business and marketing and market share and communications and developing their own profile and becoming an independent practitioner or a consultant?&nbsp;</p>
+<p>What are the risks if they become too well known and everyone is trying to contact them?</p>
+<p>How should they go about planning their own CPD? How should htey record and document it?</p>]]></description>
+          <pubDate>Wed, 20 Oct 2010 18:31:22 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Refreshing CPD</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2200</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2200</guid>
+              <description><![CDATA[<p>I am trying to develop ways of delivering CPD on the use of technology with teaching staff who are increasingly pushed for time and would welcome others' experiences of approaches they have taken.</p><p>Contact details: merv.stapleton@citysun.ac.uk</p>]]></description>
+          <pubDate>Thu, 03 Sep 2009 09:14:40 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

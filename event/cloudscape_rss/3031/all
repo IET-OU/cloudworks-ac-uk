@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Cloudstream for Networking for capacity development in Higher Education</title>
+    <link>https://cloudworks.ac.uk/</link>
+	<description>Cloudstream for Networking for capacity development in Higher Education</description>
+	<dc:language>en</dc:language>
+	<dc:creator>cloudworks@open.ac.uk</dc:creator>
+	<dc:rights>Copyright 2019 </dc:rights>
+	<admin:generatorAgent>
+    <atom:link href="https://cloudworks.ac.uk/event/cloudscape_rss/3031" rel="self" type="application/rss+xml" />
+    		    <item>
+	      <title>Networking for capacity development researchcloud added to the cloudscape Networking for capacity development in Higher Education by Ashwini Datt</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11854">Networking for capacity development research</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/3031">Networking for capacity development in Higher Education</a> by <a href="https://cloudworks.ac.uk/user/view/2997" rel="author">Ashwini Datt</a></em>]]></description>
+	  	  <pubDate>Mon, 29 Oct 2018 02:32:44 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+	    </channel>
+</rss>

@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: OLDS MOOC</title>
+        <link>https://cloudworks.ac.uk/tag/rss/OLDS+MOOC</link>
+        <atom:link href="https://cloudworks.ac.uk/tag/rss/OLDS+MOOC" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds tagged OLDS MOOC</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>My Design narrative to  OLDS MOOC 2013</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8142</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8142</guid>
+              <description><![CDATA[<p><strong>Design Narrative</strong></p>
+<p dir="ltr">Yishay Mor, <a href="mailto:Yishay.Mor@Open.ac.uk">Yishay.Mor@Open.ac.uk</a></p>
+<p><strong><strong><img src="https://lh6.googleusercontent.com/m6zO8CMbX-tWRzTYvqCih2tRFwjxCVJPTrHkEXrG-yjaY2oeTJfwNP8RxpJRuX9z4E-a20odqFCsZrjAoOs3PCu0Il18jYYANqxIt0KmMKcTlRrZsURE2zGeeA" alt="" width="117px;" height="41px;" />This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/2.0/uk/deed.en_GB">Creative Commons Attribution-ShareAlike 2.0 UK: England &amp; Wales License</a>.<br /><br /></strong></strong></p>
+<h1 dir="ltr">Summary</h1>
+<p dir="ltr">The story of Romulus and Remus and the foundation of Rome tells of brothers building a wall to enclose their new city. One brother builds his wall tall, the other low. Months .. or years later the two weels finally meet up. Remus is proud of his 2m high wall that is some 100m long, while Romulus has a 30cm wall that runs for some &nbsp;3km. Remus mocks his brother's efforts and runs back and forth leaping over the low wall. Romulus picks up a shovel and smashes Remus on the head. This is why we call it Rome.</p>
+<p dir="ltr">In this example there are two ways to build the wall. When it comes to e-learning design there are probably a thousand variations. I feel us we were being confined to the Remus model. That like it or not there are 8 steps and at each stage you have to build the wall 2m high.</p>
+<p dir="ltr"><strong>Some necessary simple questions to ask before all of this:&nbsp;</strong></p>
+<p dir="ltr"><em>(Coming from the commercial sector if a project isn't profitable then half the staff might not have work by the time you end ... half the staff are freelance contractors anyway. This sharpens that mind compared to those in education on fulltime, salaried contracts).&nbsp;</em></p>
+<p dir="ltr">What's the budget?</p>
+<p dir="ltr">When do you want it?</p>
+<p dir="ltr">If the budget is &pound;6 and do it by the weekend your response is going to be somewhat different to being told the budget is &pound;6m and you have seven years.&nbsp;</p>
+<p dir="ltr">I might add other questions such as:</p>
+<p dir="ltr">Who is paying for it?</p>
+<p dir="ltr">What are there expectations?</p>
+<p dir="ltr">For everything else I'd work on a brief that would have to be expressed in less than 350 words on a single sheet of A4 paper. Or, to put it in Web 2.0 terms, five tweets to the following questions:</p>
+<p dir="ltr">What is the problem?</p>
+<p dir="ltr">What is the opportunity?</p>
+<p dir="ltr">Who are we speaking to?</p>
+<p dir="ltr">What do you want to say?</p>
+<p dir="ltr">How do you want them to respond to this message?</p>
+<p dir="ltr">What else do we need to know?</p>
+<p dir="ltr">The detail would come later.&nbsp;</p>
+<h1 dir="ltr">Context</h1>
+<p dir="ltr">What were the conditions and constraints in which your design experiment was situated?</p>
+<p dir="ltr">.Online, for me this mean STANDING at the dining room table. This is my office. After some Horizon programme on health I now stand all day. Works for me, in fact I find I am more alert and have had no back or no strain since &hellip; though the ball of my left foot doesn&rsquo;t like it and I&rsquo;ve warn through the slippers my daughter bought me for my birthday. This is context for me. The dog watches me all day expecting to me taken for a work. The &lsquo;footfall&rsquo; is such morning and later afternoon that I am disturbed by family members at meal time. Come to think of it, I prepare these meals so that&rsquo;s another period of disruption to me day. 4 x 3 hours across the day is how I try to operate. That is before breakfast, after breakfast, after lunch and after dinner.</p>
+<p><strong><strong>&nbsp;</strong></strong></p>
+<p dir="ltr">I don&rsquo;t recommend it. In the past I have walked up the road or driven a few miles to an office. In future I would hope at least to have an office &lsquo;down the garden&rsquo;.</p>
+<p><strong><strong>&nbsp;</strong></strong></p>
+<p dir="ltr">This context has the potential to be highly disrupted as the ebb and flow of family life runs through the house - teenage children at, or not at school and my wife who also works from home even more stressed when she has no work than when she does. When she has work lucky her enters her study and is only ever seen at meal times &hellip; and perhaps if either she wakes me late at night, or I wake her early in the morning.</p>
+<p><strong><strong>&nbsp;</strong></strong></p>
+<p dir="ltr">This is the context. I could relate this to years in various production and agency offices working on linear then, as we quaintly called it &lsquo;non-linear&rsquo; interactive training. More recently experience of the 9 to 5 has been blissful as a team of 8 on a project in an office of 50 or so hunker down collectively to the task in hand. In this context an e-learning project, like producing TV and video (and film) where I have experience, runs almost like clockwork. I say almost because occasionally there is an overnighter or weekend panic. &nbsp;I have a dream context it would be the new Google-plex, especially with the opportunity to camp out on the roof if you&rsquo;ve got a deadline and would prefer to hang out around the office.</p>
+<h2 dir="ltr">Material</h2>
+<p dir="ltr">What are the spatial characteristics of the settings? What tools and resources are available to protagonists?</p>
+<p><strong><strong>&nbsp;</strong></strong></p>
+<p dir="ltr">See above. Kit is one desktop, two laptops and an iPad. A scanner and digital camera. Art materials. A print on the wall is taken down in the morning and replaced with a white board. I resist the guitar, TV and piano. Though there is a game of chess in permanent suspended animation between my son and I. The greater distractions are the ability and desire to read niche books and download papers before I add a fullstop to the end of a sentence</p>
+<h2 dir="ltr">Social</h2>
+<p><strong><strong>&nbsp;</strong></strong></p>
+<p dir="ltr">Who are the protagonists, what are the relationships between them, and what are the social and institutional configurations in which they operate?</p>
+<p><strong><strong>&nbsp;</strong></strong></p>
+<p dir="ltr">I am used to working online. In 1999 I was in touch with a writers group through my blog that ran &lsquo;til 2004. Our office was a cloud somewhere above the North Atlantic that shifted as other members moved in turn to Japan, then South America, Scotland &hellip; then back to North America. Even in an office I work online, typically using a wiki like collaborative e-learning design/build platform. This is genius. Each project may have between 5 minimum and 8 people on it - more where assistance is required or the deadline gets close - which are also points where around the office people start to gather to meet and those working from home come in. I&rsquo;ve done this too as a postgrad student - I forget which MAODE module but six of eight gelled on a two work collaborative project between New Zealand, Thailand, Germany and the UK. In the OLD MOOC one, then two then occasionally, perhaps three of us worked on the same project. It was touch and go and after five weeks it fizzled because the &lsquo;team leader&rsquo; as it were who had been instrumental in galvinising a couple of us to join in felt they could no longer do it. Perhaps she&rsquo;d got the answers she needed. I do rather think that a couple of meetings and a solution was in place &hellip; find the right person to ask how? and you take their response on faith and you are done without having to plan the construction of the Empire State Building. Designing a one hour e-learning intro to multimedia is vastly different to designing a 60 credit MBA module on creative problem solving. I don&rsquo;t even think they compare if we were to use the metaphor of architecture (Christopher Alexander, 1970). One was a few bricks to make an outdoor BBQ, while the other is a self-build six bedroom house. (with indoor swimming pool).</p>
+<p><strong><strong>&nbsp;</strong></strong></p>
+<p dir="ltr">I have written screenplays and TV &hellip; no more credits than a short on Channel 4. I hear &lsquo;protagonist&rsquo; and I need the antagonist and an entire family of other characters. Narrative is driven by conflict. This is where the metaphor or structure is weak - there should be no conflict where there is collaboration.</p>
+<p><strong><strong>&nbsp;</strong></strong></p>
+<p dir="ltr">If there were to be an &lsquo;antagonist&rsquo; then it would be Cloudworks. It has a character of its own which I&rsquo;m afraid I would described as doomed - rather like the Titanic. There was conflict in this narrative and it was always with the platform. Importantly the other characters, the players were the extraordinary array of character actors, the big name e-learning academics who have been schedule in for a star turn each week. They are players in this performance &hellip; as they led each week, and happily shared thoughts with us directly. Indeed, contact with the gliteratti of e-learning who for an MAODE student have been largely noticeable by their absence during the last three years - figure heads while moderator/facilitator tutors with very varied interest guide the students through &hellip; but I&rsquo;m wandering onto a different stage.</p>
+<p><strong><strong>&nbsp;</strong></strong></p>
+<p dir="ltr">As players, these e-learning top guns, perhaps with a vested and professional and academic interest in how the MOOC plays out have been exception - all educators who, escaping the restrictions of distance and online learning, would surely enjoy and gain from &lsquo;teaching&rsquo; by giving lectures from time to time, but more importantly sitting down with students in tutorials too. I think the loop into cyberspace with e-learning is coming home and that the desire by students and tutors alike will be to have more face to face, online and in person. I cannot help but KNOW that had those of us in our MOOC group who could have said, let&rsquo;s all meet in person in such and such a place that that meeting would have bound us as a team to the end of the MOOC. This is why meetings still happen.</p>
+<h2 dir="ltr">Intentional</h2>
+<p dir="ltr">What are the protagonists beliefs, desires and intentions, which shape the problem space?</p>
+<p><strong><strong>&nbsp;</strong></strong></p>
+<p dir="ltr">This &lsquo;space&rsquo; does exist where there is a fixed landscape, even one that is online via a blog, a common social group or website. This &lsquo;problem space&rsquo; where the protagonists meet has to have a sense of space and place. In Cloudworks, and this is my second effort to work in it, the reflection of real-life hubs and nodes simply do no exist. I still find it impossible to log directly into my own cloud, let alone find those of the groups I took an interest in or get back to the base camp. In our group we rapidly debunked to email and Google docs. I&rsquo;ve done this on other platforms too - in a student group where Elluminate had failed twice, or the tutor was clueless at how to operate that construction from the mind of Professor Brainstorm, we debunked successful and repeatedly to Google Hangouts - the ultimate bond being a &lsquo;pyjamma party&rsquo; which reminded me that none of us wanted to do any of &lsquo;this&rsquo; unless it was fun. .</p>
+<h2 dir="ltr">Force Map</h2>
+<p><strong><strong><img src="https://lh4.googleusercontent.com/fx3oTWyy8GIBB77-qqgzz1v2IFnG3_xwux_E5O3c9RA_wDKYiyEx5Nbxp6heWUDYH6UxV0put5SoaWsuW6OU-5V6251p0iPHYvsblfXQXBrMRcD-AVIa4VLbRw" alt="" width="348px;" height="522px;" /><br /><br /><br /></strong></strong></p>
+<p dir="ltr">This may pre-empt the MOOC by a week but expresses three things in relation to team work</p>
+<p><strong><strong>&nbsp;</strong></strong></p>
+<p dir="ltr">a) top down hierarchical</p>
+<p dir="ltr">b) democratic</p>
+<p dir="ltr">c) everyone pitches in</p>
+<p><strong><strong>&nbsp;</strong></strong></p>
+<p dir="ltr">For me this might illustrate working on a programme of work or curriculum for a school ten years ago, working on a creative project in the last five years where everyone has direct contact with each other and finally, online collaboration where not only can you be inside each other&rsquo;s heads and beds (see Google Hangout above), but there can be, for good or bad, other interlopers and powers getting involved.</p>
+<p><strong><strong>&nbsp;</strong></strong></p>
+<p dir="ltr">This could also be drawn up in a series of Activity Theory plans &hellip; not just from first to third generation, but in the final episode in which an activity system, like icicles in spring, melts.</p>
+<h1 dir="ltr">Challenge</h1>
+<p><strong><strong>In advertising and corporate communications we might create a campaign to launch a new beer in a country, launch a new range of cars, or run a Government health awareness campaign over three years and it is reduce to A SINGLE PAGE OF A4.<br /><br />The most important question is;<br /><br />What is the problem?<br /><br />If there isn&rsquo;t a problem there can be no answer, no advert, no campaign. The same applies to academic research - the proper research question has to be to address a problem. If there isn&rsquo;t a problem then the enterprise is already a shopping trolley with a missing wheel. This applies to EVERY training video, every interactive DVD, or web-based learning project I have been involved with. It there isn&rsquo;t a problem to fix then the learning is unnecessary. If you cannot express it as a problem, then stop. <br /><br /></strong></strong></p>
+<p dir="ltr">The advertising brief continues:</p>
+<p><strong><strong>&nbsp;</strong></strong></p>
+<p dir="ltr">Who are you speaking to?</p>
+<p dir="ltr">What do you want to say?</p>
+<p dir="ltr">How do you want them to respond to this message?</p>
+<p dir="ltr">Is there anything else we need to know.</p>
+<p><strong><strong>&nbsp;</strong></strong></p>
+<p dir="ltr">And all of this must be researched and worked on until it can be kept to a SINGLE SHEET OF A4. i.e. a sentence or two in response to each of these questions.</p>
+<p><strong><strong>&nbsp;</strong></strong></p>
+<p dir="ltr">I apply this to running a 12 week series of classes in Primary School, a day long workshop on revision techniques, a 9 month squad swimming programme, an hour long e-learning module, an 8 minute short film, a poster campaign for the local sailing club, teaching 3,000+ swimming teachers how to fix breaststroke &hellip;</p>
+<h1 dir="ltr">Theoretical / Pedagogical Framework</h1>
+<p><strong><strong>&nbsp;</strong></strong></p>
+<p dir="ltr">See above.</p>
+<h1 dir="ltr">Actions</h1>
+<p><strong><strong>I proposed a &lsquo;design&rsquo; that has worked dozens of times before - a weekend workshop with no need to do anything online. Indeed, having been made to think it through that was the conclusion. <br /></strong></strong></p>
+<h2 dir="ltr">Obstacles</h2>
+<p dir="ltr">Two, maybe three &hellip; or was it four complete strangers, all busy full time elsewhere, most of us new to this game, trying to commit to something were increasingly we felt lost. From beginning to end I had no idea whether there were 10 people, maybe 25 people or just 3 doing the MOOC. If there were a 1000 then I never had any sense of this, not a stream of tweets and messages, not long lists of names. None of it. In sharp contrast the last two MOOCs I have taken an interest in I felt as if from day one there were 10,000 people sharing the same Ferry<a href="http://www.youtube.com/watch?v=wNC5iLNguRQ"> energizing</a> in and out by transporter</p>
+<h1 dir="ltr">Results</h1>
+<p dir="ltr">A three person team became two, then none.</p>
+<p dir="ltr">Despite expressing interest in four other projects NOT ONE of these people came back in any shape or form to express an interest in my contributing to their effort. I pitched in some ideas, was ignored &hellip; so in turn ignored them.</p>
+<h1 dir="ltr">Reflections</h1>
+<p dir="ltr">Never again on Cloudworks. Ever.</p>
+<p><strong><strong><br /><br /></strong></strong></p>
+<h1 dir="ltr">Data and References</h1>
+<p><strong id="internal-source-marker_0.7300101411528885"><br /><br /><br /><br /></strong></p>]]></description>
+          <pubDate>Fri, 01 Mar 2013 19:36:05 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Bees OLDS MOOC learning journey</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8064</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8064</guid>
+              <description><![CDATA[<p>Learning &nbsp;journal of OLDS &nbsp;MOOC</p>]]></description>
+          <pubDate>Sat, 16 Feb 2013 22:43:48 +0000</pubDate>
+            </item>
+                    <item>
+              <title>OLDs MOOC Wk4 PPC Coaching swimmers with a disability OK</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7976</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7976</guid>
+              <description><![CDATA[<p><strong>To What End: Coaching athletes with a disability</strong></p>
+<p><strong>By what Means:</strong> &nbsp;Briefing, &nbsp;Planning Data Collection, &nbsp;Collecting data, &nbsp;Analysing data and presenting data as evidence, &nbsp;Reflecting on practice using evidence,<br />Total session time: 180 minutes.<br /><br /><strong>TLA 1: Briefing time allotted =20 minutes</strong><br /><br />Coach introduces the importance of focusing on the abilities and strengths of the disabled athlete. This required gaining the trust and builing a rapport with the athlete, using what they can tell you about their experience. &nbsp;(teacher facilitated , group size: 12, Read Watch Listen - &nbsp;20 minutes)<br /><br /><strong>TLA 2: Planning Data Collection time allotted =20 minutes</strong><br /><br />Students are grouped into small teams with an athlete to consider how a training plan might be adopted to suit their purposes. &nbsp;(independent , group size: 3, Collaborate - &nbsp;20 minutes)<br /><br /><strong>TLA 3: Collecting data time allotted =60 minutes</strong><br /><br />Two only with an athlete go poolside to work on a skill. &nbsp;(independent , group size: 2, Practice - &nbsp;60 minutes)<br /><br /><strong>TLA 4: Analysing data and presenting data as evidence time allotted =60 minutes</strong><br /><br />The teams select the best examples of evidence in the recorded data and share them with the rest of the group, providing an explanatory summary for each piece of evidence (independent , group size: 6, Collaborate - &nbsp;30 minutes)<br />All class members explore the collected materials (independent , group size: 12, Collaborate - &nbsp;30 minutes)<br /><br /><strong>TLA 5: Reflecting on practice using evidence time allotted =20 minutes</strong><br /><br />The teacher uses the collected materials as stimuli to facilitate a discussion amongst the whole group about the links between students' own &nbsp;and the general principles of &nbsp;(Discuss - 45 minutes) (teacher facilitated , group size: 16, Discuss - &nbsp;20 minutes)</p>]]></description>
+          <pubDate>Fri, 08 Feb 2013 10:55:00 +0000</pubDate>
+            </item>
+                    <item>
+              <title>OLDs MOOC Wk 4 NOTES</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7974</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7974</guid>
+              <description><![CDATA[<p><strong>Further notes on OLDs MOOC Wk4</strong></p>
+<p>Verbatim notes written as I went through the various stages of ignorance and befuddlement, to confusion and 'anger' ending in enlightenment and joy! A not untypical learning curve for me whether learning to drive, bake a cake, or learn new software.&nbsp;<br /><br />It took me several hours over a few days to try and get the terms and groups defined by Grainne Conole from Week 3 into my head - to start again, brushing these aside, makes me feel like someone who has tried to learn the violin in order to play in an orchestra and is now asked to pick up a saxaphone in order to play in a jazz band. Same language - music, but different terminology, different instrumentation, different culture and groupings &hellip; and no doubt a different potential outcome for a different audience &hellip; all ideally decided in the first place by the nature of the problem that I am trying to address. &nbsp;We need a common language for learning design - and then to have credible, easily understood terms that everyone can believe in. <br /><br /><strong>Labels, flags and categories are required, but I want are IMAGES &hellip; of video clips.</strong> <br /><br />I want to see what this entails, experience it for myself and lodge these memories and experience in my mind in a way that my mind can understand. I sometimes feel that I am trying to learn the impossible in an distance, online experience - like trying to learn to tap dance using PowerPoint Slides when all I need and must do is to &lsquo;get out there&rsquo; and physically engage. I am a professional writer. I live by and for words. I see a column of words out of context and need definitions that mean something to me. If I think the wrong word is being used I will say so as it is vital that everything has a common understand of what is meant - I don&rsquo;t think people do. I think we all have very different takes on what they mean or refer to, not least because our experiences will be so very different. &nbsp;It&rsquo;s a times like this when I want to say, &lsquo;explain it to me in French&rsquo;.<br /><br />For a list of reasons the PPC video lost me &hellip; out of context, couldn&rsquo;t get my head around it, don&rsquo;t relate to it, don&rsquo;t like the look and feel, and just could not figure out what the speaker meant or was saying because of the bizarre stresses on English words. For a piece of communication it failed to communicate anything other than confusion. <br /><br />None the wiser. <br /><br />A number of screens or windows are offered from &lsquo;Understand authentic practice&rsquo; but I am quite unable to find &lsquo;classroom teaching&rsquo; as an instance so cannot click on it. By inference terms I am still getting my head around from Week 3 courtesy of Grainne Conole and JISC should now be replaced. It is vital that there are commonly used and understood terms throughout. We cannot or should not be expected to master two or more new languages like this. No wonder there is confusion or lack of collaboration. <br /><br /><strong>Last week I was told to use Greek, now I&rsquo;m being told to use Latin. English would do.</strong> <br /><br />Here I guess I could refer to the Google Spreadsheet I created imagining how activities might be split across a 32 hour course on use of DIY Multimedia in Higher Education. Or I could design another one, perhaps building on ASA Level 3 Coaching, or imaging a creative course for D&amp;AD or something in relation to spaced education in medicine.<br /><br />I could see myself working on paper, or with several colleagues on a vast whiteboard, with a mixture of people with experience of the system or with particular curriculum design experience or subject matter expertise. It is a joint effort though.<br /><br /><strong>Unable to Zoom control the screen so viewing and use of the windows is compromised.</strong><br /><br />Changed all text into a scenario I am familiar with so can quickly see how it could be applied. <br /><br />My first go<br /><br />In teaching coaches how to work with athletes with disabilities it is straightforward to imagine a pattern of activities and how this is divided over a period of time given your resources, students other participants and location. Once a programme has been built and carried out this pattern might be shared and copied, with notes on how to adapt or improve it. The pattern may work across sports. A pattern for a particular skill set might be repeated in a single sport, say the &lsquo;transition&rsquo; in swimming between each of the four competitive strokes, so a pattern created for Breaststroke would be applied to Front Crawl, Butterfly and Backstroke. <br /><br />Yes, it has to be based on personal experience as a student and as the educator &hellip; or other participant/contributor. Based on a context, or context and specific to those learning goals. It is then possible to project yourself into variations on this pattern based on a different student group, or learning objectives, as well as resources in relation to the time, space(s) and how assessed or reviewed. <br /><br /><strong>This worked, in fact I&rsquo;d say I started to fly so I then imagined a weekend curriculum for the DIY Multimedia Course.</strong><br /><strong id="internal-source-marker_0.34299647551961243"><br /><br /><br /></strong></p>]]></description>
+          <pubDate>Fri, 08 Feb 2013 10:38:17 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Cris Neto&#39;s Pedagogical Pattern</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7942</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7942</guid>
+              <description><![CDATA[<p>Well, it seems I've managed to publish my PP on PPC :)</p>
+<p>It is called "Understand authism" and you can find it in "User generated patterns" under the filter "comprehension", which I'm not sure should be the right category for the kind of activities which are proposed.</p>
+<p>So I'd like to know that. I also wonder about the time alloted for each activity, as I've established almost at ramdon....</p>]]></description>
+          <pubDate>Mon, 04 Feb 2013 00:49:22 +0000</pubDate>
+            </item>
+                    <item>
+              <title>OLDS MOOC Week 3 Hang Out</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7913</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7913</guid>
+              <description><![CDATA[<p>It's taken me three hours to go through the hour long Google Hang out.</p>
+<p>I've extracted Prof. Grainne Conole from the mix here</p>
+<p><a title="7cs larnica" href="http://mymindbursts.com/2013/01/31/learning_design_7cs/"><strong>The 7Cs of Learning Design and the Larnica Declaration&nbsp;</strong></a></p>
+<p>I'll make more of my notes in due course, in particular the insights offered by Australian Maths teacher Penny Bentley. This grounds us all in what education means running a class with a group of 30+ teenagers across the broadest spectrum of interest and ability.</p>
+<p>In truth how often do we understand how users actually behave when they use e-learning? Let's see them at home, tracking thier use and behaviours. Some task.</p>
+<p><strong>We do a lot of this planning without calling it the 7cs.</strong><br /><br />I&rsquo;m thinking from the POV of my students how I get the message across.<br />You never want to dumb it down, but to try to get the teenagers to understand what you are talking about you use different diagrams and words, metaphors and analogies.<br /><br /><strong>So 7Cs could be a learning task.</strong><br />As a maths teacher what would fit this framework.<br /><br /><strong>Creativity and precision go hand in hand.</strong></p>
+<p>Driven by standardised testing. This is mapped out for them. How do you creatively present that to your students?<br />Are they from an aboriginal community?<br />Are they from a youth detention centre?<br />So have a problem with the idea of personas.<br />I walk into a class of 30 and have the very bright, who won&rsquo;t do more of the same, they need to be extended.<br />Middle ground.</p>
+<p><strong>Bright, but disengaged. They want more &hellip; so how do you reach them</strong>.</p>
+<p>Then those who need learning support, such as with Aspergers syndrome, highly<br /> stressed in busy, open plan group work when they need solitute, isolation and peace and quiet to be creative.<br />Trying to address these temperaments is the issue.<br />e.g. who has done a 360 on their skateboard. They recognise a 360 circle in their context.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Thu, 31 Jan 2013 13:07:54 +0000</pubDate>
+            </item>
+                    <item>
+              <title>My  idea</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7869</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7869</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Wed, 30 Jan 2013 18:48:33 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Reflections 27/01/13</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7860</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7860</guid>
+              <description><![CDATA[Slim pickings so far in terms of records of my learning or reflections on this MOOC. S far, it's been too much just trying to keep up with the activit it's each week, and staying in contact with my superb project group.  
+
+In week 2 we worked on scenarios and personas for our nascent project, guidance materials for DIY multimedia. For me, as I suspect for other people, this was an opportunity to convey what we hope to get of this project by ideating typical scenarios. That's what I think I'e done anyway.  I think, however, that its helped the group to work on something concrete and several ingesting issues have come up around the convergence between learning design and inclusive design of multimedia. 
+
+Already behind on week 3, I'm trying to get to grips with some of the material to do with scenarios, before I get further behind with new material. In the true style of this MOOC, what I'm reading (http://www.interaction-design.org/encyclopedia/personas.html) was suggested by a team member. It's potentially an intensely useful tool for thinking about student moodle inductions and how these can be embedded further into the curriculum. Totally irrelevant to the issues at hand and possibly something to explore elsewhere. ]]></description>
+          <pubDate>Sun, 27 Jan 2013 20:00:14 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Scenario for DIY MUltimedia Project Group</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7859</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7859</guid>
+              <description><![CDATA[My drafted scenario, written partly as a brainstorming activity for the DIY MUltimedia project group. here, I've tried to bring to life some of my ideas for why I like this project, and how it could be relevant to my work.
+
+Actors: Ellie is a lecturer in Sociology at a university. She teaches a core module on social theory to a large undergraduate course.
+
+Goals: She wants to use video to explain and illustrate the theories she teaches on the course. These videos should briefly summarise the theory and then put it into context by creating and illustrating an example of the theory in practice. The videos should also prompt students to think about how this made- up example relates to the required reading each week.
+
+Settings: Ellie imagines students using the videos at home, at the start of the course or during the week in between lectures and the seminars. She will create the videos over summer before the course starts in the autumn term.
+
+Objects: Ellie expects students would use the videos outside of class times so they would need a device to playback the videos - laptop, PC or tablet etc. Ellie would need equipment to record and publish the pieces: a handheld camera or screen capture software and a webcam/USB microphone. She would need access to a podcasting service or a similar online service to store and host the videos.
+
+Actions: Ellie has tried searching YouTube, TED and other resources for similar videos but has decided she needs to create her own because she needs the videos to be short, focussed and to link together. She begins writing the script of the first video.
+
+Events: Ellie finishes the script. It is 3 pages long and will be about 10 minutes when read out. She then creates a powerpoint presentation intending to us a screen capture system to record herself talking over the powerpoint slides. She finds a free online service and begins to make the first recording. It is really difficult to get through more than a couple of minutes without making a mistake but the software only allows one-shot recording with no facility for editing.
+
+Results: Ellie realises she will have to use a different process for creating the videos. She needs to be able to sequence several different shots into one piece. She also needs a learning design approach which will encourage students watching the video to ask themselves questions as they watch.
+
+Your design: Ellie needs technical advice on how to create the videos, but also needs a pedagogic framework which can help her make these videos into learning resources.
+
+2) Develop a narrative scenario/s
+Introduce actors and goals, describe the settings, put the events in order...
+
+Ellie is a sociology lecturer teaching a core module to first year undergraduates on social theory. She has found in previous years that students find the reading for the course challenging, much of the required reading for the course is dense theory and students have difficulty imagining how such theories might be used to explain “real life” examples.
+
+She decides that for the coming year she would like to try using multimedia to illustrate and explain the concepts covered on the course. She happened across some videos of interviews with leading academics discussing economics and would love to find something similar for sociology. However, after a lot of searching online she can’t find anything completely relevant to the topics covered in her course. She wants these videos to help students understand the reading for the course, not to seem like extra reading in themselves, so it is important that the videos are focussed and relevant to the content of the course. She decides to create the video resources herself.
+The course reading list, module guide and lectures are already prepared and will need little adaptation for the coming year. Ellie therefore decides she just needs to script the videos, prepare the made-up examples to illustrate each concept, and record them.
+
+One week later she has scripted the first video and devised the example which will feature in it. She has also created a powerpoint presentation which she envisages will show in the video as she talks. She finds some free online software to use for screencapture and makes a first attempt at recording the video. It is very difficult; she finds it hard to talk without making mistakes and has to continually start over again. There is no facility for online editing. Also, Ellie feels that in this format the videos are more like recorded mini-lectures whereas she imagined them being more like short films almost a bit like documentaries. She wants to build in questions to the students watching the videos and isn’t sure how she can do this with the current set up she is using.
+
+Ellie needs technical advice because she realises that each video may have to be made up of several different shots or takes and she’s unsure how she could achieve this. However, beyond technical advice she also thinks she needs some advice on scripting and structuring the videos because there is the potential for them to be less useful to students as she first hoped. She wants the videos to help bring the theories “to life” for students and encourage students to think about them in real-world examples.
+
+
+3) Scrutinize your scenario & revise as necessary
+
+What claims are you making: for your designs? about context? about the people involved? etc...
+
+Do these hold up? Summarise your claims below particularly those that you feel need more support. 
+
+Questions:
+- The design needs to give practical advice on two fronts: what tools/equipment would be best for this project? How should these videos be scripted to avoid passive watching, and to encourage the kind of learning the lecturer wants to take place?
+- Can an individual with little or no experience creating multimedia realistically achieve this project?
+Is her knowledge of the subject matter enough or will she need to work with a colleague, perhaps an instructional designer or learning technologist?]]></description>
+          <pubDate>Sun, 27 Jan 2013 19:47:44 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Scenario-based learning design</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7839</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7839</guid>
+              <description><![CDATA[<div>
+<h2><strong><em>TITLE: web 2.0 vs teaching 2.0</em></strong></h2>
+<p><strong style="cursor:auto"><!--NO CSS-->Actors </strong>(who is involved?)</p>
+<p>Teachers in primary and secondary school education</p>
+<p>Team of facilitators - depending on the number of teachers/participants to enroll.</p>
+</div>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Goals </strong>(why?)</p>
+<p>Train teachers to create more attractive dynamic digital resources to use in the classroom.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Settings</strong> (where &amp; when?)</p>
+<p>The training will take place in post-working hours for a period of 4 weeks. This project aims to be firstly a version in the b-learning system, to facilitate the integration of teachers who have more difficulty or are more adverse to novelty and innovation. . But during the weeks the regime will tend to direct into the e-learning system.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Objects </strong>(what things are involved?)</p>
+<p>Computer / Desktop / tablet PC/ notebook / iPhone / smartphone, Internet connection, course platform, email and free Web 2.0 tools.</p>
+<p>&nbsp;</p>
+<p><strong>Actions</strong> (what happens to actors?)</p>
+<p>The course is provided by the Teachers&rsquo; Training Centre, through the Ministry of Education and announced in every school.</p>
+<p>&nbsp;</p>
+<p><strong>Events </strong>(what do actors do?)</p>
+<p>After a registration on the platform that will serve as the basis of the course, students will be asked to perform various tasks to be published in digital e-portfolio. They are then called to reflect and share ideas on thematic forums on the tools in use. The facilitators will give feedback in a maximum period of 24 hours.</p>
+<p>&nbsp;</p>
+<p><strong>Results</strong> (what is achieved?)</p>
+<p>Realization of digital resources using Web 2.0 tools to make an e-portfolio with all the digital resources used by participants, these separated by areas of interest.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Your design:</strong> (what role does your design play?)</p>
+<p>The project is to help teachers produce more attractive and creative digital resources with the use of web 2.0 tools in order to assist in their teaching roles.</p>]]></description>
+          <pubDate>Fri, 25 Jan 2013 23:14:15 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Cris Neto’s Scenario I – Learning how to work with autistic children</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7774</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7774</guid>
+              <description><![CDATA[<p><strong>Actors: </strong><em><a href="http://cloudworks.ac.uk/cloud/view/7697">Sofia</a>, 34, Natural Sciences teacher at a Secondary school</em></p>
+<p>&nbsp;<strong style="cursor:auto"><!--NO CSS-->Goals:</strong><em style="cursor:auto"><!--NO CSS--> Wants to learn ways to work with SEN children within the classroom. &nbsp;Sofia feels she needs to know more about dealing with SEN children as every year she has new students with some kind of disability. This year she has an autistic boy, aged 12.</em></p>
+<p>&nbsp;<strong style="cursor:auto"><!--NO CSS-->Settings:</strong><em style="cursor:auto"><!--NO CSS--> (where &amp; when?) Most of the work involved will be done at home, after work and weekends. During the day she may communicate through the platform and to any other work colleagues involved in the same situation, as they all face SEN children, sometime, in the classroom. Others may be joining the course or not.</em></p>
+<p>&nbsp;<strong style="cursor:auto"><!--NO CSS-->Objects:</strong><em style="cursor:auto"><!--NO CSS--> (what things are involved?) Mobile phone or tablet, laptop, platform &ndash; Moodle, as it is the official platform used by our official schools.</em></p>
+<p>&nbsp;<strong style="cursor:auto"><!--NO CSS-->Actions:</strong><em style="cursor:auto"><!--NO CSS-->&nbsp; (what do actors do?) The course is provided by the teachers&rsquo; training centre, through the Education Ministery and announced in every school. It will be held exclusively online. Sofia sees the announcement and decides to register to attend. She registers in the course&rsquo;s Moodle and starts exploring. She already knows Moodle as she works with it in her school. She only has to know her way around the course&rsquo;s environment.</em></p>
+<p>&nbsp;<strong style="cursor:auto"><!--NO CSS-->Events:</strong><em style="cursor:auto"><!--NO CSS--> (what happens to actors?) Sofia follows the activities anyway she can and completes them on schedule. She interacts with other users and other work colleagues who do not attend the course, discussing and exchanging ideas, trying to find out mutual difficulties experienced in the classroom.</em></p>
+<p>&nbsp;<strong style="cursor:auto"><!--NO CSS-->Results:</strong><em style="cursor:auto"><!--NO CSS--> (what is achieved?) Sofia finds out tools and activities she can use to promote her autistic student&rsquo;s success and engagement. She learns how to communicate with him and how to deal with him within his classmates.</em></p>
+<p>&nbsp;<strong style="cursor:auto"><!--NO CSS-->Your design: </strong><em style="cursor:auto"><!--NO CSS-->(what role does your design play?) The design will provide tools to design learning and communication activities to children with autism.</em></p>]]></description>
+          <pubDate>Thu, 24 Jan 2013 11:22:34 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Persona - Sofia</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7697</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7697</guid>
+              <description><![CDATA[<table style="height: 1095px;" width="454" border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="130">&nbsp;<img src="http://pixabay.com/static/uploads/photo/2012/04/13/00/09/old-31141_640.png" alt="old, people, lady, woman, faces, kids, face, person" width="119" height="95" /></td>
+<td valign="top" width="494">
+<p><strong>Name: </strong>Sofia</p>
+<p><strong>Gender: </strong>female</p>
+<p><strong>Age: </strong>34</p>
+<p><strong>Lives in </strong>Coimbra, Portugal</p>
+<p><strong>with husband Tom&aacute;s and son Gustavo, aged 3</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;Likes </strong>Natural Sciences, Ecology, Outdoor sports</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="130">
+<p><strong>Education and experience</strong></p>
+</td>
+<td valign="top" width="494">
+<p>Master Degree Natural Sciences, been a teacher for 11 years</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="130">
+<p><strong>Role and responsibilities</strong></p>
+</td>
+<td valign="top" width="494">
+<p>Secondary education teacher on Natural Sciences</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="130">
+<p><strong>Technical skills</strong></p>
+</td>
+<td valign="top" width="494">
+<p>Average ICT competences</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="130">
+<p><strong>Subject domain skills and knowledge</strong></p>
+</td>
+<td valign="top" width="494">
+<p>Natural Sciences</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="130">
+<p><strong>Motivation and desires</strong></p>
+</td>
+<td valign="top" width="494">
+<p>Often has children with SEN in classroom, doesn&rsquo;t know how to deal with them</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="130">
+<p><strong>Goals and expectations</strong></p>
+</td>
+<td valign="top" width="494">
+<p>Wishes to adquire skills and tools to work with SEN children within the classroom, specifically with her autisitc student.</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="130">
+<p><strong>Obstacles to their success</strong></p>
+</td>
+<td valign="top" width="494">
+<p>Spare time to invest in self-learning, school environment doesn&rsquo;t sustain innovation, due to overwork</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="130">
+<p><strong>Unique assets</strong></p>
+</td>
+<td valign="top" width="494">
+<p>Strongly motivated, despite work environment</p>
+</td>
+</tr>
+</tbody>
+</table>]]></description>
+          <pubDate>Thu, 24 Jan 2013 11:23:24 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Week 1 Reflection </title>
+              <link>https://cloudworks.ac.uk/cloud/view/7666</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7666</guid>
+              <description><![CDATA[<p>Found Week 1 thought provoking and challenging.&nbsp; Have been grappling with the variety of sites/programs being used in the program and think I've managed to upload information where I shouldn't be and probably not much to where it should be.</p>
+<p>Will work on this next week!</p>
+<p>The articles contained some thought provoking ideas which have challenged my thinking about learning design.&nbsp; My idea is not a MOOC nor using virtual worlds or others discussed ... but about providing a learning experience within an organisation which is moving further into the elearning space.</p>
+<p>Many are not ready for the world of MOOC, however they do need to 'get on board' or be left behind and this will be interesting to observe over the coming months/years.</p>
+<p>Choosing one idea from Week 1 .... ask myself 'why did I create the course in this way?&nbsp; what other options are available and why didn't I choose these?'</p>]]></description>
+          <pubDate>Sun, 20 Jan 2013 23:47:34 +0000</pubDate>
+            </item>
+                    <item>
+              <title>My dream: web 2.0 vs teaching 2.0</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7646</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7646</guid>
+              <description><![CDATA[<p align="left"><strong>Your situation (context)</strong></p>
+<table width="610" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top">
+<p>Teachers nowadays are asked to update themselves on the materials they use to give lessons in a more attractive way to their students. But the reality is that students sometimes have greater ease and knowledge in the use of technology, so it is important to equip teachers to find the tools at their disposal in web 2.0 for free. This project aims to be firstly a version in the b-learning system, to facilitate the integration of teachers who have more difficulty or are more adverse to novelty and innovation.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p align="left"><br /> </p>
+<p align="left"><strong>The change you would like to see (challenge)</strong></p>
+<table width="612" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="612">
+<p>The aim is to encourage teachers to use web 2.0 tools as attractive features for their classes. With the use of these resources in teaching, students will become more motivated and classes will have different dynamics, since the use of technology is always a motivating factor for students.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p align="left"><br /> </p>
+<p align="left"><strong>How you might go about bringing that change</strong></p>
+<table width="612" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="612">
+<p>The approach will be sought through a training regime in b-learning in order to motivate trainees and clarify any doubts that may occur at morecomplex moments in theclassroom. But the training will have a graduate scheme. In the beginning there will be more classroom sessions and toward the end of the training there will be the use of the e-learning system using videoconferencing one hour a week to clear doubts. The whole course will run from Moodle, Blog, GoogleDocs, Prezi, Youtube, Wikispaces, and videoconferencing amongst others &hellip;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Sun, 20 Jan 2013 13:05:20 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Jonathan Vernon&#39;s Mind Bursts - his OLDS MOOC Learning Journal</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7551</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7551</guid>
+              <description><![CDATA[<p>I'm always loath to start a blog or learning journal away from the platforms I've used for the last five years - Wordpress since 2007 (www.mymindbursts.com) 1500+ entries and as an OU postrgraduate student on the OU Student Blogging Platform since February 2010 (1000+ entries) ... and before this in Diaryland.com since 1999 1.5m words. I believe in the format, I've kept a diary for long enough. I rather like the idea of being able instead to blab into a webcam like Jack Sully in Avatar. I guess I could talk to Siri on the iPad but then it still has to be edited and posted somewhere ... here if it is to be shared (which is the whole point).</p>
+<p>My experience with learning online for the last three years (Masters in Open and Distance Education) is that when at this level someone says it'll take 'x hours' in the week I double the number before I decide if I can make the time - this takes care of needing to familiarise myself with the landscape. I can take 'x hours' and multiply by 4 if there is new software involved, even longer to the point of giving up if it isn't immediately obvious, intuitive and FUN. A fellow MOOCER pointed me towards Pearltrees and I feel in love. But then again, I take both a professional interest and have the boyish curiosity that makes me click on everything anyway. So we'll see.</p>
+<p>I've skipped in and out of week 1 trying to follow the instructions but feeling like one in a thousand playing a game of treasure hunt. Or, like one of several hundred on the first evening of an OU Residential School. With an added difficulty here - all Holiday Inn's look the same, but the platforms here are not. Even Cloudworks, which I tried during an MAODE module, looks as unfamiliar as it did 18 months ago. I couldn't get it then ... though I played ball, wrote and posted, but got no interaction. It felt like I was being sent into the jungle to list the flora and collect insects and meet fellow travellers but what I found as a desert full of chimeras.&nbsp;</p>]]></description>
+          <pubDate>Thu, 17 Jan 2013 22:02:10 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Will this help me learn?  My story</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7457</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7457</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Wed, 16 Jan 2013 19:52:02 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Terry&#39;s OLDS-MOOC learning journal</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7448</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7448</guid>
+              <description><![CDATA[<p>This is the place I will be posting missives and thoughts about this experience - just calling it a journal is going to make me not use it!</p>]]></description>
+          <pubDate>Wed, 16 Jan 2013 17:30:54 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Week 1 Reflection Bob R-S</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7443</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7443</guid>
+              <description><![CDATA[<p>My reflection's on my blog:</p>
+<p><a href="http://thedigitalday.wordpress.com/category/olds-mooc/">http://thedigitalday.wordpress.com/category/olds-mooc/</a></p>]]></description>
+          <pubDate>Wed, 16 Jan 2013 16:50:14 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Learning journal </title>
+              <link>https://cloudworks.ac.uk/cloud/view/7294</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7294</guid>
+              <description><![CDATA[<p>The first week of this MOOC has given me the distinct feeling of being Alice in Wonderland. There's been a rabbit-hole rush of things to get to grips with (Cloudscape, Google+, Twapper/Hootsuite <em>What?</em>) plus the bustle of activity swirling around me, and some conversations that seem just a step beyond my current understanding. I think fitting this in with the rest of life in the timeframes that we have is going to be tricky for me, especially when my initial attemps to upload/comment on other posts have been unsuccessful. Fortunately a small team of work colleagues are all participating, so we can support each other.</p>
+<p>I'm a learning designer and I have a number of current projects that I would love to utilise for my work in this mooc. I'm looking forward to exploring ideas and information with new people. I'm also looking forward to capturing my experiences of the whole process as we start to design and develop our own moocs. As far as this learning journal goes however, I already blog in Wordpress so I'll probably use that instead.</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Mon, 14 Jan 2013 09:53:34 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Auld Reekie Learners</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7252</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7252</guid>
+              <description><![CDATA[<p>An OLDS MOOC study circle for anyone living in the Edinburgh area.</p>]]></description>
+          <pubDate>Sun, 13 Jan 2013 20:08:04 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Learning Journal - OLDS MOOC</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7239</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7239</guid>
+              <description><![CDATA[<p>Reflective Journal to track my OLDS MOOC experience</p>]]></description>
+          <pubDate>Sun, 13 Jan 2013 18:43:49 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Daniel Staemmler: My dream: Design a webinar on how to design an engaging webinar</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7197</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7197</guid>
+              <description><![CDATA[<p><strong>My situation:</strong></p>
+<p>Most of our online education happens by using webinars which are held at a certain time live. The lecturer/ professor sits in front of his computer with the webcam on and presents his PPT-slides while the students are watching. Our students are professionals working during daytime and taking part after work in the lectures. For now we are using Adobe Connect as a virtual classroom platform. Most of the lecturers are busy with their regular day to day jobs and don't have much time to think about the difference of presenting in&nbsp; an online environment to a regular f2f classroom setting. Most live sessions last 90 minutes and the PPt slides are being posted on our internal student website. There also is a task posted for the students to recap the live-session and think about what they learned.</p>
+<p><strong>The change I would like to see:</strong></p>
+<p>I would like the webinars, which are pretty long with 90 minutes length to be more engaging and interactive for the students. Hereby needs to be taken into consideration that the students can only chat with the lecturer and maybe use other functions of the virtual classroom software. the challenge is that the students don't have the option for now to use audio and/ or video to converse with each other nor with the lecturer.<br />I also would like to see that lecturers are being briefed accordingly and take the time to consider the options the software offers and others to keep the students engaged.</p>
+<p><strong>How I might tackle this to bring the change:</strong></p>
+<p>Develop a curriculum for lecturers/ techers/ professors that shows them what has to be taken into consideration delivering a presentation as a webinar. Also familiarizing them with the options available that the software has they are using. More so, to keep the outcome of this proposed project generic, giving them some pointers on how to keep students engaged and incorporate them during a 90 minute presentation.</p>
+<p><em><strong>I hope that some of you are interested in working together with on this project. To state your interest please leave a comment below. </strong></em></p>]]></description>
+          <pubDate>Sun, 13 Jan 2013 13:34:14 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Don Parker - Introducing myself</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7194</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7194</guid>
+              <description><![CDATA[<p>I am the technology trainer for a large non-profit Foundation headquartered in the United States with field offices in Asia, Africa and Latin America.</p>
+<p>I write documentation, produce videos, create web resources and use other means to provide learning to help manage organizational technology change.</p>
+<p>The size of my organization (500+ staff) and the large number of topics for potential training, combined with the limited resources at my disposal, have combined to necessitate a lean, agile, skills-based learning design model which I have only recently begun to fully articulate and define.&nbsp;</p>
+<p>The central issue: traditional tools for producing and delivering learning-resources, be they live or remote classroom training, E-learning, videos, etc., are inadequate for my needs while being tremendously demanding to deliver and maintain. This is not, to say the least, a happy combination.</p>
+<p>My goal in this MOOC is to develop my knowledge of designing learning platforms with delivery elements that can be designed, delivered, measured, updated and reused using fewer resources, while at the same time providing a richer, compelling and empowering resource for my students.</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Sun, 13 Jan 2013 12:54:52 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Cris Neto&#39;s Learning Design Project Proposal: Help teachers to deal with Special Educational Needs</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7076</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7076</guid>
+              <description><![CDATA[<p><strong>I&acute;m also taking a postgraduate course in Special Educational Needs</strong></p>
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="312" valign="top">
+<p>Describe the material and social   characteristics of the environment in which you operate. Where will your   project take place? Who are the main actors involved? Include images, videos,   sketches - anything that would help others understand the opportunities and   constraints you are dealing with.</p>
+<p>Next year I hope I&rsquo;ll work with students&nbsp;   with Special Needs. It is rather clear now, that technology is very   important to work with this kind of students. The existing resources are in huge   amount and I&rsquo;m expecting to come around some useful tools.</p>
+</td>
+<td width="312" valign="top">
+<p><strong>Example</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>OER&rsquo;s to work with sudents with Special Educational Needs</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>The change you would like to see (challenge)</strong></p>
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="312" valign="top">
+<p>What do you hope to achieve? What would   be different if you succeed?</p>
+<p>I would like to help regular classes teachers to work with OER to help   students with special needs</p>
+</td>
+<td width="312" valign="top">
+<p><strong>Example</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Create OER for regular teachers.</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>How you might go about bringing that change</strong></p>
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="312" valign="top">
+<p>What is your pedagogical approach? Which technologies will you use to   implement it, and how?</p>
+<p>I want to design courses for teachers that would help them to work with   students with special needs</p>
+</td>
+<td width="312" valign="top">
+<p><strong>Example</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>I don&rsquo;t know yet, but I&rsquo;ll discover it soon </strong><strong>J</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Thu, 24 Jan 2013 11:21:39 +0000</pubDate>
+            </item>
+                    <item>
+              <title>José Luis Castaño: My dream: Learning design project proposal</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7059</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7059</guid>
+              <description><![CDATA[<h2 style="cursor:auto"><!--NO CSS-->Your situation (context)</h2>
+<p>I teach in a Primary School. We are 18 teachers and 145 students. We teach from pre (3, 4 and 5 years) and Primary from 1st to 6th.</p>
+<p>We have got a very technological school. All of our primary students are 1 to 1, 1 netbook for 1 student, and our teachers too.</p>
+<p>Actually I have design a kind of web/digital book to use with our students www.aulacpjuanaguado.es. We use it to accesse to the digital content and we use the social edmodo to interact with our students.</p>
+<h2 style="cursor:auto"><!--NO CSS-->The change you would like to see (challenge)</h2>
+<p>I'm trying that our students work in a colaboration way between them. And one of my principal objectives is to leave text books in a near future.</p>
+<h2 style="cursor:auto"><!--NO CSS-->How you might go about bringing that change</h2>
+<p>In the hardware side we have got one computer (netbook now) to each student and to each teacher. One IWB in each classroom. And wireless Internet connection all over the school. This Acces is filterd by Zentyal.</p>
+<p>In the sofware side we have got all the computers with Ubuntu and we use google docs with our students to work together. Some teachers have got personal Macbooks and iPad that they use in classroom too.</p>
+<p>We ahve got a joomla platform that we mix with Edmodo and some moodle courses.&nbsp;</p>]]></description>
+          <pubDate>Fri, 11 Jan 2013 20:21:46 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Me</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7055</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7055</guid>
+              <description><![CDATA[<p>I'm an educational technologist at City University London and this is my second MOOC. I heard about the course on Twitter and there seemed to be a real buzz around it, plus the topic of learning design is something I've dabbled in recently, so it seemed like good timing to get involved in this course and meet some like-minded people.</p>
+<p>My main (work) research interests right now are in learning spaces, lecture capture, electronic feedback and constructively aligned assessment. At work I'm particularly interested in engaging academic staff in the use of multimedia e.g. video, podcasting.</p>
+<p>What I really want to get out of the OLDS MOOC is the experience of taking part in a collaborative, constructivist MOOC. I'm here to learn, but it's the format and setup of the course that really attracted me. </p>
+<p>See you out there!</p>]]></description>
+          <pubDate>Fri, 11 Jan 2013 20:05:12 +0000</pubDate>
+            </item>
+                    <item>
+              <title>João Pedro Bourbon: My dream: responsible and effective virtual life</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7036</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7036</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Fri, 11 Jan 2013 17:33:54 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Cris Neto&#39;s Learning Journal</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7027</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7027</guid>
+              <description><![CDATA[<p>Hope to gather here my experience in this MOOC.</p>]]></description>
+          <pubDate>Fri, 11 Jan 2013 15:45:22 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Martin King&#39;s OLDS-MOOC learning journal</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7000</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7000</guid>
+              <description><![CDATA[<p>Martin King's OLDS-MOOC learning journal</p>]]></description>
+          <pubDate>Fri, 11 Jan 2013 12:10:31 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Leonor&#39;s Journal</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6993</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6993</guid>
+              <description><![CDATA[<p>I am a senior lecturer in the Computing Department at the Open University, so I have been doing Learnign Design for distance education for a long time, sometimes without realising it. I have joined this MOOC for several reasons; first, to experience a MOOC from within; second,&nbsp; to have a more structured perspective of LD that would allow me to capture more formally the expertise developed and more easily share it with others; and thirdly, because I am deeply involved in the production of a level 3 module in software engineering where i would like to put some concepts into practice.</p>]]></description>
+          <pubDate>Tue, 15 Jan 2013 13:37:18 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Tracey Johnson&#39;s Cloud in the 2013 OLDS MOOC</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6969</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6969</guid>
+              <description><![CDATA[<p>About me (briefly):</p>
+<ul>
+<li>Educational Designer with University of South Australia</li>
+<li>work with moodle, echo360, adobe connect, mahara as the main tools</li>
+<li>aiming to build an online course course to support Academics learn how to teach online</li>
+</ul>
+<p>This cloud will be my central point for curating content with this MOOC.</p>]]></description>
+          <pubDate>Fri, 11 Jan 2013 07:13:57 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Louise O&#39;Farrell OLDS-MOOC Learning  Journal</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6917</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6917</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Thu, 10 Jan 2013 19:29:12 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Carolines Learning Journal</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6911</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6911</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Thu, 10 Jan 2013 18:17:12 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Daniel&#39;s OLDS MOOC learning journal</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6894</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6894</guid>
+              <description><![CDATA[<p>I decided to use cloudworks to monitor and track my learning experience during the time of OLDS MOOC. I do have a blog (see link) but I want to familiarize myself with this tool, as one of many, to facilitate an online course. It strikes me that this platfrom is more a learner centered design and about organizing, annotating and making sense of informtation and other participants comments and remarks. Looking forward to a great journey in learning.</p>]]></description>
+          <pubDate>Thu, 10 Jan 2013 16:57:18 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Sharon Collingwood&#39;s Virtual Worlds Teaching Journal</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6893</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6893</guid>
+              <description><![CDATA[<p>Jan 15</p>
+<p>I've set up a cloudscape, here: http://cloudworks.ac.uk/cloudscape/view/2584</p>
+<p>Others (I think) can add clouds to this cloudscape.&nbsp; I have added my teaching journal (this cloud) and another cloud I created called "idea bin."&nbsp; I've put a Google doc in the idea bin with a sketch of things we might want to do over the next 8 weeks.</p>
+<p>&nbsp;</p>
+<p>Jan 13</p>
+<p>So...&nbsp; Is this like a blog?&nbsp; It's taking me a while to figure out how this all will work.&nbsp; I feel like one of my own students -- a little overwhelmed. Even though I work with a learning management system all the time, a new system can be baffling.</p>
+<p>Which makes me think about my project.&nbsp; I've just spent ten minutes looking for the dreamscape thing.&nbsp; It's probably quite simple, but I can't find it.&nbsp; Compare this to a student problem in my virtual classroom.&nbsp; The student has a problem (can't find the classroom) and the solutions the student finds for this problem are directly related to what they do every day in real life&nbsp; (walk straight ahead, read the signs, look for other students, look for a circle of chairs).</p>
+<p>Hmmm.&nbsp;&nbsp; I've set up all the required things, gotten a few names, and now I'm trying to connect with people.&nbsp; I think I am behind the pack.</p>
+<p>Jan 11</p>
+<p>***************</p>
+<p>I hope there will be others interested in the topic of virtual worlds; I've been teaching distance courses there for six years, and I'm still smitten with it.&nbsp;</p>
+<p>One of the reasons I am here is because the Open University has a digital classroom in Second LIfe, called Deep Think.&nbsp; I've been trying to find out if anyone from that group will be working in this MOOC.&nbsp; No luck so far.&nbsp; Are you there?</p>
+<p>I teach Women's &amp; Gender studies in Second Life, and I have a small site that I can share as a meeting place for the group (see the image in the main Cloudspace). I'm very interested in course design that links the practicalities of 3D teaching to overarching pedagogical goals.</p>
+<p>I've linked the introductory video fo rmy course (now outdated, as the class has moved, but it gives you the idea.)</p>]]></description>
+          <pubDate>Thu, 10 Jan 2013 16:54:05 +0000</pubDate>
+            </item>
+                    <item>
+              <title>AK&#39;s OLDS MOOC Cloud [Daily Happenings + Chronicling]</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6822</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6822</guid>
+              <description><![CDATA[<p>This is AK's cloud for working on OLDS MOOC, collecting links to other clouds, interesting references and websites I've come across, and chronicling my participation in the MOOC. &nbsp;Scroll down to see participation as the MOOC progresses. Each section is a weekly heading.</p>]]></description>
+          <pubDate>Wed, 09 Jan 2013 21:34:03 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Bob Ridge-Stearn Learning Journal</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6790</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6790</guid>
+              <description><![CDATA[<h2>My learning journal for the OLDS MOOC is on my <a href="http://thedigitalday.wordpress.com" target="_blank">WordPress Blog</a>:</h2>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Fri, 11 Jan 2013 19:00:30 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Mandy Honeyman: Proposal - Online CS GCSE</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6764</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6764</guid>
+              <description><![CDATA[<p>Create an interactive (i.e. not lecture based) online course for computing studies iGCSE.</p>
+<p>&nbsp;</p>
+<ul>
+<li>needs to address all the exam board specifications</li>
+<li>teach exam technique to specific specifications during revision period</li>
+<li>seek and record opinions from students throughout</li>
+<li>reward milestones</li>
+<li>provide constant feedback to students, parents and schools</li>
+<li>more to come....</li>
+</ul>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Mon, 07 Jan 2013 17:25:24 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Learning Journal for OLDS MOOC (MKH)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6761</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6761</guid>
+              <description><![CDATA[<p>This will be my OLDS MOOC learning journal (once we get started).</p>]]></description>
+          <pubDate>Mon, 07 Jan 2013 17:05:30 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Adrian&#39;s Learning Journal (OLDS-MOOC)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6748</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6748</guid>
+              <description><![CDATA[<p>A place to store any material creating during this MOOC.</p>]]></description>
+          <pubDate>Sun, 13 Jan 2013 23:18:39 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Sylvia&#39;s OLDS MOOC learning journal </title>
+              <link>https://cloudworks.ac.uk/cloud/view/6744</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6744</guid>
+              <description><![CDATA[<p>Please follow the link to my <a title="Sylvia's blog" href="http://sylviamoessinger.wordpress.com/" target="_blank">blog</a> where I will report and reflect on the OLDS MOOC.</p>
+<p><a title="Sylvia's blog" href="http://sylviamoessinger.wordpress.com/" target="_blank">http://sylviamoessinger.wordpress.com/</a></p>]]></description>
+          <pubDate>Sun, 06 Jan 2013 18:08:40 +0000</pubDate>
+            </item>
+                    <item>
+              <title>OLDS Moocs Course Journal</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6736</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6736</guid>
+              <description><![CDATA[<p>Starting for me:</p>
+<p><br />The starting process was struggleling and confusing. I felt overwhelmed!! To many people participating very fast and so I felt very slow, struggling with my own course idea, feeling stucked, etc. Although I did my homewok: watched the video, introduce my self and, created my cloud with my dream<strong>&nbsp;[introduce your self + write your dream project]</strong></p>
+<p>So I took the weekend to read and take a look as if I was a tourist in the Grand Bazaar at Istambul (a real dream I have)... In my journey I read many of the projects and always thought how clear they can express their ideas. I wish I could. Well, in this 2 days journey I realized that I want to have or better said share a little kiosk in the Dream Bazaar and I decided to join a fantastik group of dreamers. They are looking for digital literacy and so do I.&nbsp;I wrote my comments to see if I could join the group this morning. I am waiting for the answer. <strong>[Team up activity]</strong></p>]]></description>
+          <pubDate>Mon, 14 Jan 2013 12:39:43 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Examples of MOOCs to review, critique, and learn from</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6376</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6376</guid>
+              <description><![CDATA[<p>Please use this page to list other MOOCs we should be looking at and learning from. Please add a comment, with a link to a MOOC you've noticed and a few words about why you found it interesting.</p>]]></description>
+          <pubDate>Wed, 27 Jun 2012 00:19:53 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

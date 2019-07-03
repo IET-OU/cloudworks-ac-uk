@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: formal learning</title>
+        <link>https://cloudworks.ac.uk/tag/rss/formal+learning</link>
+        <atom:link href="https://cloudworks.ac.uk/tag/rss/formal+learning" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds tagged formal learning</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>SAT: Break Out of the Box! How you can use xAPI to free in-house staff development (Katherine Hinchey)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/11472</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/11472</guid>
+              <description><![CDATA[<h2>Abstract</h2>
+<p>You learn by doing and collaborating, watching videos, accessing just-in-time information from your mobile device, mentoring, and more. Why, then, does the Human Resources department only give you slides to learn from?</p>
+<p>Today&rsquo;s workers and corporations are united in wanting more access to the formal, non-formal, and informal learning needed to support an increasingly skilled workforce (The Education Commission, 2016; Pew Research Center, 2016a and 2016b). However, today&rsquo;s corporations largely store their learning resources in virtual learning environments (VLEs) that have adopted a uniform way of storing content. This uniform way, called SCORM, was incredibly helpful when it was designed nineteen years ago, and it still has an important role to play today. When SCORM was created, computer-based training was relatively new and organisations needed a single way to store and track training. For a time, innovation in elearning stopped at the known, established boundaries of the VLE (Weller, 2014, p. 194).</p>
+<p>Now, a new need has developed: a way to store and track learning when it occurs on mobile devices, or through social and collaborative activities, or offline by reading a book or engaging in stretch assignments, or when participating in simulations or augmented and virtual reality programmes.</p>
+<p>An innovation that meets that need was first released in 2013, and had its last planned update in 2016. It is the Experience API (xAPI). xAPI provides a common format for capturing data from today&rsquo;s distributed learning landscape (Rustici Software, n.d.). With xAPI in place, you can free staff development from the confines of SCORM:</p>
+<ul>
+<li>Rely less on elearning courses designed from slides and more on learning experiences;</li>
+<li>Recognise learning from formal and informal or non-formal activities (Downes, 2015);</li>
+<li>And track not only clicks and views but also correlate learning with performance (Torrance, 2016).</li>
+</ul>
+<p>Managers and other decision-makers within learning departments and organisations are at a critical point. They need a source from which to gain a high-level, jargon-free understanding of the benefits of xAPI, common applications and uses of xAPI to support learners as they access modern and innovative learning opportunities, best practices and lessons learned, and information they should provide to their learning development and learning technology teams to prepare for implementation of xAPI (HT2 Labs, n.d.).</p>
+<p>In my conference presentation, I will discuss and share a workshop created to meet those needs. The workshop helps managers, even those without extensive technical backgrounds, to be prepared to move forward with discussions and decisions about xAPI within their organisation. My presentation will show some of the workshop features and provide attendees with tools they can take with them, for use in their future endeavours.</p>
+<h3>References</h3>
+<p>Downes, A. (2015) '9 Practical Applications of Tin Can API', webinar presented by Rustici Software. 31 March. Available at <a href="https://www.slideshare.net/RusticiSoftware/ nine-applications-of-the-tin-can-api-xapi">https://www.slideshare.net/RusticiSoftware/</a><br /><a href="https://www.slideshare.net/RusticiSoftware/ nine-applications-of-the-tin-can-api-xapi">nine-applications-of-the-tin-can-api-xapi</a> (Accessed 1 November 2017).</p>
+<p>The Education Commission (aka the International Commission on Financing Global Education Opportunity) (2016) <em>The Learning Generation: Investing in education for a changing world</em> [Online]. Available at <a href="http://report.educationcommission.org/downloads/">http://report.educationcommission.org/downloads/</a> (Accessed 18 November 2017).</p>
+<p>HT2 Labs (n.d.) <em>The Learning Technology Manager's Guide to xAPI</em> [Online]. Available at <a href="https://www.ht2labs.com/resources/the-learning-technology-managers-guide-to-the-xapi/">https://www.ht2labs.com/resources/the-learning-technology-managers-guide-to-the-xapi/</a> (Accessed 9 December 2017).</p>
+<p>Pew Research Center (2016a) <em>Lifelong Learning and Technology</em> [Online]. Available at <a href="http://www.pewinternet.org/2016/03/22/lifelong-learning-and-technology/">http://www.pewinternet.org/2016/03/22/lifelong-learning-and-technology/</a> (Accessed 18 November 2017).</p>
+<p>Pew Research Center (2016b) <em>The State of American Jobs: How the shifting economic landscape is reshaping work and society and affecting the way people think about the skills and training they need to get ahead</em> [Online]. Available at <a href="http://www.pewsocialtrends.org/2016/10/06/the-state-of-american-jobs/">http://www.pewsocialtrends.org/2016/10/06/the-state-of-american-jobs/</a> (Accessed 18 November 2017).</p>
+<p>Rustici Software (n.d.) <em>Experience API</em> [Online]. Available at <a href="https://experienceapi.com/">https://experienceapi.com/</a> (Accessed 1 November 2017).</p>
+<p>Torrance, M. (2016) 'The xAPI: What Does an Instructional Designer Need to Know?', presentation given at <em>Learning Solutions Conference &amp; Expo.</em> Orlando, Florida, 16-18 March. Available at <a href="https://www.slideshare.net/torrancelearning/xapi-what-does-an-instructional-designer-need-to-know">https://www.slideshare.net/torrancelearning/xapi-what-does-an-instructional-designer-need-to-know</a> (Accessed 1 November 2017).</p>
+<p>Weller, M. (2014) <em>The Battle for Open: How openness won and why it doesn't feel like victory</em>, London, ubiquity press. Available at <a href="http://www.ubiquitypress.com/ site/books/detail/11/battle-for-open/">http://www.ubiquitypress.com/</a><br /><a href="http://www.ubiquitypress.com/ site/books/detail/11/battle-for-open/">site/books/detail/11/battle-for-open/</a> (Accessed 2 May 2016).</p>]]></description>
+          <pubDate>Thu, 04 Jan 2018 15:39:49 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Open Learning: General information</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2974</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2974</guid>
+              <description><![CDATA[<p style="cursor:auto"><!--NO CSS--><strong>For this session you need to log into Elluminate here:</strong></p>
+<p style="cursor:auto"><!--NO CSS--><strong><a style="font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline; color: #005488; padding: 0px; margin: 0px; border: 0px initial initial;" href="https://sas.elluminate.com/m.jnlp?sid=cpp1&password=M.694D972D3E96B7AC0FA57F5D1D56A2" target="_blank">https://sas.elluminate.com/m.jnlp?sid=cpp1&amp;password=M.694D972D3E96B7AC0FA57F5D1D56A2</a><br /></strong></p>
+<ul style="cursor:auto"><!--NO CSS-->
+<li style="cursor:auto"><!--NO CSS-->1.30 - 2.30 OU presentations:<br /><a style="font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline; color: #003399; padding: 0px; margin: 0px; border: 0px initial initial;" href="http://www.open.ac.uk/blogs/sociallearn/">SocialLearn&nbsp;</a>(Simon Buckingham Shum)<br /><a style="font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline; color: #003399; padding: 0px; margin: 0px; border: 0px initial initial;" href="http://openlearn.open.ac.uk/">OpenLearn</a>&nbsp;(Laura Dewis)<br /><a style="font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline; color: #003399; padding: 0px; margin: 0px; border: 0px initial initial;" href="http://olnet.org/">OLNet</a>&nbsp;(Patrick McAndrew)</li>
+<li style="cursor:auto"><!--NO CSS-->2.30 - 3.15&nbsp; Moderated discussion</li>
+<li style="cursor:auto"><!--NO CSS-->3.15 - 4.30 External speaker -&nbsp;<a style="font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline; color: #003399; padding: 0px; margin: 0px; border: 0px initial initial;" href="http://www.elearnspace.org/blog/">George Siemens</a>&nbsp;(Athabasca)</li>
+</ul>
+<p>Issues that might be discussed include:</p>
+<p>
+<ul>
+<li>How might learners function in the future?</li>
+<li>What is the relationship between formal and informal learning?</li>
+<li>What pedagogy is appropriate for a networked world?</li>
+</ul>
+</p>
+<ul style="cursor:auto"><!--NO CSS-->
+</ul>]]></description>
+          <pubDate>Mon, 14 Jun 2010 14:02:23 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Library School - Professionalisering voor Nederlandse bibliothecarissen</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2553</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2553</guid>
+              <description><![CDATA[<p><img src="http://celstec.org/system/files/image/news/LibrarySchoolKlein.jpg" alt="" width="200" height="110" /></p>
+<p>Students, staff and on-line learning network of the Library School are all set now to start exploring the Library School learning pathway in Umbria next week. The Library School is a new school, founded by Association of Public Libraries (VOB) in collaboration with CELSTEC, for librarians who work in a managerial position in a public library and who want to become an innovator in their profession.</p>
+<p><strong>Introduction meeting</strong><br /> On September 7th the selected quartermasters and front runners of the Library School met for the first time in Utrecht. They were informed on the setup of the Library School Pilot. This pilot will end in January 2010. Part of the meeting was a videoconferencing with programme coordinators of several OU-faculties in Heerlen who gave a short presentation.</p>
+<p><strong>Learning network<br /> </strong>In the weekend of September 20th the <a href="http://vob.ou.nl/" target="_blank">on-line learning network of Library School</a>, tailor made by CELSTEC, was opened. In this network organizers and participants meet, exchange information, collaborate and discuss.</p>
+<p><strong>Learning activity<br /> </strong>On September 25th the first learning activity of Library School will get started. A group of about 15 quartermasters and coaches leave for Umbria. There they will actively participate in the further design of the Library School. The Association of Public Libraries (VOB) organized the programme in collaboration with CELSTEC and Inspirationworks. The programme is shaped in a &lsquo;Cammino&rsquo;. This means literally &lsquo;journey&rsquo; or &lsquo;road&rsquo; as a metaphore of the road that the quartermasters have to go to create the Library School.</p>
+<p><strong>End goal<br /> </strong>The final destination of the road is the innovation of library work. The public library sector needs to develop the attituted and competences for permanent, high quality innovation &aacute;nd therefor Libraries need &lsquo;new librarians&rsquo;. The Library School combines the two needs and chooses an approach that combines learning, working and innovating.</p>
+<p>Part of the programme in Umbri&euml; will be taken care of by CELSTEC&rsquo;s Marlies Bitter en Steven Verjans.</p>
+<p>More on the Library School (in Dutch) on the <a href="http://www.debibliotheken.nl/content.jsp?objectid=23008" target="_blank">VOB-site</a>. <br /> Or download the <a href="http://www.debibliotheken.nl/dsc?c=getobject&s=obj&!sessionid=15!f8xG1jif5WxRDe8Ga59bs5Wz8Z!no7t!8nhbdoWMdxXGwuyBPegM35UuUCWRV&objectid=23594&!dsname=VobExtern" target="_blank">brochure in Dutch&nbsp;</a>(pdf) or the <a href="http://celstec.org/system/files/PDF ENG Library School.pdf" target="_blank">brochure in English</a> (pdf).</p><p>Contact details: Steven Verjans</p>]]></description>
+          <pubDate>Thu, 22 Oct 2009 09:03:57 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

@@ -1,0 +1,364 @@
+<!DOCTYPE html><html  lang="en" ><head>
+
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta charset="UTF-8" />
+
+    <title>Draft Paper - Cloudworks</title>
+    <link rel="stylesheet" href="https://cloudworks.ac.uk/_design/styles_1_1.css" />
+        <link rel="stylesheet" href="https://cloudworks.ac.uk/themes/cloudworks/styles.css" />
+        <meta name="copyright" content="© 2009-2019 The Open University (IET)." />
+    <meta name="keywords" content="" />
+    <meta name="description" content="Welcome to Cloudworks, a place to share, find and discuss learning and teaching ideas and experiences." />
+    <link rel="shortcut icon" href="https://cloudworks.ac.uk/themes/cloudworks/favicon.ico" />
+    
+    <!--[if IE 6]>
+    <style type="text/css">
+    div#site {width:940px; /* Because IE6 doesn't support max-width */ }
+    div#site-header-content {width:940px;}
+    </style>
+    <![endif]-->
+
+    <script src="https://unpkg.com/jquery@3.4.1/dist/jquery.min.js"></script>
+    </head>
+<body id="clouds" class="block-registration block-login">
+<div id="site-header">
+ 
+<div id="site-header-content">
+        <div id="skip">
+        <a href="#content">Skip navigation</a> </div>
+                <a rel="home" href="https://cloudworks.ac.uk/">
+                <img id="link-home" src="https://cloudworks.ac.uk/themes/cloudworks/cloudworks_logo.gif" alt="Cloudworks home page" />
+                </a>
+                <div id="site-nav">
+            <ul  lang="en" >
+                <li class="home">
+                                            <a href="https://cloudworks.ac.uk/" class="home">Home</a>                                    </li>
+                <li lang="en" class="clouds">
+                                            <a href="https://cloudworks.ac.uk/cloud/cloud_list" class="clouds">Clouds</a>                                    </li>
+                <li lang="en" class="cloudscapes">
+                                            <a href="https://cloudworks.ac.uk/cloudscape/cloudscape_list" class="cloudscapes">Cloudscapes</a>                                    </li>
+                <li class="events">
+                                            <a href="https://cloudworks.ac.uk/events/view" class="events">Events</a>                                    </li>
+                <li class="tags">
+                                            <a href="https://cloudworks.ac.uk/tag" class="tags">Tags</a>                                    
+                </li>
+                                <li class="badges">
+                                            <a href="https://cloudworks.ac.uk/badge/badge_list" class="badges">Badges</a>                                    </li>
+                <li class="support">
+                                            <a href="https://cloudworks.ac.uk/support" class="support" title="Support">Support</a>                                    </li>                  
+              
+            </ul>
+        </div>
+    </div></div>
+
+<div id="site">
+    <div id="site-body">
+        <div id="page">
+        <div id="content">
+                              <p class="warn readonly-message"> The web-site is now in readonly mode. Login and registration are disabled. <small>(28 June 2019)</small></p>
+                                          
+                    <div id="id-gaad-widget"></div>
+        <script type="text/javascript" src="https://cloudworks.ac.uk/_scripts/iframe_strip.js"></script>
+<div class="grid headline">
+    <div class="c1of2">
+        <h1>Draft Paper</h1>
+        <div class="grid">
+    <ul class="options">
+        
+        
+        
+     
+        
+            <li class="favourite"><a href="https://cloudworks.ac.uk/cloud/favourite/4190">Favourite</a>        </li>
+        
+    <li class="stats"><div class="nolink">1032 views</div></li>
+        </ul>
+</div>                
+                    <p>DRAFT
+Tracking Downloadable OER Content
+One of the great promises of Open Educational Resources is...</p>
+        
+            </div>
+
+    <div class="c2of2">
+        <p class="created-by">
+        <abbr title='Clouds can be anything of relevance to learning and teaching'>Cloud</abbr> created by: </p>
+
+                            <img src="https://cloudworks.ac.uk/image/user_32/1379" class="go2" alt=""/>
+                    <p><a href="https://cloudworks.ac.uk/user/view/1379" class="author rdfa" xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName" rel="cc:attributionURL">Scott Leslie</a><br />
+        19 July 2010</p>
+    </div>
+</div>
+
+<div id="region1">
+
+    <div class="user-entry">
+
+        <h1>DRAFT</h1>
+<h1>Tracking Downloadable OER Content</h1>
+<p>One of the great promises of Open Educational Resources is their  ability to be reused because of the rights that open licenses grant and  the minimal costs to replicate and share electronic media in general. In  the realm of informal sharing, anecdotal stories abound about the reuse  of freely and openly licensed shared resources, often backed up with  numbers from individually controlled, commodity web analytic services.  These help foster the &ldquo;<a rel="nofollow" href="http://blogs.ubc.ca/brian/2005/10/the-power-of-positive-narcissism-does-it-again/" rel="nofollow">power of positive narcissism</a>," providing additional  evidence to individual content owners of the value of sharing.<br /> <br /> Such evidence has been much harder to find within formal OER projects.  Very few of the systems deployed to share OER provide views and reuse  metrics back to the content owners. In the case of OER &ldquo;repository&rdquo;  models that share content that has been removed from its original  context of use, and share it in such a way that the content can be  downloaded and used in totally new contexts (instead of merely linked in  place), very little is known of what becomes of downloaded resources  and how often they are reused. This lack of data is a critical failing  in providing evidence of actual benefit. It also greatly undercuts  individual motivations to share, which are often buttressed by evidence  of actual reuse.<br /> <br /> The goal of my work as an OLNet Fellow was to examine the possible ways  in which tracking data could be generated for resources that are  downloaded out of their original context, implement and document a  solution in a specific context, in the initial case for content being  shared through BCcampus' Shareable Online Learning Resource  (http://solr.bccampus.ca) service, and finally report back on initial  findings on the user experience and the overall value of the resulting  data in a follow up report.<br /> <br /></p>
+<h1>Requirements</h1>
+<p>There are three high level requirements any solution must fulfill:</p>
+<ol>
+<li>The solution should return data on where and how often resources  are used after they are downloaded from their original context</li>
+<li>The  solution must work as much as possible within existing workflow and not  require effort on the part of content owners that is not commiserate  with the reward they will receive nor should it place the onus on  content owners to solve institutional needs for reporting requirements.</li>
+<li>The  solution should be palatable to the OER community, both content authors  and reusers. Ideally it should preserve the privacy of the end users  reusing the content or have their permission before sending any data  back to a tracking server</li>
+</ol>
+<h1>Constraints</h1>
+<p>&nbsp;</p>
+<h1>Evaluating Possible Approaches</h1>
+<p>The lack of data on reuse of data on digital resources is not specific  to OER alone, but it is exacerbated in the cases where content is  downloaded out of its original context and reused elsewhere. The  solution we sought should, in addition to providing data back of how  often a resource was viewed and from where after it was downloaded, also  be simple for the content owners to implement. We sought to find an  approach that would integrate directly into existing workflows and  systems and not require onerous additional steps or account creation. We  also sought an approach that could provide both data to the content  owners but also data to other users as well as aggregate data across the  service. Finally, to the extent to which it was possibly, we hoped to  find a solution that was inexpensive or free, allowed us to keep full  ownership of the tracking data, and avoided hosting it on US-based  servers (for fear of conflicts between local privacy policies and the US  Patriot Act).<br /> <br /> We began by assessing a <a rel="nofollow" href="http://wiki.cetis.ac.uk/Resource_Tracking_for_UKOER" rel="nofollow">very useful draft of possible ways to track resources</a> (cf http://wiki.cetis.ac.uk/Web_search) created by Phil Baker of CETIS.  To this list of potential approaches we added the possibility of using  one of the emerging commercial services such as <a rel="nofollow" href="http://www.tynt.com/tynt-insight" rel="nofollow">Tynt</a>, <a rel="nofollow" href="http://www.flickr.com/photos/nessman/4805842035/" rel="nofollow">Fairshare</a>or  <a rel="nofollow" href="http://s1.imagestamper.com/login.jsp" rel="nofollow">ImageStamper</a> as other possible solutions.<br /> <br /> Baker identifies 5 approaches to tracking OER reuse (though really only 4  are distinct):</p>
+<ol>
+<li>Web usage stats</li>
+<li>Google and other online Analytics</li>
+<li>URL  redirects</li>
+<li>Web bugs</li>
+<li>Web search</li>
+</ol>
+<p><br /> The first, Web Usage Stats, is based on analyzing HTTP log files. While  this may give you some data on the use of resources on their original  server, it will not tell you anything about the resource once it has  been moved somewhere else.<br /> <br /> Similarly, the third approach, URL redirects, the process of linking not  to the resource directly but to a redirection service intermediary that  would also collect usage data suffers from the same issue, that it  would work only for content that was consistently hosted in the same  location (or else would require an unlikely workflow in order that links  within the resource point back to a URL redirection service.)<br /> <br /> The fifth approach, Web Search, is a possibility and deserves some  additional investigation. However, its major shortcoming is that it will  only ever return results that are visible on the public web. Within the  context of reuse of resources in formal education, where content will  very often be shared with students within an authenticated environment,  or in the context of individual users viewing content on their desktop,  this approach would fail to register these as part of the data.  Furthermore, this approach is unlikely to yield clean, easily  interpretable results of how many times resources are actually used, and  instead simply returns the new locations in which they are posted  publicly.<br /> <br /> In addition to these 5 approaches we consider the possibility of using a  service like <a rel="nofollow" href="http://www.tynt.com/tynt-insight" rel="nofollow">Tynt</a> or  reproducing its functionality, which is in essence a javascript library  that causes attribution information and links to be inserted into the  browsers clipboard any time content is copied off a page where it is  active. Not only was this approach ruled out because it does not  directly solve the problem we are trying to address, it was felt that  such an approach runs the risk of greatly alienating end-users as it  essentially hijacks what is otherwise a standard browser function of  copy/pasting in a way that seems harmful to the spirit in which OER are  shared. Similarly, while potentially of some interest, services like <a rel="nofollow" href="http://www.flickr.com/photos/nessman/4805842035/" rel="nofollow">Fairshare</a> are very similar to Web Search described above, and will ultimately  only report back on public reuses of content, while a service like <a rel="nofollow" href="http://s1.imagestamper.com/login.jsp" rel="nofollow">ImageStamper</a> is also of interest but both specific to  image tracking and possibly a bit too similar to more conventional DRM  watermark approaches to be palatable for Open Education content.<br /> <br /> Thus we were left with Web bugs/Analytics (with Google Analytics being a  specific case of this) as the remaining choice to consider. Nick Freer  of the Open University/OLNet project wrote up a good initial description  of how this could be implemented in RSS feeds and what some of the  potential issues are. Upon further examination and initial testing it  was found that indeed, the same technique which is employed to retrieve  tracking data for sites can be used to retrieve data for web content  that is downloaded and used elsewhere.</p>
+<p>&nbsp;</p>
+<h3>Why not just use Google Analytics?</h3>
+<p>In the approach tried here and described below, we used the Open Source  web analytics package Piwik to generate the tracking code and report  the tracking data. The obvious questions this raises though, is why not  to use the dominant free web analytics package, Google Analytics, and  indeed how what is being proposed here is any different than what other  OER repositories like Connexions are already doing to track OER use  using Google Analytics (cf.  http://www.edtechpost.ca/wordpress/2010/07/12/olnet-tracking-oer-first-stab/).<br /> <br /> <br /> <br /></p>
+<ul>
+<li>results are shareable</li>
+<li>results aren't aggregate-able  across an organizational repository</li>
+<li>depends too much on the lone  individual</li>
+<li>harder to take advantage of open source API to build  into existing business process</li>
+</ul>
+<p><br /> <br /></p>
+<table border="0">
+<tbody>
+<tr>
+<th>Approach Name<br /> </th> <th>Pros<br /> </th> <th>Cons<br /> </th>
+</tr>
+<tr>
+<td>Web Search<br /></td>
+<td>
+<ul>
+<li>no additional work required by content owners;  content is found based on searching for certain strings in the original  content</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>works for the open web only</li>
+<li>difficult to get  a picture of unique uses (jumbled together in search results)</li>
+<li>only  reports copies of the original content, not actual views of it</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Forced Citation (cf. Tynt)<br /></td>
+<td>
+<ul>
+<li>ensures that content which is copied and pasted into  a new location includes a reference to the original source</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>hijacks a standard browser process; intrusive to  normal workflow of content re-users</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Web bug<br /></td>
+<td>
+<ul>
+<li>provides data on both views and new locations where  content is being reused</li>
+<li>works on both public and private web  locations as well as from the users desktop</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>only tracks "web" content like HTML pages</li>
+<li>May  employ javascript which can be a problem with certain reuse  environments (e.g. VLEs)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Google Analytics<br /></td>
+<td>
+<ul>
+<li>provides data on both views and new locations where  content is being reused</li>
+<li>works on both public and private web  locations as well as from the users desktop</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Stats are not easily shared / public</li>
+<li>Places  responsibility on content owner even though others (funder) may be  equally motivated</li>
+<li>Employs javascript, which some services will  strip out when the content is re-uploaded</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h1>Current Context</h1>
+<p>The author is also the manager of a repository service for the province  of British Columbia, Canada. This service has been put into place  primarily to facilitate the sharing the content produced through BC's  Online Program Development Fund  (http://www.bccampus.ca/online-program-development-fund-opdf-2/)  administered by BCcampus, a collaborative online learning agency that  supports BC&rsquo;s public post-secondary institutions.<br /> <br /> As part of receiving this provincial funding, recipients agree to share  the resulting content under one of two license, either a Creative  Commons Attribution-ShareAlike 2.0 Canada License, or else a BC Commons  license, a regional license introduced by BCcampus to facilitate sharing  between the 25 public post-secondary institutions in BC. As part of the  orientation process, content developers are pointed at the BC Commons  License Generator  (http://solr.bccampus.ca/bcc/BCcommons/publish/publish.html) and  encouraged to choose the appropriate license and generate a small html  snippet to insert into their content template.<br /> <br /> The repository, SOL*R (http://solr.bccampus.ca/) currently uses the  Equella repository software from The Learning Edge. The content is  predominantly LMS-focused, instructor-facilitated learning materials,  typically either multi-page html sites, IMS Content Packages, other  proprietary export formats from different LMS, as well as rich media  like Flash and video content. For the content which can be previewed  (typically native web content) the software offers the ability to view  it in place (and potentially link to it), though in practice few do. The  more predominant use case is for instructors to use the 'Preview'  functional to quickly assess the usefulness of the resource, but then to  download it from the repository, either for remixing or upload to their  own LMS. While the repository software can currently produce statistics  about the number of times a resource <em>record</em> is viewed, and the  number of times a resource <em>license</em> is manually agreed to, it  obviously does not produce any statistics on the viewing and reuse of  the content once its left the repository, the key motivator behid this  research.</p>
+<h1>Proposed Solution</h1>
+<p><br /> The proposed solution in the case of BCcampus is to build on to the  existing capabilities of the open source web analytics program Piwik  (http://piwik.org/) and link it to the <em>existing</em> workflow of  content contributors to SOL*R. Content owners are already encouraged to  use the BC Commons license generator to insert a license declaration in  their content. The license generator will be updated to now include  another question asking the content owners if they wish to receive  tracking data about their content after it is downloaded from SOL*R. If  they agree to this, a small placeholder will be inserted into the  content directly following the license text.<br /> <br /> The reason for only inserting a placeholder at this point is that the  content does not yet have a permanent URL or identifier associated with  it, and will not get one until it is uploaded to SOL*R. Once content has  been contributed and this URL/UUID assigned, a script, run as an hourly  cron job at the server OS level, will crawl the filestore where the  content is deposited. The script will be looking for instances of the  placeholder that was inserted as part of the license.<br /> <br /> (cf. <a href="http://edtechpost.wikispaces.com/OLNet+-+BCcampus+Use+Case" rel="nofollow">BCcampus  Use Case document</a>)<br /> <br /> <br /></p>
+<h1>Considerations / Issues and Limitations</h1>
+<h3>Unique identifiers/URLs</h3>
+<ul>
+<li>can only get data on what is being tracked - if no tracking  code has been placed on a page, no data will return. Thus the  recommendation will be to insert the license/placeholder as part of a  template that will then show up on ALL subsequent pages.</li>
+</ul>
+<h3>Fit  with existing workflow</h3>
+<p>&nbsp;</p>
+<h3>Generalizability</h3>
+<ul>
+<li>"Some web content management systems limit what JavaScript can  be embedded into resources. Also, this approach is a complete  non-starter if the resources are hosted on a third-party web2.0 site."</li>
+<li>"The  tracking code only works for HTML documents; if your OERs are in  another format then you need another approach"  (http://wiki.cetis.ac.uk/Online_analytics)</li>
+</ul>
+<p><br /> Next Steps / Questions</p>    </div>
+
+    
+<h2 id="extra-content">Extra content</h2>
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/content/add/4190">Add extra content</a></p>
+    
+
+<div id="embeds" class="embed-block">
+<h2>Embedded Content</h2>
+
+<p class="add-link add-embed"><a href="https://cloudworks.ac.uk/embed/add/4190">Add embedded content</a></p>
+</div>
+
+
+    <div class="grid">
+        <h2>Contribute</h2>
+        <a name="contribute"></a>
+        <ul class="cloudstream-filter">
+            <li>
+                            <a href="https://cloudworks.ac.uk/cloud/view/4190/comments#contribute">Discussion (0)</a>                        </li>
+            <li>
+                            <strong>Links (0)</strong>
+                        </li>
+            <li>                            <a href="https://cloudworks.ac.uk/cloud/view/4190/references#contribute">Academic References (0)</a>            </li>
+        </ul>
+    </div>
+
+    <div class="grid">
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/cloud/add_link/4190">Add link</a></p>
+</div>
+
+</div>
+
+<div id="region2">
+    <div id="search-site">
+    <form id="form-search" action="https://cloudworks.ac.uk/search/result/" method="get">
+      <p>
+        <label for="query">Search</label>
+        <input id="query" name="q" type="search" value="" maxlength="30" />
+        <input id="search-button" type="image" src="https://cloudworks.ac.uk/_design/search-button.gif" alt="Search" />
+      </p>
+        </form>
+</div>
+    <p class="login">
+    <a href="#login" class="link-arrow show">Log in</a> 
+    <a href="https://cloudworks.ac.uk/auth/register">Sign up</a></p>
+
+<div id="login" class="collapsed">
+      <form action="https://cloudworks.ac.uk/auth/login" method="post" id="login-form">        <p><label for="user_name">Username:</label><br />
+     	<input type="text" name="user_name" value="" id="user_name"  />    </p>
+    	<p><label for="password">Password:</label><br />
+        <input type="password" name="password" value="" id="password"  /></p>    
+        <p>
+        <input type="submit" name="submit" id="submit" class="submit" value="Log in" />
+    <a href="https://cloudworks.ac.uk/auth/forgotten_password">Forgotten password</a>    
+    
+    </p>
+    </form></div>
+
+    <h2>Tags</h2>
+
+
+      <p class="add-link"><a href="https://cloudworks.ac.uk/tag/add_tags/cloud/4190">Add a tag</a></p>
+    <div class="box">
+<h2>In Cloudscapes</h2>
+    <ul class="cloudscapes">
+                    <li>
+                <a href="https://cloudworks.ac.uk/cloudscape/view/2150">OLNet Fellowship Research - Tracking Usage of Downloaded OER</a>            </li>
+             </ul>
+<p class="add-link"><a href="https://cloudworks.ac.uk/cloudscape/add_cloud/4190">Add to a Cloudscape</a></p>
+</div>
+
+
+
+            
+               
+            
+            <div class="box">
+<h2>Improve this cloud</h2>
+
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/tag/add_tags/cloud/4190">Add a tag</a></p>
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/content/add/4190">Add extra content</a></p>
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/embed/add/4190">Add embedded content</a></p>
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/cloud/add_link/4190">Add link</a></p>
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/cloud/add_reference/4190">Add reference</a></p>
+
+</div>                </div>
+                   </div>
+                    <div id="site-footer">
+				        <div class="grid">
+				        <p class="left">
+                                        <a href="https://www.open.ac.uk" title="© 2009-2019 The Open University (IET)">©</a> |
+				        <a href="https://cloudworks.ac.uk/about/about">About</a> |
+				        <a href="https://cloudworks.ac.uk/blog/archive">Blog</a> |
+				        <a href="https://cloudworks.ac.uk/about/tandc" class="rdfa" rel="license">Terms and Conditions</a> |
+				        <a href="https://cloudworks.ac.uk/about/privacy">Privacy notice</a> |
+				        				    				                                                <a href="https://github.com/IET-OU/cloudengine"
+                                           ><img src="https://cloudworks.ac.uk//_design/cloudengine-sm.gif" alt="Powered by CloudEngine, open-source social software" />
+                                        </a>
+				          </p>
+				      
+<!-- The language drop-down menu - jump to the top/#skip. -->
+
+<form id="form-lang" action="#skip" method="post">
+<p class="right"><label for="lang_select">
+Preferred language </label>
+<select id="lang_select" name="lang">
+        <option value="el" >Ελληνικά / Greek</option>
+        <option value="en" selected="selected">English</option>
+  </select>
+<button type="submit" >Load</button>
+</p>
+</form>
+				        </div>
+				    </div>
+				</div>
+			</div>
+		</div>
+		
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-5304738-3', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+
+
+    
+<script
+  data-nofollow-count="9"
+  data-rtt=""  data-ga-analytics-id="UA-5304738-3"></script>
+
+
+
+                <script src="https://unpkg.com/gaad-widget@%5E3/dist/gaad-widget.min.js"
+          data-gaad-widget='{"debug":true,"days_before":15,"x_lang":"en","analytics":false}'></script>
+          <script src="https://cloudworks.ac.uk/_scripts/custom.js"></script>
+
+<script> console.warn('rel=nofollow count:', 9) </script>
+	</body>
+</html>

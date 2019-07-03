@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: students</title>
+        <link>https://cloudworks.ac.uk/tag/rss/students</link>
+        <atom:link href="https://cloudworks.ac.uk/tag/rss/students" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds tagged students</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>WED: Designing accessible courses - a reflection on the use of UDL and OERs to create an open education course (Danny Ball)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/10192</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/10192</guid>
+              <description><![CDATA[<p>Since 1974, disabled students in England have been able to apply for non-repayable grants, known as &lsquo;Disabled Students&rsquo; Allowances (DSAs)&rsquo;, to assist with the additional costs incurred whilst completing higher education study (Willetts, 2014). Such grants provided allowances for specialised equipment, non-medical assistance such as note takers and specialised tutors, books and consumables, as well as travel allowances (Disability Rights UK, 2015). In addition to the support provided by DSAs, the introduction of the Equality Act 2010 placed a legal duty on businesses and education providers to take positive steps, referred to as &lsquo;reasonable adjustments&rsquo;, to remove barriers faced by people, due to their disability (Citizens Advice, n.d.). This includes making changes to the ways things are done e.g. provision, criterion or practice; physical features of buildings such as entrances and exits; as well as the provision of extra aids or services such as: induction hearing loops, providing information in alternative formats etc. (Citizens Advice, n.d.).</p>
+<p>Despite the reasonable adjustments implemented by higher education institutions (HEIs), the costs of the DSA provision have risen sharply from &pound;101.3m in 2009-10 to &pound;145.8m in 2012-13, an increase of 44% (Weale, 2015). In 2014, the Minister for Universities and Science announced a series of changes to modernise the existing system to &lsquo;rebalance&rsquo; responsibilities for student support. Thus, ensuring that the limited public funding is available to those most in need, and provides the support they require (Willetts, 2014). The changes are designed to move away from a system of individualised support funded by DSAs, to one where HEIs play a greater role in supporting all students, regardless of whether they have a disability or not.</p>
+<p>With these changes coming into force from September 2016, HEIs within England have been required to review and, if required, revise their current student support arrangements to ensure they are prepared for these changes and can support learners effectively (McNaught, 2016). Whilst there are many small and simple changes academic staff can take to improve the accessibility of their teaching such as: providing information ahead of sessions, creating learning materials which meet accessibility guidelines and encouraging students to record teaching sessions etc. (Canterbury Christ Church University, n.d.), this does not resolve the underlying issues. As McNaught (2016) summarises &lsquo;[t]eaching and learning pedagogies, practices and technologies can inadvertently create barriers for students with disabilities&rsquo;, to overcome these a different approach is required.</p>
+<p>To address some of the challenges raised by these recent changes and the need for HEIs to make anticipatory, rather than reactive changes, this conference presentation will provide an overview and demonstration of a short online course being developed by the author. Built using the Canvas open education platform, this short course aimed at academics working within UK HEIs, will provide a more in-depth overview of the changes to disabled student support, whilst also introducing delegates to two educational frameworks; Universal Design for Learning (UDL) and Inclusive Curriculum. Building on research undertaken by Marquis et al. (2016), this course will utilise a flipped learning pedagogy; whereby the learning materials are placed online and classroom sessions are used to enable deeper exploration and discussion of the topics raised (The Higher Education Academy, n.d.). The work-in-progress can be viewed at:&nbsp;<a href="https://canvas.instructure.com/courses/1112741" target="_blank">https://canvas.instructure.com/courses/1112741</a></p>
+<p><strong>References:</strong></p>
+<p>Canterbury Christ Church University (n.d.) <em>Changes to Disabled Students&rsquo; Allowances</em> [Online]. Available at <a href="http://www.canterbury.ac.uk/learning-and-teaching-enhancement/academic-professional-development/changes-to-disabled-student-allowance.aspx" target="_blank">http://www.canterbury.ac.uk/learning-and-teaching-enhancement/academic-professional-development/changes-to-disabled-student-allowance.aspx</a> (Accessed 1 January 2017).</p>
+<p>Citizens Advice (n.d.) <em>Duty to make reasonable adjustments for disabled people</em> [Online]. Available at <a href="https://www.citizensadvice.org.uk/discrimination/what-are-the-different-types-of-discrimination/duty-to-make-reasonable-adjustments-for-disabled-people/" target="_blank">https://www.citizensadvice.org.uk/discrimination/what-are-the-different-types-of-discrimination/duty-to-make-reasonable-adjustments-for-disabled-people/</a> (Accessed 2 January 2017).</p>
+<p>Disability Rights UK (2015) <em>Applying for Disabled Students&rsquo; Allowances (DSAs)</em> [Online]. Available at http://www.disabilityrightsuk.org/applying-disabled-students&rsquo;-allowances-dsas (Accessed 3 December 2016).</p>
+<p>Marquis, E., Jung, B., Fudge Schormans, A., Lukmanji, S., Wilton, R. and Baptiste, S. (2016) &lsquo;Developing inclusive educators: enhancing the accessibility of teaching and learning in higher education&rsquo;, <em>International Journal for Academic Development</em>, Routledge, vol. 21, no. 4, pp. 337&ndash;349 [Online]. Available at <a href="http://dx.doi.org/10.1080/1360144X.2016.1181071" target="_blank">http://dx.doi.org/10.1080/1360144X.2016.1181071</a> (Accessed 21 December 2016).</p>
+<p>McNaught, A. (2016) &lsquo;Minimising pain, maximising gain: top tips for supporting learners affected by DSA changes&rsquo;, <em>JISC Blog</em>, 19 February [Blog]. Available at <a href="https://www.jisc.ac.uk/blog/minimising-pain-maximising-gain-top-tips-for-supporting-learners-affected-by-dsa-changes-19-feb" target="_blank">https://www.jisc.ac.uk/blog/minimising-pain-maximising-gain-top-tips-for-supporting-learners-affected-by-dsa-changes-19-feb</a> (Accessed 4 December 2016).</p>
+<p>Scope UK (n.d.) <em>What is the social model of disability?</em> [Online]. Available at <a href="http://www.scope.org.uk/about-us/our-brand/social-model-of-disability" target="_blank">http://www.scope.org.uk/about-us/our-brand/social-model-of-disability</a> (Accessed 2 January 2017).</p>
+<p>The Higher Education Academy (n.d.) <em>Flipped learning</em> [Online]. Available at <a href="https://www.heacademy.ac.uk/enhancement/starter-tools/flipped-learning-0" target="_blank">https://www.heacademy.ac.uk/enhancement/starter-tools/flipped-learning-0</a> (Accessed 23 December 2016).</p>
+<p>University of Leicester (n.d.) <em>The social and medical model of disability</em> [Online]. Available at <a href="http://www2.le.ac.uk/offices/accessability/staff/accessabilitytutors/information-for-accessability-tutors/the-social-and-medical-model-of-disability" target="_blank">http://www2.le.ac.uk/offices/accessability/staff/accessabilitytutors/information-for-accessability-tutors/the-social-and-medical-model-of-disability</a> (Accessed 2 January 2017).</p>
+<p>Weale, S. (2015) <em>Government to cut funding for disabled university students</em> [Online]. Available at <a href="https://www.theguardian.com/education/2015/dec/02/government-to-cut-funding-disabled-university-students-jo-johnson" target="_blank">https://www.theguardian.com/education/2015/dec/02/government-to-cut-funding-disabled-university-students-jo-johnson</a> (Accessed 2 January 2017).</p>
+<p>Willetts, D. (2014) <em>Higher education: student support: changes to Disabled Students&rsquo; Allowances (DSA)</em> [Online]. Available at <a href="https://www.gov.uk/government/speeches/higher-education-student-support-changes-to-disabled-students-allowances-dsa" target="_blank">https://www.gov.uk/government/speeches/higher-education-student-support-changes-to-disabled-students-allowances-dsa</a> (Accessed 2 January 2017).</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Sun, 08 Jan 2017 13:51:33 +0000</pubDate>
+            </item>
+                    <item>
+              <title>a glimpse of the future</title>
+              <link>https://cloudworks.ac.uk/cloud/view/9345</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/9345</guid>
+              <description><![CDATA[<p>Bill Law<br /><a href="http://www.hihohiho.com/">the career-learning caf&eacute;  </a></p>
+<p>This account of the future poses some pressing questions for careers work.&nbsp;&nbsp;</p>
+<p align="center"><em>is careers work usefully thought of as an institution or a movement?<br /></em><em>does it most need defending or galvanising?<br /></em><em>does that mean it knows where it's going?<br /></em><em>and who it needs to take with it?<br /></em><em>and does that mean supporting some interests and opposing others?<br /></em><em>and if it does is there any agreement about which is which?</em></p>
+<p>&nbsp;</p>
+<p>These are the issues, and this is an account of a careers-work leader who took them on - and did so some time ago. &nbsp;He's worth listening to now, because no issue was resolved then, and none is resolved now.&nbsp;</p>
+<p>They are existential issues - if careers work can't tell itself what it is about, it needn't expect anyone else to show much interest.&nbsp; Careers work needs the issues resolved now.</p>
+<p>The examination comes in five stages...</p>
+<p>1: &nbsp;<strong>unemployment</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;the politics of careers work damages society<br />2: &nbsp;<strong style="cursor:auto"><!--NO CSS-->education and the local state</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; central controls are displacing local understanding &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />3:&nbsp; <strong style="cursor:auto"><!--NO CSS-->manpower and careers services</strong>&nbsp; &nbsp; &nbsp;central and local actions are inseparably entwined<br />4: &nbsp;<strong style="cursor:auto"><!--NO CSS-->youth opportunities</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; the best training in the world does not create work<br />5: &nbsp;<strong style="cursor:auto"><!--NO CSS-->the future</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;a good future brings dignity, respects individuality and conceeds control</p>
+<p align="center">_____________________________________<em>&nbsp;</em></p>
+<p align="center"><em>careers work needs your say on this&nbsp;<br /></em><em style="cursor:auto"><!--NO CSS-->sign up on the right and blog below</em>&nbsp;</p>
+<p align="center">_____________________________________</p>
+<p>&nbsp;</p>
+<p>What follows is the most insightful polemic on the issues facing careers work that I have come across.&nbsp; It is compelling stuff and intended to galvanise change.&nbsp; It's Kevin Devine's presidential address to The Institute of Careers Officers annual conference, in September 1981. &nbsp;Contemporary careers work is yet to catch up with him. &nbsp;And yestrerday's ICO was the forerunner of today's Career Development Institute .&nbsp;</p>
+<p>I've edited this version into the available space.&nbsp; None of Kevin's ideas have been lost.&nbsp; A post-script takes a look at the implications of his long-ago thinking for today's and tomorrow's action.</p>
+<p align="center">__________________________________________________________</p>
+<p align="center">&nbsp;</p>
+<p align="center"><strong>a glimpse of the future</strong></p>
+<p>'the most prophetic polemic I've come across on the issues confronting contemporary careers work' &nbsp;(Bill Law)</p>
+<p>&nbsp;</p>
+<p>Kevin Devine<br /> President, The&nbsp;Institute of Careers Officers</p>
+<p>I run the risk of falling into the category of...</p>
+<p align="center"><em>...bleeding hearts&nbsp;&nbsp; &nbsp;... &nbsp;&nbsp;&nbsp;so-called liberals &nbsp;&nbsp;&nbsp;...&nbsp;&nbsp;&nbsp; Marxist agitators</em></p>
+<p>But what I hope to do is demonstrate that the way society treats its young people, and particularly the unemployed, is nothing less than a prescription for social chaos and confusion. &nbsp;And when I say society I mean all of us.&nbsp; More importantly, we run the risk of perpetrating one of the greatest social outrages that this country has seen. &nbsp;It is to cause youngsters to be the victims of a society which behaves as though it has no place for them.</p>
+<p>I will take a look at the nature of unemployment among young people and society's response to their needs.&nbsp; It means examining the place of education, the nature of the local state, and the youth opportunities programmes. &nbsp;I want these threads to come together in a glimpse of a future which can enable young people to participate in their society, to improve it, but - most of all - to have a sense of dignity and self-respect in whatever they do.</p>
+<p align="center">_________________________________</p>
+<h2>&nbsp;</h2>
+<ul>
+<li><strong>1:&nbsp; UNEMPLOYMENT</strong></li>
+</ul>
+<p>For many careers workers a detailed examination of the features of youth unemployment is clearly unnecessary.&nbsp; However, on the off-chance that there may be some who have learned about unemployment from pernicious propaganda, and whose higher consciousness is immersed in the theories of monetarism, I will briefly look at some aspects of unemployment among young people because this background is relevant to my theme.</p>
+<p>I shall refer later to the role of the Manpower Services Commission.&nbsp; But itis interesting to note now that it established a working party which, with the support of parliament, produced the package we now know as the <em>Youth Opportunities Programme </em>(YOP). &nbsp;Its report, <em>Young People and Work</em>, is adocument of profound significance - not only for members of this Institute's careers services - but, in my view, also for local education authorities and for society itself. &nbsp;The report established that juvenile unemployment was likely to stay at on exceptionally high levels. &nbsp;It also noted that there is an increase in seventeen- and eighteen-year-olds entering the labour market. &nbsp;The results have been, by anybody's criteria, a remarkable achievement in delivering a programme of opportunities, from which many young people have benefited. &nbsp;However, one significant conclusion is notably absent from the report: it is that unemployment among young people was no longer a cyclical phenomenon, but essentially structural in nature. &nbsp;At least YOP affords society a chance of buying time to consider other strategies that meet the real needs of unemployed young people - who are now affected to an extent unthinkable a decade ago.</p>
+<p>The young jobless frequently hit the headlines in the media. &nbsp;Most of us know that it is young people in the age range of sixteen-to-twenty-four who are now adversely affected. &nbsp;The majority come from backgrounds where craft or manual occupations are common. &nbsp;In the early days of the growth of unemployment, most of the youngsters affected were unqualified.&nbsp; It is now becoming increasingly difficult, sometimes impossible, for any young person to find a job.</p>
+<p>We face a future where the total unemployment figure continues to rise. &nbsp;The grim government figures are an under-statement.&nbsp; An economic consideration is the failure to invest in training.&nbsp; It is difficult to imagine the anxieties of sixteen year-olds leaving school. &nbsp;Teachers are reluctant to prepare young people for unemployment.&nbsp; And they are beginning to experience the backlash of students no longer motivated for trying to benefit from education.&nbsp; Students see little purpose in it. &nbsp;Many are sharp enough to perceive that learning comes to nothing with no employment at the end.</p>
+<p>In the five years to 1900, there was a sixty per-cent increase in unemployment and a fifty per-cent rise in young-people's suicides. &nbsp;&nbsp;Young blacks are disproportionately affected.&nbsp; Yet for each prosecution for tax evasion there are 160 for social-security fraud. &nbsp;The ministerial response?...</p>
+<p align="center"><em>'there are many people in our society <br /> who are harder pressed than immediate school leavers'</em></p>
+<p>My purpose, then, is not to offer raw material for some sociological journal, but to illustrate the reality of these cruel inequalities.&nbsp; Part of it is the vicious phenomenon of fascism whose propaganda blames unemployment on Jews, and which sees the dole queue as a fertile recruiting ground. &nbsp;Part of the reality is the materialistic advertising of the popular press - offering an anodyne escape from the reality of unemployment. &nbsp;It lays a smoke screen, obscuring the realities underlying what it sees as unacceptable expressions of antipathy or alienation.&nbsp; Aneurin Bevan has already voiced it...</p>
+<p align="center"><em>'this so-called affluent society is an ugly society' <br /> 'it is a vulgar society<br /> 'it is a meretricious society<br /> 'it is a society in which priorities have gone all wrong'</em></p>
+<p>These are the turbulent waters on which teenagers embark when they leave school. &nbsp;The secondary curriculum has precious little to do with their real needs. &nbsp;There are pious statements about...</p>
+<p align="center"><em>...personal and social education.</em></p>
+<p>They show every sign of being written in a cosy and secure world, they are an emasculated programme far-removed from the overcrowded tenements of inner cities.</p>
+<p>And there is also what passes for...</p>
+<p align="center"><em>...careers education.</em></p>
+<p>It emphases content over the process by which youngsters learn for a life after school. &nbsp;The resources available to teachers encourage conformity, fitting pegs into holes - and, heaven help the ill-fitting. &nbsp;If careers education is to have any real guts as a subject, then one of its principal purposes must be to enable young people to learn how to take control of their own lives.</p>
+<p>On leaving school youngster becomes clients of a careers service. &nbsp;Careers-service staff know the profound effects of the remorseless day-in-and-day-out pressure of dealing with young people - who conclude that society has nothing to offer them. &nbsp;The risk is that the service becomes an agency siphoning off resentment which might be expressed in activity against society. &nbsp;Feelings of apathy give way to a sense of rejection. culminating in angry and melancholic alienation.&nbsp;</p>
+<p>The path of escalation is obvious - for some in society the only remedy is to silence the protest. &nbsp;A more insidious call is for doing whatever is necessary to preserve the fabric of society.&nbsp; But there is a third possibility...:</p>
+<p align="center"><em>we must do something so that these young people can help <br /> in changing the fabric of society</em>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Careers officers help youngsters do something worthwhile in their lives. &nbsp;But for many the initial optimism about the Youth Opportunities Programme has given way to a weary sense of forlorn hope. &nbsp;There is no need to criticise the programme, but there is a need to examine the odds stacked against its success. &nbsp;In sharp contrast with apprentices and students, the jobless-young lack a sense of purpose and - most importantly - any sense of status.&nbsp; They need the help of the community around them.&nbsp; This must not be condescending prescription but a constructive enabling.&nbsp; More is needed from education, and not only inside their institutions but also through setting up fulfilling and vigorous roles in their communities. &nbsp;But has local education the resources and freedom to get it done?</p>
+<p align="center">_________________________________</p>
+<h2>&nbsp;</h2>
+<ul>
+<li><strong>2:&nbsp; EDUCATION AND THE LOCAL STATE</strong></li>
+</ul>
+<p>There is a decline in the financial resources available to local education authorities. &nbsp;It has led to some centralisation.&nbsp; There is also an intrusion of party politics into education.&nbsp; The local management of education is the most consistently political part of local government services. &nbsp;</p>
+<p>The most recent example of that intrusion is in central-government initiatives for curriculum.&nbsp; It famously began with the speech by the then Prime Minister at Ruskin College.&nbsp; It was followed by a series of great debates, a spate of publications, and persistent pressure from the central education ministry. &nbsp;But there is still a wide gap between all this and the facts of life facing school leavers.&nbsp; While almost every aspect of the debate raises questions for local autonomy versus central direction. &nbsp;The curriculum is dominated by the examination system, itself centrally influenced by the universities. &nbsp;</p>
+<p>But the practice of local authorities varies widely - perhaps too widely. &nbsp;And the debate raise doubts about whether they can properly meet the demands. <strong>&nbsp;</strong>I think they can - and should. &nbsp;And there has been some government acknowledgement of the need to have local mechanisms to deal with local needs.&nbsp; But the only effective answer to this is to reform the financial structure - and base it on local income for local authorities.</p>
+<p>How do we reconcile these traditional values of local democratic accountability with the need to reduce all aspects of national expenditure?&nbsp; The pressure is to bring all into line with central economic policies.&nbsp; Various groups protest and fight the resulting cuts.&nbsp; They include the students' parents, council tenants, the elderly, the infirm and minorities. &nbsp;But there are fewer who actually organise for more to stimulate employment.</p>
+<p>The underlying conflict is between what government can do about social <em>investment</em> and what local authorities can do about social <em>provision</em>.&nbsp; The issue becomes...</p>
+<p align="center"><em>'what is the role of local government in the British state?'</em></p>
+<p>Take first the notion of the British state, and assume that it is a capitalist rather than communist state.&nbsp; Centralisation then positions local government as an arm of capitalism. &nbsp;It's argued that government has two key functions: to maintain social order, requiring either legitimation or coercion; and to maintain profitability in the private sector, requiring social investment contributing to citizen well-being.&nbsp;</p>
+<p>The involvement of the state in social investment is frequently overlooked by opponents of increased public expenditure.&nbsp; But it provides resources which the private sector does not supply. &nbsp;And once those infrastructure costs are pushed upwards to government, the private sector shifts away from improving private-sector profitability. &nbsp;And that reduces employment opportunities.&nbsp;</p>
+<p>Meanwhile jobs in industries which contribute to social investment, such as the steel industry, are eroded.&nbsp; Some, such as the railways, are under-capitalised.&nbsp; And price increases are forced elsewhere, for example in gas and electricity. &nbsp;The results are a drop in labour requirements, falling demand and rising prices. &nbsp;Yet we stifle industries which could bring recovery, and there is under-investment new industries.&nbsp;</p>
+<p>At the same time local-government expenditure on social provision is curtailed.&nbsp; That is the case for housing, hospitals and welfare.&nbsp; And social provision indirectly ensures a local supply of labour.&nbsp; But, if local employers don't need workers, they see little point in social and welfare services to look after them. &nbsp;Local government has had some responsibility for social investment, for example in gas, electricity and water, roads and public transport.&nbsp; But those services have been taken away.</p>
+<p>There is conflict between social investment controlled by the central state and social provision consumed in the locality. &nbsp;At the national level corporate boards have direct access to policy-making. &nbsp;At regional level non-elected authorities are gaining control of essential services.&nbsp; However, housing and welfare remain local provisions where priorities can be locally argued. &nbsp;That also applies to education.&nbsp;</p>
+<p>Central government is taking measures to bring local authorities into line. &nbsp;It must also try to reconcile its economic priorities with the social demands expressed in democratic protests.&nbsp; But the impositions of central government, the remoteness of its officialdom, and the insensitivities of whitehall departments all contribute to a growing cynicism in society. &nbsp;Cynicism gives way to apathy and apathy to alienation.&nbsp; And public-expenditure cuts are a constant companion of rising unemployment.</p>
+<p align="center">_________________________________</p>
+<h2>&nbsp;</h2>
+<ul>
+<li><strong>3:&nbsp; MANPOWER AND CAREERS SERVICES</strong></li>
+</ul>
+<p>The Manpower Services Commission Is a central agency for social investment.&nbsp; It is not democratically appointed. &nbsp;The investments aredesigned to contribute directly to private-sector profitability - they serve employer interests. &nbsp;Services which do not serve that main purpose are discarded.&nbsp;</p>
+<p>A careers service is a local agency for social provision.&nbsp; It is democratically accountable.&nbsp; As part of social provision, consumed locally, careers services have had both losses and gains - but on balance they have contracted&nbsp;</p>
+<p>Notable is the loss of the centrally-based Careers and Occupational Information Centre. &nbsp;The centre has made an outstanding contribution to the provision of information and resources to clients and students.&nbsp; It found a ready acceptance among youngsters, their parents, their teachers and in careers services. &nbsp;To the extent that this service has maintained its principal priority, of offering a service to young people, it resembles social provision.&nbsp; Examples include providing group work, counselling, interviewing and&nbsp; placement services. &nbsp;All are locally consumed.</p>
+<p>The question must now be asked...</p>
+<p align="center"><em>given the distinctions between central investment and local provision <br /> what is the role of careers services in local government?</em></p>
+<p>There can be no simple answer.&nbsp; The operation of an employment service cannot succeed unless it attends to the needs of employers.&nbsp; A majority of employers would probably accept that, by providing a first and significant priority to the needs of job seekers, the&nbsp; service is helping employers.&nbsp; Careers services have a much better record than any private provision in covering work vacancies.&nbsp; They therefore offer a uniquely sophisticated pre-selection service to the labour market. &nbsp;Employers make the final recruiting selection, but careers services are as much a form of social investment as central government.&nbsp; There can be no simple separation between central-manpower needs and local-consumer needs.</p>
+<p align="center">_________________________________</p>
+<h2>&nbsp;</h2>
+<ul>
+<li><strong>4:&nbsp; YOUTH OPPORTUNITIES</strong></li>
+</ul>
+<p>In a recent joint publication of the Manpower Services Commission and the Education Committee of the Association of Metropolitan Authorities, the following statement appears.</p>
+<p align="center"><em>'The Youth Opportunities Programme is designed around<br /></em><em style="cursor:auto"><!--NO CSS-->the needs of unemployed young people of different levels of ability,<br /></em><em style="cursor:auto"><!--NO CSS-->and for whom work experience, training in basic skills and constructive vocational advice and guidance are likely to be of value in their search for suitable employment'</em></p>
+<p>The big problem is that there isn't any suitable employment for many youngsters. &nbsp;There is considerable evidence of disaffection among youngsters who question the value of going on the programme when on completion there are few, if any, employment opportunities.</p>
+<p>About a million young people are to take part.&nbsp; And the programme certainly has some significant successes - it has been a life-line for many. &nbsp;But, although a vast majority have derived some benefit, the number completing the programme and going into suitable employment is decreasing all the time.</p>
+<p>A <em>Youthaid Review</em> of the programme reports concerns&nbsp;&nbsp; A disproportionate burden of unemployment is carried by young black school leavers. &nbsp;There is a 'creeping rigidity', and repeated complaints that the programme is weighed down with rules, regulations and administrative procedures.&nbsp; The most common cause of complaint seems to be bureaucratic delays, particularly in the approval of schemes.</p>
+<p>The Youth Opportunities Programme was originally intended to be an alternative to unemployment, but - as matters have developed - it has become an alternative to employment. &nbsp;Red tape aside, the most effective training programme cannot create jobs.</p>
+<p align="center">_________________________________</p>
+<p>&nbsp;</p>
+<ul>
+<li><strong>5:&nbsp; THE FUTURE</strong></li>
+</ul>
+<p>A radical and new approach is necessary. &nbsp;But the creation of new jobs is a long-term and ambitious goal.&nbsp; Even a sudden switch to a crash programme of public expenditure, investment and expansion will not achieve overnight.</p>
+<p>For too long an assumption has been that employment services and training sum-up the national enterprise. &nbsp;But local authorities have more active roles - in stimulating employment growth, and operating employment services.&nbsp; Local services are more client-centred, more responsive to need and more accountable to consumers. &nbsp;We allaccept that education, training and employment are closely linked together - but they are also local services designed to meet local needs.&nbsp;</p>
+<p>To any who doubt the ability of local authorities to respond, I cite examples of what can be done by a determined and dedicated services. &nbsp;There are local authorities which have vigorously pursued radical policies for stimulating employment growth.&nbsp; The Inner-London Education Authority has a consistently good record of making available resources to careers services so that they can meet the demands made on them.&nbsp; Those services have provided for unemployed youngsters over-and-above what is afforded by the Manpower Services Commission.</p>
+<p>We don't need more agencies, we need a more radical approach to cut through red tape of existing agencies and to get on with expanding work opportunities. &nbsp;We must be prepared to re-appraise the relationship between local education, careers services and government. &nbsp;Careers services will play key roles.&nbsp; &nbsp;But how that reappraisal works out in detail is a task for local authorities.</p>
+<p>I see training workshops and real community projects as the backbone, closely linked to a purposeful programme of skills training. &nbsp;Whatever the provision, it must be based in the local community, draw on its resources, and serving its needs.</p>
+<p>It must also show respect for the individuality of each young person - enabling them to feel that they have status and purpose in society. &nbsp;That means socially providing learning which is relevant to their needs, over-compensating for disadvantage, and positioning all young people for taking control their own futures.</p>
+<p align="center">_________________________________</p>
+<h2>&nbsp;</h2>
+<p><strong>POSTCRIPT<br /></strong>Bill Law</p>
+<p>Kevin's voice has authority.&nbsp; He spoke as the Head of Cambridgeshire Careers Service and president of the ICO.&nbsp; He was later appointed director of the government-funded Schools Council research-and-development project on working life.&nbsp;</p>
+<p>There were other authoritative voices at the time - <a href="http://www.cegnet.co.uk/blog/peter-daws">Peter Daws</a> had most influence on government.&nbsp; But Kevin was not negotiating with government, he was galvanising a profession.&nbsp; The speech is not about attaching careers work to politics, it's about attaching careers work to the lives of clients and students.&nbsp; His is not a voice for defending convention, but for catalysing reform.&nbsp;</p>
+<p>He spoke from the guidance wing of careers work, and I'm mostly on the curriculum wing.&nbsp; So I didn't come across his lecture until he casually mentioned it.&nbsp; On hearing his summary I asked for a copy.&nbsp;</p>
+<p>I admire the nerve that blows the whistle on the narrow self-interests of the simple-minded - some of whom are among the influential.&nbsp; I don't remember anybody so comprehensively taking on the task as Kevin - dismantling trends, disentangling analyses, facing reality.&nbsp; It predates by decades today's careers-work thinking. &nbsp;And it was way ahead of any current argument for reform -&nbsp;<a href="http://cloudworks.ac.uk/careers-work reform">including my own</a>.</p>
+<p>Kevin Devine was the first in his field to identify the impact on careers work of neo-liberal austerity. &nbsp;And he developed an early grasp of the way the locality influences career development. &nbsp; Those local authorities have since been seriously damaged by central government. &nbsp;And what is going wrong still needs probing...</p>
+<p align="center"><em>is careers work usefully thought of as an institution or a movement?<br /></em><em>does it most need defending or galvanising?<br /></em><em>does that mean it knows where it's going?<br /></em><em>and who it needs to take with it?<br /></em><em>and does that mean supporting some interests and opposing others?<br /></em><em>and if it does is there any agreement about which is which?</em></p>
+<p>I can report hands-on experience of a failure to address such questions. &nbsp;The government's Careers and Occupational Information Centre was the publisher of my<em>&nbsp;</em>open-learning pack, whose title coined the term '<em>Careers Work'.</em>&nbsp; For several years, in centres throughout the country, and running to three editions, the pack was a resource for locally-based programme development.&nbsp; An official unilaterally replaced it with a few pages of advice to practitioners.&nbsp; He had been a former careers adviser and I had helped to train him. &nbsp;I can't help feeling, on encoutering him in government, that this former careers worker was, after all, rooted in the narrow, the self-interested and the simple-minded.</p>
+<p>That self-serving mentality is an enemy of progress. &nbsp;And change is the agenda. &nbsp;But, left to itself, there is an unreadiness that displaces free-thinking enlightenment and hard-won evidence with whim and superstition. &nbsp;Conflicting versions of religious extremism spill into our schools, colleges and universities. &nbsp;It gets harder to appreciate migration as a gift. &nbsp;Life, well-being, and survival are put at risk - while commercial and political interests&nbsp;move on unhampered. &nbsp;They capture and curtail the&nbsp;<a href="http://www.hihohiho.com/newthinking/edctnmngrph34.pdf">usurped and weakened public services</a>&nbsp;- by which civilised societies manage change. &nbsp;The agenda needs to be progressive change, and its enemies are any combination of the complacent, the narrow, the self-interested, the simple-minded and the powerful.&nbsp;&nbsp;</p>
+<p>Did anybody predict any of this in 1981? &nbsp;Contemporary careers work cannot afford to ignore it. &nbsp;Public-service careers work is in a worse state now than in 1981 - brought&nbsp;<a href="http://www.hihohiho.com/newthinking/cafcoach.pdf">close to extinction</a>. &nbsp;And this twenty-first-century failure was set in motion by that plodding twentieth-century complacency. &nbsp; A persistent unwillingness to&nbsp;<a href="http://cloudworks.ac.uk/cloud/view/9094">learn from failure</a>&nbsp;means that the last careers-work leader left standing will, in any now-and-future, be empty-handed.</p>
+<p>Education has a counter-narrative, offering careers work wider horiizions. &nbsp;Kevin Devine's thinking on 'central investment and local provision' gets on-going research-based support, examining '<a href="http://cdj.oxfordjournals.org/content/46/suppl_1/i132.abstract">corporate management and community development</a>'.&nbsp; There are massive areas of expansion for careers work to understand and enable. &nbsp;People are <a href="http://cloudworks.ac.uk/cloud/view/9094">learning from experience</a> at least as much as from expertise.&nbsp; That experience is increasingly shaped in <a href="http://www.hihohiho.com/information/nicecspace&place.pdf">locally-based</a> enclaves.&nbsp; The <a href="http://www.hihohiho.com/newthinking/NICECHit&Myth.pdf">internet</a> is at the same time a help and hindrance to learning. &nbsp;Local educators know more about&nbsp;<a href="https://www.tes.com/news/further-education/breaking-views/productivity-a-puzzle-policymakers-not-fe">improving productivity</a>&nbsp;than central government, its sponsors and its favoured advisers. &nbsp;The way people understand themselves in the world is <a href="http://cloudworks.ac.uk/cloud/view/9272">outflanking conventional politics</a>.&nbsp; It is even possible that the word 'socialism' no longer attracts&nbsp;knee-jerk&nbsp;derision from closed minds. &nbsp;Instead the call is for the <a href="http://cloudworks.ac.uk/cloud/view/9272">ready-for-anything-flexibility</a> of independent minds, critically thinking, and creatively inventing.</p>
+<p>&nbsp;</p>
+<p align="center">_____________________________________<em>&nbsp;</em></p>
+<p align="center"><em>careers work needs your say on this<br /></em><em style="cursor:auto"><!--NO CSS-->sign up on the right and blog below</em>&nbsp;</p>
+<p align="center">_____________________________________</p>
+<p align="center">...or contact...&nbsp;</p>
+<p align="right">Dr Bill Law FRSA</p>
+<p align="right">in&nbsp;<a href="http://www.hihohiho.com/">the career-learning caf&eacute;  </a><br /> on&nbsp;<a href="https://twitter.com/billaw">twitter </a>&nbsp;<br />at 07855 293 855</p>
+<p align="right">16/11/2015</p>]]></description>
+          <pubDate>Mon, 24 Aug 2015 09:27:40 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Developing internships and work based learning opportunities for mature students: creating opportunities and raising aspirations</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6501</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6501</guid>
+              <description><![CDATA[<h3 style="cursor:auto"><!--NO CSS-->10.00am to 3.00pm, 31 October 2012</h3>
+<h4 style="cursor:auto"><!--NO CSS-->The Open University Milton Keynes</h4>
+<p style="cursor:auto"><!--NO CSS-->The seminar will provide an opportunity to consider the particular needs of mature students when universities attempt to develop employability supporting opportunities through internships and work based learning modules. The seminar will consider the difficulties in developing employability opportunities for those who may already be working in low paid employment and for those with non-traditional educational histories.</p>
+<p style="cursor:auto"><!--NO CSS-->Further details are available from&nbsp;<a style="color: #1f536b;" href="http://www.heacademy.ac.uk/events/detail/2013/Seminars/Themes/WSST06-Open-University">The Higher Education Academy site</a></p>
+<p style="cursor:auto"><!--NO CSS-->There is no charge to attend the seminar, but a place must be reserved.</p>
+<p style="cursor:auto"><!--NO CSS-->To book on, click the 'book onto event' button on this page, if you experience any difficulties with the online booking procedure please email&nbsp;<a style="color: #1f536b;" href="mailto:thematic.seminar@heacademy.ac.uk">thematic.seminar@heacademy.ac.uk</a>. 50 places are available on first-come, first-served basis.</p>
+<p style="cursor:auto"><!--NO CSS-->The seminar will also be broadcast online with opportunities throughout the day to engage and contribute to the discussions. To receive further details and register to attend virtually, please email<a style="color: #1f536b;" href="mailto:dawn.patton@open.ac.uk">dawn.patton@open.ac.uk</a>.</p>
+<p style="cursor:auto"><!--NO CSS-->The seminar will focus on:</p>
+<ul style="cursor:auto"><!--NO CSS-->
+<li>internships in the third sector as providing opportunities for career changers</li>
+<li>work based learning modules within the field of working with young people as support for career development</li>
+<li>the notion of maximising opportunity and raising aspirations for mature students</li>
+<li>the issue of developing employability skills through working experiences for those from non-traditional educational backgrounds.</li>
+</ul>
+<p style="cursor:auto"><!--NO CSS-->The event will be of value to university policy makers and practitioners interested in developing a collaborative approach to the provision of internships in smaller organisations, those supporting employability for mature students in a range of disciplines, and those supporting the employability and social mobility of students from a diversity of backgrounds.<br /><br />The event will be simultaneously broadcast via the Open University&rsquo;s webcast platform with opportunities for virtual engagement throughout the day.<br /><br />Aims/outcomes</p>
+<ul style="cursor:auto"><!--NO CSS-->
+<li>To consider the issues for mature students as &lsquo;career changers&rsquo; and the way in which collaborative university mechanisms can support work experiences in third sector organisations</li>
+<li>To consider the issues for mature students as &lsquo;career developers&rsquo; and the way in which work based learning modules can support opportunities for social mobility and learning in the workplace.</li>
+<li>To discuss the issue of developing employability skills through working experiences for those from non-traditional educational backgrounds.</li>
+<li>To consider how internships and work based learning can offer opportunities and raise aspirations of mature students.</li>
+</ul>
+<h2 style="cursor:auto"><!--NO CSS--><br />Information about sessions and speakers</h2>
+<h3 style="cursor:auto"><!--NO CSS-->Career development and work based learning: real lives, imagined futures</h3>
+<p style="cursor:auto"><!--NO CSS-->Roger Harrison, Tyrrell Golding and Stephen Harrison, The Open University</p>
+<p style="cursor:auto"><!--NO CSS-->This presentation will draw on data from a small qualitative study eliciting stories of progression towards professional status from students on a youth work programme. The students were selected from each of the three levels of the Open University&rsquo;s professional qualification in Youth Work. In seeking to elicit biographical narratives the study is able to make connections between the personal, social and occupational factors which shape the hopes, fears and performance of these students. In examining these narratives of progression towards professional status we hope to gain some insights into the challenges faced by those designing and delivering work based programmes of study for mature students in higher education.</p>
+<p style="cursor:auto"><!--NO CSS-->The presentation will:</p>
+<ul style="cursor:auto"><!--NO CSS-->
+<li>Establish the nature of the professional field in which this programme is located, acknowledging that journeys to professional status differ between occupational groupings.</li>
+<li>Identify the nature of the programme these students are pursuing &ndash; work based learning within a distance teaching format and conforming to a specific regulatory framework.</li>
+<li>Examine the narratives of progression which have emerged from the research and the kind of questions these raise for educators.</li>
+</ul>
+<h3 style="cursor:auto"><!--NO CSS-->Internships, University Collaboration, and Career Change Opportunities</h3>
+<p style="cursor:auto"><!--NO CSS-->Dr Martha Caddell, Third Sector Internships Scotland / The Open University in Scotland and Fiona Boyle, Third Sector Internships Scotland<br /><br />With record levels of graduate unemployment, renewed focus is being directed to the role of volunteering and internships as mechanisms for enhancing employability, gaining work experience, and securing routes into permanent jobs. There has been widespread recognition that a &lsquo;degree is not enough&rsquo; and work relevant skills and experience are crucial in a highly competitive job market. Yet there is also concern about the potential elitism of (often unpaid) internship and work placement schemes, where access to opportunities are based on who you know or your ability to work without pay rather than on merit. Much debate has focused on the implications for young people seeking to enter the graduate labour market, yet there are clearly parallel concerns for mature students wishing to return to work after a career break or change career.</p>
+<p style="cursor:auto"><!--NO CSS-->This session offers space to discuss this increased focus on internships and work experience and the particular challenges faced by mature students? Can internships offer meaningful opportunities to enhance skills and open opportunities for career change or development? What are the practical challenges facing students, universities and employers in developing placements and internships that will genuinely help enhance student employability?</p>
+<p style="cursor:auto"><!--NO CSS-->In highlighting the emerging issues, we will draw on our experience developing and implementing Third Sector Internships Scotland (www.3rdsectorintern.org.uk). This is a collaborative programme developed by Scottish universities and the Scottish Council for Voluntary Organisations. Focusing in particular on how mature students have engaged with the programme, the discussion will explore key issues including:</p>
+<ul style="cursor:auto"><!--NO CSS-->
+<li>Mature students motivations in applying for internships, and their experience on and post internship.</li>
+<li>Making internships meaningful for employers and students.</li>
+<li>The challenges of working across multiple universities and with small and micro organisations.</li>
+<li>The practicalities of getting an internship scheme up and running.</li>
+</ul>
+<p style="cursor:auto"><!--NO CSS-->Fiona Boyle is Co-Director of Third Sector Internships Scotland. She has particular responsibilities for partnerships and learning. Fiona is based at Queen Margaret University. Her background is employability and skills development, having previously held the post of Employability Coordinator at QMU.</p>
+<p style="cursor:auto"><!--NO CSS-->Dr Martha Caddell is Learning and Teaching Coordinator at the Open University in Scotland, with particular responsibility for employability and teaching and learning enhancement. She is also Co-Director of Third Sector Internships Scotland and is responsible for research and evaluation activity on the programme. Her background is in education and skills development, particularly in international and comparative contexts.<br /><br />Tyrrell Golding is a Lecturer in Education Youth Work, in the Faculty of Education and Language Studies.<br /><br />Roger Harrison is Senior Lecturer in the Department of Education, in the Faculty of Education and Language Studies. He is currently core member of the team developing the Foundation Degree in Working with Young People. His research interests focus on lifelong learning, with particular emphasis on issues of policy, pedagogy and identity. His recent publications and conference papers on social theories of learning; informal learning; learning for professional development; learning and identity.<br /><br />Stephen Harrison is a Lecturer in Education Youth Work, in the Faculty of Education and Language Studies.<br /><br />Brenda Little is an experienced Educational Analyst with detailed knowledge of the UK higher education (HE) sector spanning the past 20-30 years, and of HE systems in mainland Europe. Her expertise includes developing, undertaking and managing policy-related higher education research in relation to the student experience, graduate employment and work-based learning.</p>]]></description>
+          <pubDate>Thu, 27 Sep 2012 09:55:48 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Student Finance in England 2012 -2013: Invigorating Interest in Higher Education </title>
+              <link>https://cloudworks.ac.uk/cloud/view/5529</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5529</guid>
+              <description><![CDATA[<p>A letter from the Ministry communicating the student finance package for 2012/13 onwards.</p>
+<p>Clearly, this government has realised that its communication exercise on student tutition fees has failed thus far. Immediate action is being taken to try to rectify the problem.&nbsp; Is it too late? Has damage been done to the reputation of going to university and the associated short, medium&nbsp;and long term costs?</p>
+<p>What role can careers professionals&nbsp;best perform in communicating the added value returns of a higher education experience juxaposed other learn and earn options?</p>
+<p>Visit the link and consider will the content of this letter make a difference? Maybe&nbsp;what's needed is more innovative ways of working with parents&nbsp;to dispel the myths. How should be be tackled - let's share ideas and see what happens.</p>
+<p>A starter for ten - www. mumsnet.com&nbsp;</p>]]></description>
+          <pubDate>Mon, 16 May 2011 20:37:22 +0000</pubDate>
+            </item>
+                    <item>
+              <title>E-learning expectations</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5073</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5073</guid>
+              <description><![CDATA[<p>There is a debate about e-learning and blended learning and it is generally felt that blended learning experiences are richer that purely e-learning experiences. Many universities have opted to deliver purely e-learning experiences as blended learning requires minimal to full face-to-face contact supplemented by the virtual support. True virtual university education does away completely with face-to-face but all players must be on-board with the techniques and tools of true e-learning. Some aspects of the traditional universities such as assessment have to be reexamined in the light of the new logistics and how well universities can depart from this is a measure of their success in the new dispensation. On-line learning has its own life. The rules are different by the very nature of things. This cloud is meant to be a forum for students to voice their own expectations and relay their experiences in on-line education.</p>]]></description>
+          <pubDate>Thu, 03 Mar 2011 00:50:46 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Poster Presentations</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3811</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3811</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Tue, 08 Jun 2010 14:56:14 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Plenary discussion: Student community support </title>
+              <link>https://cloudworks.ac.uk/cloud/view/3787</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3787</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Tue, 08 Jun 2010 14:54:46 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Using twitter with students</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2398</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2398</guid>
+              <description><![CDATA[<p>Sparked by a conversation in a related <a href="/index.php/cloud/view/2266.html">cloud</a> with Tony McNeil, I have set up this cloud to look at how Twitter is being used with students.</p>
+<ul>
+<li>Have you used Twitter with your students? </li>
+<li>If so how has it worked? </li>
+<li>How have you set it up and how much have you structured/moderated in some way? </li>
+<li>How is it being used alongside other communication tools on the course?</li>
+</ul>]]></description>
+          <pubDate>Sat, 03 Oct 2009 10:24:39 +0000</pubDate>
+            </item>
+                    <item>
+              <title>10 online learning tool for students</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2382</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2382</guid>
+              <description><![CDATA[<p>via @<strong></strong><strong><a title="eDCSD" href="http://twitter.com/eDCSD">eDCSD</a> on Twitter</strong></p>
+<p><strong></strong>Ten really nice sites to support learning across different disciplines. Although aimed at school kids I can see that some of them, like livemocha - social networking for language learners - are equally valuable for adults. I am certainly going to take a closer look at VerbaLearn with my daughter.</p>]]></description>
+          <pubDate>Sun, 27 Sep 2009 15:05:43 +0000</pubDate>
+            </item>
+                    <item>
+              <title>HippoCampus and Open Educational Resources</title>
+              <link>https://cloudworks.ac.uk/cloud/view/918</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/918</guid>
+              <description><![CDATA[Generally, there are two targets for OERs- one for students, and one for teachers.<br />
+HippoCampus focuses on high school and community college.<br />
+<br />
+There are basic necessities for an OER- it must be curricular, complete, of a high quality, easy to use, and a teaching tool.<br />
+<br />
+Essentially, it must be as simple and effective as opening a text book.<br />
+<br />
+NROC is unique in that it fuses content for high school and higher education; it has complete foundations for entire courses, and can be made flexible to the needs of the teacher.<br />
+<br />
+Quality is of a very high concern- expectations are high for both students and teachers using this content.<br />
+<br />
+When introduced to the state of Oregon, the content was met with widespread acceptance.<br />
+<br />
+Flexibility can be brought to the teacher, district, or state- this makes the high quality content easier to use, no matter what the needs may be.<br />
+<br />
+One of the first steps in integrating content with the repository is completeness of the curriculum- no holes left for teachers to fill in themselves.<br />
+<br />
+This will phase out the need for textbooks, such as was done for history courses in Oregon.<br />
+<br />
+Overall, there has been great success with both students and teachers alike.<br />
+<br />
+ Unfortunately, the biggest hurtle is sustainability- how can content that is given away for free continue to be updated?<br />
+<br />
+ The answer is administrators, teachers, and users coming together to support the OER.<br />
+<br />
+The variety of ways to customize and utilize HippoCampus include customized sites and accessibility options (such as from an iPod).<br />
+<br />
+The pacing can also be tailored for the needs of anyone- mildly autistic, ADHD, or students who simply need more time with the content.<br />
+<br />
+This content can be adapted for pencil and paper use- exercises are embedded in the content itself, and parts can be utilized in presentations as the teacher sees fit.<br />
+<br />
+OER success is measured by usage, so the ultimate goal is expanding the amount of usage.<br />
+<br />
+<br />
+ <br />
+<br />
+ <br />
+<br />
+]]></description>
+          <pubDate>Fri, 20 Feb 2009 19:03:00 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

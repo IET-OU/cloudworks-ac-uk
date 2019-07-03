@@ -1,0 +1,831 @@
+<!DOCTYPE html><html  lang="en" ><head>
+
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta charset="UTF-8" />
+
+    <title>SAT: Break Out of the Box! How you can use xAPI to free in-house staff development (Katherine Hinchey) - Cloudworks</title>
+    <link rel="stylesheet" href="https://cloudworks.ac.uk/_design/styles_1_1.css" />
+        <link rel="stylesheet" href="https://cloudworks.ac.uk/themes/cloudworks/styles.css" />
+        <meta name="copyright" content="© 2009-2019 The Open University (IET)." />
+    <meta name="keywords" content="" />
+    <meta name="description" content="Welcome to Cloudworks, a place to share, find and discuss learning and teaching ideas and experiences." />
+    <link rel="shortcut icon" href="https://cloudworks.ac.uk/themes/cloudworks/favicon.ico" />
+    
+    <!--[if IE 6]>
+    <style type="text/css">
+    div#site {width:940px; /* Because IE6 doesn't support max-width */ }
+    div#site-header-content {width:940px;}
+    </style>
+    <![endif]-->
+
+    <script src="https://unpkg.com/jquery@3.4.1/dist/jquery.min.js"></script>
+    </head>
+<body id="clouds" class="block-registration block-login">
+<div id="site-header">
+ 
+<div id="site-header-content">
+        <div id="skip">
+        <a href="#content">Skip navigation</a> </div>
+                <a rel="home" href="https://cloudworks.ac.uk/">
+                <img id="link-home" src="https://cloudworks.ac.uk/themes/cloudworks/cloudworks_logo.gif" alt="Cloudworks home page" />
+                </a>
+                <div id="site-nav">
+            <ul  lang="en" >
+                <li class="home">
+                                            <a href="https://cloudworks.ac.uk/" class="home">Home</a>                                    </li>
+                <li lang="en" class="clouds">
+                                            <a href="https://cloudworks.ac.uk/cloud/cloud_list" class="clouds">Clouds</a>                                    </li>
+                <li lang="en" class="cloudscapes">
+                                            <a href="https://cloudworks.ac.uk/cloudscape/cloudscape_list" class="cloudscapes">Cloudscapes</a>                                    </li>
+                <li class="events">
+                                            <a href="https://cloudworks.ac.uk/events/view" class="events">Events</a>                                    </li>
+                <li class="tags">
+                                            <a href="https://cloudworks.ac.uk/tag" class="tags">Tags</a>                                    
+                </li>
+                                <li class="badges">
+                                            <a href="https://cloudworks.ac.uk/badge/badge_list" class="badges">Badges</a>                                    </li>
+                <li class="support">
+                                            <a href="https://cloudworks.ac.uk/support" class="support" title="Support">Support</a>                                    </li>                  
+              
+            </ul>
+        </div>
+    </div></div>
+
+<div id="site">
+    <div id="site-body">
+        <div id="page">
+        <div id="content">
+                              <p class="warn readonly-message"> The web-site is now in readonly mode. Login and registration are disabled. <small>(28 June 2019)</small></p>
+                                          
+                    <div id="id-gaad-widget"></div>
+        <script type="text/javascript" src="https://cloudworks.ac.uk/_scripts/iframe_strip.js"></script>
+<div class="grid headline">
+    <div class="c1of2">
+        <h1>SAT: Break Out of the Box! How you can use xAPI to free in-house staff development (Katherine Hinchey)</h1>
+        <div class="grid">
+    <ul class="options">
+        
+        
+        
+     
+        
+            <li class="favourite"><a href="https://cloudworks.ac.uk/cloud/favourite/11472">Favourite</a>        </li>
+        
+    <li class="stats"><div class="nolink">1155 views</div></li>
+            <li  class="stats"><a href="https://cloudworks.ac.uk/cloud/favourited/11472">3 favourites</a>        </li>
+        </ul>
+</div>                
+        
+                    <div class="box" style="margin:30px 0 10px 0">
+
+                <a href="http://katherinehinchey.com/project/networked-practitioner-project-xapi-conference-poster/"  rel="nofollow">http://katherinehinchey.com/project/networked-practitioner-project-xapi-conference-poster/</a>
+            </div>
+            </div>
+
+    <div class="c2of2">
+        <p class="created-by">
+        <abbr title='Clouds can be anything of relevance to learning and teaching'>Cloud</abbr> created by: </p>
+
+                            <img src="https://cloudworks.ac.uk/image/user_32/8272" class="go2" alt=""/>
+                    <p><a href="https://cloudworks.ac.uk/user/view/8272" class="author rdfa" xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName" rel="cc:attributionURL">Katherine Hinchey</a><br />
+         4 January 2018</p>
+    </div>
+</div>
+
+<div id="region1">
+
+    <div class="user-entry">
+
+        <h2>Abstract</h2>
+<p>You learn by doing and collaborating, watching videos, accessing just-in-time information from your mobile device, mentoring, and more. Why, then, does the Human Resources department only give you slides to learn from?</p>
+<p>Today&rsquo;s workers and corporations are united in wanting more access to the formal, non-formal, and informal learning needed to support an increasingly skilled workforce (The Education Commission, 2016; Pew Research Center, 2016a and 2016b). However, today&rsquo;s corporations largely store their learning resources in virtual learning environments (VLEs) that have adopted a uniform way of storing content. This uniform way, called SCORM, was incredibly helpful when it was designed nineteen years ago, and it still has an important role to play today. When SCORM was created, computer-based training was relatively new and organisations needed a single way to store and track training. For a time, innovation in elearning stopped at the known, established boundaries of the VLE (Weller, 2014, p. 194).</p>
+<p>Now, a new need has developed: a way to store and track learning when it occurs on mobile devices, or through social and collaborative activities, or offline by reading a book or engaging in stretch assignments, or when participating in simulations or augmented and virtual reality programmes.</p>
+<p>An innovation that meets that need was first released in 2013, and had its last planned update in 2016. It is the Experience API (xAPI). xAPI provides a common format for capturing data from today&rsquo;s distributed learning landscape (Rustici Software, n.d.). With xAPI in place, you can free staff development from the confines of SCORM:</p>
+<ul>
+<li>Rely less on elearning courses designed from slides and more on learning experiences;</li>
+<li>Recognise learning from formal and informal or non-formal activities (Downes, 2015);</li>
+<li>And track not only clicks and views but also correlate learning with performance (Torrance, 2016).</li>
+</ul>
+<p>Managers and other decision-makers within learning departments and organisations are at a critical point. They need a source from which to gain a high-level, jargon-free understanding of the benefits of xAPI, common applications and uses of xAPI to support learners as they access modern and innovative learning opportunities, best practices and lessons learned, and information they should provide to their learning development and learning technology teams to prepare for implementation of xAPI (HT2 Labs, n.d.).</p>
+<p>In my conference presentation, I will discuss and share a workshop created to meet those needs. The workshop helps managers, even those without extensive technical backgrounds, to be prepared to move forward with discussions and decisions about xAPI within their organisation. My presentation will show some of the workshop features and provide attendees with tools they can take with them, for use in their future endeavours.</p>
+<h3>References</h3>
+<p>Downes, A. (2015) '9 Practical Applications of Tin Can API', webinar presented by Rustici Software. 31 March. Available at <a href="https://www.slideshare.net/RusticiSoftware/ nine-applications-of-the-tin-can-api-xapi" rel="nofollow">https://www.slideshare.net/RusticiSoftware/</a><br /><a href="https://www.slideshare.net/RusticiSoftware/ nine-applications-of-the-tin-can-api-xapi" rel="nofollow">nine-applications-of-the-tin-can-api-xapi</a> (Accessed 1 November 2017).</p>
+<p>The Education Commission (aka the International Commission on Financing Global Education Opportunity) (2016) <em>The Learning Generation: Investing in education for a changing world</em> [Online]. Available at <a href="http://report.educationcommission.org/downloads/" rel="nofollow">http://report.educationcommission.org/downloads/</a> (Accessed 18 November 2017).</p>
+<p>HT2 Labs (n.d.) <em>The Learning Technology Manager's Guide to xAPI</em> [Online]. Available at <a href="https://www.ht2labs.com/resources/the-learning-technology-managers-guide-to-the-xapi/" rel="nofollow">https://www.ht2labs.com/resources/the-learning-technology-managers-guide-to-the-xapi/</a> (Accessed 9 December 2017).</p>
+<p>Pew Research Center (2016a) <em>Lifelong Learning and Technology</em> [Online]. Available at <a href="http://www.pewinternet.org/2016/03/22/lifelong-learning-and-technology/" rel="nofollow">http://www.pewinternet.org/2016/03/22/lifelong-learning-and-technology/</a> (Accessed 18 November 2017).</p>
+<p>Pew Research Center (2016b) <em>The State of American Jobs: How the shifting economic landscape is reshaping work and society and affecting the way people think about the skills and training they need to get ahead</em> [Online]. Available at <a href="http://www.pewsocialtrends.org/2016/10/06/the-state-of-american-jobs/" rel="nofollow">http://www.pewsocialtrends.org/2016/10/06/the-state-of-american-jobs/</a> (Accessed 18 November 2017).</p>
+<p>Rustici Software (n.d.) <em>Experience API</em> [Online]. Available at <a href="https://experienceapi.com/" rel="nofollow">https://experienceapi.com/</a> (Accessed 1 November 2017).</p>
+<p>Torrance, M. (2016) 'The xAPI: What Does an Instructional Designer Need to Know?', presentation given at <em>Learning Solutions Conference &amp; Expo.</em> Orlando, Florida, 16-18 March. Available at <a href="https://www.slideshare.net/torrancelearning/xapi-what-does-an-instructional-designer-need-to-know" rel="nofollow">https://www.slideshare.net/torrancelearning/xapi-what-does-an-instructional-designer-need-to-know</a> (Accessed 1 November 2017).</p>
+<p>Weller, M. (2014) <em>The Battle for Open: How openness won and why it doesn't feel like victory</em>, London, ubiquity press. Available at <a href="http://www.ubiquitypress.com/ site/books/detail/11/battle-for-open/" rel="nofollow">http://www.ubiquitypress.com/</a><br /><a href="http://www.ubiquitypress.com/ site/books/detail/11/battle-for-open/" rel="nofollow">site/books/detail/11/battle-for-open/</a> (Accessed 2 May 2016).</p>    </div>
+
+    
+<h2 id="extra-content">Extra content</h2>
+    		<div class="extra-content">
+			<a name="content-2474"></a>
+			<h2>Conference poster</h2>
+<p>The first step to learning doesn't have to be logging into the VLE! The key is to adopt the Experience API (xAPI). I have created a workshop to help decision-makers learn about xAPI, and I will be discussing this workshop during the H818 conference on Saturday.&nbsp;</p>
+<p>In the meantime, please review my conference poster:</p>
+<ul>
+<li><a title="Multimedia conference poster" href="http://katherinehinchey.com/project/networked-practitioner-project-xapi-conference-poster/" rel="nofollow">Multimedia version</a></li>
+<li><a title="Accessible poster" href="https://drive.google.com/open?id=1_fz0J-dFpL3L7RUyKwUAoNAH4i5xr_-F" rel="nofollow">Text-only version</a></li>
+</ul>			<div class="posted-by">
+										    <img src="https://cloudworks.ac.uk/image/user_32/8272" alt="" style="float:left;margin-right:5px"/>
+					
+					<p class="date-stamp">
+					<a href="https://cloudworks.ac.uk/user/view/8272">Katherine Hinchey</a>					<br /> 15:10 on  4 January 2018																	(Edited 11:36 on 11 January 2018)
+																									</p>
+			</div>
+
+
+		</div>
+    		<div class="extra-content">
+			<a name="content-2498"></a>
+			<h2>Print-ready, accessible version of my presentation material</h2>
+<p>If you are planning on attending my presentation but you will not be using your computer speakers, you may want to follow along with the print-ready, accessible version of the presentation material, which you can get at <a href="http://katherinehinchey.com/project/networked-practitioner-project-xapi-conference-presentation/" rel="nofollow">http://katherinehinchey.com/project/networked-practitioner-project-xapi-conference-presentation/</a>&nbsp;.</p>			<div class="posted-by">
+										    <img src="https://cloudworks.ac.uk/image/user_32/8272" alt="" style="float:left;margin-right:5px"/>
+					
+					<p class="date-stamp">
+					<a href="https://cloudworks.ac.uk/user/view/8272">Katherine Hinchey</a>					<br /> 21:22 on 15 February 2018																	(Edited 15:02 on 26 February 2018)
+																									</p>
+			</div>
+
+
+		</div>
+    		<div class="extra-content">
+			<a name="content-2503"></a>
+			<h2>Recording of my conference presentation</h2>
+<p><a href="http://katherinehinchey.com/project/networked-practitioner-project-xapi-conference-presentation/" rel="nofollow">Here is a recording of my presentation</a>.</p>			<div class="posted-by">
+										    <img src="https://cloudworks.ac.uk/image/user_32/8272" alt="" style="float:left;margin-right:5px"/>
+					
+					<p class="date-stamp">
+					<a href="https://cloudworks.ac.uk/user/view/8272">Katherine Hinchey</a>					<br /> 14:14 on 26 February 2018																	(Edited 15:03 on 26 February 2018)
+																									</p>
+			</div>
+
+
+		</div>
+    
+<p class="add-link"><a href="https://cloudworks.ac.uk/content/add/11472">Add extra content</a></p>
+    
+
+<div id="embeds" class="embed-block">
+<h2>Embedded Content</h2>
+
+<a id="embed-3236"></a>
+<div class="embed-wrap em-katherinehinchey-com">
+    <h3></h3>
+  <a id="em-n0" class="em" href="http://katherinehinchey.com/project/networked-practitioner-project-xapi-conference-poster/"  rel="nofollow"></a>
+<p>  <small>added by
+<a href="https://cloudworks.ac.uk/user/view/8272">Katherine Hinchey</a></small>
+
+</p>
+</div>
+
+
+<script src="https://cloudworks.ac.uk/_scripts/jquery.oembed.js"></script>
+<script>
+$(document).ready(function() {
+  $('.embed-block a.em').oembed(null, {"oupodcast":{"theme":"oup-light"},"ispot":{"count":3,"postmessage":1,"style":1},"customProviders":[{"name":"wordpress","type":"rich","urlschemes":["wordpress\\.com","wp\\.me","oerresearchhub\\.org","ouseful\\.info","dougclow\\.org","penbentley\\.com","isharacomix\\.org","openeducationnews\\.org","oerconsortium\\.org","techchrunch\\.com","tekartist\\.org"],"apiendpoint":"https:\/\/public-api.wordpress.com\/oembed\/1.0\/?for=Cloudworks.ac.uk"},{"name":"fileviewer","type":"rich","urlschemes":["sites\\.google\\.com","www\\.lkl\\.ac\\.uk","blogs.cetis.ac.uk"],"apiendpoint":"https:\/\/embed.open.ac.uk\/oembed"},{"name":"scraperwiki","type":"rich","urlschemes":"scraperwiki\\.com","apiendpoint":"https:\/\/views.scraperwiki.com\/run\/scraperwiki_oembed_v1\/"}]});
+});
+</script>
+
+<p class="add-link add-embed"><a href="https://cloudworks.ac.uk/embed/add/11472">Add embedded content</a></p>
+</div>
+
+
+    <div class="grid">
+        <h2>Contribute</h2>
+        <a name="contribute"></a>
+        <ul class="cloudstream-filter">
+            <li>
+                            <strong>Discussion (18)</strong>
+                        </li>
+            <li>
+                            <a href="https://cloudworks.ac.uk/cloud/view/11472/links#contribute">Links (0)</a>                        </li>
+            <li>                            <a href="https://cloudworks.ac.uk/cloud/view/11472/references#contribute">Academic References (0)</a>            </li>
+        </ul>
+    </div>
+
+    <div class="grid" id="comments">
+
+                  <h3 class="hidden">Comment 1 by Richard Sharp</h3>
+                <div class="user-comment" id="comment-12230">
+				<a name="cloud_comment-12230"></a>
+
+                <div class="posted-by">
+                                            <img src="https://cloudworks.ac.uk/_design//avatar-default-32.jpg" alt="" style="float:left; margin-right: 5px"/>
+                    
+
+                    <p class="date-stamp">
+                       <a href="https://cloudworks.ac.uk/user/view/9990">Richard Sharp</a>	                    <br />
+                        11:26pm 17 January 2018	                    	                    	                   						                    <a href="#comment-12230" class="permalink">Permalink</a>
+                    </p>
+                    </div>
+                    <br />
+
+                   <p>Hi Katherine.</p>
+<p>I don't fully understand xAPI - hopefully I will more after the presentation - but I thought I'd share my experience of staff development training via technology at my organisation.&nbsp;</p>
+<p>In my organistion the training that staff seek out to help themselves or support their role tends to be face-to-face - in a tradtional mentoring-style. &nbsp;&nbsp;</p>
+<p>The modules/courses that find their way to our online staff development system are mainly those designed to meet legislative requirements: Health &amp; Safety, Discrimination, etc. That tends to make them seem like organisational tick-box exercises (you're forced to wade through and click on items in a series of pages so that a completion date can be stamped into your record - for compliance purposes).&nbsp;</p>
+<p>Does the xAPI approach to online learning help staff to avoid these perceptions of the training they are asked to do ?</p>
+<p>From the organisational viewpoint - does the use of xAPI support tracking and measurement in order to satisfy compliance criteria ?</p>
+<p>&nbsp;</p>        </div>
+                          <h3 class="hidden">Comment 2 by Mr Jonathan G Brown</h3>
+                <div class="user-comment" id="comment-12238">
+				<a name="cloud_comment-12238"></a>
+
+                <div class="posted-by">
+                                            <img src="https://cloudworks.ac.uk/_design//avatar-default-32.jpg" alt="" style="float:left; margin-right: 5px"/>
+                    
+
+                    <p class="date-stamp">
+                       <a href="https://cloudworks.ac.uk/user/view/9998">Mr Jonathan G Brown</a>	                    <br />
+                        3:16pm 18 January 2018	                    	                    	                   						                    <a href="#comment-12238" class="permalink">Permalink</a>
+                    </p>
+                    </div>
+                    <br />
+
+                   <p>Hi Katherine,</p>
+<p>All I know about xAPI comes from your poster materials and abstract!&nbsp; Could you suggest a link / example of where you think xAPI has been used well?</p>        </div>
+                          <h3 class="hidden">Comment 3 by Denise McDonough</h3>
+                <div class="user-comment" id="comment-12269">
+				<a name="cloud_comment-12269"></a>
+
+                <div class="posted-by">
+                                            <img src="https://cloudworks.ac.uk/image/user_32/8459" alt="" style="float:left; margin-right: 5px"/>
+                    
+
+                    <p class="date-stamp">
+                       <a href="https://cloudworks.ac.uk/user/view/8459">Denise McDonough</a>	                    <br />
+                        7:27pm 23 January 2018	                    	                    	                   						                    <a href="#comment-12269" class="permalink">Permalink</a>
+                    </p>
+                    </div>
+                    <br />
+
+                   Hi Katherine,
+
+How is xAPI different to API - are they related? Does it have to be implemented into an existing VLE or website rather than chosen by a user?
+
+As said by Richard, I know loads of tick boxes are suppose to make it easy to change content - when they insist ones you don't understand it is very frustrating if you are after simple changes.
+
+Your Cloudworks site is looking amazing and fresh! 
+
+How you get the sections to say Conference Poster in the banding? The CW help team did give some feedback to my email and said they'd support embedded Sway content very soon!
+
+
+
+
+
+        </div>
+                          <h3 class="hidden">Comment 4 by Mike Lyons</h3>
+                <div class="user-comment" id="comment-12275">
+				<a name="cloud_comment-12275"></a>
+
+                <div class="posted-by">
+                                            <img src="https://cloudworks.ac.uk/_design//avatar-default-32.jpg" alt="" style="float:left; margin-right: 5px"/>
+                    
+
+                    <p class="date-stamp">
+                       <a href="https://cloudworks.ac.uk/user/view/10451">Mike Lyons</a>	                    <br />
+                        9:32pm 23 January 2018	                    	                    	                   						                    <a href="#comment-12275" class="permalink">Permalink</a>
+                    </p>
+                    </div>
+                    <br />
+
+                   <p>The opening paragraphs of your abstract are helpful in defining terminology. I'm hoping to see more at the beginning of your presentation, like Denise, about the difference between API and xAPI. In what kinds of contexts can xAPI be applied?</p>        </div>
+                          <h3 class="hidden">Comment 5 by Katherine Hinchey</h3>
+                <div class="user-comment" id="comment-12319">
+				<a name="cloud_comment-12319"></a>
+
+                <div class="posted-by">
+                                            <img src="https://cloudworks.ac.uk/image/user_32/8272" alt="" style="float:left; margin-right: 5px"/>
+                    
+
+                    <p class="date-stamp">
+                       <a href="https://cloudworks.ac.uk/user/view/8272">Katherine Hinchey</a>	                    <br />
+                        10:22pm 3 February 2018	                    	                    	                   						                    <a href="#comment-12319" class="permalink">Permalink</a>
+                    </p>
+                    </div>
+                    <br />
+
+                   <p><strong>Richard,</strong> you've gotten to the heart of it. In my context, web-based training modules are common for many different training needs but (like your context) they are especially common for training that is required by law or for which companies want proof of attendance as insurance, basically (like training about not stealing and not harassing!) They do feel like you are just clicking through, and for multiple reasons they may not be the best way to ensure learning, which is rather defeating the main purpose!</p>
+<p>There's nothing about compliance training that requires them to be click-through presentations except for the need for data... data that can be collected, stored, manipulated in the company's VLE. Before xAPI, that meant that the training had to be zipped up and uploaded into the VLE, and viewed through a web browser, and that was great when it was new, but now those same rules are stifling us! xAPI is the solution to that problem, and when adopted it will free the training departments to create better learning experiences that still meet the corporate needs for data. Great question!</p>
+<p><strong>Jonathan,</strong> xAPI isn't something you can see per se (although there are statements... we'll get into that in the conference). But <a href="https://experienceapi.com/adopters/" rel="nofollow">here's a good list</a> of companies who have started using xAPI and it's an enticing set of companies so far. For example, the UK NHS has xAPI in place for their workforce. If you use Adobe software applications to create learning resources or if you store those resources in Moodle or Blackboard (for examples), then those are already ready to work with xAPI. It's worth taking a look to see if you notice familiar names -- I bet you do!</p>
+<p><strong>Denise and Mike,</strong> you've got it exactly right. An API (application programming interface) allows 2 software programs to communicate with each other. "xAPI" is short for "Experience API", and it is an API for learning experiences. You'll note I didn't say "training" because with xAPI information about learning can be collected from a variety of experiences -- for example, mobile learning or even learning in SOLEs! :)</p>        </div>
+                          <h3 class="hidden">Comment 6 by Claire Richardson</h3>
+                <div class="user-comment" id="comment-12331">
+				<a name="cloud_comment-12331"></a>
+
+                <div class="posted-by">
+                                            <img src="https://cloudworks.ac.uk/_design//avatar-default-32.jpg" alt="" style="float:left; margin-right: 5px"/>
+                    
+
+                    <p class="date-stamp">
+                       <a href="https://cloudworks.ac.uk/user/view/10039">Claire Richardson</a>	                    <br />
+                        4:16pm 4 February 2018	                    	                    	                   						                    <a href="#comment-12331" class="permalink">Permalink</a>
+                    </p>
+                    </div>
+                    <br />
+
+                   <p>Hi Katherine,</p>
+<p>In addition to workplace learning for qualified professionals, I think xAPI looks like it would be very useful to support the learning of veterinary students, but from a quick google search it does not appear to be widely used yet.</p>
+<p>In the UK, while veterinary students are carrying out thier 5 years of veterinary studies at universities, they are also required to carry out 12 weeks of preclinical extra mural studies (EMS) and 26 weeks of clinical EMA at veterinary practices and other relevant work places (RCVS, nd.a). There may be gaps in their learning from these placements which perhaps xAPI could be used to help identify? Similarly, new veterinary graduates are also required to complete a&nbsp; Professional Development Phase, once newly qualified in which they must keep records and reflect on their clinical experience (RCVS, nd b). I wonder if xAPI could be used to help track their learning?</p>
+<p><strong>References</strong></p>
+<p>RCVS (nd a). Extra-mural studies. [Online]. Available at https://www.rcvs.org.uk/lifelong-learning/students/veterinary-students/extra-mural-studies-ems/ (Accessed 4 February, 2018)</p>
+<p>RCVS (nd b). Professional Development Phases (PDP). Available at https://www.rcvs.org.uk/lifelong-learning/professional-development-phase-pdp/ (Accessed 4 February, 2018).</p>        </div>
+                          <h3 class="hidden">Comment 7 by Mr Jonathan G Brown</h3>
+                <div class="user-comment" id="comment-12347">
+				<a name="cloud_comment-12347"></a>
+
+                <div class="posted-by">
+                                            <img src="https://cloudworks.ac.uk/_design//avatar-default-32.jpg" alt="" style="float:left; margin-right: 5px"/>
+                    
+
+                    <p class="date-stamp">
+                       <a href="https://cloudworks.ac.uk/user/view/9998">Mr Jonathan G Brown</a>	                    <br />
+                        4:52pm 5 February 2018	                    	                    	                   						                    <a href="#comment-12347" class="permalink">Permalink</a>
+                    </p>
+                    </div>
+                    <br />
+
+                   <p>Ah, thanks for the link, Katherine - it's starting to make more sense now!</p>        </div>
+                          <h3 class="hidden">Comment 8 by Katherine Hinchey</h3>
+                <div class="user-comment" id="comment-12357">
+				<a name="cloud_comment-12357"></a>
+
+                <div class="posted-by">
+                                            <img src="https://cloudworks.ac.uk/image/user_32/8272" alt="" style="float:left; margin-right: 5px"/>
+                    
+
+                    <p class="date-stamp">
+                       <a href="https://cloudworks.ac.uk/user/view/8272">Katherine Hinchey</a>	                    <br />
+                        8:52pm 6 February 2018	                    	                    	                   						                    <a href="#comment-12357" class="permalink">Permalink</a>
+                    </p>
+                    </div>
+                    <br />
+
+                   <p><strong>Claire,</strong> I think xAPI might really be able to help in a veterinary studies program such as you describe especially because it tracks all kinds of learning experiences, and also it has open data -- the data can move from one system to the next even across organizations, and also can be owned by the learners themselves.</p>
+<p>(Forgive my lack of vet. science knowledge!) Let's say a student does EMS or clinical work in which they are at a zoo, or stables, or a vet office for general pets, and they are getting hands-on experience taking care of sick animals, learning about husbandry, or understanding animal welfare issues. I would imagine these are definitely offline learning events either conducted solely or with a mentor. With xAPI, even these types of activities can be tracked.</p>
+<p>Because so much more data is available about a person's learning experiences, and in an open format, a school with a vet. sciences program can also better identify the learning experiences that make an actual positive effect on <em>performance</em>, which means they can use this information to continually improve their content and program. I tend to think that the flip side of this coin would be exactly as you mention -- it would help pinpoint any missing elements from a student's overall set of experiences.</p>
+<p>And also because the data is open, it can be easily available to multiple institutions, or even individuals. It could be that a person entering the vet. program in their 20s would have their activity statements (that is, data about their learning experiences) shared with their school, but later they could take a copy of that data with them to their future employers, to be added to with their job experiences, informal learning activities, and also more formal professional development engagements.</p>
+<p>I did a quick search to see if I could find any similar implementations of xAPI, and I've found a few details about one (but remember, xAPI is still somewhat new; I suspect its adoption will increase dramatically over the years.) Vanderbilt University Medical School is adopting it to bring together different systems they had for classroom learning, informal learning, simulations, etc., and then get learning analytics from all the data <a href="https://www.slideshare.net/MeganBowe1/your-systems-need-to-talk-what-is-the-tin-can-api" rel="nofollow">(see slides 18-19)</a>. <a href="https://twitter.com/experience_api/status/344522445761421313" rel="nofollow">I've sent off a tweet</a> to see if we can identify more!&nbsp;</p>        </div>
+                          <h3 class="hidden">Comment 9 by Denise McDonough</h3>
+                <div class="user-comment" id="comment-12386">
+				<a name="cloud_comment-12386"></a>
+
+                <div class="posted-by">
+                                            <img src="https://cloudworks.ac.uk/image/user_32/8459" alt="" style="float:left; margin-right: 5px"/>
+                    
+
+                    <p class="date-stamp">
+                       <a href="https://cloudworks.ac.uk/user/view/8459">Denise McDonough</a>	                    <br />
+                        6:54pm 13 February 2018	                    	                        (<small><em>Edited 6:55pm 13 February 2018</em></small>)
+	                    	                    	                   						                    <a href="#comment-12386" class="permalink">Permalink</a>
+                    </p>
+                    </div>
+                    <br />
+
+                   Hi Katherine,
+<p>Really enjoyed hearing your practice run on Sunday. I thought I knew what APIs are -
+ yay I was correct. The x is the integration into 21st century so all learning can be captured and a little like a professional high tech e-portfolio in a way. 
+
+<p>Thanks for rescheduling on the day to hear mine and provide valueable feedback of where I needed a bit more....        </div>
+                          <h3 class="hidden">Comment 10 by Katherine Hinchey</h3>
+                <div class="user-comment" id="comment-12392">
+				<a name="cloud_comment-12392"></a>
+
+                <div class="posted-by">
+                                            <img src="https://cloudworks.ac.uk/image/user_32/8272" alt="" style="float:left; margin-right: 5px"/>
+                    
+
+                    <p class="date-stamp">
+                       <a href="https://cloudworks.ac.uk/user/view/8272">Katherine Hinchey</a>	                    <br />
+                        9:11pm 13 February 2018	                    	                    	                   						                    <a href="#comment-12392" class="permalink">Permalink</a>
+                    </p>
+                    </div>
+                    <br />
+
+                   <p><strong>Denise,</strong> thanks for letting me practice with you! I really appreciated the advice you and Amy gave me, and I'm definitely making changes accordingly. :)&nbsp;</p>        </div>
+                          <h3 class="hidden">Comment 11 by Annette Hendley</h3>
+                <div class="user-comment" id="comment-12427">
+				<a name="cloud_comment-12427"></a>
+
+                <div class="posted-by">
+                                            <img src="https://cloudworks.ac.uk/image/user_32/11073" alt="" style="float:left; margin-right: 5px"/>
+                    
+
+                    <p class="date-stamp">
+                       <a href="https://cloudworks.ac.uk/user/view/11073">Annette Hendley</a>	                    <br />
+                        3:57pm 16 February 2018	                    	                    	                   						                    <a href="#comment-12427" class="permalink">Permalink</a>
+                    </p>
+                    </div>
+                    <br />
+
+                   <p>Good luck Katherine. I am going to do my best to attend your presentation.&nbsp;</p>
+<p>Annette</p>        </div>
+                          <h3 class="hidden">Comment 12 by Katherine Hinchey</h3>
+                <div class="user-comment" id="comment-12428">
+				<a name="cloud_comment-12428"></a>
+
+                <div class="posted-by">
+                                            <img src="https://cloudworks.ac.uk/image/user_32/8272" alt="" style="float:left; margin-right: 5px"/>
+                    
+
+                    <p class="date-stamp">
+                       <a href="https://cloudworks.ac.uk/user/view/8272">Katherine Hinchey</a>	                    <br />
+                        5:03pm 16 February 2018	                    	                    	                   						                    <a href="#comment-12428" class="permalink">Permalink</a>
+                    </p>
+                    </div>
+                    <br />
+
+                   <p><strong>Annette,</strong> it'll be good to have you there! :)</p>        </div>
+                          <h3 class="hidden">Comment 13 by Dr Simon Ball</h3>
+                <div class="user-comment" id="comment-12432">
+				<a name="cloud_comment-12432"></a>
+
+                <div class="posted-by">
+                                            <img src="https://cloudworks.ac.uk/image/user_32/6651" alt="" style="float:left; margin-right: 5px"/>
+                    
+
+                    <p class="date-stamp">
+                       <a href="https://cloudworks.ac.uk/user/view/6651">Dr Simon Ball</a>	                    <br />
+                        3:43pm 17 February 2018	                    	                    	                   						                    <a href="#comment-12432" class="permalink">Permalink</a>
+                    </p>
+                    </div>
+                    <br />
+
+                   <p>Hi Katherine<br />Well done on a great presentation! Here is a summary of the comments and questions you received following your presentation (including those you may have addressed verbally). Please respond in whatever way you choose.</p>
+<p>Best wishes</p>
+<p>Simon</p>
+<ul>
+<li>Who is it target towards? HEd or companies?</li>
+<li>IS this something you are going to continue to develop after the module?</li>
+<li>Love the see feel and engage approach Do you think this would also support ePortfolios for Professional Bodies?</li>
+<li>Please invite us - could it be done on a mooc?</li>
+</ul>        </div>
+                          <h3 class="hidden">Comment 14 by Claire Richardson</h3>
+                <div class="user-comment" id="comment-12448">
+				<a name="cloud_comment-12448"></a>
+
+                <div class="posted-by">
+                                            <img src="https://cloudworks.ac.uk/_design//avatar-default-32.jpg" alt="" style="float:left; margin-right: 5px"/>
+                    
+
+                    <p class="date-stamp">
+                       <a href="https://cloudworks.ac.uk/user/view/10039">Claire Richardson</a>	                    <br />
+                        9:58pm 17 February 2018	                    	                    	                   						                    <a href="#comment-12448" class="permalink">Permalink</a>
+                    </p>
+                    </div>
+                    <br />
+
+                   <p>Great presentation, Katherine. Well done!</p>
+<p>I liked the way you integrated your poster theme into your presentation and you did a good job of summarising xAPI for the non-technical professional. I hope your company agrees to adapt xAPI.</p>
+<p>The scavenger hunt is also a great example for breaking out of the box!</p>        </div>
+                          <h3 class="hidden">Comment 15 by Denise McDonough</h3>
+                <div class="user-comment" id="comment-12486">
+				<a name="cloud_comment-12486"></a>
+
+                <div class="posted-by">
+                                            <img src="https://cloudworks.ac.uk/image/user_32/8459" alt="" style="float:left; margin-right: 5px"/>
+                    
+
+                    <p class="date-stamp">
+                       <a href="https://cloudworks.ac.uk/user/view/8459">Denise McDonough</a>	                    <br />
+                        8:32pm 25 February 2018	                    	                        (<small><em>Edited 8:37pm 25 February 2018</em></small>)
+	                    	                    	                   						                    <a href="#comment-12486" class="permalink">Permalink</a>
+                    </p>
+                    </div>
+                    <br />
+
+                   Hi Katherine,
+<p>The images you choose to include on the Workshop aspect of xAPI worked brilliantly in your conference presentation. During your rehearsal you weren't sure how to add them in the remaining 3 minutes. I found your delivery pitched at just the right level of technical information for those wanting to explore it more and an overview for those that will no doubt need to know it in the future. They can rub their chin and say to themselves, "oh yeah I heard something about that last year..."
+
+<p>With so much left to describe after telling us what xAPI is, you had a a huge challenge and overcame it in clever taster pics. As I typed in the chat window during the presentation, it definitely made me (and many others) interested in attending your workshop. It was me that suggested offering it online as a MOOC (open - OER :-) so we can all meet up. Please put me on your mailing list.
+
+<p>One revelation - Really? This isn't already a wide scale movement? It will be great when it is fully adopted and as you cleverly let us know, it isn't expensive as the equipment is already there. Implementing it is the key. I can see this being a great leap forward for professional development - making it interesting (rather than Performance Review box ticking) and recognising what people may be doing on their own under the HR radar.        </div>
+                          <h3 class="hidden">Comment 16 by Dr Simon Ball</h3>
+                <div class="user-comment" id="comment-12496">
+				<a name="cloud_comment-12496"></a>
+
+                <div class="posted-by">
+                                            <img src="https://cloudworks.ac.uk/image/user_32/6651" alt="" style="float:left; margin-right: 5px"/>
+                    
+
+                    <p class="date-stamp">
+                       <a href="https://cloudworks.ac.uk/user/view/6651">Dr Simon Ball</a>	                    <br />
+                        11:39am 26 February 2018	                    	                    	                   						                    <a href="#comment-12496" class="permalink">Permalink</a>
+                    </p>
+                    </div>
+                    <br />
+
+                   <p>Many Congratulations Katherine! Your presentation has been voted by delegates to be one of the most effective of the H818 Online Conference 2018 and you are officially one of our H818 Presentation Star Open Badge Winners! Please see how to Apply for your Badge here: http://cloudworks.ac.uk/badge/view/33</p>
+<p>Well done!</p>
+<p>Simon</p>
+<p>H818 Conference Organiser</p>        </div>
+                          <h3 class="hidden">Comment 17 by Anita Naoko Pilgrim</h3>
+                <div class="user-comment" id="comment-12508">
+				<a name="cloud_comment-12508"></a>
+
+                <div class="posted-by">
+                                            <img src="https://cloudworks.ac.uk/_design//avatar-default-32.jpg" alt="" style="float:left; margin-right: 5px"/>
+                    
+
+                    <p class="date-stamp">
+                       <a href="https://cloudworks.ac.uk/user/view/10926">Anita Naoko Pilgrim</a>	                    <br />
+                        2:28pm 28 February 2018	                    	                    	                   						                    <a href="#comment-12508" class="permalink">Permalink</a>
+                    </p>
+                    </div>
+                    <br />
+
+                   <p>Really enjoyed your great presentation, Katherine (on the recording).&nbsp;</p>
+<p>Am I right, one of the activities involves going round the organisation's site, so is based in a physical area? I was thinking how ideal your proposal would be for the Open University itself. (I wish we had had it when we had done the Adobe Connect training, for example, as it would have offered much needed support on the sides of the training sessions we all took part in). However, because we are a distance learning institution, managers as well as teaching staff are widely scattered across the UK, so might find that particular activity more difficult.&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>        </div>
+                          <h3 class="hidden">Comment 18 by Anita Naoko Pilgrim</h3>
+                <div class="user-comment" id="comment-12509">
+				<a name="cloud_comment-12509"></a>
+
+                <div class="posted-by">
+                                            <img src="https://cloudworks.ac.uk/_design//avatar-default-32.jpg" alt="" style="float:left; margin-right: 5px"/>
+                    
+
+                    <p class="date-stamp">
+                       <a href="https://cloudworks.ac.uk/user/view/10926">Anita Naoko Pilgrim</a>	                    <br />
+                        2:28pm 28 February 2018	                    	                    	                   						                    <a href="#comment-12509" class="permalink">Permalink</a>
+                    </p>
+                    </div>
+                    <br />
+
+                   <p>Really enjoyed your great presentation, Katherine (on the recording).&nbsp;</p>
+<p>Am I right, one of the activities involves going round the organisation's site, so is based in a physical area? I was thinking how ideal your proposal would be for the Open University itself. (I wish we had had it when we had done the Adobe Connect training, for example, as it would have offered much needed support on the sides of the training sessions we all took part in). However, because we are a distance learning institution, managers as well as teaching staff are widely scattered across the UK, so might find that particular activity more difficult.&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>        </div>
+            </div>
+
+<div class="grid">
+    <a name="post"></a><h3 id="post-comment">Contribute to the discussion</h3>
+    <p>Please <a href="https://cloudworks.ac.uk/auth/login">log in</a> to post a comment. <a href="https://cloudworks.ac.uk/user/register">Register here</a> if you haven't signed up yet.</p>
+    </div>
+
+</div>
+
+<div id="region2">
+    <div id="search-site">
+    <form id="form-search" action="https://cloudworks.ac.uk/search/result/" method="get">
+      <p>
+        <label for="query">Search</label>
+        <input id="query" name="q" type="search" value="" maxlength="30" />
+        <input id="search-button" type="image" src="https://cloudworks.ac.uk/_design/search-button.gif" alt="Search" />
+      </p>
+        </form>
+</div>
+    <p class="login">
+    <a href="#login" class="link-arrow show">Log in</a> 
+    <a href="https://cloudworks.ac.uk/auth/register">Sign up</a></p>
+
+<div id="login" class="collapsed">
+      <form action="https://cloudworks.ac.uk/auth/login" method="post" id="login-form">        <p><label for="user_name">Username:</label><br />
+     	<input type="text" name="user_name" value="" id="user_name"  />    </p>
+    	<p><label for="password">Password:</label><br />
+        <input type="password" name="password" value="" id="password"  /></p>    
+        <p>
+        <input type="submit" name="submit" id="submit" class="submit" value="Log in" />
+    <a href="https://cloudworks.ac.uk/auth/forgotten_password">Forgotten password</a>    
+    
+    </p>
+    </form></div>
+
+    <h2>Tags</h2>
+    <p class="tags">
+        	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/augmented+reality">augmented reality</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/blended+learning">blended learning</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/branched+scenarios">branched scenarios</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/certification+paths">certification paths</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/collaboration">collaboration</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/competition">competition</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/digital+badges">digital badges</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/Experience+API">Experience API</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/formal+learning">formal learning</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/informal+learning">informal learning</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/instructor-led+courses">instructor-led courses</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/just-in-time+learning">just-in-time learning</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/learning+analytics">learning analytics</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/learning+management+system">learning management system</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/lifelong+learning">lifelong learning</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/LMS">LMS</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/mentoring">mentoring</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/mentorships">mentorships</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/mobile+learning">mobile learning</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/multi-device+learning">multi-device learning</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/non-formal+learning">non-formal learning</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/offline+learning">offline learning</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/performance+support">performance support</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/personal+learning+environment">personal learning environment</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/PLE">PLE</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/SCORM">SCORM</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/simulations">simulations</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/smartphones">smartphones</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/social+learning">social learning</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/social+media">social media</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/team+learning">team learning</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/Tin+Can">Tin Can</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/virtual+learning+system">virtual learning system</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/VLE">VLE</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/xAPI">xAPI</a>
+        </span>
+                 
+        </p>
+
+
+      <p class="add-link"><a href="https://cloudworks.ac.uk/tag/add_tags/cloud/11472">Add a tag</a></p>
+    <div class="box">
+<h2>In Cloudscapes</h2>
+    <ul class="cloudscapes">
+                    <li>
+                <a href="https://cloudworks.ac.uk/cloudscape/view/3017">OU H818 'The Networked Practitioner' Online Conference 2018</a>            </li>
+             </ul>
+<p class="add-link"><a href="https://cloudworks.ac.uk/cloudscape/add_cloud/11472">Add to a Cloudscape</a></p>
+</div>
+
+
+
+            
+               
+            
+            <div class="box">
+<h2>Improve this cloud</h2>
+
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/tag/add_tags/cloud/11472">Add a tag</a></p>
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/content/add/11472">Add extra content</a></p>
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/embed/add/11472">Add embedded content</a></p>
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/cloud/add_link/11472">Add link</a></p>
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/cloud/add_reference/11472">Add reference</a></p>
+
+</div>                </div>
+                   </div>
+                    <div id="site-footer">
+				        <div class="grid">
+				        <p class="left">
+                                        <a href="https://www.open.ac.uk" title="© 2009-2019 The Open University (IET)">©</a> |
+				        <a href="https://cloudworks.ac.uk/about/about">About</a> |
+				        <a href="https://cloudworks.ac.uk/blog/archive">Blog</a> |
+				        <a href="https://cloudworks.ac.uk/about/tandc" class="rdfa" rel="license">Terms and Conditions</a> |
+				        <a href="https://cloudworks.ac.uk/about/privacy">Privacy notice</a> |
+				        				    				                                                <a href="https://github.com/IET-OU/cloudengine"
+                                           ><img src="https://cloudworks.ac.uk//_design/cloudengine-sm.gif" alt="Powered by CloudEngine, open-source social software" />
+                                        </a>
+				          </p>
+				      
+<!-- The language drop-down menu - jump to the top/#skip. -->
+
+<form id="form-lang" action="#skip" method="post">
+<p class="right"><label for="lang_select">
+Preferred language </label>
+<select id="lang_select" name="lang">
+        <option value="el" >Ελληνικά / Greek</option>
+        <option value="en" selected="selected">English</option>
+  </select>
+<button type="submit" >Load</button>
+</p>
+</form>
+				        </div>
+				    </div>
+				</div>
+			</div>
+		</div>
+		
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-5304738-3', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+
+
+    
+<script
+  data-nofollow-count="19"
+  data-rtt=""  data-ga-analytics-id="UA-5304738-3"></script>
+
+
+
+                <script src="https://unpkg.com/gaad-widget@%5E3/dist/gaad-widget.min.js"
+          data-gaad-widget='{"debug":true,"days_before":15,"x_lang":"en","analytics":false}'></script>
+          <script src="https://cloudworks.ac.uk/_scripts/custom.js"></script>
+
+<script> console.warn('rel=nofollow count:', 19) </script>
+	</body>
+</html>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Cloudstream for AnnetteDalsgaard&#39;s OLDS MOOC portfolio</title>
+    <link>https://cloudworks.ac.uk/</link>
+	<description>Cloudstream for AnnetteDalsgaard&#39;s OLDS MOOC portfolio</description>
+	<dc:language>en</dc:language>
+	<dc:creator>cloudworks@open.ac.uk</dc:creator>
+	<dc:rights>Copyright 2019 </dc:rights>
+	<admin:generatorAgent>
+    <atom:link href="https://cloudworks.ac.uk/event/cloudscape_rss/2538" rel="self" type="application/rss+xml" />
+    		    <item>
+	      <title>&quot;Hi Stephen. Thank you for your reflections on my post. I think you are right in that it might will...new comment on the cloud AnnetteDalsgaard&#39;s OLDS MOOC learning journal by Annette Dalsgaard Vilain</title>
+	      <link>https://cloudworks.ac.uk/#comment-6557</link>
+	      <guid>https://cloudworks.ac.uk/#comment-6557</guid>
+	      <description><![CDATA[<strong>"Hi Stephen. Thank you for your reflections on my post. I think you are right in that it might will...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6820">AnnetteDalsgaard's OLDS MOOC learning journal</a> by <a href="https://cloudworks.ac.uk/user/view/4960" rel="author">Annette Dalsgaard Vilain</a></em>]]></description>
+	  	  <pubDate>Sat, 12 Jan 2013 21:44:38 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Kia ora Annette - greetings from New Zealand. I have been to Denmark about ten years ago for a...new comment on the cloud AnnetteDalsgaard&#39;s OLDS MOOC learning journal by Stephen Bright</title>
+	      <link>https://cloudworks.ac.uk/#comment-6284</link>
+	      <guid>https://cloudworks.ac.uk/#comment-6284</guid>
+	      <description><![CDATA[<strong>"Kia ora Annette - greetings from New Zealand. I have been to Denmark about ten years ago for a...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6820">AnnetteDalsgaard's OLDS MOOC learning journal</a> by <a href="https://cloudworks.ac.uk/user/view/5826" rel="author">Stephen Bright</a></em>]]></description>
+	  	  <pubDate>Wed, 09 Jan 2013 21:51:29 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I&#39;m a Senior Lecturer working with post graduate education in a University of Applied Science...new comment on the cloud AnnetteDalsgaard&#39;s OLDS MOOC learning journal by Annette Dalsgaard Vilain</title>
+	      <link>https://cloudworks.ac.uk/#comment-6280</link>
+	      <guid>https://cloudworks.ac.uk/#comment-6280</guid>
+	      <description><![CDATA[<strong>"I'm&nbsp;a Senior Lecturer working with post graduate education in a University of Applied Science...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6820">AnnetteDalsgaard's OLDS MOOC learning journal</a> by <a href="https://cloudworks.ac.uk/user/view/4960" rel="author">Annette Dalsgaard Vilain</a></em>]]></description>
+	  	  <pubDate>Wed, 09 Jan 2013 21:18:49 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>AnnetteDalsgaard&#39;s OLDS MOOC learning journalcloud added to the cloudscape AnnetteDalsgaard&#39;s OLDS MOOC portfolio by Annette Dalsgaard Vilain</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/6820">AnnetteDalsgaard's OLDS MOOC learning journal</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2538">AnnetteDalsgaard's OLDS MOOC portfolio</a> by <a href="https://cloudworks.ac.uk/user/view/4960" rel="author">Annette Dalsgaard Vilain</a></em>]]></description>
+	  	  <pubDate>Wed, 09 Jan 2013 21:00:01 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+	    </channel>
+</rss>

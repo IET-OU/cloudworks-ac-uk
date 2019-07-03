@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Cloudstream for Adelaide Dias_ePortfólio</title>
+    <link>https://cloudworks.ac.uk/</link>
+	<description>Cloudstream for Adelaide Dias_ePortfólio</description>
+	<dc:language>en</dc:language>
+	<dc:creator>cloudworks@open.ac.uk</dc:creator>
+	<dc:rights>Copyright 2019 </dc:rights>
+	<admin:generatorAgent>
+    <atom:link href="https://cloudworks.ac.uk/event/cloudscape_rss/2686" rel="self" type="application/rss+xml" />
+    		    <item>
+	      <title>First week of the MOOC_Adelaide Diascloud added to the cloudscape Adelaide Dias_ePortfólio by Adelaide Dias</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7660">First week of the MOOC_Adelaide Dias</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2686">Adelaide Dias_ePortfólio</a> by <a href="https://cloudworks.ac.uk/user/view/5676" rel="author">Adelaide Dias</a></em>]]></description>
+	  	  <pubDate>Sun, 20 Jan 2013 17:40:08 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>My dream: Photography Learning onlinecloud added to the cloudscape Adelaide Dias_ePortfólio by Adelaide Dias</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7208">My dream: Photography Learning online</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2686">Adelaide Dias_ePortfólio</a> by <a href="https://cloudworks.ac.uk/user/view/5676" rel="author">Adelaide Dias</a></em>]]></description>
+	  	  <pubDate>Sun, 13 Jan 2013 15:02:45 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Presentation_Adelaide Diascloud added to the cloudscape Adelaide Dias_ePortfólio by Adelaide Dias</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7200">Presentation_Adelaide Dias</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2686">Adelaide Dias_ePortfólio</a> by <a href="https://cloudworks.ac.uk/user/view/5676" rel="author">Adelaide Dias</a></em>]]></description>
+	  	  <pubDate>Sun, 13 Jan 2013 14:17:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Adelaide Dias_Learning Journal for OLDS MOOC cloud added to the cloudscape Adelaide Dias_ePortfólio by Adelaide Dias</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7108">Adelaide Dias_Learning Journal for OLDS MOOC </a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2686">Adelaide Dias_ePortfólio</a> by <a href="https://cloudworks.ac.uk/user/view/5676" rel="author">Adelaide Dias</a></em>]]></description>
+	  	  <pubDate>Sat, 12 Jan 2013 11:37:59 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+	    </channel>
+</rss>

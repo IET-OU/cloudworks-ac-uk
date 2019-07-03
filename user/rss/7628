@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: David Appel</title>
+        <link>https://cloudworks.ac.uk/user/rss.7628</link>
+        <atom:link href="https://cloudworks.ac.uk/user/rss.7628" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds by David Appel</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>David Appel&#39;s review of representations</title>
+              <link>https://cloudworks.ac.uk/cloud/view/9010</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/9010</guid>
+              <description><![CDATA[<p dir="ltr"><strong>The 4 T&rsquo;s model &nbsp;</strong>is very readable, providing a linearly structured overview on activities, roles, technologies and times which is intuitive and should be easy to apply for an experienced teacher. In fact, it very much resembles a conventional lesson script with the additional component of technology. In terms of expressiveness I also find it Therefore it might restrict the learning design to teacher centric options and miss out explorative activities. It seems to me that the &lsquo;Healthy Eating&rsquo; example asks for a more learner centric approach and the 4T&rsquo;s model might be too rigid in terms of timings and possible variance.</p>
+<p dir="ltr"><strong>The e-Design Template</strong> is also quite &nbsp;readable althogh the linear development of a lesson plan is not its main organising principle. Still this model could be applied in a straight forward manner to formalise existing or planned learning desings in terms of guided vs. self-organised learning. It is easy to identify which forms of learning are applied and at what stage and it becomes immediately apparent that in the example of &lsquo;Healthy Eating&rsquo; opportunities for more open, self-guided learning are missing. Utility is rather restricted with regards to the use of technology as there is no dedicated section for this aspect and potential interdependency of individual activities do not become apparent. &nbsp;</p>]]></description>
+          <pubDate>Mon, 06 Apr 2015 12:28:16 +0000</pubDate>
+            </item>
+                    <item>
+              <title>David Appel’s design narrative: Developing blended learning elements which facilitate group work and peer-feedback</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8963</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8963</guid>
+              <description><![CDATA[<h2 dir="ltr">Narrator</h2>
+<p dir="ltr">My role was to support a teacher in conceptualising, designing, development and implementation of an online learning activity.</p>
+<h2 dir="ltr">Situation</h2>
+<ul>
+<li dir="ltr">
+<p dir="ltr">University of Applied Sciences, Department for Social Work</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Compulsory elective subject in a bachelor curriculum for Social Work.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Students (approx. 40) attending the course into their 3rd or 4th term, having completed several courses covering theoretical and methodical basics of the field.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Students have to deliver a report on a project they have worked on during the course. This is a group work of 3-4 students and delivered at the end of the term.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Previously, a significant proportion of the face-to-face course time has been used for organizing group work, providing instruction and facilitating communication. Peer feedback in the face-to-face environment has proven to be very time-consuming and has often not been leading to satisfactory results</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">LMS: Moodle (Students have worked with Moodle before, but are not necessarily experienced with collaborative elements and practices; teacher is fairly familiar with Moodle)</p>
+</li>
+</ul>
+<h2 dir="ltr">Task</h2>
+<p dir="ltr">I have focused on opportunities to improve efficiency and effectiveness of group collaboration in this course. I decided to use blended learning elements which would allow to guide students towards group work and communication in a virtual environment. I selected administrative, organizational and methodological elements of writing a term paper which could be supported by with online components. The measure of success was a reduction of administrative and organisational efforts by the teacher and administrative staff.</p>
+<p dir="ltr">I also included elements of reflection and evaluation for the students to &nbsp;take an active, participative, and critical role (providing peer-feedback at several stages of the paper writing process). The success factor was a consistent quality in the term papers delivered, not below the quality of previous papers delivered in the standard course format.</p>
+<h2 dir="ltr">Actions</h2>
+<ul>
+<li dir="ltr">
+<p dir="ltr">Together with the teacher in charge I drafted a concept for the course, including goals, key stakeholders, format and sequence of elements included, implementation of a pilot, implementation of the final course, and evaluation by students, teacher, and supportive staff. The result was a common understanding of the goals as well as the actions to be taken and related responsibilities.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">I then developed the main elements and run a pilot with a few selected testers not yet involved in the course design. It turned out that several elements were not sufficiently described or did not work exactly the way they were intended.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">On the basis of the pilot we adapted the course design were necessary and then run the course for an entire term. At the end of the turn we evaluated the results, questioned students, staff and teacher and analysed the overall outcomes.</p>
+</li>
+</ul>
+<h2 dir="ltr">Results</h2>
+<p dir="ltr">The papers delivered were of a consistent quality at about the same level as in the previous version of the course (without blended learning elements). The effort for preparing and developing the course was significant, during the course support and occasional adjustments were necessary which also meant some additional effort for both teacher and supportive staff. However, most of the issues could be resolved for the next term and without the one-time preparational efforts qualitative as well as quantitative objectives could be met.</p>
+<p dir="ltr">A survey conducted among the students showed that most of them appreciated the design of the course, but would have liked to use the space for further collaboration more extensively.</p>
+<h2 dir="ltr">Reflections</h2>
+<p dir="ltr">It is important to create a detailed design of the course - including goals, key stakeholders, elements and sequencing, evaluation, etc. - in order to make sure that all involved parties have the same understanding of the project. However, even with a detailed design there are issues which cannot be anticipated and therefore running a pilot with people who have not been involved previously is crucial to discover any gaps and flaws. At the end, an evaluation can reveal further gaps and issues, but also provide input for further development.</p>
+<p dir="ltr">&nbsp;</p>
+<h3>CompendiumLD Map</h3>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a title="Peer-feedback on term paper concept2 by David Appel, on Flickr" href="https://www.flickr.com/photos/131689978@N02/17016406390"><img src="https://farm6.staticflickr.com/5449/17016406390_896948cd86_b.jpg" alt="Peer-feedback on term paper concept2" width="650" height="728" /></a></p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Mon, 30 Mar 2015 21:05:37 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Latest Cloud</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8952</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8952</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Sun, 29 Mar 2015 20:06:40 +0000</pubDate>
+            </item>
+                    <item>
+              <title>MON: Social Work Education In A Connected Age - A Playground Learning Environment. (David Appel)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/11910</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/11910</guid>
+              <description><![CDATA[<h2>Abstract</h2>
+<p>Digitalisation transforms our society in manifold ways and a profession such as Social Work needs to respond to these transformations. Likewise, social work education needs to revisit its curricula and teaching methods. However, the speed at which transformations are happening is often overstraining the capabilities of innovation, adoption and implementation of educational institutions and their stakeholders (Davis et al., 2018). This is especially the case for a discipline like Social Work with a rather uneasy relationship with technology (Taylor, 2017).</p>
+<p>My project addresses this complex challenge by implementing a playground learning environment into social work bachelor and master curricula. This playground learning environment is directed towards a twofold purpose: it (a) equips students with skills and competences for their professional practice in the digital world and (b) allows teachers to gain experiences with education technology as well as rethinking their roles as guides and facilitators. Both learning experiences are as crucial as they are challenging (Adams Becker et al., 2018).</p>
+<p>Setting a playground learning environment apart from the core topics and related skills and competences of the discipline of Social Work is expected to act as a threshold concept for the second purpose (Meyer and Land, 2003). Rather than comprehensive documentation, such an environment can showcase &lsquo;good practice&rsquo;, enable direct experience with online learning opportunities, and serve as a transparent reference for discussing difficulties among teachers. Thus, it can help overcome preconceptions regarding the digitally mediated interrelatedness of people and content and foster the implementation of education technology in a shifting environment.</p>
+<p>At the H818 Online Conference 2019, I will present the project and context in more detail. I am involved in revising both the bachelor and master curriculum in Social Work at the Zurich University of Applied Sciences and will explain strategy, approach and major challenges for implementing education technology at this institution. I will focus on <a href="https://app.webjets.io/p/WYZtFK0GbPVCwBC2yO94kzT3On72/-LWIJn3TkbYZJYx3rlDc" target="_blank">design and purpose of the planned playground learning environment</a>. In order to explore this approach in more detail, a prototype course will be available for conference attendees with a specific interest in this topic before, during and after the conference Based on the experiences running this prototype course, we will discuss opportunities, strengths and weaknesses of such an approach in a workshop. In my presentation I will provide an overiview on the prototype course and findings from running the prototype so far.</p>
+<h3>References</h3>
+<p>Adams Becker, S., Brown, M., Dahlstrom, E., Davis, A., DePaul, K., Diaz, V. and Pomerantz, J. (2018) <a href="https://library.educause.edu/resources/2018/8/2018-nmc-horizon-report" target="_blank"><em>Horizon Report: 2018 Higher Education Edition</em></a>, Louisville, CO:EDUCASE.</p>
+<p>Davis, C., Greenaway, R., Moore, M. and Cooper, L. (2018) &lsquo;Online Teaching in Social Work Education: Understanding the Challenges&rsquo;, <em>Australian Social Work</em>, pp. 1&ndash;13 [Online]. DOI: <a href="https://www.tandfonline.com/doi/abs/10.1080/0312407X.2018.1524918" target="_self">10.1080/0312407X.2018.1524918</a>.</p>
+<p>Meyer, J. and Land, R. (2003) &lsquo;<a href="https://www.jstor.org/stable/25068074?seq=1#metadata_info_tab_contents" target="_self">Threshold Concepts and Troublesome Knowledge: Linkages to Ways of Thinking and Practising within the Disciplines</a>&rsquo;, pp. 1&ndash;14.</p>
+<p>Taylor, A. (2017) &lsquo;Social work and digitalisation: bridging the knowledge gaps&rsquo;, <em>Social Work Education</em>, vol. 36, no. 8, pp. 869&ndash;879 [Online]. <a href="https://www.tandfonline.com/doi/abs/10.1080/02615479.2017.1361924" target="_blank">DOI: 10.1080/02615479.2017.1361924</a>.</p>]]></description>
+          <pubDate>Fri, 04 Jan 2019 11:20:09 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

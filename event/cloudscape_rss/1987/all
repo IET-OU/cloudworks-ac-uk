@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Cloudstream for ALT&#45;C 2010</title>
+    <link>https://cloudworks.ac.uk/</link>
+	<description>Cloudstream for ALT&#45;C 2010</description>
+	<dc:language>en</dc:language>
+	<dc:creator>cloudworks@open.ac.uk</dc:creator>
+	<dc:rights>Copyright 2019 </dc:rights>
+	<admin:generatorAgent>
+    <atom:link href="https://cloudworks.ac.uk/event/cloudscape_rss/1987" rel="self" type="application/rss+xml" />
+    		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-12152</link>
+	      <guid>https://cloudworks.ac.uk/#comment-12152</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Wed, 06 Dec 2017 15:27:50 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-11828</link>
+	      <guid>https://cloudworks.ac.uk/#comment-11828</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Mon, 16 Oct 2017 05:47:59 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Here are a couple of updates for the A Role for Gaming in Learning discussion. First, the book, The...new comment on the cloud ALTC 2010: Back three spaces and roll again: using game-based approaches to assist with course design by Justline Webber</title>
+	      <link>https://cloudworks.ac.uk/#comment-11524</link>
+	      <guid>https://cloudworks.ac.uk/#comment-11524</guid>
+	      <description><![CDATA[<strong>"Here are a couple of updates for the A Role for Gaming in Learning discussion. First, the book, The...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/4413">ALTC 2010: Back three spaces and roll again: using game-based approaches to assist with course design</a> by <a href="https://cloudworks.ac.uk/user/view/10076" rel="author">Justline Webber</a></em>]]></description>
+	  	  <pubDate>Thu, 20 Apr 2017 16:07:10 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#content-2402</link>
+	      <guid>https://cloudworks.ac.uk/#content-2402</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Thu, 29 Dec 2016 11:46:43 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-11015</link>
+	      <guid>https://cloudworks.ac.uk/#comment-11015</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Thu, 30 Jun 2016 14:05:10 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-10339</link>
+	      <guid>https://cloudworks.ac.uk/#comment-10339</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Sat, 11 Jul 2015 20:56:26 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-9370</link>
+	      <guid>https://cloudworks.ac.uk/#comment-9370</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Wed, 19 Feb 2014 13:18:09 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-9369</link>
+	      <guid>https://cloudworks.ac.uk/#comment-9369</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Wed, 19 Feb 2014 13:16:17 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-9060</link>
+	      <guid>https://cloudworks.ac.uk/#comment-9060</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Fri, 03 Jan 2014 03:24:57 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-9054</link>
+	      <guid>https://cloudworks.ac.uk/#comment-9054</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Wed, 01 Jan 2014 04:16:24 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-9051</link>
+	      <guid>https://cloudworks.ac.uk/#comment-9051</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Tue, 31 Dec 2013 03:24:48 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-9003</link>
+	      <guid>https://cloudworks.ac.uk/#comment-9003</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Fri, 29 Nov 2013 07:08:03 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-8960</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8960</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Tue, 05 Nov 2013 17:44:26 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-8959</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8959</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Tue, 05 Nov 2013 17:43:37 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-8940</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8940</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Sat, 19 Oct 2013 09:17:10 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-8939</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8939</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Sat, 19 Oct 2013 09:15:45 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Juliette,
+No we didn&#39;t do the report that way. It does make sense to do it the way you describe;...new comment on the cloud ALTC 2010: Why waste a good crisis? Delivering an exclusively online international academic conference by Terese Bird</title>
+	      <link>https://cloudworks.ac.uk/#comment-4979</link>
+	      <guid>https://cloudworks.ac.uk/#comment-4979</guid>
+	      <description><![CDATA[<strong>"Hi Juliette,
+No we didn't do the report that way. It does make sense to do it the way you describe;...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/4461">ALTC 2010: Why waste a good crisis? Delivering an exclusively online international academic conference</a> by <a href="https://cloudworks.ac.uk/user/view/3130" rel="author">Terese Bird</a></em>]]></description>
+	  	  <pubDate>Tue, 08 Mar 2011 16:51:26 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>(From Jim Ellis&#39;s eLearning Digest No 77)
+Donald Clark&#39;s ALT-C keynote speech caused controversy at......&quot;new content on ALTC 2010: Donald Clark Keynote: Don&#39;t lecture me by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#content-983</link>
+	      <guid>https://cloudworks.ac.uk/#content-983</guid>
+	      <description><![CDATA[<strong>(From Jim Ellis's eLearning Digest No 77)
+Donald Clark's ALT-C keynote speech caused controversy at......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/4540">ALTC 2010: Donald Clark Keynote: Don't lecture me</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 18 Jan 2011 09:14:54 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Recording from ALT-C&#39;s You Tube Channelnew embedded content added to the cloud ALTC 2010: A student perspective on the use of technology in 21st century higher education by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#embed-897</link>
+	      <guid>https://cloudworks.ac.uk/#embed-897</guid>
+	      <description><![CDATA[<strong>Recording from ALT-C's You Tube Channel</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4526">ALTC 2010: A student perspective on the use of technology in 21st century higher education</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 05 Oct 2010 09:02:39 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Recording from ALT-C&#39;s You Tube Channelnew embedded content added to the cloud ALTC 2010: The future of knowledge acquisition by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#embed-896</link>
+	      <guid>https://cloudworks.ac.uk/#embed-896</guid>
+	      <description><![CDATA[<strong>Recording from ALT-C's You Tube Channel</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4523">ALTC 2010: The future of knowledge acquisition</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 05 Oct 2010 09:01:53 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Recording from ALT-C&#39;s You Tube Channelnew embedded content added to the cloud ALTC 2010: Sailing against the trade winds? How online distance learning could help maintain the character of higher education in stormy seas. by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#embed-895</link>
+	      <guid>https://cloudworks.ac.uk/#embed-895</guid>
+	      <description><![CDATA[<strong>Recording from ALT-C's You Tube Channel</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4525">ALTC 2010: Sailing against the trade winds? How online distance learning could help maintain the character of higher education in stormy seas.</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 05 Oct 2010 09:01:13 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Recording from ALT-C&#39;s You Tube Channelnew embedded content added to the cloud ALTC 2010: How national funding and policy supports learning and teaching in higher education by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#embed-894</link>
+	      <guid>https://cloudworks.ac.uk/#embed-894</guid>
+	      <description><![CDATA[<strong>Recording from ALT-C's You Tube Channel</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4527">ALTC 2010: How national funding and policy supports learning and teaching in higher education</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 05 Oct 2010 09:00:36 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Recording from ALT-C&#39;s You Tube Channelnew embedded content added to the cloud ALTC 2010: When worlds collide –  revisiting experiential learning by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#embed-893</link>
+	      <guid>https://cloudworks.ac.uk/#embed-893</guid>
+	      <description><![CDATA[<strong>Recording from ALT-C's You Tube Channel</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4521">ALTC 2010: When worlds collide –  revisiting experiential learning</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 05 Oct 2010 08:59:50 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Recording from ALT-C&#39;s You Tube Channelnew embedded content added to the cloud ALTC 2010: One college&#39;s journey – a view from the bridge by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#embed-892</link>
+	      <guid>https://cloudworks.ac.uk/#embed-892</guid>
+	      <description><![CDATA[<strong>Recording from ALT-C's You Tube Channel</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4520">ALTC 2010: One college's journey – a view from the bridge</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 05 Oct 2010 08:58:49 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Keynote recording from ALT-C&#39;s You Tube Channelnew embedded content added to the cloud ALTC 2010: Donald Clark Keynote: Don&#39;t lecture me by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#embed-891</link>
+	      <guid>https://cloudworks.ac.uk/#embed-891</guid>
+	      <description><![CDATA[<strong>Keynote recording from ALT-C's You Tube Channel</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4540">ALTC 2010: Donald Clark Keynote: Don't lecture me</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 05 Oct 2010 08:56:25 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>eBooks and eBook Readers bring new challenges and new opportunities for learning technologists.......&quot;new content on ALTC 2010: Do you like books or do you like reading? by James Clay</title>
+	      <link>https://cloudworks.ac.uk/#content-826</link>
+	      <guid>https://cloudworks.ac.uk/#content-826</guid>
+	      <description><![CDATA[<strong>eBooks and eBook Readers bring new challenges and new opportunities for learning technologists......."</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/4395">ALTC 2010: Do you like books or do you like reading?</a> by <a href="https://cloudworks.ac.uk/user/view/1086" rel="author">James Clay</a></em>]]></description>
+	  	  <pubDate>Wed, 22 Sep 2010 21:10:57 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>e-Learning Stuff Podcast #058: Do you like books or do you like reading? new link on ALTC 2010: Do you like books or do you like reading? added by James Clay</title>
+	      <link>https://cloudworks.ac.uk/#link-4039</link>
+	      <guid>https://cloudworks.ac.uk/#link-4039</guid>
+	      <description><![CDATA[<strong>e-Learning Stuff Podcast #058: Do you like books or do you like reading? </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/4395">ALTC 2010: Do you like books or do you like reading?</a> added by <a href="https://cloudworks.ac.uk/user/view/1086" rel="author">James Clay</a></em>]]></description>
+	  	  <pubDate>Wed, 22 Sep 2010 21:08:54 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;&quot;Remoteness in India is geographic,  whereas remoteness in UK is  socio-democratic.&quot;
+This...new comment on the cloud ALTC 2010: Sugata Mitra Keynote: The hole in the wall: self organising systems in education by Pierre Vigoureux</title>
+	      <link>https://cloudworks.ac.uk/#comment-4546</link>
+	      <guid>https://cloudworks.ac.uk/#comment-4546</guid>
+	      <description><![CDATA[<strong>""Remoteness in India is geographic,&nbsp; whereas remoteness in UK is  socio-democratic."
+This...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/4530">ALTC 2010: Sugata Mitra Keynote: The hole in the wall: self organising systems in education</a> by <a href="https://cloudworks.ac.uk/user/view/3191" rel="author">Pierre Vigoureux</a></em>]]></description>
+	  	  <pubDate>Mon, 20 Sep 2010 14:27:20 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>The socio-cultural perspective adopted to design this interactive multimedia orientation programme......&quot;new content on ALTC 2010: E-cards from Plymouth: considering the practical and socio-cultural experience of international students by Chelo de Andres Martinez</title>
+	      <link>https://cloudworks.ac.uk/#content-816</link>
+	      <guid>https://cloudworks.ac.uk/#content-816</guid>
+	      <description><![CDATA[<strong>The socio-cultural perspective adopted to design this interactive multimedia orientation programme......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/4330">ALTC 2010: E-cards from Plymouth: considering the practical and socio-cultural experience of international students</a> by <a href="https://cloudworks.ac.uk/user/view/2931" rel="author">Chelo de Andres Martinez</a></em>]]></description>
+	  	  <pubDate>Fri, 10 Sep 2010 23:09:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>&quot;I attended your ALT C 2010 presentation and am interested in finding out a little more about how...new comment on the cloud ALTC 2010: A strategy for supporting academic staff in the design, development and delivery of flexible CPD courses in Higher Education. by Sue Lund</title>
+	      <link>https://cloudworks.ac.uk/#comment-4528</link>
+	      <guid>https://cloudworks.ac.uk/#comment-4528</guid>
+	      <description><![CDATA[<strong>"I attended your ALT C 2010 presentation and am interested in finding out a little more about how...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/4440">ALTC 2010: A strategy for supporting academic staff in the design, development and delivery of flexible CPD courses in Higher Education.</a> by <a href="https://cloudworks.ac.uk/user/view/162" rel="author">Sue Lund</a></em>]]></description>
+	  	  <pubDate>Fri, 10 Sep 2010 11:38:02 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Blog post (with link to slides and video) new link on ALTC 2010: Open Educational Resources (OERs) in HE – trends and scenarios added by David Kernohan</title>
+	      <link>https://cloudworks.ac.uk/#link-4010</link>
+	      <guid>https://cloudworks.ac.uk/#link-4010</guid>
+	      <description><![CDATA[<strong>Blog post (with link to slides and video) </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/4431">ALTC 2010: Open Educational Resources (OERs) in HE – trends and scenarios</a> added by <a href="https://cloudworks.ac.uk/user/view/466" rel="author">David Kernohan</a></em>]]></description>
+	  	  <pubDate>Thu, 09 Sep 2010 11:37:35 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Sugata Mitra:Keynote speechnew embedded content added to the cloud ALTC 2010: Sugata Mitra Keynote: The hole in the wall: self organising systems in education by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#embed-813</link>
+	      <guid>https://cloudworks.ac.uk/#embed-813</guid>
+	      <description><![CDATA[<strong>Sugata Mitra:Keynote speech</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4530">ALTC 2010: Sugata Mitra Keynote: The hole in the wall: self organising systems in education</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Wed, 08 Sep 2010 19:26:12 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>This is my live blog of Sugata Mitra’s inspirational keynote speech. I found it hard to keep......&quot;new content on ALTC 2010: Sugata Mitra Keynote: The hole in the wall: self organising systems in education by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#content-814</link>
+	      <guid>https://cloudworks.ac.uk/#content-814</guid>
+	      <description><![CDATA[<strong>This is my live blog of Sugata Mitra&rsquo;s inspirational keynote speech. I found it hard to keep......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/4530">ALTC 2010: Sugata Mitra Keynote: The hole in the wall: self organising systems in education</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Wed, 08 Sep 2010 19:17:25 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Audience discussion and questions:
+Q1. Somewhere in ethics there have to be new rights – what......&quot;new content on ALTC 2010: New bottles, old wine? A debate on the ethics of educational interventions in popular digital technologies by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#content-813</link>
+	      <guid>https://cloudworks.ac.uk/#content-813</guid>
+	      <description><![CDATA[<strong>Audience discussion and questions:
+Q1. Somewhere in ethics there have to be new rights &ndash; what......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/4375">ALTC 2010: New bottles, old wine? A debate on the ethics of educational interventions in popular digital technologies</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Wed, 08 Sep 2010 17:54:26 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>This is my live blog of the session - I&#39;m not sure if it was recorded or not but if I find a link......&quot;new content on ALTC 2010: New bottles, old wine? A debate on the ethics of educational interventions in popular digital technologies by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#content-812</link>
+	      <guid>https://cloudworks.ac.uk/#content-812</guid>
+	      <description><![CDATA[<strong>This is my live blog of the session - I'm not sure if it was recorded or not but if I find a link......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/4375">ALTC 2010: New bottles, old wine? A debate on the ethics of educational interventions in popular digital technologies</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Wed, 08 Sep 2010 17:33:05 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>
+
+ALT  Occasional Publication &quot;The positioning of educational  technologists in enhancing the......&quot;new content on ALTC 2010: Seeding the cloud: using Cloudworks for resource management for the ELESIG community of practice by Helen Whitehead</title>
+	      <link>https://cloudworks.ac.uk/#content-810</link>
+	      <guid>https://cloudworks.ac.uk/#content-810</guid>
+	      <description><![CDATA[<strong>
+
+ALT  Occasional Publication "The positioning of educational  technologists in enhancing the......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/4398">ALTC 2010: Seeding the cloud: using Cloudworks for resource management for the ELESIG community of practice</a> by <a href="https://cloudworks.ac.uk/user/view/1799" rel="author">Helen Whitehead</a></em>]]></description>
+	  	  <pubDate>Wed, 08 Sep 2010 07:03:56 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Slides for the presentation on Slidesharenew embedded content added to the cloud ALTC 2010: Embedding learning design processes: responding to context by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#embed-812</link>
+	      <guid>https://cloudworks.ac.uk/#embed-812</guid>
+	      <description><![CDATA[<strong>Slides for the presentation on Slideshare</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4331">ALTC 2010: Embedding learning design processes: responding to context</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 17:10:39 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>&quot;Couldn&#39;t make the discussion ... I hope that someone will summarize here!...new comment on the cloud ALTC 2010: We&#39;re all doomed. Donald Clark keynote discussion by Christopher Jobling</title>
+	      <link>https://cloudworks.ac.uk/#comment-4522</link>
+	      <guid>https://cloudworks.ac.uk/#comment-4522</guid>
+	      <description><![CDATA[<strong>"Couldn't make the discussion ... I hope that someone will summarize here!...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/4533">ALTC 2010: We're all doomed. Donald Clark keynote discussion</a> by <a href="https://cloudworks.ac.uk/user/view/1156" rel="author">Christopher Jobling</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 15:25:40 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Waiting for the Sea-Change new link on ALTC 2010: Donald Clark Keynote: Don&#39;t lecture me added by Christopher Jobling</title>
+	      <link>https://cloudworks.ac.uk/#link-4009</link>
+	      <guid>https://cloudworks.ac.uk/#link-4009</guid>
+	      <description><![CDATA[<strong>Waiting for the Sea-Change </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/4540">ALTC 2010: Donald Clark Keynote: Don't lecture me</a> added by <a href="https://cloudworks.ac.uk/user/view/1156" rel="author">Christopher Jobling</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 15:15:43 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;I&#39;m not at ALT-C so didn&#39;t see the talk but was curious if they compared e.g. number of...new comment on the cloud ALTC 2010: Why waste a good crisis? Delivering an exclusively online international academic conference by Juliette Culver</title>
+	      <link>https://cloudworks.ac.uk/#comment-4521</link>
+	      <guid>https://cloudworks.ac.uk/#comment-4521</guid>
+	      <description><![CDATA[<strong>"I'm not at ALT-C so didn't see the talk but was curious if they compared e.g. number of...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/4461">ALTC 2010: Why waste a good crisis? Delivering an exclusively online international academic conference</a> by <a href="https://cloudworks.ac.uk/user/view/1" rel="author">Juliette Culver</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 15:11:26 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Blog post: Bryony Taylor: What we can learn from Sugata Mitra&#39;s experiments new link on ALTC 2010: Sugata Mitra Keynote: The hole in the wall: self organising systems in education added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-4008</link>
+	      <guid>https://cloudworks.ac.uk/#link-4008</guid>
+	      <description><![CDATA[<strong>Blog post: Bryony Taylor: What we can learn from Sugata Mitra's experiments </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/4530">ALTC 2010: Sugata Mitra Keynote: The hole in the wall: self organising systems in education</a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 15:04:53 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;If they build a discussion board, will they come?...new comment on the cloud ALTC 2010: Why waste a good crisis? Delivering an exclusively online international academic conference by Terese Bird</title>
+	      <link>https://cloudworks.ac.uk/#comment-4520</link>
+	      <guid>https://cloudworks.ac.uk/#comment-4520</guid>
+	      <description><![CDATA[<strong>"If they build a discussion board, will they come?...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/4461">ALTC 2010: Why waste a good crisis? Delivering an exclusively online international academic conference</a> by <a href="https://cloudworks.ac.uk/user/view/3130" rel="author">Terese Bird</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 14:36:52 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Donald .... Duck! new link on ALTC 2010: Donald Clark Keynote: Don&#39;t lecture me added by Christopher Jobling</title>
+	      <link>https://cloudworks.ac.uk/#link-4007</link>
+	      <guid>https://cloudworks.ac.uk/#link-4007</guid>
+	      <description><![CDATA[<strong>Donald .... Duck! </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/4540">ALTC 2010: Donald Clark Keynote: Don't lecture me</a> added by <a href="https://cloudworks.ac.uk/user/view/1156" rel="author">Christopher Jobling</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 14:35:11 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>We should celebrate not denigrate teaching in higher education new link on ALTC 2010: Donald Clark Keynote: Don&#39;t lecture me added by Christopher Jobling</title>
+	      <link>https://cloudworks.ac.uk/#link-4006</link>
+	      <guid>https://cloudworks.ac.uk/#link-4006</guid>
+	      <description><![CDATA[<strong>We should celebrate not denigrate teaching in higher education </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/4540">ALTC 2010: Donald Clark Keynote: Don't lecture me</a> added by <a href="https://cloudworks.ac.uk/user/view/1156" rel="author">Christopher Jobling</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 14:29:10 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Carbon footprint report for the online conference being reported on in Why Waste a Good......&quot;new content on ALTC 2010: Why waste a good crisis? Delivering an exclusively online international academic conference by Terese Bird</title>
+	      <link>https://cloudworks.ac.uk/#content-809</link>
+	      <guid>https://cloudworks.ac.uk/#content-809</guid>
+	      <description><![CDATA[<strong>Carbon footprint report for the online conference being reported on in Why Waste a Good......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/4461">ALTC 2010: Why waste a good crisis? Delivering an exclusively online international academic conference</a> by <a href="https://cloudworks.ac.uk/user/view/3130" rel="author">Terese Bird</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 13:48:44 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Ebbenhaus Forgetting Curvenew embedded content added to the cloud ALTC 2010: Donald Clark Keynote: Don&#39;t lecture me by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#embed-811</link>
+	      <guid>https://cloudworks.ac.uk/#embed-811</guid>
+	      <description><![CDATA[<strong>Ebbenhaus Forgetting Curve</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4540">ALTC 2010: Donald Clark Keynote: Don't lecture me</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 13:37:26 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Richard Feynman - thx Chris!......&quot;new content on ALTC 2010: Donald Clark Keynote: Don&#39;t lecture me by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#content-808</link>
+	      <guid>https://cloudworks.ac.uk/#content-808</guid>
+	      <description><![CDATA[<strong>Richard Feynman - thx Chris!......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/4540">ALTC 2010: Donald Clark Keynote: Don't lecture me</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 13:27:47 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>TheUniversityBlog: Post session blog post &#39;Should lectures be banned?&#39; new link on ALTC 2010: Donald Clark Keynote: Don&#39;t lecture me added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-4005</link>
+	      <guid>https://cloudworks.ac.uk/#link-4005</guid>
+	      <description><![CDATA[<strong>TheUniversityBlog: Post session blog post 'Should lectures be banned?' </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/4540">ALTC 2010: Donald Clark Keynote: Don't lecture me</a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 13:24:57 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>The workshop in (technology-enhanced) actionnew embedded content added to the cloud Developing Digital Capability  by Helen Beetham</title>
+	      <link>https://cloudworks.ac.uk/#embed-810</link>
+	      <guid>https://cloudworks.ac.uk/#embed-810</guid>
+	      <description><![CDATA[<strong>The workshop in (technology-enhanced) action</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4538">Developing Digital Capability </a> by <a href="https://cloudworks.ac.uk/user/view/1137" rel="author">Helen Beetham</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 13:22:23 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>&quot;Richard P. Feynman (2005). The Feynman Lectures on Physics: Definitive and Extended Edition.......&quot; reference added to the cloud ALTC 2010: Donald Clark Keynote: Don&#39;t lecture me by Christopher Jobling</title>
+	      <link>https://cloudworks.ac.uk/#reference-605</link>
+	      <guid>https://cloudworks.ac.uk/#reference-605</guid>
+	      <description><![CDATA[<strong>"Richard P. Feynman (2005). The Feynman Lectures on Physics: Definitive and Extended Edition......."</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4540">ALTC 2010: Donald Clark Keynote: Don't lecture me</a> by <a href="https://cloudworks.ac.uk/user/view/1156" rel="author">Christopher Jobling</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 13:18:50 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Eric Mazur (1996). Peer Instruction: A User&#39;s Manual. (Prentice Hall Series in Educational......&quot; reference added to the cloud ALTC 2010: Donald Clark Keynote: Don&#39;t lecture me by Christopher Jobling</title>
+	      <link>https://cloudworks.ac.uk/#reference-604</link>
+	      <guid>https://cloudworks.ac.uk/#reference-604</guid>
+	      <description><![CDATA[<strong>"Eric Mazur (1996). Peer Instruction: A User's Manual. (Prentice Hall Series in Educational......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4540">ALTC 2010: Donald Clark Keynote: Don't lecture me</a> by <a href="https://cloudworks.ac.uk/user/view/1156" rel="author">Christopher Jobling</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 13:16:55 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>John Cook&#39;s session slides on Slidesharenew embedded content added to the cloud ALTC 2010: Navigating through the storm – using theory to plan mobile learning deployment by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#embed-809</link>
+	      <guid>https://cloudworks.ac.uk/#embed-809</guid>
+	      <description><![CDATA[<strong>John Cook's session slides on Slideshare</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4365">ALTC 2010: Navigating through the storm – using theory to plan mobile learning deployment</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 13:14:56 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>&quot;Brron Reeves, 1998. The Media Equation: How People Treat Computers, Television, and New Media like......&quot; reference added to the cloud ALTC 2010: Donald Clark Keynote: Don&#39;t lecture me by Christopher Jobling</title>
+	      <link>https://cloudworks.ac.uk/#reference-603</link>
+	      <guid>https://cloudworks.ac.uk/#reference-603</guid>
+	      <description><![CDATA[<strong>"Brron Reeves, 1998. The Media Equation: How People Treat Computers, Television, and New Media like......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4540">ALTC 2010: Donald Clark Keynote: Don't lecture me</a> by <a href="https://cloudworks.ac.uk/user/view/1156" rel="author">Christopher Jobling</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 13:14:54 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>About the SLiDA project new link on ALTC 2010: Applying a development framework for digital literacies added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-4004</link>
+	      <guid>https://cloudworks.ac.uk/#link-4004</guid>
+	      <description><![CDATA[<strong>About the SLiDA project </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/4386">ALTC 2010: Applying a development framework for digital literacies</a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 13:09:53 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>?Name? was Richard Feynman......&quot;new content on ALTC 2010: Donald Clark Keynote: Don&#39;t lecture me by Christopher Jobling</title>
+	      <link>https://cloudworks.ac.uk/#content-807</link>
+	      <guid>https://cloudworks.ac.uk/#content-807</guid>
+	      <description><![CDATA[<strong>?Name? was Richard Feynman......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/4540">ALTC 2010: Donald Clark Keynote: Don't lecture me</a> by <a href="https://cloudworks.ac.uk/user/view/1156" rel="author">Christopher Jobling</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 13:08:44 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Abstract -
+In reviewing research on learners&#39; experiences of e-learning, we have proposed a......&quot;new content on ALTC 2010: Applying a development framework for digital literacies by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#content-806</link>
+	      <guid>https://cloudworks.ac.uk/#content-806</guid>
+	      <description><![CDATA[<strong>Abstract -
+In reviewing research on learners' experiences of e-learning, we have proposed a......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/4386">ALTC 2010: Applying a development framework for digital literacies</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 13:06:23 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Exec Summary: Thriving in the 21st Century:Learning Literacies for the Digital Age new link on ALTC 2010: Applying a development framework for digital literacies added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-4003</link>
+	      <guid>https://cloudworks.ac.uk/#link-4003</guid>
+	      <description><![CDATA[<strong>Exec Summary: Thriving in the 21st Century:Learning Literacies for the Digital Age </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/4386">ALTC 2010: Applying a development framework for digital literacies</a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 12:56:23 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;Beetham, H., McGill, L. &amp; Littlejohn,A. (2009) Thriving in the 21st century: Learning Literacies......&quot; reference added to the cloud ALTC 2010: Applying a development framework for digital literacies by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#reference-602</link>
+	      <guid>https://cloudworks.ac.uk/#reference-602</guid>
+	      <description><![CDATA[<strong>"Beetham, H., McGill, L. & Littlejohn,A. (2009) Thriving in the 21st century: Learning Literacies......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4386">ALTC 2010: Applying a development framework for digital literacies</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 12:54:03 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Beetham,H. &amp; Sharpe, R. (2007) An introduction to rethinking pedagogy for a digital; age. In H.......&quot; reference added to the cloud ALTC 2010: Applying a development framework for digital literacies by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#reference-601</link>
+	      <guid>https://cloudworks.ac.uk/#reference-601</guid>
+	      <description><![CDATA[<strong>"Beetham,H. & Sharpe, R. (2007) An introduction to rethinking pedagogy for a digital; age. In H......."</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4386">ALTC 2010: Applying a development framework for digital literacies</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 12:50:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>
+&#39;Digital literacy is defined as the confident and critical use of ICT for work, leisure, learning......&quot;new content on ALTC 2010: Applying a development framework for digital literacies by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#content-805</link>
+	      <guid>https://cloudworks.ac.uk/#content-805</guid>
+	      <description><![CDATA[<strong>
+'Digital literacy is defined as the confident and critical use of ICT for work, leisure, learning......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/4386">ALTC 2010: Applying a development framework for digital literacies</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 12:48:07 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>See also Cloud for the follow-up workshop on Tuesday afternoon &#39;Applying a development......&quot;new content on Developing Digital Capability  by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#content-804</link>
+	      <guid>https://cloudworks.ac.uk/#content-804</guid>
+	      <description><![CDATA[<strong>See also Cloud for the follow-up workshop on Tuesday afternoon 'Applying a development......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/4538">Developing Digital Capability </a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 12:45:03 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>m-learning website new link on ALTC 2010: Mobile learning lessons from Africa, America and Europe
+- contrasting international case studies to highlight current trends added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-4002</link>
+	      <guid>https://cloudworks.ac.uk/#link-4002</guid>
+	      <description><![CDATA[<strong>m-learning website </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/4408">ALTC 2010: Mobile learning lessons from Africa, America and Europe
+- contrasting international case studies to highlight current trends</a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 11:30:10 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Geoff Stead&#39;s blog new link on ALTC 2010: Mobile learning lessons from Africa, America and Europe
+- contrasting international case studies to highlight current trends added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-4001</link>
+	      <guid>https://cloudworks.ac.uk/#link-4001</guid>
+	      <description><![CDATA[<strong>Geoff Stead's blog </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/4408">ALTC 2010: Mobile learning lessons from Africa, America and Europe
+- contrasting international case studies to highlight current trends</a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 11:29:32 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Link to the slides (opens in a new window)......&quot;new content on ALTC 2010: Mobile learning lessons from Africa, America and Europe
+- contrasting international case studies to highlight current trends by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#content-803</link>
+	      <guid>https://cloudworks.ac.uk/#content-803</guid>
+	      <description><![CDATA[<strong>Link to the slides (opens in a new window)......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/4408">ALTC 2010: Mobile learning lessons from Africa, America and Europe
+- contrasting international case studies to highlight current trends</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 11:28:22 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Interview with Geoff Stead about m-learningnew embedded content added to the cloud ALTC 2010: Mobile learning lessons from Africa, America and Europe
+- contrasting international case studies to highlight current trends by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#embed-808</link>
+	      <guid>https://cloudworks.ac.uk/#embed-808</guid>
+	      <description><![CDATA[<strong>Interview with Geoff Stead about m-learning</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4408">ALTC 2010: Mobile learning lessons from Africa, America and Europe
+- contrasting international case studies to highlight current trends</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 11:22:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Bloom project new link on ALTC 2010: Mobile learning lessons from Africa, America and Europe
+- contrasting international case studies to highlight current trends added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-4000</link>
+	      <guid>https://cloudworks.ac.uk/#link-4000</guid>
+	      <description><![CDATA[<strong>Bloom project </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/4408">ALTC 2010: Mobile learning lessons from Africa, America and Europe
+- contrasting international case studies to highlight current trends</a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 11:17:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Ferris Bueller: Voodoo economics lecturenew embedded content added to the cloud ALTC 2010: Donald Clark Keynote: Don&#39;t lecture me by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#embed-807</link>
+	      <guid>https://cloudworks.ac.uk/#embed-807</guid>
+	      <description><![CDATA[<strong>Ferris Bueller: Voodoo economics lecture</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4540">ALTC 2010: Donald Clark Keynote: Don't lecture me</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 11:04:13 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>The future of course redesign: Interview with Carol Twigg new link on ALTC 2010: Donald Clark Keynote: Don&#39;t lecture me added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-3999</link>
+	      <guid>https://cloudworks.ac.uk/#link-3999</guid>
+	      <description><![CDATA[<strong>The future of course redesign: Interview with Carol Twigg </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/4540">ALTC 2010: Donald Clark Keynote: Don't lecture me</a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 10:50:52 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;Donald A. Bligh (2000) What&#39;s the Use of Lectures? (San Francisco: Jossey-Bass, 2000). ISBN......&quot; reference added to the cloud ALTC 2010: Donald Clark Keynote: Don&#39;t lecture me by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#reference-600</link>
+	      <guid>https://cloudworks.ac.uk/#reference-600</guid>
+	      <description><![CDATA[<strong>"Donald A. Bligh (2000) What's the Use of Lectures? (San Francisco: Jossey-Bass, 2000). ISBN......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4540">ALTC 2010: Donald Clark Keynote: Don't lecture me</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 10:43:52 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>There&#39;s an atmosphere of anticipation as ALT-C starts proper with Donald Clark&#39;s keynote. He is......&quot;new content on ALTC 2010: Donald Clark Keynote: Don&#39;t lecture me by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#content-802</link>
+	      <guid>https://cloudworks.ac.uk/#content-802</guid>
+	      <description><![CDATA[<strong>There's an atmosphere of anticipation as ALT-C starts proper with Donald Clark's keynote. He is......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/4540">ALTC 2010: Donald Clark Keynote: Don't lecture me</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 10:36:13 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Development of research blogs PowerPointnew embedded content added to the cloud ALTC 2010: Shifting themes, shifting roles: the development of research blogs by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/#embed-805</link>
+	      <guid>https://cloudworks.ac.uk/#embed-805</guid>
+	      <description><![CDATA[<strong>Development of research blogs PowerPoint</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4453">ALTC 2010: Shifting themes, shifting roles: the development of research blogs</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Tue, 07 Sep 2010 06:05:29 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Digital Literacies pilot materials new link on Developing Digital Capability  added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-3998</link>
+	      <guid>https://cloudworks.ac.uk/#link-3998</guid>
+	      <description><![CDATA[<strong>Digital Literacies pilot materials </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/4538">Developing Digital Capability </a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 06 Sep 2010 16:27:20 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>TLRP Digital Literacy (.pdf) new link on Developing Digital Capability  added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-3997</link>
+	      <guid>https://cloudworks.ac.uk/#link-3997</guid>
+	      <description><![CDATA[<strong>TLRP Digital Literacy (.pdf) </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/4538">Developing Digital Capability </a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 06 Sep 2010 16:17:39 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Working definition generated by the first activity: &quot;Digital literacy is... the confident and......&quot;new content on Developing Digital Capability  by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#content-800</link>
+	      <guid>https://cloudworks.ac.uk/#content-800</guid>
+	      <description><![CDATA[<strong>Working definition generated by the first activity: "Digital literacy is... the confident and......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/4538">Developing Digital Capability </a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 06 Sep 2010 13:23:42 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Got the bottle? Click here for a quick synopsis of the debate on Steve Wheeler&#39;s blog.......&quot;new content on ALTC 2010: New bottles, old wine? A debate on the ethics of educational interventions in popular digital technologies by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#content-799</link>
+	      <guid>https://cloudworks.ac.uk/#content-799</guid>
+	      <description><![CDATA[<strong>Got the bottle? Click here for a quick synopsis of the debate on Steve Wheeler's blog......."</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/4375">ALTC 2010: New bottles, old wine? A debate on the ethics of educational interventions in popular digital technologies</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 06 Sep 2010 13:07:59 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>If you build it will they come? A model for sustainable online community networks for practitioners new link on ALTC 2010: Seeding the cloud: using Cloudworks for resource management for the ELESIG community of practice added by Helen Whitehead</title>
+	      <link>https://cloudworks.ac.uk/#link-3996</link>
+	      <guid>https://cloudworks.ac.uk/#link-3996</guid>
+	      <description><![CDATA[<strong>If you build it will they come? A model for sustainable online community networks for practitioners </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/4398">ALTC 2010: Seeding the cloud: using Cloudworks for resource management for the ELESIG community of practice</a> added by <a href="https://cloudworks.ac.uk/user/view/1799" rel="author">Helen Whitehead</a></em>]]></description>
+	  	  <pubDate>Sun, 05 Sep 2010 19:04:24 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;Conole, G. &amp; Culver, J. (2009). Cloudworks: Social networking for learning design. Australasian......&quot; reference added to the cloud ALTC 2010: Seeding the cloud: using Cloudworks for resource management for the ELESIG community of practice by Helen Whitehead</title>
+	      <link>https://cloudworks.ac.uk/#reference-598</link>
+	      <guid>https://cloudworks.ac.uk/#reference-598</guid>
+	      <description><![CDATA[<strong>"Conole, G. & Culver, J. (2009). Cloudworks: Social networking for learning design. Australasian......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4398">ALTC 2010: Seeding the cloud: using Cloudworks for resource management for the ELESIG community of practice</a> by <a href="https://cloudworks.ac.uk/user/view/1799" rel="author">Helen Whitehead</a></em>]]></description>
+	  	  <pubDate>Sun, 05 Sep 2010 18:54:41 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Conole, Grainne and Culver, Juliette (2010). The design of Cloudworks: Applying social networking......&quot; reference added to the cloud ALTC 2010: Seeding the cloud: using Cloudworks for resource management for the ELESIG community of practice by Helen Whitehead</title>
+	      <link>https://cloudworks.ac.uk/#reference-597</link>
+	      <guid>https://cloudworks.ac.uk/#reference-597</guid>
+	      <description><![CDATA[<strong>"Conole, Grainne and Culver, Juliette (2010). The design of Cloudworks: Applying social networking......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4398">ALTC 2010: Seeding the cloud: using Cloudworks for resource management for the ELESIG community of practice</a> by <a href="https://cloudworks.ac.uk/user/view/1799" rel="author">Helen Whitehead</a></em>]]></description>
+	  	  <pubDate>Sun, 05 Sep 2010 18:54:16 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Sharpe, R. &amp; Mackness, J. (2010) Evaluating the development of a community of e-learning......&quot; reference added to the cloud ALTC 2010: Seeding the cloud: using Cloudworks for resource management for the ELESIG community of practice by Helen Whitehead</title>
+	      <link>https://cloudworks.ac.uk/#reference-596</link>
+	      <guid>https://cloudworks.ac.uk/#reference-596</guid>
+	      <description><![CDATA[<strong>"Sharpe, R. & Mackness, J. (2010) Evaluating the development of a community of e-learning......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4398">ALTC 2010: Seeding the cloud: using Cloudworks for resource management for the ELESIG community of practice</a> by <a href="https://cloudworks.ac.uk/user/view/1799" rel="author">Helen Whitehead</a></em>]]></description>
+	  	  <pubDate>Sun, 05 Sep 2010 18:53:59 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>CoP explainednew embedded content added to the cloud ALTC 2010: Shifting themes, shifting roles: the development of research blogs by Teresa MacKinnon</title>
+	      <link>https://cloudworks.ac.uk/#embed-800</link>
+	      <guid>https://cloudworks.ac.uk/#embed-800</guid>
+	      <description><![CDATA[<strong>CoP explained</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4453">ALTC 2010: Shifting themes, shifting roles: the development of research blogs</a> by <a href="https://cloudworks.ac.uk/user/view/1606" rel="author">Teresa MacKinnon</a></em>]]></description>
+	  	  <pubDate>Sun, 05 Sep 2010 14:08:42 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Web 2.0 and the Law for HE Policy Makers (JISC Legal) new link on ALTC 2010: Seeding the cloud: using Cloudworks for resource management for the ELESIG community of practice added by ELESIG</title>
+	      <link>https://cloudworks.ac.uk/#link-3995</link>
+	      <guid>https://cloudworks.ac.uk/#link-3995</guid>
+	      <description><![CDATA[<strong>Web 2.0 and the Law for HE Policy Makers (JISC Legal) </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/4398">ALTC 2010: Seeding the cloud: using Cloudworks for resource management for the ELESIG community of practice</a> added by <a href="https://cloudworks.ac.uk/user/view/1973" rel="author">ELESIG</a></em>]]></description>
+	  	  <pubDate>Sat, 04 Sep 2010 14:36:19 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Distributed Learning Environments A Briefing Paper By Sheila MacNeill and Wilbert Kraan Feb 2010 new link on ALTC 2010: Seeding the cloud: using Cloudworks for resource management for the ELESIG community of practice added by ELESIG</title>
+	      <link>https://cloudworks.ac.uk/#link-3994</link>
+	      <guid>https://cloudworks.ac.uk/#link-3994</guid>
+	      <description><![CDATA[<strong>Distributed Learning Environments A Briefing Paper By Sheila MacNeill and Wilbert Kraan Feb 2010 </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/4398">ALTC 2010: Seeding the cloud: using Cloudworks for resource management for the ELESIG community of practice</a> added by <a href="https://cloudworks.ac.uk/user/view/1973" rel="author">ELESIG</a></em>]]></description>
+	  	  <pubDate>Sat, 04 Sep 2010 14:35:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>UK Web Focus: Risk Assessment For Use Of Third Party Web 2.0 Services: 2006 new link on ALTC 2010: Seeding the cloud: using Cloudworks for resource management for the ELESIG community of practice added by ELESIG</title>
+	      <link>https://cloudworks.ac.uk/#link-3993</link>
+	      <guid>https://cloudworks.ac.uk/#link-3993</guid>
+	      <description><![CDATA[<strong>UK Web Focus: Risk Assessment For Use Of Third Party Web 2.0 Services: 2006 </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/4398">ALTC 2010: Seeding the cloud: using Cloudworks for resource management for the ELESIG community of practice</a> added by <a href="https://cloudworks.ac.uk/user/view/1973" rel="author">ELESIG</a></em>]]></description>
+	  	  <pubDate>Sat, 04 Sep 2010 14:34:58 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>ELESIG is an international community of practice (CoP) of over 770  researchers and practitioners......&quot;new content on ALTC 2010: Seeding the cloud: using Cloudworks for resource management for the ELESIG community of practice by ELESIG</title>
+	      <link>https://cloudworks.ac.uk/#content-798</link>
+	      <guid>https://cloudworks.ac.uk/#content-798</guid>
+	      <description><![CDATA[<strong>ELESIG is an international community of practice (CoP) of over 770  researchers and practitioners......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/4398">ALTC 2010: Seeding the cloud: using Cloudworks for resource management for the ELESIG community of practice</a> by <a href="https://cloudworks.ac.uk/user/view/1973" rel="author">ELESIG</a></em>]]></description>
+	  	  <pubDate>Sat, 04 Sep 2010 14:32:28 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Abstract on ALT-C site for Seeding the cloud: using Cloudworks for resource management for the ELESIG community of practice new link on ALTC 2010: Seeding the cloud: using Cloudworks for resource management for the ELESIG community of practice added by ELESIG</title>
+	      <link>https://cloudworks.ac.uk/#link-3992</link>
+	      <guid>https://cloudworks.ac.uk/#link-3992</guid>
+	      <description><![CDATA[<strong>Abstract on ALT-C site for Seeding the cloud: using Cloudworks for resource management for the ELESIG community of practice </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/4398">ALTC 2010: Seeding the cloud: using Cloudworks for resource management for the ELESIG community of practice</a> added by <a href="https://cloudworks.ac.uk/user/view/1973" rel="author">ELESIG</a></em>]]></description>
+	  	  <pubDate>Sat, 04 Sep 2010 14:29:38 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Postgraduate blogs: Beyond the ordinary research journal. new link on ALTC 2010: Shifting themes, shifting roles: the development of research blogs added by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/#link-3991</link>
+	      <guid>https://cloudworks.ac.uk/#link-3991</guid>
+	      <description><![CDATA[<strong>Postgraduate blogs: Beyond the ordinary research journal. </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/4453">ALTC 2010: Shifting themes, shifting roles: the development of research blogs</a> added by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Sat, 04 Sep 2010 10:34:07 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;Wenger, E. 1998. Communities of practice: Learning, meaning and identity. Cambridge: Cambridge......&quot; reference added to the cloud ALTC 2010: Shifting themes, shifting roles: the development of research blogs by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/#reference-594</link>
+	      <guid>https://cloudworks.ac.uk/#reference-594</guid>
+	      <description><![CDATA[<strong>"Wenger, E. 1998. Communities of practice: Learning, meaning and identity. Cambridge: Cambridge......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4453">ALTC 2010: Shifting themes, shifting roles: the development of research blogs</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Sat, 04 Sep 2010 10:32:37 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Walker, J. 2006. Blogging from inside the ivory tower. In Uses of blogs, eds Bruns, A and Jacobs,......&quot; reference added to the cloud ALTC 2010: Shifting themes, shifting roles: the development of research blogs by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/#reference-593</link>
+	      <guid>https://cloudworks.ac.uk/#reference-593</guid>
+	      <description><![CDATA[<strong>"Walker, J. 2006. Blogging from inside the ivory tower. In Uses of blogs, eds Bruns, A and Jacobs,......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4453">ALTC 2010: Shifting themes, shifting roles: the development of research blogs</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Sat, 04 Sep 2010 10:32:25 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Lankshear, C. and M. Knobel eds. 2008. Digital literacies: Concepts, policies and practices.......&quot; reference added to the cloud ALTC 2010: Shifting themes, shifting roles: the development of research blogs by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/#reference-592</link>
+	      <guid>https://cloudworks.ac.uk/#reference-592</guid>
+	      <description><![CDATA[<strong>"Lankshear, C. and M. Knobel eds. 2008. Digital literacies: Concepts, policies and practices......."</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4453">ALTC 2010: Shifting themes, shifting roles: the development of research blogs</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Sat, 04 Sep 2010 10:32:13 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Ferguson, R., G. Clough and A. Hosein. 2007. Postgraduate blogs: Beyond the ordinary research......&quot; reference added to the cloud ALTC 2010: Shifting themes, shifting roles: the development of research blogs by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/#reference-591</link>
+	      <guid>https://cloudworks.ac.uk/#reference-591</guid>
+	      <description><![CDATA[<strong>"Ferguson, R., G. Clough and A. Hosein. 2007. Postgraduate blogs: Beyond the ordinary research......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4453">ALTC 2010: Shifting themes, shifting roles: the development of research blogs</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Sat, 04 Sep 2010 10:31:58 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Burgess, J. 2006. Blogging to learn, learning to blog. In Uses of blogs, eds Bruns, A and Jacobs,......&quot; reference added to the cloud ALTC 2010: Shifting themes, shifting roles: the development of research blogs by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/#reference-590</link>
+	      <guid>https://cloudworks.ac.uk/#reference-590</guid>
+	      <description><![CDATA[<strong>"Burgess, J. 2006. Blogging to learn, learning to blog. In Uses of blogs, eds Bruns, A and Jacobs,......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4453">ALTC 2010: Shifting themes, shifting roles: the development of research blogs</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Sat, 04 Sep 2010 10:31:36 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>The study described in this paper investigated the use of research blogs by postgraduate students......&quot;new content on ALTC 2010: Shifting themes, shifting roles: the development of research blogs by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/#content-797</link>
+	      <guid>https://cloudworks.ac.uk/#content-797</guid>
+	      <description><![CDATA[<strong>The study described in this paper investigated the use of research blogs by postgraduate students......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/4453">ALTC 2010: Shifting themes, shifting roles: the development of research blogs</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Sat, 04 Sep 2010 10:31:10 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>This workshop will draw on the concept ‘content as infrastructure’, exploring how the......&quot;new content on ALTC 2010: Open Educational Resources (OERs) in HE – trends and scenarios by Sheila MacNeill</title>
+	      <link>https://cloudworks.ac.uk/#content-796</link>
+	      <guid>https://cloudworks.ac.uk/#content-796</guid>
+	      <description><![CDATA[<strong>This workshop will draw on the concept &lsquo;content as infrastructure&rsquo;, exploring how the......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/4431">ALTC 2010: Open Educational Resources (OERs) in HE – trends and scenarios</a> by <a href="https://cloudworks.ac.uk/user/view/108" rel="author">Sheila MacNeill</a></em>]]></description>
+	  	  <pubDate>Fri, 03 Sep 2010 13:43:34 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>The 5 curriculum viewsnew embedded content added to the cloud ALTC 2010: Embedding learning design processes: responding to context by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#embed-799</link>
+	      <guid>https://cloudworks.ac.uk/#embed-799</guid>
+	      <description><![CDATA[<strong>The 5 curriculum views</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4331">ALTC 2010: Embedding learning design processes: responding to context</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Fri, 03 Sep 2010 13:22:17 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Related links
+
+London South Bank University Curriculum Design Fest
+University of Reading&#39;s......&quot;new content on ALTC 2010: Embedding learning design processes: responding to context by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#content-795</link>
+	      <guid>https://cloudworks.ac.uk/#content-795</guid>
+	      <description><![CDATA[<strong>Related links
+
+London South Bank University Curriculum Design Fest
+University of Reading's......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/4331">ALTC 2010: Embedding learning design processes: responding to context</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Fri, 03 Sep 2010 13:19:18 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>How does coaching differ from tutoring or mentoring?new embedded content added to the cloud ALTC 2010: Changing our models of curriculum design: personalised curriculum creation through coaching by Janet Finlay</title>
+	      <link>https://cloudworks.ac.uk/#embed-798</link>
+	      <guid>https://cloudworks.ac.uk/#embed-798</guid>
+	      <description><![CDATA[<strong>How does coaching differ from tutoring or mentoring?</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/4392">ALTC 2010: Changing our models of curriculum design: personalised curriculum creation through coaching</a> by <a href="https://cloudworks.ac.uk/user/view/2101" rel="author">Janet Finlay</a></em>]]></description>
+	  	  <pubDate>Fri, 03 Sep 2010 13:16:36 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Link to the paper on LSE research online......&quot;new content on ALTC 2010: Lecture capture: rich and strange, or a dark art? by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#content-794</link>
+	      <guid>https://cloudworks.ac.uk/#content-794</guid>
+	      <description><![CDATA[<strong>Link to the paper on LSE research online......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/4459">ALTC 2010: Lecture capture: rich and strange, or a dark art?</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Fri, 03 Sep 2010 12:57:07 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>ALTC 2010: Blog post Cloudcloud added to the cloudscape ALT-C 2010 by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/4543">ALTC 2010: Blog post Cloud</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1987">ALT-C 2010</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Fri, 03 Sep 2010 12:40:45 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Developing Digital Capability cloud added to the cloudscape ALT-C 2010 by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/4538">Developing Digital Capability </a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1987">ALT-C 2010</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Fri, 03 Sep 2010 09:57:15 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>ALTC 2010: General discussion Cloudcloud added to the cloudscape ALT-C 2010 by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/4542">ALTC 2010: General discussion Cloud</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1987">ALT-C 2010</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Fri, 03 Sep 2010 09:37:41 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+	    </channel>
+</rss>

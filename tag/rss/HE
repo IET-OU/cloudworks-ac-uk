@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: HE</title>
+        <link>https://cloudworks.ac.uk/tag/rss/HE</link>
+        <atom:link href="https://cloudworks.ac.uk/tag/rss/HE" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds tagged HE</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>WED: Designing accessible courses - a reflection on the use of UDL and OERs to create an open education course (Danny Ball)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/10192</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/10192</guid>
+              <description><![CDATA[<p>Since 1974, disabled students in England have been able to apply for non-repayable grants, known as &lsquo;Disabled Students&rsquo; Allowances (DSAs)&rsquo;, to assist with the additional costs incurred whilst completing higher education study (Willetts, 2014). Such grants provided allowances for specialised equipment, non-medical assistance such as note takers and specialised tutors, books and consumables, as well as travel allowances (Disability Rights UK, 2015). In addition to the support provided by DSAs, the introduction of the Equality Act 2010 placed a legal duty on businesses and education providers to take positive steps, referred to as &lsquo;reasonable adjustments&rsquo;, to remove barriers faced by people, due to their disability (Citizens Advice, n.d.). This includes making changes to the ways things are done e.g. provision, criterion or practice; physical features of buildings such as entrances and exits; as well as the provision of extra aids or services such as: induction hearing loops, providing information in alternative formats etc. (Citizens Advice, n.d.).</p>
+<p>Despite the reasonable adjustments implemented by higher education institutions (HEIs), the costs of the DSA provision have risen sharply from &pound;101.3m in 2009-10 to &pound;145.8m in 2012-13, an increase of 44% (Weale, 2015). In 2014, the Minister for Universities and Science announced a series of changes to modernise the existing system to &lsquo;rebalance&rsquo; responsibilities for student support. Thus, ensuring that the limited public funding is available to those most in need, and provides the support they require (Willetts, 2014). The changes are designed to move away from a system of individualised support funded by DSAs, to one where HEIs play a greater role in supporting all students, regardless of whether they have a disability or not.</p>
+<p>With these changes coming into force from September 2016, HEIs within England have been required to review and, if required, revise their current student support arrangements to ensure they are prepared for these changes and can support learners effectively (McNaught, 2016). Whilst there are many small and simple changes academic staff can take to improve the accessibility of their teaching such as: providing information ahead of sessions, creating learning materials which meet accessibility guidelines and encouraging students to record teaching sessions etc. (Canterbury Christ Church University, n.d.), this does not resolve the underlying issues. As McNaught (2016) summarises &lsquo;[t]eaching and learning pedagogies, practices and technologies can inadvertently create barriers for students with disabilities&rsquo;, to overcome these a different approach is required.</p>
+<p>To address some of the challenges raised by these recent changes and the need for HEIs to make anticipatory, rather than reactive changes, this conference presentation will provide an overview and demonstration of a short online course being developed by the author. Built using the Canvas open education platform, this short course aimed at academics working within UK HEIs, will provide a more in-depth overview of the changes to disabled student support, whilst also introducing delegates to two educational frameworks; Universal Design for Learning (UDL) and Inclusive Curriculum. Building on research undertaken by Marquis et al. (2016), this course will utilise a flipped learning pedagogy; whereby the learning materials are placed online and classroom sessions are used to enable deeper exploration and discussion of the topics raised (The Higher Education Academy, n.d.). The work-in-progress can be viewed at:&nbsp;<a href="https://canvas.instructure.com/courses/1112741" target="_blank">https://canvas.instructure.com/courses/1112741</a></p>
+<p><strong>References:</strong></p>
+<p>Canterbury Christ Church University (n.d.) <em>Changes to Disabled Students&rsquo; Allowances</em> [Online]. Available at <a href="http://www.canterbury.ac.uk/learning-and-teaching-enhancement/academic-professional-development/changes-to-disabled-student-allowance.aspx" target="_blank">http://www.canterbury.ac.uk/learning-and-teaching-enhancement/academic-professional-development/changes-to-disabled-student-allowance.aspx</a> (Accessed 1 January 2017).</p>
+<p>Citizens Advice (n.d.) <em>Duty to make reasonable adjustments for disabled people</em> [Online]. Available at <a href="https://www.citizensadvice.org.uk/discrimination/what-are-the-different-types-of-discrimination/duty-to-make-reasonable-adjustments-for-disabled-people/" target="_blank">https://www.citizensadvice.org.uk/discrimination/what-are-the-different-types-of-discrimination/duty-to-make-reasonable-adjustments-for-disabled-people/</a> (Accessed 2 January 2017).</p>
+<p>Disability Rights UK (2015) <em>Applying for Disabled Students&rsquo; Allowances (DSAs)</em> [Online]. Available at http://www.disabilityrightsuk.org/applying-disabled-students&rsquo;-allowances-dsas (Accessed 3 December 2016).</p>
+<p>Marquis, E., Jung, B., Fudge Schormans, A., Lukmanji, S., Wilton, R. and Baptiste, S. (2016) &lsquo;Developing inclusive educators: enhancing the accessibility of teaching and learning in higher education&rsquo;, <em>International Journal for Academic Development</em>, Routledge, vol. 21, no. 4, pp. 337&ndash;349 [Online]. Available at <a href="http://dx.doi.org/10.1080/1360144X.2016.1181071" target="_blank">http://dx.doi.org/10.1080/1360144X.2016.1181071</a> (Accessed 21 December 2016).</p>
+<p>McNaught, A. (2016) &lsquo;Minimising pain, maximising gain: top tips for supporting learners affected by DSA changes&rsquo;, <em>JISC Blog</em>, 19 February [Blog]. Available at <a href="https://www.jisc.ac.uk/blog/minimising-pain-maximising-gain-top-tips-for-supporting-learners-affected-by-dsa-changes-19-feb" target="_blank">https://www.jisc.ac.uk/blog/minimising-pain-maximising-gain-top-tips-for-supporting-learners-affected-by-dsa-changes-19-feb</a> (Accessed 4 December 2016).</p>
+<p>Scope UK (n.d.) <em>What is the social model of disability?</em> [Online]. Available at <a href="http://www.scope.org.uk/about-us/our-brand/social-model-of-disability" target="_blank">http://www.scope.org.uk/about-us/our-brand/social-model-of-disability</a> (Accessed 2 January 2017).</p>
+<p>The Higher Education Academy (n.d.) <em>Flipped learning</em> [Online]. Available at <a href="https://www.heacademy.ac.uk/enhancement/starter-tools/flipped-learning-0" target="_blank">https://www.heacademy.ac.uk/enhancement/starter-tools/flipped-learning-0</a> (Accessed 23 December 2016).</p>
+<p>University of Leicester (n.d.) <em>The social and medical model of disability</em> [Online]. Available at <a href="http://www2.le.ac.uk/offices/accessability/staff/accessabilitytutors/information-for-accessability-tutors/the-social-and-medical-model-of-disability" target="_blank">http://www2.le.ac.uk/offices/accessability/staff/accessabilitytutors/information-for-accessability-tutors/the-social-and-medical-model-of-disability</a> (Accessed 2 January 2017).</p>
+<p>Weale, S. (2015) <em>Government to cut funding for disabled university students</em> [Online]. Available at <a href="https://www.theguardian.com/education/2015/dec/02/government-to-cut-funding-disabled-university-students-jo-johnson" target="_blank">https://www.theguardian.com/education/2015/dec/02/government-to-cut-funding-disabled-university-students-jo-johnson</a> (Accessed 2 January 2017).</p>
+<p>Willetts, D. (2014) <em>Higher education: student support: changes to Disabled Students&rsquo; Allowances (DSA)</em> [Online]. Available at <a href="https://www.gov.uk/government/speeches/higher-education-student-support-changes-to-disabled-students-allowances-dsa" target="_blank">https://www.gov.uk/government/speeches/higher-education-student-support-changes-to-disabled-students-allowances-dsa</a> (Accessed 2 January 2017).</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Sun, 08 Jan 2017 13:51:33 +0000</pubDate>
+            </item>
+                    <item>
+              <title>SAT: An Open space: A prototype to stimulate and capture the scholarly activity for FE practitioners  delivering HE in FE centres (Anita Houghton)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/9520</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/9520</guid>
+              <description><![CDATA[<p><strong>Short Abstract</strong></p>
+<p>Research is often seen as the ultimate aim of the scholar, Boyer (1990).&nbsp; &nbsp;Universities pride themselves in leading the way in the field of research, the forerunners of innovation and discovery.&nbsp;&nbsp; In the UK, there are several types of organisations which deliver Higher Education.&nbsp; These comprise &nbsp;Universities (including the prestigious Russell Group),&nbsp; training providers delivering Higher Apprenticeship and also Higher Education (HE) Centres based in Further Education (FE) colleges.&nbsp;</p>
+<p>HE Centres within FE colleges serve a different purpose than traditional Universities.&nbsp; They are often responsive to local labour demands, specialise in technical and flexible part time programmes and increase participation in Higher Education,&nbsp; (Association of Colleges (AOC) 2015). Fostered from these differences are cultural differences.&nbsp;&nbsp; HE centres are born out of the FE (teaching) culture and not the HE (research) culture.&nbsp;&nbsp;</p>
+<p>The AOC (2015) in response to addressing these differences are overseeing a Scholarship Project aiming over the next three years of building a framework to support staff in HE centres become more scholarly. &nbsp;&nbsp;&nbsp;The project proposal outlines Boyer&rsquo;s (1990) four areas of scholarly activity, namely, discovery (research), integration, application and teaching.</p>
+<p>The Education sector is facing a considerable amount of change.&nbsp; FE colleges are undergoing area reviews which could lead to college mergers, (Dept for Business Innovation and Skills 2015).&nbsp; &nbsp;Becoming more research focused and firmly establishing themselves in HE is strategically desirable as HE taps into different funding streams.&nbsp;&nbsp; Within Universities there are proposals for a teaching excellence framework to focus on the teaching within Universities, &nbsp;&nbsp;(Times Higher Education 2015).&nbsp; The result of these developments may result in FE becoming more research focussed and HE becoming more teaching focused.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>The development of digital technologies is also driving change within education.&nbsp; There are an increasing number of tools available which can deliver and promote learning in innovative ways.&nbsp; Jisc (2015) and The Russell Group (2015) both discuss open access policies which encourage data sets to be published.&nbsp; Digital technologies have enabled data sets to be available quickly in a global arena.&nbsp; &nbsp;&nbsp;Jisc (2015) state that the open access policy will promote innovation and economic growth.&nbsp;</p>
+<p>Perhaps now marks a new era of education, traditional organisational culture is blurring and technology is driving openness.&nbsp; It is with these drivers in mind that I aim to deliver a resource that can stimulate and capture any type of scholarly activity.</p>
+<p>Open Space is a platform which can be built by any practitioner regardless of institution, using free web based tools.&nbsp; It will engage practitioners in digital and open practices which mirrors the era that students are now learning in.&nbsp; The prototype will include an area to create an individual online library, use&nbsp; &nbsp;networking tools to keep up to date in their field and an area for reflective blogging and collaboration.&nbsp;&nbsp; Using these tools will not only stimulate but capture scholarly activity irrespective of institutional culture &ndash; current or future.&nbsp; &nbsp;&nbsp;&nbsp;</p>
+<p>The presentation will be an overview of how these tools are combined within one platform to engage individuals without institutional boundaries. &nbsp;&nbsp;It will show examples of activity which can be captured to demonstrate all the four types of scholarly activity.&nbsp;</p>
+<p><strong>References </strong></p>
+<p>See academic reference section</p>
+<p class="type"><strong>Acknowledgement</strong></p>
+<p class="type">Thank you Simon Ball for the valuable feedback.&nbsp; &nbsp;</p>]]></description>
+          <pubDate>Sat, 16 Jan 2016 10:19:46 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Digital literacy in HE - Force Map</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7700</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7700</guid>
+              <description><![CDATA[<p>I didn't really get this but spent a lot of time trying to understand. I found some of the instructions/ advice contradictory and couldn't figure out what a concern was and how it differed from a force until I had spent really 2 or 3 hours reconfiguring things. The thinking through was useful in that it helped me think about additional personas or actors in this project and therefore additonal challenges. But as with "rich pictures" in soft systems I just don't find this useful or natural to do. Anyway, I have uploaded a Force Map to google docs. Don't know how to embed here so see link.</p>
+<p>Hoping for more success with this week's challenge and lots of help from my team mate.</p>]]></description>
+          <pubDate>Tue, 22 Jan 2013 10:18:26 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Digilit study circle</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7326</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7326</guid>
+              <description><![CDATA[<p>we may all have slightly different foci but hey - let's get digital together and try to work this out :)</p>]]></description>
+          <pubDate>Mon, 14 Jan 2013 14:27:11 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Review the Continual Professional Development available to careers professionals</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5143</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5143</guid>
+              <description><![CDATA[<p>The same is true for continuing professional development (CPD), whose activities and definitions are complex and ill defined. Here too a plan will be produced for how content, quality, accessibility and participation in CPD can be progressed building upon the work already undertaken by relevant Sector Skills Councils. This will also consider the inclusion in CPD of specialisms to evolve such as LLD, HE, ICT, LMI, STEM etc. A first step towards improving professional practice is a commitment by individuals to engaging in CPD.&nbsp; The first step is to ask members of the profession to formally commit to this, and to a process for reporting the scale and nature of CPD they have undertaken.</p>
+<p>OUTCOME: A plan for reviewing CPD, and if time allows, require the Associations&rsquo; members to declare their commitment to this. Including defined CPD requirements for members of the CPA and identification of the resources to keep skills and competencies up to date.</p>
+<p>DATE: By 31<sup>st</sup> March 2011</p>]]></description>
+          <pubDate>Mon, 14 Mar 2011 11:46:11 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Learning Designs for Inquiry-based Learning</title>
+              <link>https://cloudworks.ac.uk/cloud/view/753</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/753</guid>
+              <description><![CDATA[<p>
+Over the past year CILASS (Centre for Inquiry-based Learning in the Arts and Social Sciences), a Centre for Excellence in Teaching and Learning at the University of Sheffield, has been developing learning design case studies of the inquiry-based learning curriculum development projects it has been funding across the University. We now have over 30 learning designs across a number of disciplines and ranging in scope from relatively small activities to entire inquiry-based modules, which can be viewed at our <a href="http://www.shef.ac.uk/cilass/cases" title="case studies website" target="_blank">case studies website</a>. 
+</p>
+<p>
+&nbsp;
+</p>
+<p>
+In addition, we have been working with a learning design tools known as LAMS (Learning Activity Management System) to investigate its effectiveness indesigning for inquiry-based learning. The results of this project, known as DESILA (Designing and Sharing Inquiry-based Learning Activities) can be seen at the <a href="http://www.shef.ac.uk/desila/" title="project website" target="_blank">project website</a>, while individual case studies are accessed via the CILASS <a href="http://www.shef.ac.uk/cilass/cases/projectlist.html" title="case studies website" target="_blank">case studies website</a>.   
+</p>
+]]></description>
+          <pubDate>Wed, 21 Jan 2009 15:10:08 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: faq</title>
+        <link>https://cloudworks.ac.uk/tag/rss/faq</link>
+        <atom:link href="https://cloudworks.ac.uk/tag/rss/faq" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds tagged faq</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>Track OER - frequently asked questions</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6688</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6688</guid>
+              <description><![CDATA[<ol>
+<li>
+<p>Did you make a video blog and where is it?</p>
+<p>There are two &ldquo;Grand Finale&rdquo; videos,</p>
+<ul>
+<li><a href="http://cloudworks.ac.uk/cloud/view/6568">http://cloudworks.ac.uk/cloud/view/6568</a></li>
+<li><a href="http://podcast.open.ac.uk/pod/trackoer">http://podcast.open.ac.uk/pod/trackoer</a></li>
+<li><a href="http://youtube.com/playlist?list=PLbk9PlEH5tn1tLS3oXh_zYUJ5AczPOCpM">YouTube playlist for Track <abbr title="Open Educational Resource,">OER</abbr></a></li>
+</ul>
+</li>
+<li>
+<p>Where is the resultant code?</p>
+<p>The code is available for download under open-source licenses,</p>
+<ul>
+<li><a href="https://github.com/IET-OU/trackoer-core">https://github.com/IET-OU/trackoer-core</a></li>
+<li><a href="https://github.com/IET-OU/piwik-trackoer">https://github.com/IET-OU/piwik-trackoer</a></li>
+</ul>
+<p>It is installed here,</p>
+<ul>
+<li><a href="http://track.olnet.org">http://track.olnet.org</a></li>
+</ul>
+</li>
+<li>
+<p>And is LTS using the code now? Does it have plans to?</p>
+<p><a title="Cut and Paste Reuse Tracking" href="http://capret.mitoeit.org/"><abbr title="Cut and Paste Reuse Tracking,">CaPR&eacute;T</abbr></a> is in use on LabSpace <abbr title="Bridge to Success project">B2S</abbr>, and the <a title="SCORM, IMS Common Cartridge, Plain Zip.." href="http://labspace.open.ac.uk/blocks/formats/download_unit.php?id=7442&name=Learning_to_Learn_1.0">Zip downloads</a> containing tracking codes will be available shortly,</p>
+<ul>
+<li><a href="http://labspace.open.ac.uk/Learning_to_Learn_1.0">http://labspace.open.ac.uk/Learning_to_Learn_1.0</a></li>
+<li><a href="http://labspace.open.ac.uk/Succeed_with_Math_1.0">http://labspace.open.ac.uk/Succeed_with_Math_1.0</a></li>
+</ul>
+</li>
+<li>
+<p>Could you spell out what this will actually mean for <a href="http://www8.open.ac.uk/about/open-educational-resources/what-we-do/open-media-unit">Open Media Unit (OMU)</a> at The Open University in practice?</p>
+<ul>
+<li>
+<p>OMU should be able to find out,</p>
+<ol>
+<li>If OpenLearn/ LabSpace content in being re-used</li>
+<li>The method (that is, download, or cut and paste), and</li>
+<li>Something about who is re-using and how &ndash; see these <a href="http://track.olnet.org/about#links">custom report configurations</a>.</li>
+</ol></li>
+<li>
+<p>We explored <a title="Piwik open source web analytics" href="http://piwik.org/">Piwik</a> and <a title="Google Analytics" href="https://www.google.com/analytics/">Google Analytics</a> based tracking, but in practice, for production purposes we are using <abbr title="Google Analytics">GA</abbr> &ndash; a known quantity for OMU.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>And what will it mean for the Institute of <a title="Institute of Educational Technology" href="http://iet.open.ac.uk/">Educational Technology (IET)</a> from a research perspective?</p>
+<ul>
+<li>We&rsquo;ve met the objectives of the <a title="Joint Information Systems Committee" href="http://www.jisc.ac.uk/"><abbr title="Joint Information Systems Committee">JISC</abbr>-funded</a> Track <abbr title="Open Educational Resource,">OER</abbr> project,</li>
+<li>We've undertaken a successful collaboration with OMU and LTS, including the key <a href="http://www.open.edu/openlearn/">OpenLearn</a> developer, <a href="https://twitter.com/guydbarrett">Guy Barrett</a>,</li>
+<li>We are collecting data that can be visualized later, eg. via the OLNet evidence hub,</li>
+<li>We haven&rsquo;t yet done integration/ visualization work for the evidence hub (out of scope for Track <abbr title="Open Educational Resource,">OER</abbr>),</li>
+</ul>
+</li>
+</ol>]]></description>
+          <pubDate>Fri, 07 Dec 2012 15:05:03 +0000</pubDate>
+            </item>
+                    <item>
+              <title>OLDS MOOC: getting started with cloudworks - step by step</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6664</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6664</guid>
+              <description><![CDATA[<p>You can find many more helpul resources in the&nbsp;<a href="http://cloudworks.ac.uk/cloudscape/view/1911">Using Cloudworks</a> cloudscape.</p>
+<p><a style="color: #4374b7; margin: 0px; padding: 0px; border: 0px; font-size: 13px; text-decoration: initial; text-align: center;" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/uk/deed.en_GB"><img style="vertical-align: middle; margin: 0px; padding: 0px; line-height: 1; font-family: inherit;" src="http://i.creativecommons.org/l/by-nc-sa/2.0/uk/88x31.png" alt="Creative Commons Licence" /></a>This work&nbsp;by the&nbsp;<a href="http://iet.open.ac.uk">The Institute of Educational Technology (IET) at theOpen University</a>&nbsp;is licensed under a&nbsp;<a style="color: #4374b7; margin: 0px; padding: 0px; border: 0px; font-size: 13px; text-decoration: initial; text-align: center;" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/uk/deed.en_GB">Creative Commons Attribution-NonCommercial-ShareAlike 2.0 UK: England &amp; Wales License</a>.</p>]]></description>
+          <pubDate>Thu, 10 Jan 2013 19:55:41 +0000</pubDate>
+            </item>
+                    <item>
+              <title>FAQ: Frequently asked questions</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2889</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2889</guid>
+              <description><![CDATA[<div>
+<h3>What is the difference between a Cloud  and a Cloudscape?</h3>
+<p>Clouds can be anything of relevance to learning and teaching, for example: a website; a description of a learning activity; a case study; a resource or tool; or a summary of a presentation. You can also use clouds to pose questions to the Cloudworks community.</p>
+<p>A Cloudscape is simply a collection, or bundle, of related Clouds. You might set up a Cloudscape to group Clouds around a topic (i.e. assessment), an event (i.e. a conference or course), or set up a personal Cloudscape to group Clouds you are particularly interested in. One Cloud can belong to any number of Cloudscapes. For more guidance, see <a href="/cloud/view/2554">How to set up a Cloud or Cloudscape</a>.</p>
+<p>Clouds and  Cloudscapes have different functionality.</p>
+<p><strong>Cloud:</strong> for discussion, sharing and debate</p>
+<ol>
+<li>Have  a discussion</li>
+<li>Embed  a video or image</li>
+<li>Add  a link</li>
+<li>Add  an academic reference</li>
+<li>Add  extra content </li>
+<li>Add  tags</li>
+</ol>
+<p><strong>Cloudscape:</strong> for collecting, linking and following  Clouds</p>
+<ol>
+<li>Follow  the Cloudscape</li>
+<li>RSS  feed</li>
+<li>View  Cloudstream</li>
+<li>Add  tags</li>
+<li>Add  Clouds</li>
+<li>Upload  a picture</li>
+<li>Add  a Twitter feed</li>
+</ol></div>
+<h3>I didn't receive my registration email - what should I do?</h3>
+<p>When you first register you will be send a confirmation e-mail automatically. This will usually happen immediately but in unusual cases may take longer. Sometimes the automatic e-mail will end up in a spam folder so please also check there. If you still haven't received an email after about an hour please contact the team <a href="mailto:cloudworks@open.ac.uk">cloudworks@open.ac.uk</a></p>
+<h3>I've lost my password - what should I do?</h3>
+<p>If you have lost or forgotten your password, the site can quickly send you a new one.</p>
+<ol>
+<li>Click on Log in</li>
+<li>Click on <a href="/user/forgotten_password">Forgotten Password</a></li>
+<li>Enter the e-mail address associated  with your account and click send</li>
+<li>You will receive an email within a  few minutes (if you don&rsquo;t, check your spam folder)</li>
+<li>Click on the link</li>
+<li>You will be sent another e-mail with  your new 5 character password</li>
+<li>This new password should be changed  as soon as possible. Log in and  change your password by going to your profile page</li>
+</ol>
+<h3>How do I upload files?</h3>
+<p>Cloudworks is not a repository - this means that it is not possible to upload files onto the site. We have done this for a number of reasons, not least because we recognise the issues associated with uploading documents to multiple places (such as editing and managing permissions).</p>
+<p>We have made it really easy to embed or link to papers, slideshows, videos, learning designs and pictures etc. For more information on how to do this see <a href="/cloud/view/2522">&lsquo;Sharing pictures, videos, case  studies and ideas through links and embeds&rsquo;</a></p>
+<p>&nbsp;</p>
+<h3>My Cloudscape picture is too big. How  can I reduce its size?</h3>
+<p>It is possible to upload a picture to a Cloudscape (it is not yet possible to do this  in a Cloud see <a href="/cloud/view/2522">&lsquo;Sharing  pictures, videos, case studies and ideas through links and embeds&rsquo;</a> ) but the following restrictions apply:</p>
+<ol>
+<li>The  image must be landscape not portrait.</li>
+<li>We will crop the picture to 256 &times; 192 pixels. If you want to control how the picture will be cropped, please upload an image of those dimensions. </li>
+<li>Maximum  file-size of 500 KB. Maximum upload dimensions (in pixels): 1024 &times; 768.</li>
+<li>JPG,  GIF, or PNG image formats</li>
+</ol>
+<p>You may  find that you have to reduce the size of the picture or compress the file to  upload it:</p>
+<p><a href="http://office.microsoft.com/en-us/help/HP062473551033.aspx?pid=CH010344601033">Using  Microsoft Office Picture Manager to resize your picture</a></p>
+<p><a href="http://office.microsoft.com/en-us/help/HP010186721033.aspx?pid=CH010344591033">Using  Microsoft Office Picture Manager to compress a picture file</a></p>
+<p><a href="http://ww.wikihow.com/Shrink-a-Photo-in-iPhoto">Using Apple's iPhoto to resize  your picture and/ or file size</a></p>
+<p>It is worth  noting that you can't do this in Paint.</p>
+<h3>How do I add a Twitter stream?</h3>
+<p>You can add a Twitter stream to a Cloudscape but not to a Cloud. You can not add a Twitter stream to someone else's Cloudscape unless you have been given admin permission for the cloudscape by the Cloudscape owner. Please note that Tweets are only available from Twitter for 3 months so if you want to keep an enduring record of the discussion you will need to set up a Tweet archive (using a service like <a href="http://twapperkeeper.com/">Twapper Keeper</a>)</p>
+<p>To add a Twitter  stream to a Cloudscape go to the Cloudscape and click on edit. Add your <a href="http://help.twitter.com/forums/10711/entries/49309">(#) hash tag</a> in  the Twitter tag box. For more information about setting up a #tag and Twitter archive  please see <a href="/cloud/view/2524">'Using Twitter in  Cloudworks'</a></p>
+<h3>Can I restrict access/ add editors to  my Clouds and Cloudscapes?</h3>
+<p>The Cloudworks site is open, which means anyone can search for and view everything on the site. However, it is possible to manage permissions to Cloudscapes you have set up. By clicking on <em>'permissions'</em>on the right hand side of your  Cloudscape page you can:</p>
+<ul type="circle">
+<li>Close your Cloudscape so that other people can't add Clouds to it</li>
+<li>Add one or more users as a 'poster' - this means they can add Clouds to an otherwise closed Cloudscape</li>
+<li>Give one or more users full admin rights of your Cloudscape</li>
+</ul>
+<h3>Why are my items being moderated?</h3>
+<p>It is  really important to us that Cloudworks stays free of spam and we use an  external spam filter on the site called <a href="http://mollom.com/">Mollom</a> which is 99.77% effective. From time to time, the filter will mistakenly identify a message as spam and put it forward for moderation. During working hours will quickly pick these up, check and clear them - although this might take longer at the weekends or in the evenings (GMT). This is likely to be a one-off occurrence.</p>
+<p>If you are  finding that your posts are constantly being sent for moderation then please  contact us <a href="mailto:cloudworks@open.ac.uk">cloudworks@open.ac.uk</a> .</p>
+<h3>Can I change my password or picture?</h3>
+<p>You can  change all of these on your profile page:</p>
+<ol>
+<li>Log-in and click on the red tab with  your name on. </li>
+<li>From the drop-down box choose 'Your  Profile'</li>
+<li>Then either 'edit' to change your name and other details, 'edit picture' to change or add your picture, or 'change password' to change your password.</li>
+</ol>
+<h3>Can I have two accounts with the same  password?</h3>
+<p>An email address can only be linked to one profile. If you want to set up another profile, for a group or course for example, you will have to choose a different address.</p>
+<h3>How can I change my email  notifications?</h3>
+<p>You can  switch off and on the following email preferences:</p>
+<ol>
+<li>Notify  me when somebody follows me</li>
+<li>Notify  me when someone comments on one of my Clouds</li>
+<li>Notify  me when someone comments of a Cloud on which I have already commented</li>
+<li>Receive  occasional e-mails from the Cloudworks team</li>
+<li>Display  my e-mail address on my profile</li>
+</ol>
+<p>You can do  this by logging-in, clicking on the red tab with your name on, and choosing 'E-mail  Preferences'.</p>]]></description>
+          <pubDate>Wed, 03 Feb 2010 12:05:29 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Cloudstream for Rachel Adams</title>
+    <link>https://cloudworks.ac.uk/</link>
+	<description>Cloudstream for Rachel Adams</description>
+	<dc:language>en</dc:language>
+	<dc:creator>cloudworks@open.ac.uk</dc:creator>
+	<dc:rights>Copyright 2019 </dc:rights>
+	<admin:generatorAgent>
+    <atom:link href="https://cloudworks.ac.uk/event/user_rss/11571" rel="self" type="application/rss+xml" />
+    		    <item>
+	      <title>SAT: Learning Beyond Language (Rachel Adams)new cloud created by Rachel Adams</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11906">SAT: Learning Beyond Language (Rachel Adams)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11571" rel="author">Rachel Adams</a></em>]]></description>
+	  	  <pubDate>Sat, 02 Mar 2019 09:14:57 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Example of visually-augmented OERnew embedded content added to the cloud SAT: Learning Beyond Language (Rachel Adams) by Rachel Adams</title>
+	      <link>https://cloudworks.ac.uk/#embed-3338</link>
+	      <guid>https://cloudworks.ac.uk/#embed-3338</guid>
+	      <description><![CDATA[<strong>Example of visually-augmented OER</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/11906">SAT: Learning Beyond Language (Rachel Adams)</a> by <a href="https://cloudworks.ac.uk/user/view/11571" rel="author">Rachel Adams</a></em>]]></description>
+	  	  <pubDate>Fri, 01 Mar 2019 19:00:24 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Learning Beyond Language - Full Presentationnew embedded content added to the cloud SAT: Learning Beyond Language (Rachel Adams) by Rachel Adams</title>
+	      <link>https://cloudworks.ac.uk/#embed-3337</link>
+	      <guid>https://cloudworks.ac.uk/#embed-3337</guid>
+	      <description><![CDATA[<strong>Learning Beyond Language - Full Presentation</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/11906">SAT: Learning Beyond Language (Rachel Adams)</a> by <a href="https://cloudworks.ac.uk/user/view/11571" rel="author">Rachel Adams</a></em>]]></description>
+	  	  <pubDate>Fri, 01 Mar 2019 18:51:34 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Get ON the busnew embedded content added to the cloud SAT: Learning Beyond Language (Rachel Adams) by Rachel Adams</title>
+	      <link>https://cloudworks.ac.uk/#embed-3336</link>
+	      <guid>https://cloudworks.ac.uk/#embed-3336</guid>
+	      <description><![CDATA[<strong>Get ON the bus</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/11906">SAT: Learning Beyond Language (Rachel Adams)</a> by <a href="https://cloudworks.ac.uk/user/view/11571" rel="author">Rachel Adams</a></em>]]></description>
+	  	  <pubDate>Fri, 01 Mar 2019 18:45:21 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>&quot;National Literacy Trust (2017) ‘Adult literacy’ [Online]. Available at......&quot; reference added to the cloud SAT: Learning Beyond Language (Rachel Adams) by Rachel Adams</title>
+	      <link>https://cloudworks.ac.uk/#reference-1341</link>
+	      <guid>https://cloudworks.ac.uk/#reference-1341</guid>
+	      <description><![CDATA[<strong>"National Literacy Trust (2017) ‘Adult literacy’ [Online]. Available at......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/11906">SAT: Learning Beyond Language (Rachel Adams)</a> by <a href="https://cloudworks.ac.uk/user/view/11571" rel="author">Rachel Adams</a></em>]]></description>
+	  	  <pubDate>Fri, 08 Feb 2019 23:48:16 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>SAT: Learning Beyond Language (Rachel Adams)new cloud created by Rachel Adams</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11906">SAT: Learning Beyond Language (Rachel Adams)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11571" rel="author">Rachel Adams</a></em>]]></description>
+	  	  <pubDate>Fri, 08 Feb 2019 19:30:19 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT: Learning Beyond Language (Rachel Adams)new cloud created by Rachel Adams</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11906">SAT: Learning Beyond Language (Rachel Adams)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11571" rel="author">Rachel Adams</a></em>]]></description>
+	  	  <pubDate>Fri, 08 Feb 2019 19:30:17 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SAT: Learning Beyond Language (Rachel Adams)new cloud created by Rachel Adams</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11906">SAT: Learning Beyond Language (Rachel Adams)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11571" rel="author">Rachel Adams</a></em>]]></description>
+	  	  <pubDate>Mon, 31 Dec 2018 20:03:23 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+	    </channel>
+</rss>

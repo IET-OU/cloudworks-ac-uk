@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: Nuno Ricardo Oliveira</title>
+        <link>https://cloudworks.ac.uk/user/rss.5539</link>
+        <atom:link href="https://cloudworks.ac.uk/user/rss.5539" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds by Nuno Ricardo Oliveira</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>COURSE MAP</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7946</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7946</guid>
+              <description><![CDATA[<p align="center"><strong>COURSE MAP FOR <em>WEB 2.0 VS TEACHING 2.0</em></strong></p>
+<p>Course/ module summary: This module aims to be sharing of online tools to make presentations more dynamic and interactive.</p>
+<p>Key words: teaching, web 2.0, learning, collaborative learning</p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td colspan="2" valign="top" width="472">
+<p align="center"><strong>Guidance and support</strong></p>
+</td>
+<td colspan="2" valign="top" width="473">
+<p align="center"><strong>Content and experience</strong></p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="236">
+<p><strong><em>Tools &amp; resources</em></strong></p>
+</td>
+<td valign="top" width="236">
+<p><strong><em>Responsibilities &amp; relationships</em></strong></p>
+</td>
+<td valign="top" width="236">
+<p><strong><em>Tools &amp; resources</em></strong></p>
+</td>
+<td valign="top" width="236">
+<p><strong><em>Responsibilities &amp; relationships</em></strong></p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="236"><ol>
+<li>Moodle Plataform</li>
+<li>Course guide</li>
+<li>e-Book contents/resources (issuu)</li>
+<li>Groups in google</li>
+<li>E-portfolio (Mahara)</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td valign="top" width="236">
+<p>The participants of the course participants should have Internet access and intermediate skills in using ICT.</p>
+<p>&nbsp;</p>
+<p>A spirit of mutual encouragement and support is encouraged by teachers as well as fostering a collaborative learning environment among colleagues.</p>
+<p>&nbsp;</p>
+<p>Tutors should use a developmental mentoring approach.</p>
+<p>&nbsp;</p>
+</td>
+<td valign="top" width="236">
+<p>1. A block of detailed activities to be held throughout the week</p>
+<p>2. Detailed learning outcomes</p>
+<p>3. Module materials (representative of a tutorial activity, also including articles, blogs and videos Theme).</p>
+<p>&nbsp;4. A manual</p>
+<p>&nbsp;5. Aggregators: Facebook group, Scoop.it, Delicious</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td valign="top" width="236">
+<p>Students study for approx 10 hours per week (Incl. course- &amp; self-directed study and the completion of assignments)</p>
+<p>&nbsp;</p>
+<p>Variety of activities include reading, discussing, practical tasks and collaborative activities</p>
+<p>&nbsp;</p>
+<p>Learners will use a real or adopted professional perspective throughout the course to frame their discussions and reflections and in their assignments</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="472">
+<p align="center"><strong>Reflection and demonstration</strong></p>
+</td>
+<td colspan="2" valign="top" width="473">
+<p align="center"><strong>Communication and collaboration</strong></p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="236">
+<p><strong><em>Tools &amp; resources</em></strong></p>
+</td>
+<td valign="top" width="236">
+<p><strong><em>Responsibilities &amp; relationships</em></strong></p>
+</td>
+<td valign="top" width="236">
+<p><strong><em>Tools &amp; resources</em></strong></p>
+</td>
+<td valign="top" width="236">
+<p><strong><em>Responsibilities &amp; relationships</em></strong></p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="236"><ol>
+<li>Personal reflective blog</li>
+<li>Fora in Plataform Moodle</li>
+<li>ePortfolio personal (Mahara)</li>
+<li>Formative assessment</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td valign="top" width="236">
+<p>Use of a reflective personal blog and eportfolio are encouraged throughout the module.</p>
+<p>&nbsp;</p>
+<p>Assessment of the module integrated with the teaching and learning activities so that all assignment work is a learning experience.</p>
+<p>&nbsp;</p>
+<p>Assignments relate to personal context and practices.</p>
+</td>
+<td valign="top" width="236"><ol>
+<li>3x Asynchronous online forums</li>
+<li>Live online discussions via Bigbluebutton</li>
+<li>Email (Feedback)</li>
+<li>Personal Blog (learner)</li>
+<li>ePortfolio (learner)</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td valign="top" width="236">
+<p>Strong emphasis on peer communication and collaboration, and learning from one another's experiences</p>
+<p>&nbsp;</p>
+<p>The variety of tools used</p>
+<p>&nbsp;</p>
+<p>Learners activity on the forum is supported, guided, assessed and receives regular feedback</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong></p>]]></description>
+          <pubDate>Mon, 04 Feb 2013 12:29:03 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Learning journal</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7359</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7359</guid>
+              <description><![CDATA[<p>My learning journal is here:&nbsp;<a href="http://ape12noliveira.blogspot.pt/" target="_blank">http://ape12noliveira.blogspot.pt/</a>&nbsp;</p>]]></description>
+          <pubDate>Tue, 15 Jan 2013 01:02:10 +0000</pubDate>
+            </item>
+                    <item>
+              <title>My dream: web 2.0 vs teaching 2.0</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7646</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7646</guid>
+              <description><![CDATA[<p align="left"><strong>Your situation (context)</strong></p>
+<table width="610" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top">
+<p>Teachers nowadays are asked to update themselves on the materials they use to give lessons in a more attractive way to their students. But the reality is that students sometimes have greater ease and knowledge in the use of technology, so it is important to equip teachers to find the tools at their disposal in web 2.0 for free. This project aims to be firstly a version in the b-learning system, to facilitate the integration of teachers who have more difficulty or are more adverse to novelty and innovation.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p align="left"><br /> </p>
+<p align="left"><strong>The change you would like to see (challenge)</strong></p>
+<table width="612" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="612">
+<p>The aim is to encourage teachers to use web 2.0 tools as attractive features for their classes. With the use of these resources in teaching, students will become more motivated and classes will have different dynamics, since the use of technology is always a motivating factor for students.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p align="left"><br /> </p>
+<p align="left"><strong>How you might go about bringing that change</strong></p>
+<table width="612" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="612">
+<p>The approach will be sought through a training regime in b-learning in order to motivate trainees and clarify any doubts that may occur at morecomplex moments in theclassroom. But the training will have a graduate scheme. In the beginning there will be more classroom sessions and toward the end of the training there will be the use of the e-learning system using videoconferencing one hour a week to clear doubts. The whole course will run from Moodle, Blog, GoogleDocs, Prezi, Youtube, Wikispaces, and videoconferencing amongst others &hellip;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Sun, 20 Jan 2013 13:04:45 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Scenario-based learning design</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7839</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7839</guid>
+              <description><![CDATA[<div>
+<h2><strong><em>TITLE: web 2.0 vs teaching 2.0</em></strong></h2>
+<p><strong style="cursor:auto"><!--NO CSS-->Actors </strong>(who is involved?)</p>
+<p>Teachers in primary and secondary school education</p>
+<p>Team of facilitators - depending on the number of teachers/participants to enroll.</p>
+</div>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Goals </strong>(why?)</p>
+<p>Train teachers to create more attractive dynamic digital resources to use in the classroom.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Settings</strong> (where &amp; when?)</p>
+<p>The training will take place in post-working hours for a period of 4 weeks. This project aims to be firstly a version in the b-learning system, to facilitate the integration of teachers who have more difficulty or are more adverse to novelty and innovation. . But during the weeks the regime will tend to direct into the e-learning system.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Objects </strong>(what things are involved?)</p>
+<p>Computer / Desktop / tablet PC/ notebook / iPhone / smartphone, Internet connection, course platform, email and free Web 2.0 tools.</p>
+<p>&nbsp;</p>
+<p><strong>Actions</strong> (what happens to actors?)</p>
+<p>The course is provided by the Teachers&rsquo; Training Centre, through the Ministry of Education and announced in every school.</p>
+<p>&nbsp;</p>
+<p><strong>Events </strong>(what do actors do?)</p>
+<p>After a registration on the platform that will serve as the basis of the course, students will be asked to perform various tasks to be published in digital e-portfolio. They are then called to reflect and share ideas on thematic forums on the tools in use. The facilitators will give feedback in a maximum period of 24 hours.</p>
+<p>&nbsp;</p>
+<p><strong>Results</strong> (what is achieved?)</p>
+<p>Realization of digital resources using Web 2.0 tools to make an e-portfolio with all the digital resources used by participants, these separated by areas of interest.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Your design:</strong> (what role does your design play?)</p>
+<p>The project is to help teachers produce more attractive and creative digital resources with the use of web 2.0 tools in order to assist in their teaching roles.</p>]]></description>
+          <pubDate>Fri, 25 Jan 2013 23:13:22 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

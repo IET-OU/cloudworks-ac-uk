@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Cloudstream for Cloudworks &#45; the movie</title>
+    <link>https://cloudworks.ac.uk/</link>
+	<description>Cloudstream for Cloudworks &#45; the movie</description>
+	<dc:language>en</dc:language>
+	<dc:creator>cloudworks@open.ac.uk</dc:creator>
+	<dc:rights>Copyright 2019 </dc:rights>
+	<admin:generatorAgent>
+    <atom:link href="https://cloudworks.ac.uk/event/cloudscape_rss/1900" rel="self" type="application/rss+xml" />
+    		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-11973</link>
+	      <guid>https://cloudworks.ac.uk/#comment-11973</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Tue, 31 Oct 2017 09:54:45 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-11959</link>
+	      <guid>https://cloudworks.ac.uk/#comment-11959</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Tue, 31 Oct 2017 09:53:54 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-11945</link>
+	      <guid>https://cloudworks.ac.uk/#comment-11945</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Tue, 31 Oct 2017 09:53:01 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-11931</link>
+	      <guid>https://cloudworks.ac.uk/#comment-11931</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Tue, 31 Oct 2017 09:51:44 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-11913</link>
+	      <guid>https://cloudworks.ac.uk/#comment-11913</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Tue, 31 Oct 2017 06:23:53 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-11895</link>
+	      <guid>https://cloudworks.ac.uk/#comment-11895</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Tue, 31 Oct 2017 06:18:50 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-11880</link>
+	      <guid>https://cloudworks.ac.uk/#comment-11880</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Tue, 31 Oct 2017 06:14:41 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-11849</link>
+	      <guid>https://cloudworks.ac.uk/#comment-11849</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Mon, 23 Oct 2017 05:48:03 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-11247</link>
+	      <guid>https://cloudworks.ac.uk/#comment-11247</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Fri, 03 Feb 2017 06:00:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-10469</link>
+	      <guid>https://cloudworks.ac.uk/#comment-10469</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Fri, 20 Nov 2015 08:48:55 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-10432</link>
+	      <guid>https://cloudworks.ac.uk/#comment-10432</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Wed, 04 Nov 2015 09:28:17 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#embed-3050</link>
+	      <guid>https://cloudworks.ac.uk/#embed-3050</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Sun, 18 Oct 2015 08:49:01 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-10410</link>
+	      <guid>https://cloudworks.ac.uk/#comment-10410</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Sun, 18 Oct 2015 08:47:41 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-10402</link>
+	      <guid>https://cloudworks.ac.uk/#comment-10402</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Sat, 10 Oct 2015 07:35:01 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-10364</link>
+	      <guid>https://cloudworks.ac.uk/#comment-10364</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Thu, 20 Aug 2015 08:08:49 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-10359</link>
+	      <guid>https://cloudworks.ac.uk/#comment-10359</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Mon, 17 Aug 2015 04:56:32 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-10220</link>
+	      <guid>https://cloudworks.ac.uk/#comment-10220</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Thu, 30 Apr 2015 12:07:05 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-9035</link>
+	      <guid>https://cloudworks.ac.uk/#comment-9035</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Tue, 17 Dec 2013 03:46:46 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Great! Glad you found it useful!
+ 
+Gráinne...new comment on the cloud Interview: Grainne Conole on cloudworks by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-8858</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8858</guid>
+	      <description><![CDATA[<strong>"Great! Glad you found it useful!
+&nbsp;
+Gr&aacute;inne...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2413">Interview: Grainne Conole on cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Wed, 24 Apr 2013 11:30:49 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-8854</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8854</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Sat, 20 Apr 2013 02:18:02 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Grainne,
+    Thanks for the video..It much easier to understand by this way. Hope...new comment on the cloud Interview: Grainne Conole on cloudworks by Pravash Dey</title>
+	      <link>https://cloudworks.ac.uk/#comment-5415</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5415</guid>
+	      <description><![CDATA[<strong>"Hi Grainne,
+&nbsp;&nbsp;&nbsp; Thanks for the video..It much easier to understand by this way. Hope...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2413">Interview: Grainne Conole on cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/4141" rel="author">Pravash Dey</a></em>]]></description>
+	  	  <pubDate>Sat, 07 May 2011 17:49:00 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Sorry just broken the link :-( Click here instead......&quot;new content on Podcast: Paul Gormley on Cloudworks by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#content-766</link>
+	      <guid>https://cloudworks.ac.uk/#content-766</guid>
+	      <description><![CDATA[<strong>Sorry just broken the link :-( Click here instead......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/2416">Podcast: Paul Gormley on Cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Fri, 30 Jul 2010 16:15:33 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Video feedback on Cloudworks new link on Evaluation: Cloudworks added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-3634</link>
+	      <guid>https://cloudworks.ac.uk/#link-3634</guid>
+	      <description><![CDATA[<strong>Video feedback on Cloudworks </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/1906">Evaluation: Cloudworks</a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 15 Jun 2010 14:27:34 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Question: What 3 words would you associate with Cloudworks? new link on Evaluation: Cloudworks added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-3633</link>
+	      <guid>https://cloudworks.ac.uk/#link-3633</guid>
+	      <description><![CDATA[<strong>Question: What 3 words would you associate with Cloudworks? </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/1906">Evaluation: Cloudworks</a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 15 Jun 2010 14:25:28 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;Chris you now have a reputation of one so can use the favouritng feature....new comment on the cloud Evaluation: Cloudworks by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-3988</link>
+	      <guid>https://cloudworks.ac.uk/#comment-3988</guid>
+	      <description><![CDATA[<strong>"Chris you now have a reputation of one so can use the favouritng feature....</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/1906">Evaluation: Cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Mon, 14 Jun 2010 08:04:21 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Chris
+thanks for this. You can already do this in one of two ways. 1. You can create your own...new comment on the cloud Evaluation: Cloudworks by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-3987</link>
+	      <guid>https://cloudworks.ac.uk/#comment-3987</guid>
+	      <description><![CDATA[<strong>"Hi Chris
+thanks for this. You can already do this in one of two ways. 1. You can create your own...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/1906">Evaluation: Cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Mon, 14 Jun 2010 08:03:28 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I would also like to see a Clouds and Cloudscapes feature for those clouds and cloudscapes I am...new comment on the cloud Evaluation: Cloudworks by Chris Kirkland</title>
+	      <link>https://cloudworks.ac.uk/#comment-3980</link>
+	      <guid>https://cloudworks.ac.uk/#comment-3980</guid>
+	      <description><![CDATA[<strong>"I would also like to see a Clouds and Cloudscapes feature for those clouds and cloudscapes I am...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/1906">Evaluation: Cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/2702" rel="author">Chris Kirkland</a></em>]]></description>
+	  	  <pubDate>Sun, 13 Jun 2010 21:29:53 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Thanks for that Gill - noted. We do have plans to make a mobile version of cloudworks so no doubt...new comment on the cloud Evaluation: Cloudworks by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-3871</link>
+	      <guid>https://cloudworks.ac.uk/#comment-3871</guid>
+	      <description><![CDATA[<strong>"Thanks for that Gill - noted. We do have plans to make a mobile version of cloudworks so no doubt...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/1906">Evaluation: Cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sat, 05 Jun 2010 09:11:35 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;At the moment, Cloudworks does not seem to support data entry from the iPad. I was exploring how...new comment on the cloud Evaluation: Cloudworks by Gill Clough</title>
+	      <link>https://cloudworks.ac.uk/#comment-3865</link>
+	      <guid>https://cloudworks.ac.uk/#comment-3865</guid>
+	      <description><![CDATA[<strong>"At the moment, Cloudworks does not seem to support data entry from the iPad. I was exploring how...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/1906">Evaluation: Cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/367" rel="author">Gill Clough</a></em>]]></description>
+	  	  <pubDate>Sat, 05 Jun 2010 04:51:23 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>3-words Wordlenew embedded content added to the cloud Question: What 3 words would you use to describe cloudworks? by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#embed-247</link>
+	      <guid>https://cloudworks.ac.uk/#embed-247</guid>
+	      <description><![CDATA[<strong>3-words Wordle</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2409">Question: What 3 words would you use to describe cloudworks?</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Wed, 03 Feb 2010 13:32:15 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Amyas,
+Glad you like the site and thanks all the ideas - really really useful. I&#39;ve added the...new comment on the cloud Evaluation: Cloudworks by Juliette Culver</title>
+	      <link>https://cloudworks.ac.uk/#comment-2864</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2864</guid>
+	      <description><![CDATA[<strong>"Hi Amyas,
+Glad you like the site and thanks all the ideas - really really useful. I've added the...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/1906">Evaluation: Cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/1" rel="author">Juliette Culver</a></em>]]></description>
+	  	  <pubDate>Fri, 29 Jan 2010 13:56:00 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;7. prob okay for now, but at some point there will need to be support for long discussion...new comment on the cloud Evaluation: Cloudworks by Amyas Phillips</title>
+	      <link>https://cloudworks.ac.uk/#comment-2861</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2861</guid>
+	      <description><![CDATA[<strong>"7. prob okay for now, but at some point there will need to be support for long discussion...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/1906">Evaluation: Cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/1300" rel="author">Amyas Phillips</a></em>]]></description>
+	  	  <pubDate>Fri, 29 Jan 2010 09:55:13 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I only now noticed there is a view counter at the top of the page already!  It would be great...new comment on the cloud Evaluation: Cloudworks by Amyas Phillips</title>
+	      <link>https://cloudworks.ac.uk/#comment-2860</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2860</guid>
+	      <description><![CDATA[<strong>"I only now noticed there is a view counter at the top of the page already!&nbsp; It would be great...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/1906">Evaluation: Cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/1300" rel="author">Amyas Phillips</a></em>]]></description>
+	  	  <pubDate>Fri, 29 Jan 2010 09:48:40 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I&#39;ve got another one!
+ 
+6. for extra socialbility: a &#39;following this cloud&#39;list.  The...new comment on the cloud Evaluation: Cloudworks by Amyas Phillips</title>
+	      <link>https://cloudworks.ac.uk/#comment-2859</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2859</guid>
+	      <description><![CDATA[<strong>"I've got another one!
+&nbsp;
+6. for extra socialbility: a 'following this cloud'list.&nbsp; The...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/1906">Evaluation: Cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/1300" rel="author">Amyas Phillips</a></em>]]></description>
+	  	  <pubDate>Fri, 29 Jan 2010 09:45:12 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hello!  Now I &#39;get it&#39; I love Cloudworks.  I didn&#39;t see the old design so I can&#39;t...new comment on the cloud Evaluation: Cloudworks by Amyas Phillips</title>
+	      <link>https://cloudworks.ac.uk/#comment-2858</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2858</guid>
+	      <description><![CDATA[<strong>"Hello!&nbsp; Now I 'get it' I love Cloudworks.&nbsp; I didn't see the old design so I can't...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/1906">Evaluation: Cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/1300" rel="author">Amyas Phillips</a></em>]]></description>
+	  	  <pubDate>Fri, 29 Jan 2010 09:41:50 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I am generally interested in how organisation theory and research can be reapplied to web 2.0...new comment on the cloud Interview: Rebecca Galley by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#comment-2236</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2236</guid>
+	      <description><![CDATA[<strong>"I am generally interested in how organisation theory and research can be reapplied to web 2.0...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2441">Interview: Rebecca Galley</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 09 Nov 2009 19:33:57 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Lynda Gratton&#39;s Hot Spots new link on Interview: Rebecca Galley added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-1788</link>
+	      <guid>https://cloudworks.ac.uk/#link-1788</guid>
+	      <description><![CDATA[<strong>Lynda Gratton's Hot Spots </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2441">Interview: Rebecca Galley</a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 09 Nov 2009 19:32:23 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Cloud: Theory of deferred action new link on Interview: Rebecca Galley added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-1787</link>
+	      <guid>https://cloudworks.ac.uk/#link-1787</guid>
+	      <description><![CDATA[<strong>Cloud: Theory of deferred action </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2441">Interview: Rebecca Galley</a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 09 Nov 2009 19:26:57 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hello Grainne, I attended Rebecca&#39;s intro to Cloudworks today at Brunel and she alerted me to your...new comment on the cloud Interview: Grainne Conole on cloudworks by Nandish Patel</title>
+	      <link>https://cloudworks.ac.uk/#comment-2234</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2234</guid>
+	      <description><![CDATA[<strong>"Hello Grainne, I attended Rebecca's intro to Cloudworks today at Brunel and she alerted me to your...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2413">Interview: Grainne Conole on cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/1458" rel="author">Nandish Patel</a></em>]]></description>
+	  	  <pubDate>Mon, 09 Nov 2009 19:08:39 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Nandish, yes I really enjoyed the workshop - some very interesting designs and ideas have been...new comment on the cloud Interview: Rebecca Galley by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#comment-2233</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2233</guid>
+	      <description><![CDATA[<strong>"Hi Nandish, yes I really enjoyed the workshop - some very interesting designs and ideas have been...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2441">Interview: Rebecca Galley</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 09 Nov 2009 18:58:00 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Elluminate session: Grainne Conole on Cloudworks new link on Interview: Rebecca Galley added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-1785</link>
+	      <guid>https://cloudworks.ac.uk/#link-1785</guid>
+	      <description><![CDATA[<strong>Elluminate session: Grainne Conole on Cloudworks </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2441">Interview: Rebecca Galley</a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 09 Nov 2009 18:55:05 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;&#39;Evolving&#39;, one of the three words you used to describe Cloudworks Rebecca! Yes, for me all IT...new comment on the cloud Interview: Rebecca Galley by Nandish Patel</title>
+	      <link>https://cloudworks.ac.uk/#comment-2232</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2232</guid>
+	      <description><![CDATA[<strong>"'Evolving', one of the three words you used to describe Cloudworks Rebecca! Yes, for me all IT...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2441">Interview: Rebecca Galley</a> by <a href="https://cloudworks.ac.uk/user/view/1458" rel="author">Nandish Patel</a></em>]]></description>
+	  	  <pubDate>Mon, 09 Nov 2009 18:42:20 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Updated version of the podcast new link on Podcast: Interview with Grainne Conole about cloudworks added by Martin Oliver</title>
+	      <link>https://cloudworks.ac.uk/#link-1636</link>
+	      <guid>https://cloudworks.ac.uk/#link-1636</guid>
+	      <description><![CDATA[<strong>Updated version of the podcast </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2548">Podcast: Interview with Grainne Conole about cloudworks</a> added by <a href="https://cloudworks.ac.uk/user/view/626" rel="author">Martin Oliver</a></em>]]></description>
+	  	  <pubDate>Thu, 29 Oct 2009 13:17:11 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;This has been updated, and is now hosted here:
+http://ltunplugged.wordpress.com/...new comment on the cloud Podcast: Interview with Grainne Conole about cloudworks by Martin Oliver</title>
+	      <link>https://cloudworks.ac.uk/#comment-2028</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2028</guid>
+	      <description><![CDATA[<strong>"This has been updated, and is now hosted here:
+http://ltunplugged.wordpress.com/...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2548">Podcast: Interview with Grainne Conole about cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/626" rel="author">Martin Oliver</a></em>]]></description>
+	  	  <pubDate>Thu, 29 Oct 2009 13:16:56 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Podcast: Interview with Grainne Conole about cloudworkscloud added to the cloudscape Cloudworks - the movie</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2548">Podcast: Interview with Grainne Conole about cloudworks</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1900">Cloudworks - the movie</a></em>]]></description>
+	  	  <pubDate>Wed, 21 Oct 2009 14:14:21 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Click to go to questionnaire......&quot;new content on Evaluation: Cloudworks by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#content-193</link>
+	      <guid>https://cloudworks.ac.uk/#content-193</guid>
+	      <description><![CDATA[<strong>Click to go to questionnaire......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/1906">Evaluation: Cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Mon, 19 Oct 2009 22:41:28 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Blog post by Digital Fingerprint new link on Question: What 3 words would you use to describe cloudworks? added by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#link-1357</link>
+	      <guid>https://cloudworks.ac.uk/#link-1357</guid>
+	      <description><![CDATA[<strong>Blog post by Digital Fingerprint </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2409">Question: What 3 words would you use to describe cloudworks?</a> added by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sat, 10 Oct 2009 07:05:17 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;Well done for superb filming and interviewing by Rebecca Galley and ruthless editing by Simon...new comment on the cloud Resource: Cloudworks the Movie by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-1762</link>
+	      <guid>https://cloudworks.ac.uk/#comment-1762</guid>
+	      <description><![CDATA[<strong>"Well done for superb filming and interviewing by Rebecca Galley and ruthless editing by Simon...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2457">Resource: Cloudworks the Movie</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Fri, 09 Oct 2009 15:12:47 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Cloudworks the Movienew embedded content added to the cloud Resource: Cloudworks the Movie by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#embed-38</link>
+	      <guid>https://cloudworks.ac.uk/#embed-38</guid>
+	      <description><![CDATA[<strong>Cloudworks the Movie</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2457">Resource: Cloudworks the Movie</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Fri, 09 Oct 2009 15:10:14 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Resource: Cloudworks the Moviecloud added to the cloudscape Cloudworks - the movie</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2457">Resource: Cloudworks the Movie</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1900">Cloudworks - the movie</a></em>]]></description>
+	  	  <pubDate>Fri, 09 Oct 2009 15:09:58 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;Giota Alevisou: Social, resourceful/resource, a network...new comment on the cloud Question: What 3 words would you use to describe cloudworks? by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-2909</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2909</guid>
+	      <description><![CDATA[<strong>"Giota Alevisou: Social, resourceful/resource, a network...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2409">Question: What 3 words would you use to describe cloudworks?</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Thu, 08 Oct 2009 13:24:43 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Chris Pegler: Community, serendipity, connections...new comment on the cloud Question: What 3 words would you use to describe cloudworks? by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-2908</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2908</guid>
+	      <description><![CDATA[<strong>"Chris Pegler: Community, serendipity, connections...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2409">Question: What 3 words would you use to describe cloudworks?</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Thu, 08 Oct 2009 13:22:48 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Elpida Makriyannis: social, research, different views...new comment on the cloud Question: What 3 words would you use to describe cloudworks? by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-2907</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2907</guid>
+	      <description><![CDATA[<strong>"Elpida Makriyannis: social, research, different views...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2409">Question: What 3 words would you use to describe cloudworks?</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Thu, 08 Oct 2009 13:21:09 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Doug Clow: Openness, teaching and learning...new comment on the cloud Question: What 3 words would you use to describe cloudworks? by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-2906</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2906</guid>
+	      <description><![CDATA[<strong>"Doug Clow: Openness, teaching and learning...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2409">Question: What 3 words would you use to describe cloudworks?</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Thu, 08 Oct 2009 13:17:50 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Juliette Culver: Crowdsourcing, social, open...new comment on the cloud Question: What 3 words would you use to describe cloudworks? by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-2905</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2905</guid>
+	      <description><![CDATA[<strong>"Juliette Culver: Crowdsourcing, social, open...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2409">Question: What 3 words would you use to describe cloudworks?</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Thu, 08 Oct 2009 13:12:52 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Blog post by www.e4innovation.com on cloudworks design new link on Interview: Juliette Culver, Cloudworks Developer added by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#link-1329</link>
+	      <guid>https://cloudworks.ac.uk/#link-1329</guid>
+	      <description><![CDATA[<strong>Blog post by www.e4innovation.com on cloudworks design </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2425">Interview: Juliette Culver, Cloudworks Developer</a> added by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Thu, 08 Oct 2009 13:12:01 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;Rebecca Galley: Engaging, collaborative and evolving...new comment on the cloud Question: What 3 words would you use to describe cloudworks? by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-2904</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2904</guid>
+	      <description><![CDATA[<strong>"Rebecca Galley: Engaging, collaborative and evolving...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2409">Question: What 3 words would you use to describe cloudworks?</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Thu, 08 Oct 2009 13:05:27 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Patrick McAndrew: Flexible, open and interesting...new comment on the cloud Question: What 3 words would you use to describe cloudworks? by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-2903</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2903</guid>
+	      <description><![CDATA[<strong>"Patrick McAndrew: Flexible, open and interesting...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2409">Question: What 3 words would you use to describe cloudworks?</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Thu, 08 Oct 2009 13:02:36 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Interview with Patrick McAndrewnew embedded content added to the cloud Interview: Patrick McAndrew by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#embed-30</link>
+	      <guid>https://cloudworks.ac.uk/#embed-30</guid>
+	      <description><![CDATA[<strong>Interview with Patrick McAndrew</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2442">Interview: Patrick McAndrew</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Thu, 08 Oct 2009 11:22:26 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Interview: Patrick McAndrewcloud added to the cloudscape Cloudworks - the movie</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2442">Interview: Patrick McAndrew</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1900">Cloudworks - the movie</a></em>]]></description>
+	  	  <pubDate>Thu, 08 Oct 2009 11:21:04 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;Excellent! Glad Juliette managed to corner you Rebecca! :-)...new comment on the cloud Interview: Rebecca Galley by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-1738</link>
+	      <guid>https://cloudworks.ac.uk/#comment-1738</guid>
+	      <description><![CDATA[<strong>"Excellent! Glad Juliette managed to corner you Rebecca! :-)...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2441">Interview: Rebecca Galley</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Thu, 08 Oct 2009 11:20:29 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Interview with Rebecca Galleynew embedded content added to the cloud Interview: Rebecca Galley by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#embed-29</link>
+	      <guid>https://cloudworks.ac.uk/#embed-29</guid>
+	      <description><![CDATA[<strong>Interview with Rebecca Galley</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2441">Interview: Rebecca Galley</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Thu, 08 Oct 2009 11:19:54 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Interview: Rebecca Galleycloud added to the cloudscape Cloudworks - the movie</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2441">Interview: Rebecca Galley</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1900">Cloudworks - the movie</a></em>]]></description>
+	  	  <pubDate>Thu, 08 Oct 2009 11:18:23 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;Gráinne Conole: social, interactive, evolving...new comment on the cloud Question: What 3 words would you use to describe cloudworks? by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-2902</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2902</guid>
+	      <description><![CDATA[<strong>"Gr&aacute;inne Conole: social, interactive, evolving...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2409">Question: What 3 words would you use to describe cloudworks?</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Thu, 08 Oct 2009 09:10:53 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Interview with Doug Clownew embedded content added to the cloud Interview: Doug Clow by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#embed-27</link>
+	      <guid>https://cloudworks.ac.uk/#embed-27</guid>
+	      <description><![CDATA[<strong>Interview with Doug Clow</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2434">Interview: Doug Clow</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Thu, 08 Oct 2009 07:44:46 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Interview: Doug Clowcloud added to the cloudscape Cloudworks - the movie</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2434">Interview: Doug Clow</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1900">Cloudworks - the movie</a></em>]]></description>
+	  	  <pubDate>Thu, 08 Oct 2009 07:44:04 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Link to podcast new link on Podcast: Paul Gormley on Cloudworks added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-1290</link>
+	      <guid>https://cloudworks.ac.uk/#link-1290</guid>
+	      <description><![CDATA[<strong>Link to podcast </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2416">Podcast: Paul Gormley on Cloudworks</a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Wed, 07 Oct 2009 14:00:06 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;Developing, open, collective...new comment on the cloud Question: What 3 words would you use to describe cloudworks? by Sheila MacNeill</title>
+	      <link>https://cloudworks.ac.uk/#comment-2901</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2901</guid>
+	      <description><![CDATA[<strong>"Developing, open, collective...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2409">Question: What 3 words would you use to describe cloudworks?</a> by <a href="https://cloudworks.ac.uk/user/view/108" rel="author">Sheila MacNeill</a></em>]]></description>
+	  	  <pubDate>Wed, 07 Oct 2009 13:09:12 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Interview with Juliette Culvernew embedded content added to the cloud Interview: Juliette Culver, Cloudworks Developer by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#embed-20</link>
+	      <guid>https://cloudworks.ac.uk/#embed-20</guid>
+	      <description><![CDATA[<strong>Interview with Juliette Culver</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2425">Interview: Juliette Culver, Cloudworks Developer</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Wed, 07 Oct 2009 12:33:59 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Interview: Juliette Culver, Cloudworks Developercloud added to the cloudscape Cloudworks - the movie</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2425">Interview: Juliette Culver, Cloudworks Developer</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1900">Cloudworks - the movie</a></em>]]></description>
+	  	  <pubDate>Wed, 07 Oct 2009 12:33:38 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Cloudworks Issues and Suggestionscloud added to the cloudscape Cloudworks - the movie</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/977">Cloudworks Issues and Suggestions</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1900">Cloudworks - the movie</a></em>]]></description>
+	  	  <pubDate>Wed, 07 Oct 2009 10:44:10 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Interview with Elpida Makriyannisnew embedded content added to the cloud Interview: Elpida Makriyannis by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#embed-19</link>
+	      <guid>https://cloudworks.ac.uk/#embed-19</guid>
+	      <description><![CDATA[<strong>Interview with Elpida Makriyannis</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2421">Interview: Elpida Makriyannis</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Wed, 07 Oct 2009 10:42:44 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Interview: Elpida Makriyanniscloud added to the cloudscape Cloudworks - the movie</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2421">Interview: Elpida Makriyannis</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1900">Cloudworks - the movie</a></em>]]></description>
+	  	  <pubDate>Wed, 07 Oct 2009 10:42:18 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Interview: Chris Pegler on cloudworksnew embedded content added to the cloud Interview: Chris Pegler by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#embed-18</link>
+	      <guid>https://cloudworks.ac.uk/#embed-18</guid>
+	      <description><![CDATA[<strong>Interview: Chris Pegler on cloudworks</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2419">Interview: Chris Pegler</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Wed, 07 Oct 2009 09:58:55 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Interview: Chris Peglercloud added to the cloudscape Cloudworks - the movie</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2419">Interview: Chris Pegler</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1900">Cloudworks - the movie</a></em>]]></description>
+	  	  <pubDate>Wed, 07 Oct 2009 09:47:34 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Interview with Giota Alevisounew embedded content added to the cloud Interview: Giota Alevizou by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#embed-16</link>
+	      <guid>https://cloudworks.ac.uk/#embed-16</guid>
+	      <description><![CDATA[<strong>Interview with Giota Alevisou</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2418">Interview: Giota Alevizou</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Wed, 07 Oct 2009 09:45:59 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Interview: Giota Alevizoucloud added to the cloudscape Cloudworks - the movie</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2418">Interview: Giota Alevizou</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1900">Cloudworks - the movie</a></em>]]></description>
+	  	  <pubDate>Wed, 07 Oct 2009 09:45:21 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Podcast: Paul Gormley on Cloudworkscloud added to the cloudscape Cloudworks - the movie</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2416">Podcast: Paul Gormley on Cloudworks</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1900">Cloudworks - the movie</a></em>]]></description>
+	  	  <pubDate>Wed, 07 Oct 2009 09:23:17 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;Antonella- a vision of open practice would be so so wonderful!!!  Very much part of our...new comment on the cloud Question: What 3 words would you use to describe cloudworks? by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-1690</link>
+	      <guid>https://cloudworks.ac.uk/#comment-1690</guid>
+	      <description><![CDATA[<strong>"Antonella- a vision of open practice would be so so wonderful!!!&nbsp; Very much part of our...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2409">Question: What 3 words would you use to describe cloudworks?</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Tue, 06 Oct 2009 18:28:15 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Antonello Esposito: news bulletin, scholars&#39; cafè, brainstorming area, personal shared...new comment on the cloud Question: What 3 words would you use to describe cloudworks? by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-2900</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2900</guid>
+	      <description><![CDATA[<strong>"Antonello Esposito: news bulletin, scholars' caf&egrave;, brainstorming area, personal shared...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2409">Question: What 3 words would you use to describe cloudworks?</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Tue, 06 Oct 2009 18:22:09 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Matt Lingard:  discussion, aggregator, repository
+
+...new comment on the cloud Question: What 3 words would you use to describe cloudworks? by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-2899</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2899</guid>
+	      <description><![CDATA[<strong>"Matt Lingard:&nbsp; discussion, aggregator, repository
+
+...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2409">Question: What 3 words would you use to describe cloudworks?</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Tue, 06 Oct 2009 18:20:45 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Dominic Newbould: Neat, accessible, thought provoking...new comment on the cloud Question: What 3 words would you use to describe cloudworks? by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-2898</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2898</guid>
+	      <description><![CDATA[<strong>"Dominic Newbould: Neat, accessible, thought provoking...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2409">Question: What 3 words would you use to describe cloudworks?</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Tue, 06 Oct 2009 18:20:15 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;From Martin Weller: Social, academic, development...new comment on the cloud Question: What 3 words would you use to describe cloudworks? by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-2897</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2897</guid>
+	      <description><![CDATA[<strong>"From Martin Weller: Social, academic, development...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2409">Question: What 3 words would you use to describe cloudworks?</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Tue, 06 Oct 2009 18:18:53 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;cristinacost @gconole #cloudworks = sharing ; content ; open  ......new comment on the cloud Question: What 3 words would you use to describe cloudworks? by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-2896</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2896</guid>
+	      <description><![CDATA[<strong>"cristinacost @gconole #cloudworks = sharing ; content ; open  ......</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2409">Question: What 3 words would you use to describe cloudworks?</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Tue, 06 Oct 2009 18:17:59 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Jonathan Lopeznew embedded content added to the cloud Interview: Jonathan Lopez  by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#embed-15</link>
+	      <guid>https://cloudworks.ac.uk/#embed-15</guid>
+	      <description><![CDATA[<strong>Jonathan Lopez</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/1212">Interview: Jonathan Lopez </a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Tue, 06 Oct 2009 18:11:21 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Amee&#39;s videonew embedded content added to the cloud Interview: Amee Godwin&#39;s reflection on cloudworks by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#embed-14</link>
+	      <guid>https://cloudworks.ac.uk/#embed-14</guid>
+	      <description><![CDATA[<strong>Amee's video</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/1194">Interview: Amee Godwin's reflection on cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Tue, 06 Oct 2009 18:07:10 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Interview: Grainne Conole on cloudworkscloud added to the cloudscape Cloudworks - the movie</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2413">Interview: Grainne Conole on cloudworks</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1900">Cloudworks - the movie</a></em>]]></description>
+	  	  <pubDate>Tue, 06 Oct 2009 14:24:42 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Interview: Dominic Newbould on cloudworkscloud added to the cloudscape Cloudworks - the movie</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2414">Interview: Dominic Newbould on cloudworks</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1900">Cloudworks - the movie</a></em>]]></description>
+	  	  <pubDate>Tue, 06 Oct 2009 14:24:19 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Interview with Dominic Newbould on Cloudworksnew embedded content added to the cloud Interview: Dominic Newbould on cloudworks by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#embed-13</link>
+	      <guid>https://cloudworks.ac.uk/#embed-13</guid>
+	      <description><![CDATA[<strong>Interview with Dominic Newbould on Cloudworks</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2414">Interview: Dominic Newbould on cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Tue, 06 Oct 2009 14:23:12 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Interview: Grainne Conole on cloudworksnew embedded content added to the cloud Interview: Grainne Conole on cloudworks by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#embed-12</link>
+	      <guid>https://cloudworks.ac.uk/#embed-12</guid>
+	      <description><![CDATA[<strong>Interview: Grainne Conole on cloudworks</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2413">Interview: Grainne Conole on cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Tue, 06 Oct 2009 14:17:34 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Interview: Amee Godwin&#39;s reflection on cloudworkscloud added to the cloudscape Cloudworks - the movie</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/1194">Interview: Amee Godwin's reflection on cloudworks</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1900">Cloudworks - the movie</a></em>]]></description>
+	  	  <pubDate>Tue, 06 Oct 2009 14:12:49 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Interview: Jonathan Lopez cloud added to the cloudscape Cloudworks - the movie</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/1212">Interview: Jonathan Lopez </a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1900">Cloudworks - the movie</a></em>]]></description>
+	  	  <pubDate>Tue, 06 Oct 2009 14:10:49 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;I&#39;m a newcomer as a user (participant? cloudworker?) in Cloudworks, but I have already become...new comment on the cloud Question: What 3 words would you use to describe cloudworks? by Antonella Esposito</title>
+	      <link>https://cloudworks.ac.uk/#comment-1683</link>
+	      <guid>https://cloudworks.ac.uk/#comment-1683</guid>
+	      <description><![CDATA[<strong>"I'm a newcomer as a user (participant? cloudworker?) in Cloudworks, but I have already become...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2409">Question: What 3 words would you use to describe cloudworks?</a> by <a href="https://cloudworks.ac.uk/user/view/1182" rel="author">Antonella Esposito</a></em>]]></description>
+	  	  <pubDate>Tue, 06 Oct 2009 09:37:22 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;This is quite tough as overall I&#39;m still a bit uncertain as to where cloudworks fits.  I...new comment on the cloud Question: What 3 words would you use to describe cloudworks? by Matt Lingard</title>
+	      <link>https://cloudworks.ac.uk/#comment-1681</link>
+	      <guid>https://cloudworks.ac.uk/#comment-1681</guid>
+	      <description><![CDATA[<strong>"This is quite tough as overall I'm still a bit uncertain as to where cloudworks fits.&nbsp; I...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2409">Question: What 3 words would you use to describe cloudworks?</a> by <a href="https://cloudworks.ac.uk/user/view/126" rel="author">Matt Lingard</a></em>]]></description>
+	  	  <pubDate>Tue, 06 Oct 2009 08:37:35 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Interview questions: Reflections on cloudworkscloud added to the cloudscape Cloudworks - the movie</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2410">Interview questions: Reflections on cloudworks</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1900">Cloudworks - the movie</a></em>]]></description>
+	  	  <pubDate>Tue, 06 Oct 2009 07:41:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Question: What 3 words would you use to describe cloudworks?cloud added to the cloudscape Cloudworks - the movie</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2409">Question: What 3 words would you use to describe cloudworks?</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1900">Cloudworks - the movie</a></em>]]></description>
+	  	  <pubDate>Tue, 06 Oct 2009 07:33:33 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Evaluation: Cloudworkscloud added to the cloudscape Cloudworks - the movie</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/1906">Evaluation: Cloudworks</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1900">Cloudworks - the movie</a></em>]]></description>
+	  	  <pubDate>Tue, 06 Oct 2009 07:32:16 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Interview: Martin Weller on cloudworkscloud added to the cloudscape Cloudworks - the movie</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2408">Interview: Martin Weller on cloudworks</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1900">Cloudworks - the movie</a></em>]]></description>
+	  	  <pubDate>Tue, 06 Oct 2009 07:31:40 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Interview with Martin Weller on Cloudworksnew embedded content added to the cloud Interview: Martin Weller on cloudworks by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#embed-10</link>
+	      <guid>https://cloudworks.ac.uk/#embed-10</guid>
+	      <description><![CDATA[<strong>Interview with Martin Weller on Cloudworks</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2408">Interview: Martin Weller on cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Tue, 06 Oct 2009 03:14:03 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Terry,
+Thanks for the feedback. I actually wrote the code for editting links the week before...new comment on the cloud Cloudworks Issues and Suggestions by Juliette Culver</title>
+	      <link>https://cloudworks.ac.uk/#comment-1581</link>
+	      <guid>https://cloudworks.ac.uk/#comment-1581</guid>
+	      <description><![CDATA[<strong>"Hi Terry,
+Thanks for the feedback. I actually wrote the code for editting links the week before...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/977">Cloudworks Issues and Suggestions</a> by <a href="https://cloudworks.ac.uk/user/view/1" rel="author">Juliette Culver</a></em>]]></description>
+	  	  <pubDate>Tue, 29 Sep 2009 11:07:06 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+	    </channel>
+</rss>

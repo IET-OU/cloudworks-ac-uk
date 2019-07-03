@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Cloudworks:Public Cloudstream</title>
+    <link>https://cloudworks.ac.uk/</link>
+	<description>Cloudworks:Public Cloudstream</description>
+	<dc:language>en</dc:language>
+	<dc:creator>cloudworks@open.ac.uk</dc:creator>
+	<dc:rights>Copyright 2019 </dc:rights>
+	<admin:generatorAgent>
+    <atom:link href="https://cloudworks.ac.uk/event/site_rss" rel="self" type="application/rss+xml" />
+    		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Thu, 28 Mar 2019 11:00:56 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>MYP Designnew cloudscape created by Michael Clifford</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/3032">MYP Design</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/3964" rel="author">Michael Clifford</a></em>]]></description>
+	  	  <pubDate>Fri, 25 Jan 2019 02:34:04 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>Networking for capacity development in Higher Educationnew cloudscape created by Ashwini Datt</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/3031">Networking for capacity development in Higher Education</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/2997" rel="author">Ashwini Datt</a></em>]]></description>
+	  	  <pubDate>Mon, 29 Oct 2018 02:16:18 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>OU H818 &#39;The Networked Practitioner&#39; Online Conference 2019new cloudscape created by Dr Simon Ball</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/3030">OU H818 'The Networked Practitioner' Online Conference 2019</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/6651" rel="author">Dr Simon Ball</a></em>]]></description>
+	  	  <pubDate>Sat, 27 Oct 2018 09:25:00 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>15th International Conference on Mobile Learning 2019new cloudscape created by Natalia Teixeira</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/3028">15th International Conference on Mobile Learning 2019</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/5160" rel="author">Natalia Teixeira</a></em>]]></description>
+	  	  <pubDate>Wed, 03 Oct 2018 09:24:16 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>6th International Conference on Educational Technologies 2019 (ICEduTech 2019)new cloudscape created by Natalia Teixeira</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/3027">6th International Conference on Educational Technologies 2019 (ICEduTech 2019)</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/5160" rel="author">Natalia Teixeira</a></em>]]></description>
+	  	  <pubDate>Wed, 03 Oct 2018 09:24:15 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>CALRG Conference 2018new cloudscape created by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/3026">CALRG Conference 2018</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 14 Jun 2018 15:12:28 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Wed, 13 Jun 2018 22:03:02 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>15th International Conference on Cognition and Exploratory Learning in Digital Age (CELDA 2018)new cloudscape created by Natalia Teixeira</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/3023">15th International Conference on Cognition and Exploratory Learning in Digital Age (CELDA 2018)</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/5160" rel="author">Natalia Teixeira</a></em>]]></description>
+	  	  <pubDate>Thu, 24 May 2018 18:16:21 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>12th International Conference on e-Learning 2018new cloudscape created by Natalia Teixeira</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/3022">12th International Conference on e-Learning 2018</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/5160" rel="author">Natalia Teixeira</a></em>]]></description>
+	  	  <pubDate>Thu, 24 May 2018 18:16:16 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Mon, 07 May 2018 07:36:52 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Mon, 07 May 2018 07:36:40 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Mon, 30 Apr 2018 11:55:59 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Sun, 22 Apr 2018 06:53:41 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>OU H818 &#39;The Networked Practitioner&#39; Online Conference 2018new cloudscape created by Dr Simon Ball</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/3017">OU H818 'The Networked Practitioner' Online Conference 2018</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/6651" rel="author">Dr Simon Ball</a></em>]]></description>
+	  	  <pubDate>Tue, 28 Nov 2017 08:12:31 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Mon, 27 Nov 2017 07:27:37 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>14th International Conference on Mobile Learning 2018new cloudscape created by Natalia Teixeira</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/3015">14th International Conference on Mobile Learning 2018</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/5160" rel="author">Natalia Teixeira</a></em>]]></description>
+	  	  <pubDate>Mon, 06 Nov 2017 16:25:33 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Thu, 19 Oct 2017 13:46:28 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Thu, 19 Oct 2017 13:37:52 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>Retention and Progressionnew cloudscape created by Julie Norton</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/3012">Retention and Progression</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/9858" rel="author">Julie Norton</a></em>]]></description>
+	  	  <pubDate>Thu, 05 Oct 2017 16:02:58 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>Best road accident relief fund team in USAnew cloudscape created by Fallen Hanna</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/3011">Best road accident relief fund team in USA</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/10491" rel="author">Fallen Hanna</a></em>]]></description>
+	  	  <pubDate>Wed, 27 Sep 2017 07:40:35 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>discount vouchersnew cloudscape created by discount vouchers</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/3010">discount vouchers</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/10444" rel="author">discount vouchers</a></em>]]></description>
+	  	  <pubDate>Wed, 13 Sep 2017 11:36:05 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Tue, 29 Aug 2017 09:28:54 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Mon, 07 Aug 2017 11:36:21 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Fri, 21 Jul 2017 11:51:07 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>Karen - Feedbacknew cloudscape created by Karen Pinney</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/3006">Karen - Feedback</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/10206" rel="author">Karen Pinney</a></em>]]></description>
+	  	  <pubDate>Thu, 22 Jun 2017 11:58:55 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>CALRG conferencesnew cloudscape created by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/3005">CALRG conferences</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 15 Jun 2017 13:41:49 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>2017 FutureLearn Academic Network day at OUnew cloudscape created by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/3004">2017 FutureLearn Academic Network day at OU</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Fri, 26 May 2017 16:02:25 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>Developing Resources using recycle materialnew cloudscape created by Munir Moosa Sewani</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/3003">Developing Resources using recycle material</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/9996" rel="author">Munir Moosa Sewani</a></em>]]></description>
+	  	  <pubDate>Mon, 03 Apr 2017 10:51:25 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Wed, 08 Mar 2017 06:33:32 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Wed, 08 Mar 2017 06:32:08 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Wed, 08 Mar 2017 06:30:21 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Wed, 08 Mar 2017 06:28:11 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>Combining study and worknew cloudscape created by Edward Smith</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2998">Combining study and work</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/9936" rel="author">Edward Smith</a></em>]]></description>
+	  	  <pubDate>Tue, 31 Jan 2017 14:38:19 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>Ethical &amp; pedagogic issues in the use of digital technologies in HEnew cloudscape created by Sarah Chesney</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2997">Ethical & pedagogic issues in the use of digital technologies in HE</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/3165" rel="author">Sarah Chesney</a></em>]]></description>
+	  	  <pubDate>Fri, 20 Jan 2017 14:43:33 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>CALRG Conference 2017new cloudscape created by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2996">CALRG Conference 2017</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 15 Dec 2016 11:31:42 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>OU H818 &#39;The Networked Practitioner&#39; Online Conference 2017new cloudscape created by Dr Simon Ball</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2994">OU H818 'The Networked Practitioner' Online Conference 2017</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/6651" rel="author">Dr Simon Ball</a></em>]]></description>
+	  	  <pubDate>Mon, 12 Dec 2016 11:20:11 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>Level 1 Coaching Course for Rugby Unionnew cloudscape created by Brendan Clarke</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2995">Level 1 Coaching Course for Rugby Union</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/7671" rel="author">Brendan Clarke</a></em>]]></description>
+	  	  <pubDate>Wed, 30 Nov 2016 12:18:58 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>OU H818 &#39;The Networked Practitioner&#39; Online Conference 2017new cloudscape created by Dr Simon Ball</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2994">OU H818 'The Networked Practitioner' Online Conference 2017</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/6651" rel="author">Dr Simon Ball</a></em>]]></description>
+	  	  <pubDate>Mon, 28 Nov 2016 16:25:43 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Sat, 15 Oct 2016 06:30:18 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Sat, 15 Oct 2016 06:29:25 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Fri, 23 Sep 2016 06:12:09 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Fri, 23 Sep 2016 06:07:27 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Fri, 23 Sep 2016 06:01:40 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Fri, 16 Sep 2016 15:38:43 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>Brendan test cloudscapenew cloudscape created by Brendan Clarke</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2982">Brendan test cloudscape</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/7671" rel="author">Brendan Clarke</a></em>]]></description>
+	  	  <pubDate>Wed, 31 Aug 2016 14:08:44 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Tue, 23 Aug 2016 17:12:55 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>9th International Conference on Computer Supported Education – CSEDU 2017new cloudscape created by calendar sites</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2980">9th International Conference on Computer Supported Education – CSEDU 2017</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/7474" rel="author">calendar sites</a></em>]]></description>
+	  	  <pubDate>Thu, 21 Jul 2016 09:10:41 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>FutureLearn Academic Network: 7 June 2016new cloudscape created by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2976">FutureLearn Academic Network: 7 June 2016</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Mon, 13 Jun 2016 13:24:04 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>CALRG Conference 2016new cloudscape created by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2975">CALRG Conference 2016</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Tue, 17 May 2016 15:55:10 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Fri, 29 Apr 2016 10:06:16 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>Denise McDonough Cloudnew cloudscape created by Denise McDonough</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2973">Denise McDonough Cloud</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/8459" rel="author">Denise McDonough</a></em>]]></description>
+	  	  <pubDate>Fri, 08 Apr 2016 07:58:02 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>Learning analytics expert workshop organised by LAEP and LACEnew cloudscape created by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2965">Learning analytics expert workshop organised by LAEP and LACE</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Fri, 11 Mar 2016 16:18:58 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>H817 Evaluating a Specific Innovation  new cloudscape created by Alison Walker</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2964">H817 Evaluating a Specific Innovation  </a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/7414" rel="author">Alison Walker</a></em>]]></description>
+	  	  <pubDate>Sat, 05 Mar 2016 13:56:35 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>10th International Conference e-Learning 2016new cloudscape created by Natalia Teixeira</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2963">10th International Conference e-Learning 2016</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/5160" rel="author">Natalia Teixeira</a></em>]]></description>
+	  	  <pubDate>Fri, 12 Feb 2016 17:30:34 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>LAEP Inventory: Policiesnew cloudscape created by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2962">LAEP Inventory: Policies</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 15:55:19 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>LAEP Inventory: Practicesnew cloudscape created by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2961">LAEP Inventory: Practices</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 15:53:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>LAEP Inventory: Toolsnew cloudscape created by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2960">LAEP Inventory: Tools</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 15:51:08 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>LAEP Inventory – learning analytics tools, policies and practicesnew cloudscape created by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Tue, 09 Feb 2016 14:10:09 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>Is the therapeutic office offer credit to some individual? new cloudscape created by medical tourism</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2958">Is the therapeutic office offer credit to some individual? </a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/8260" rel="author">medical tourism</a></em>]]></description>
+	  	  <pubDate>Mon, 01 Feb 2016 15:56:02 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>HOW dental business creating in Indianew cloudscape created by medical tourism</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2956">HOW dental business creating in India</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/8260" rel="author">medical tourism</a></em>]]></description>
+	  	  <pubDate>Sun, 24 Jan 2016 11:43:40 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>10 Weird Writing Habits of Famous Authorsnew cloudscape created by Anna Ponce</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2955">10 Weird Writing Habits of Famous Authors</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/8258" rel="author">Anna Ponce</a></em>]]></description>
+	  	  <pubDate>Sat, 23 Jan 2016 08:55:55 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>The History of Christmas in Coca-Cola adsnew cloudscape created by Anna Ponce</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2954">The History of Christmas in Coca-Cola ads</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/8258" rel="author">Anna Ponce</a></em>]]></description>
+	  	  <pubDate>Sat, 23 Jan 2016 08:44:08 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>The Evolution of Christmas Ads from Coca-Colanew cloudscape created by Anna Ponce</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2953">The Evolution of Christmas Ads from Coca-Cola</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/8258" rel="author">Anna Ponce</a></em>]]></description>
+	  	  <pubDate>Sat, 23 Jan 2016 08:42:34 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>The Evolution of Christmas Ads from Coca-Colanew cloudscape created by Anna Ponce</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2952">The Evolution of Christmas Ads from Coca-Cola</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/8258" rel="author">Anna Ponce</a></em>]]></description>
+	  	  <pubDate>Sat, 23 Jan 2016 08:41:59 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>Are you looking for an essay, paper, lab report or research work or any other writing help? new cloudscape created by Carmen Warren</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2949">Are you looking for an essay, paper, lab report or research work or any other writing help? </a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/8257" rel="author">Carmen Warren</a></em>]]></description>
+	  	  <pubDate>Fri, 22 Jan 2016 17:21:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Mon, 11 Jan 2016 11:23:09 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Mon, 11 Jan 2016 11:22:05 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Mon, 11 Jan 2016 11:20:35 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>OU H818 &#39;The Networked Practitioner&#39; Online Conference 2016new cloudscape created by Dr Simon Ball</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2945">OU H818 'The Networked Practitioner' Online Conference 2016</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/6651" rel="author">Dr Simon Ball</a></em>]]></description>
+	  	  <pubDate>Fri, 18 Dec 2015 12:08:20 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>Designing the Participatory Smart City - Fred Garnettnew cloudscape created by John Cook</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2944">Designing the Participatory Smart City - Fred Garnett</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/1186" rel="author">John Cook</a></em>]]></description>
+	  	  <pubDate>Sat, 07 Nov 2015 13:46:05 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Wed, 28 Oct 2015 12:09:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Wed, 28 Oct 2015 07:13:39 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Wed, 21 Oct 2015 06:06:26 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Wed, 21 Oct 2015 05:24:27 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Tue, 20 Oct 2015 11:06:00 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Tue, 28 Jul 2015 10:19:22 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Tue, 28 Jul 2015 10:03:15 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Tue, 28 Jul 2015 09:58:09 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Tue, 28 Jul 2015 09:47:10 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Tue, 28 Jul 2015 09:34:18 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Fri, 17 Jul 2015 06:43:47 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>Learning Design Cross Institutional Network (LD-CIN)new cloudscape created by Lisette Toetenel</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2932">Learning Design Cross Institutional Network (LD-CIN)</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/7831" rel="author">Lisette Toetenel</a></em>]]></description>
+	  	  <pubDate>Wed, 24 Jun 2015 12:59:23 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Sat, 13 Jun 2015 12:45:08 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Sat, 13 Jun 2015 12:37:24 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Fri, 15 May 2015 10:18:13 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>Bristol hybrid, augmented &amp; 3D, social web workshopnew cloudscape created by John Cook</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2928">Bristol hybrid, augmented & 3D, social web workshop</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/1186" rel="author">John Cook</a></em>]]></description>
+	  	  <pubDate>Wed, 13 May 2015 10:20:23 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>H800 15B Terri Rees&#39; tutor groupnew cloudscape created by Sophia Eco</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2927">H800 15B Terri Rees' tutor group</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/6768" rel="author">Sophia Eco</a></em>]]></description>
+	  	  <pubDate>Fri, 03 Apr 2015 01:31:50 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>H800 - 15B Shaun Harley&#39;s groupnew cloudscape created by Mandy Honeyman</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2926">H800 - 15B Shaun Harley's group</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/2080" rel="author">Mandy Honeyman</a></em>]]></description>
+	  	  <pubDate>Wed, 01 Apr 2015 12:24:48 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>Everything to do with the OLDS MOOCnew cloudscape created by Ton Kaptijn</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2925">Everything to do with the OLDS MOOC</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/7641" rel="author">Ton Kaptijn</a></em>]]></description>
+	  	  <pubDate>Tue, 31 Mar 2015 10:43:55 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>Delivering Digital Governmentnew cloudscape created by Simon Regan</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2924">Delivering Digital Government</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/3577" rel="author">Simon Regan</a></em>]]></description>
+	  	  <pubDate>Tue, 17 Mar 2015 09:59:17 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>E-DynamicSpace: A consideration of tensions concerning design and educational artefactsnew cloudscape created by caroline kuhn</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2923">E-DynamicSpace: A consideration of tensions concerning design and educational artefacts</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/7546" rel="author">caroline kuhn</a></em>]]></description>
+	  	  <pubDate>Sat, 07 Mar 2015 19:52:33 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>Scholarship workshops - IET new cloudscape created by Celia Bautista</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2922">Scholarship workshops - IET </a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/7525" rel="author">Celia Bautista</a></em>]]></description>
+	  	  <pubDate>Wed, 25 Feb 2015 15:32:38 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>Workshop: Implementing mobile learning in Kazakhstannew cloudscape created by Daniyar Sapargaliyev</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2921">Workshop: Implementing mobile learning in Kazakhstan</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/5148" rel="author">Daniyar Sapargaliyev</a></em>]]></description>
+	  	  <pubDate>Thu, 29 Jan 2015 20:24:44 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>#design4learning: from blended learning to learning analytics in HEnew cloudscape created by Graham Healing</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2920">#design4learning: from blended learning to learning analytics in HE</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/104" rel="author">Graham Healing</a></em>]]></description>
+	  	  <pubDate>Tue, 27 Jan 2015 09:03:17 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>Peer assessmentnew cloudscape created by Rob Parsons</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2918">Peer assessment</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/2585" rel="author">Rob Parsons</a></em>]]></description>
+	  	  <pubDate>Fri, 05 Dec 2014 13:43:01 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>e- learning adaptativo new cloudscape created by Amalia F Quezada L</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2917">e- learning adaptativo </a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/7322" rel="author">Amalia F Quezada L</a></em>]]></description>
+	  	  <pubDate>Sat, 11 Oct 2014 21:27:13 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>OU H818 &#39;The Networked Practitioner&#39; Online Conference 2015new cloudscape created by Dr Simon Ball</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2916">OU H818 'The Networked Practitioner' Online Conference 2015</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/6651" rel="author">Dr Simon Ball</a></em>]]></description>
+	  	  <pubDate>Sat, 04 Oct 2014 17:29:11 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>Innovations in teaching seminar new cloudscape created by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2915">Innovations in teaching seminar </a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Mon, 29 Sep 2014 10:03:38 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>Scholarship Seminar Series 2014new cloudscape created by Roma Malik</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/2914">Scholarship Seminar Series 2014</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/7278" rel="author">Roma Malik</a></em>]]></description>
+	  	  <pubDate>Thu, 18 Sep 2014 15:42:54 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+	    </channel>
+</rss>

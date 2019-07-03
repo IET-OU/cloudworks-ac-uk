@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Cloudstream for Will Pollard</title>
+    <link>https://cloudworks.ac.uk/</link>
+	<description>Cloudstream for Will Pollard</description>
+	<dc:language>en</dc:language>
+	<dc:creator>cloudworks@open.ac.uk</dc:creator>
+	<dc:rights>Copyright 2019 </dc:rights>
+	<admin:generatorAgent>
+    <atom:link href="https://cloudworks.ac.uk/event/user_rss/1257" rel="self" type="application/rss+xml" />
+    		    <item>
+	      <title>John Couch at BETT 2015new embedded content added to the cloud BETT by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#embed-3065</link>
+	      <guid>https://cloudworks.ac.uk/#embed-3065</guid>
+	      <description><![CDATA[<strong>John Couch at BETT 2015</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2797">BETT</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Jan 2016 20:33:16 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>&quot;My blog ahead of this year is a sort of prod about Futurelearn. It seems the OU has not got a stand...new comment on the cloud BETT by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-10561</link>
+	      <guid>https://cloudworks.ac.uk/#comment-10561</guid>
+	      <description><![CDATA[<strong>"My blog ahead of this year is a sort of prod about Futurelearn. It seems the OU has not got a stand...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2797">BETT</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Jan 2016 20:31:27 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;There is now a playlist on...new comment on the cloud Design Science by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-10042</link>
+	      <guid>https://cloudworks.ac.uk/#comment-10042</guid>
+	      <description><![CDATA[<strong>"There is now a playlist on...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6588">Design Science</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Sun, 08 Mar 2015 18:33:33 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;This will be updated soon. There is new material from #mtw3 conference and talk around shows on...new comment on the cloud Design Science by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-10040</link>
+	      <guid>https://cloudworks.ac.uk/#comment-10040</guid>
+	      <description><![CDATA[<strong>"This will be updated soon. There is new material from #mtw3 conference and talk around shows on...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6588">Design Science</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Thu, 05 Mar 2015 08:20:50 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;This is being relaunched this week. There is a post on LinkedIn...new comment on the cloud Management Theory at Work Three by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-10039</link>
+	      <guid>https://cloudworks.ac.uk/#comment-10039</guid>
+	      <description><![CDATA[<strong>"This is being relaunched this week. There is a post on LinkedIn...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6043">Management Theory at Work Three</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Thu, 05 Mar 2015 08:08:14 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Notes for @wenotno , radio show in Exeter Phonic FM
+Sorry not much explanation, about to...new comment on the cloud BETT 2015 by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-9690</link>
+	      <guid>https://cloudworks.ac.uk/#comment-9690</guid>
+	      <description><![CDATA[<strong>"Notes for @wenotno , radio show in Exeter Phonic FM
+Sorry not much explanation, about to...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8897">BETT 2015</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Tue, 20 Jan 2015 10:26:21 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>BETT 2015new cloud created by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/8897">BETT 2015</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Tue, 20 Jan 2015 08:23:10 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;There will be a session on research from LSE, European funding, starts off a series around the MOOC...new comment on the cloud BETT by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-9081</link>
+	      <guid>https://cloudworks.ac.uk/#comment-9081</guid>
+	      <description><![CDATA[<strong>"There will be a session on research from LSE, European funding, starts off a series around the MOOC...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2797">BETT</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Tue, 14 Jan 2014 14:42:28 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Still no definite stats on what happened.
+Except that John Lewis stated that 70% of web traffic was...new comment on the cloud The Mobile Holiday by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-9080</link>
+	      <guid>https://cloudworks.ac.uk/#comment-9080</guid>
+	      <description><![CDATA[<strong>"Still no definite stats on what happened.
+Except that John Lewis stated that 70% of web traffic was...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8500">The Mobile Holiday</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Tue, 14 Jan 2014 14:39:25 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;There is a new Google doc and blog post by Linda...new comment on the cloud Management Theory at Work Three by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-9079</link>
+	      <guid>https://cloudworks.ac.uk/#comment-9079</guid>
+	      <description><![CDATA[<strong>"There is a new Google doc and blog post by Linda...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6043">Management Theory at Work Three</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Tue, 14 Jan 2014 14:37:25 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I have added a sound version of an updated keynote by John Burgoyne. Similar to YouTube clips...new comment on the cloud Management Theory at Work Three by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-9065</link>
+	      <guid>https://cloudworks.ac.uk/#comment-9065</guid>
+	      <description><![CDATA[<strong>"I have added a sound version of an updated keynote by John Burgoyne. Similar to YouTube clips...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6043">Management Theory at Work Three</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Wed, 08 Jan 2014 14:49:00 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>John Burgoyne chat / keynote #mtw3 update August 2013new embedded content added to the cloud Management Theory at Work Three by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#embed-2794</link>
+	      <guid>https://cloudworks.ac.uk/#embed-2794</guid>
+	      <description><![CDATA[<strong>John Burgoyne chat / keynote #mtw3 update August 2013</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/6043">Management Theory at Work Three</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Wed, 08 Jan 2014 14:46:42 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>&quot;I have added a YouTube clip from BETT this year. Not many views, think it may have been private by...new comment on the cloud BETT by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-8926</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8926</guid>
+	      <description><![CDATA[<strong>"I have added a YouTube clip from BETT this year. Not many views, think it may have been private by...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2797">BETT</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Wed, 16 Oct 2013 17:26:51 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Vince Cable at BETT 2013 on Education as a Business new embedded content added to the cloud BETT by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#embed-2784</link>
+	      <guid>https://cloudworks.ac.uk/#embed-2784</guid>
+	      <description><![CDATA[<strong>Vince Cable at BETT 2013 on Education as a Business </strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2797">BETT</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Wed, 16 Oct 2013 17:22:11 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>The Mobile Holidaynew cloud created by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/8500">The Mobile Holiday</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Wed, 16 Oct 2013 17:07:38 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;Now revised...new comment on the cloud DemSIG Design Science Workshop - March 15th by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-8667</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8667</guid>
+	      <description><![CDATA[<strong>"Now revised...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8083">DemSIG Design Science Workshop - March 15th</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Tue, 12 Mar 2013 17:48:05 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I have added this to the Cloudscapes on the Dreambazaar and Refection ( week 8 ) as I will be...new comment on the cloud DemSIG Design Science Workshop - March 15th by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-8554</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8554</guid>
+	      <description><![CDATA[<strong>"I have added this to the Cloudscapes on the Dreambazaar and Refection ( week 8 ) as I will be...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8083">DemSIG Design Science Workshop - March 15th</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Thu, 07 Mar 2013 17:43:31 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Blog on start of aims for learning design for this event new link on DemSIG Design Science Workshop - March 15th added by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#link-5173</link>
+	      <guid>https://cloudworks.ac.uk/#link-5173</guid>
+	      <description><![CDATA[<strong>Blog on start of aims for learning design for this event </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/8083">DemSIG Design Science Workshop - March 15th</a> added by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Thu, 07 Mar 2013 17:40:32 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Blog on QFD for slides design new link on DemSIG Design Science Workshop - March 15th added by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#link-5172</link>
+	      <guid>https://cloudworks.ac.uk/#link-5172</guid>
+	      <description><![CDATA[<strong>Blog on QFD for slides design </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/8083">DemSIG Design Science Workshop - March 15th</a> added by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Wed, 06 Mar 2013 17:30:53 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Draft slides with video from Will Pollardnew embedded content added to the cloud DemSIG Design Science Workshop - March 15th by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#embed-2658</link>
+	      <guid>https://cloudworks.ac.uk/#embed-2658</guid>
+	      <description><![CDATA[<strong>Draft slides with video from Will Pollard</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/8083">DemSIG Design Science Workshop - March 15th</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Wed, 06 Mar 2013 17:28:46 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Draft slides from Will Pollardnew embedded content added to the cloud DemSIG Design Science Workshop - March 15th by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#embed-2657</link>
+	      <guid>https://cloudworks.ac.uk/#embed-2657</guid>
+	      <description><![CDATA[<strong>Draft slides from Will Pollard</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/8083">DemSIG Design Science Workshop - March 15th</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Wed, 06 Mar 2013 17:27:56 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>&quot;Art, permission to video / make video public is not off topic. The learning design approach seems...new comment on the cloud Will Pollard - Week 8 Reflection by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-8531</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8531</guid>
+	      <description><![CDATA[<strong>"Art, permission to video / make video public is not off topic. The learning design approach seems...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8155">Will Pollard - Week 8 Reflection</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 04 Mar 2013 09:49:11 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I notice this comment from the Google discussion on the OLDS MOOC -
+Yes, one of the business models...new comment on the cloud Content Marketing by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-8506</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8506</guid>
+	      <description><![CDATA[<strong>"I notice this comment from the Google discussion on the OLDS MOOC -
+Yes, one of the business models...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8074">Content Marketing</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Sun, 03 Mar 2013 17:41:56 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Reflection 1 Wild Show on Phonic FM new link on Will Pollard - Week 8 Reflection added by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#link-5165</link>
+	      <guid>https://cloudworks.ac.uk/#link-5165</guid>
+	      <description><![CDATA[<strong>Reflection 1 Wild Show on Phonic FM </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/8155">Will Pollard - Week 8 Reflection</a> added by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Sun, 03 Mar 2013 16:35:44 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Will Pollard - Week 8 Reflectionnew cloud created by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/8155">Will Pollard - Week 8 Reflection</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Sun, 03 Mar 2013 16:34:35 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;Couple of blog links to extracts from two...new comment on the cloud Will Pollard - Radio Show about Design Science DJ by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-8494</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8494</guid>
+	      <description><![CDATA[<strong>"Couple of blog links to extracts from two...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8102">Will Pollard - Radio Show about Design Science DJ</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Sat, 02 Mar 2013 12:58:41 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Couple of blog links to extracts from two...new comment on the cloud Will Pollard, Wild Show on Phonic FM and OER Resources by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-8493</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8493</guid>
+	      <description><![CDATA[<strong>"Couple of blog links to extracts from two...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8076">Will Pollard, Wild Show on Phonic FM and OER Resources</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Sat, 02 Mar 2013 12:57:53 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Formative Review Log - Design Science Radio Shownew cloud created by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/8116">Formative Review Log - Design Science Radio Show</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 25 Feb 2013 16:32:05 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Blog links YouTube and Soundcloud clips from show #1 new link on Evaluation Plan for Design Science Wild Show #2 added by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#link-5160</link>
+	      <guid>https://cloudworks.ac.uk/#link-5160</guid>
+	      <description><![CDATA[<strong>Blog links YouTube and Soundcloud clips from show #1 </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/8114">Evaluation Plan for Design Science Wild Show #2</a> added by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 25 Feb 2013 10:05:39 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Evaluation Plan for Design Science Wild Show #2new cloud created by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/8114">Evaluation Plan for Design Science Wild Show #2</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 25 Feb 2013 10:04:08 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;The aim of the prototype was to explain how to choose Creative Commons as an option in YouTube....new comment on the cloud Will Pollard: evaluation decisions and evaluation questions by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-8465</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8465</guid>
+	      <description><![CDATA[<strong>"The aim of the prototype was to explain how to choose Creative Commons as an option in YouTube....</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8103">Will Pollard: evaluation decisions and evaluation questions</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 25 Feb 2013 09:04:53 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Blog links to Design Science DJ show #1 new link on Will Pollard, Wild Show on Phonic FM and OER Resources added by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#link-5159</link>
+	      <guid>https://cloudworks.ac.uk/#link-5159</guid>
+	      <description><![CDATA[<strong>Blog links to Design Science DJ show #1 </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/8076">Will Pollard, Wild Show on Phonic FM and OER Resources</a> added by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Sat, 23 Feb 2013 11:22:07 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;Yishay,
+Sorry, I added the wrong one. I think the right one is now in this. Sorry also they are so...new comment on the cloud Will Pollard - Radio Show about Design Science DJ by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-8448</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8448</guid>
+	      <description><![CDATA[<strong>"Yishay,
+Sorry, I added the wrong one. I think the right one is now in this. Sorry also they are so...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8102">Will Pollard - Radio Show about Design Science DJ</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Fri, 22 Feb 2013 16:43:14 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Will Pollard: evaluation decisions and evaluation questionsnew cloud created by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/8103">Will Pollard: evaluation decisions and evaluation questions</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Fri, 22 Feb 2013 16:02:01 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Will Pollard - Radio Show about Design Science DJnew cloud created by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/8102">Will Pollard - Radio Show about Design Science DJ</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Fri, 22 Feb 2013 15:52:05 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Will Pollard Learning Journal Week Seven - Evaluatenew cloud created by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/8100">Will Pollard Learning Journal Week Seven - Evaluate</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Fri, 22 Feb 2013 15:22:57 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;Maximum 22 places; book now – first come, first served... Apply to: demsig@thecqi.orgMeeting...new comment on the cloud DemSIG Design Science Workshop - March 15th by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-8432</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8432</guid>
+	      <description><![CDATA[<strong>"Maximum 22 places; book now &ndash; first come, first served... Apply to: demsig@thecqi.orgMeeting...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8083">DemSIG Design Science Workshop - March 15th</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Wed, 20 Feb 2013 15:36:08 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>DemSIG Design Science Workshop - March 15thnew cloud created by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/8083">DemSIG Design Science Workshop - March 15th</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Wed, 20 Feb 2013 15:30:55 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;I have added a couple of mash up photos, see cable cars, Bow Creek, Otter Valley.
+Not sure why...new comment on the cloud Will Pollard, Wild Show on Phonic FM and OER Resources by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-8428</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8428</guid>
+	      <description><![CDATA[<strong>"I have added a couple of mash up photos, see cable cars, Bow Creek, Otter Valley.
+Not sure why...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8076">Will Pollard, Wild Show on Phonic FM and OER Resources</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Wed, 20 Feb 2013 12:53:12 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>cable cars, Bow Creek, Otter Valleynew embedded content added to the cloud Will Pollard, Wild Show on Phonic FM and OER Resources by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#embed-2639</link>
+	      <guid>https://cloudworks.ac.uk/#embed-2639</guid>
+	      <description><![CDATA[<strong>cable cars, Bow Creek, Otter Valley</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/8076">Will Pollard, Wild Show on Phonic FM and OER Resources</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Wed, 20 Feb 2013 12:48:47 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>&quot;I contributed to the English language site and attended one conference.
+Gradually more English...new comment on the cloud Citizen Journalism / OhmyNews by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-8410</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8410</guid>
+	      <description><![CDATA[<strong>"I contributed to the English language site and attended one conference.
+Gradually more English...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8078">Citizen Journalism / OhmyNews</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Feb 2013 16:11:20 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Al Jazeera reportnew embedded content added to the cloud Citizen Journalism / OhmyNews by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#embed-2637</link>
+	      <guid>https://cloudworks.ac.uk/#embed-2637</guid>
+	      <description><![CDATA[<strong>Al Jazeera report</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/8078">Citizen Journalism / OhmyNews</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Feb 2013 16:08:18 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>OhmyNews TV new link on Citizen Journalism / OhmyNews added by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#link-5156</link>
+	      <guid>https://cloudworks.ac.uk/#link-5156</guid>
+	      <description><![CDATA[<strong>OhmyNews TV </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/8078">Citizen Journalism / OhmyNews</a> added by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Feb 2013 16:02:10 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Citizen Journalism / OhmyNewsnew cloud created by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/8078">Citizen Journalism / OhmyNews</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Feb 2013 16:00:44 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Sparkle sample beatnew embedded content added to the cloud Will Pollard, Wild Show on Phonic FM and OER Resources by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#embed-2636</link>
+	      <guid>https://cloudworks.ac.uk/#embed-2636</guid>
+	      <description><![CDATA[<strong>Sparkle sample beat</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/8076">Will Pollard, Wild Show on Phonic FM and OER Resources</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Feb 2013 15:29:52 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Now That It&#39;s Come To This new link on Will Pollard, Wild Show on Phonic FM and OER Resources added by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#link-5155</link>
+	      <guid>https://cloudworks.ac.uk/#link-5155</guid>
+	      <description><![CDATA[<strong>Now That It's Come To This </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/8076">Will Pollard, Wild Show on Phonic FM and OER Resources</a> added by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Feb 2013 15:28:11 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Don&#39;tGetTwisted(mix) new link on Will Pollard, Wild Show on Phonic FM and OER Resources added by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#link-5154</link>
+	      <guid>https://cloudworks.ac.uk/#link-5154</guid>
+	      <description><![CDATA[<strong>Don'tGetTwisted(mix) </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/8076">Will Pollard, Wild Show on Phonic FM and OER Resources</a> added by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Feb 2013 15:27:17 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Suggested by YouTubenew embedded content added to the cloud Will Pollard, Wild Show on Phonic FM and OER Resources by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#embed-2635</link>
+	      <guid>https://cloudworks.ac.uk/#embed-2635</guid>
+	      <description><![CDATA[<strong>Suggested by YouTube</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/8076">Will Pollard, Wild Show on Phonic FM and OER Resources</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Feb 2013 15:18:24 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>science DJ first gonew embedded content added to the cloud Will Pollard, Wild Show on Phonic FM and OER Resources by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#embed-2634</link>
+	      <guid>https://cloudworks.ac.uk/#embed-2634</guid>
+	      <description><![CDATA[<strong>science DJ first go</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/8076">Will Pollard, Wild Show on Phonic FM and OER Resources</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Feb 2013 15:16:11 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Rise of the Science DJnew embedded content added to the cloud Will Pollard, Wild Show on Phonic FM and OER Resources by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#embed-2633</link>
+	      <guid>https://cloudworks.ac.uk/#embed-2633</guid>
+	      <description><![CDATA[<strong>Rise of the Science DJ</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/8076">Will Pollard, Wild Show on Phonic FM and OER Resources</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Feb 2013 15:13:58 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Will Pollard, Wild Show on Phonic FM and OER Resourcesnew cloud created by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/8076">Will Pollard, Wild Show on Phonic FM and OER Resources</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Feb 2013 15:13:01 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;Please add comments. I think there is a theory of Public Relations that explaqins how this sort of...new comment on the cloud Visual Arts Event - Creative Commons PR by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-8403</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8403</guid>
+	      <description><![CDATA[<strong>"Please add comments. I think there is a theory of Public Relations that explaqins how this sort of...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8075">Visual Arts Event - Creative Commons PR</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Feb 2013 11:17:46 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Gillian Taylor Interview - Isca Obscura new embedded content added to the cloud Visual Arts Event - Creative Commons PR by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#embed-2630</link>
+	      <guid>https://cloudworks.ac.uk/#embed-2630</guid>
+	      <description><![CDATA[<strong>Gillian Taylor Interview - Isca Obscura </strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/8075">Visual Arts Event - Creative Commons PR</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Feb 2013 11:15:48 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Visual Arts Event - Creative Commons PRnew cloud created by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/8075">Visual Arts Event - Creative Commons PR</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Feb 2013 11:13:34 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;I hope to catch up during today. Friday was a benefit performance for Phonic FM so I needed sleep...new comment on the cloud Will Pollard Learning Journal Week Six - Curate by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-8401</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8401</guid>
+	      <description><![CDATA[<strong>"I hope to catch up during today. Friday was a benefit performance for Phonic FM so I needed sleep...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8051">Will Pollard Learning Journal Week Six - Curate</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Feb 2013 10:41:56 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Worries about MOOC marketing at BETT new link on Content Marketing added by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#link-5153</link>
+	      <guid>https://cloudworks.ac.uk/#link-5153</guid>
+	      <description><![CDATA[<strong>Worries about MOOC marketing at BETT </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/8074">Content Marketing</a> added by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Feb 2013 10:39:45 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>eCornell free MOOC leads to paid for course new link on Content Marketing added by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#link-5152</link>
+	      <guid>https://cloudworks.ac.uk/#link-5152</guid>
+	      <description><![CDATA[<strong>eCornell free MOOC leads to paid for course </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/8074">Content Marketing</a> added by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Feb 2013 10:39:09 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Content Marketingnew cloud created by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/8074">Content Marketing</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Feb 2013 10:37:50 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;There is now a Phonic playlist on...new comment on the cloud Will Pollard: Open Video Edit / Production by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-8399</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8399</guid>
+	      <description><![CDATA[<strong>"There is now a Phonic playlist on...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7039">Will Pollard: Open Video Edit / Production</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Feb 2013 10:23:27 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Phonic Party Playlistnew embedded content added to the cloud Will Pollard: Open Video Edit / Production by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#embed-2629</link>
+	      <guid>https://cloudworks.ac.uk/#embed-2629</guid>
+	      <description><![CDATA[<strong>Phonic Party Playlist</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/7039">Will Pollard: Open Video Edit / Production</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Feb 2013 10:16:26 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>&quot;Link is to a blog post that prefers Slideshare for most purposes.
+I have been using Scribd for a...new comment on the cloud Scribd by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-8397</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8397</guid>
+	      <description><![CDATA[<strong>"Link is to a blog post that prefers Slideshare for most purposes.
+I have been using Scribd for a...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8073">Scribd</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Feb 2013 10:12:24 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Blog post compares Slideshare and Scribd new link on Scribd added by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#link-5151</link>
+	      <guid>https://cloudworks.ac.uk/#link-5151</guid>
+	      <description><![CDATA[<strong>Blog post compares Slideshare and Scribd </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/8073">Scribd</a> added by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Feb 2013 10:10:09 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Interview with Trip Adlernew embedded content added to the cloud Scribd by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#embed-2628</link>
+	      <guid>https://cloudworks.ac.uk/#embed-2628</guid>
+	      <description><![CDATA[<strong>Interview with Trip Adler</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/8073">Scribd</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Feb 2013 10:07:55 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Scribdnew cloud created by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/8073">Scribd</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Feb 2013 10:05:15 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Will Pollard Learning Journal Week Six - Curatenew cloud created by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/8051">Will Pollard Learning Journal Week Six - Curate</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Fri, 15 Feb 2013 08:56:06 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;I am leaving bthis till later in the week as I will meet people face to face on Thursday and expect...new comment on the cloud Will Pollard Learning Journal Week Five - Prototype by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-8356</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8356</guid>
+	      <description><![CDATA[<strong>"I am leaving bthis till later in the week as I will meet people face to face on Thursday and expect...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7984">Will Pollard Learning Journal Week Five - Prototype</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Wed, 13 Feb 2013 10:37:15 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Ida,
+Thanks for this. I will look into the software you mention.
+Rather than screen capture i was...new comment on the cloud Prototype of animation for YouTube Creative Commons / Remix option -Will Pollard by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-8341</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8341</guid>
+	      <description><![CDATA[<strong>"Ida,
+Thanks for this. I will look into the software you mention.
+Rather than screen capture i was...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7988">Prototype of animation for YouTube Creative Commons / Remix option -Will Pollard</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Tue, 12 Feb 2013 15:38:54 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Van Aken, J.E. (2004). &quot;Management research based on the paradigm of the design sciences: The quest......&quot; reference added to the cloud Design Science by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#reference-1073</link>
+	      <guid>https://cloudworks.ac.uk/#reference-1073</guid>
+	      <description><![CDATA[<strong>"Van Aken, J.E. (2004). "Management research based on the paradigm of the design sciences: The quest......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/6588">Design Science</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Tue, 12 Feb 2013 10:24:02 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;New blog post has possible links for the radio shows and other...new comment on the cloud Design Science by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-8316</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8316</guid>
+	      <description><![CDATA[<strong>"New blog post has possible links for the radio shows and other...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6588">Design Science</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 11 Feb 2013 11:04:05 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Switchcam example with no sound - Isca Wheelchair Dancers new link on Will Pollard: Open Video Edit / Production added by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#link-5146</link>
+	      <guid>https://cloudworks.ac.uk/#link-5146</guid>
+	      <description><![CDATA[<strong>Switchcam example with no sound - Isca Wheelchair Dancers </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/7039">Will Pollard: Open Video Edit / Production</a> added by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Sun, 10 Feb 2013 17:48:20 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;Now I have a test on...new comment on the cloud Will Pollard: Open Video Edit / Production by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-8309</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8309</guid>
+	      <description><![CDATA[<strong>"Now I have a test on...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7039">Will Pollard: Open Video Edit / Production</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Sun, 10 Feb 2013 17:47:36 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Art,
+Thanks for the link to Switchcam. They have now let me on to the beta so I will try this...new comment on the cloud Will Pollard: Open Video Edit / Production by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-8288</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8288</guid>
+	      <description><![CDATA[<strong>"Art,
+Thanks for the link to Switchcam. They have now let me on to the beta so I will try this...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7039">Will Pollard: Open Video Edit / Production</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Sat, 09 Feb 2013 17:04:08 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Prototype of animation for YouTube Creative Commons / Remix option -Will Pollardnew cloud created by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7988">Prototype of animation for YouTube Creative Commons / Remix option -Will Pollard</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Sat, 09 Feb 2013 16:34:56 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;I have started with two blog psts that make sense for me. I have done them in the time available...new comment on the cloud Will Pollard Learning Journal Week Five - Prototype by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-8284</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8284</guid>
+	      <description><![CDATA[<strong>"I have started with two blog psts that make sense for me. I have done them in the time available...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7984">Will Pollard Learning Journal Week Five - Prototype</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Fri, 08 Feb 2013 18:09:23 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Blog post with prototype of a step by step animation on YouTube remix option new link on Will Pollard Learning Journal Week Five - Prototype added by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#link-5141</link>
+	      <guid>https://cloudworks.ac.uk/#link-5141</guid>
+	      <description><![CDATA[<strong>Blog post with prototype of a step by step animation on YouTube remix option </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/7984">Will Pollard Learning Journal Week Five - Prototype</a> added by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Fri, 08 Feb 2013 18:06:45 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Blog post on Creative Commons and copyright new link on Will Pollard Learning Journal Week Five - Prototype added by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#link-5140</link>
+	      <guid>https://cloudworks.ac.uk/#link-5140</guid>
+	      <description><![CDATA[<strong>Blog post on Creative Commons and copyright </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/7984">Will Pollard Learning Journal Week Five - Prototype</a> added by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Fri, 08 Feb 2013 18:05:41 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Will Pollard Learning Journal Week Five - Prototypenew cloud created by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7984">Will Pollard Learning Journal Week Five - Prototype</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Fri, 08 Feb 2013 18:03:23 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Will Pollard Learning Journal Week Four - Connectnew cloud created by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7983">Will Pollard Learning Journal Week Four - Connect</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Fri, 08 Feb 2013 17:59:02 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Will Pollard Learning Journal Week Three - Ideatenew cloud created by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7982">Will Pollard Learning Journal Week Three - Ideate</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Fri, 08 Feb 2013 17:53:22 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;I am intending to look at design science as part of a radio show on Feb 21st and 28th. the Wild...new comment on the cloud Design Science by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-8252</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8252</guid>
+	      <description><![CDATA[<strong>"I am intending to look at design science as part of a radio show on Feb 21st and 28th. the Wild...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6588">Design Science</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Tue, 05 Feb 2013 17:28:10 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I have added a report on speech by Vince Cable. As far as I can discover, only the computer press...new comment on the cloud BETT by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-8225</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8225</guid>
+	      <description><![CDATA[<strong>"I have added a report on speech by Vince Cable. As far as I can discover, only the computer press...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2797">BETT</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 04 Feb 2013 10:05:05 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Vince Cable at BETT new link on BETT added by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#link-5132</link>
+	      <guid>https://cloudworks.ac.uk/#link-5132</guid>
+	      <description><![CDATA[<strong>Vince Cable at BETT </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2797">BETT</a> added by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 04 Feb 2013 10:02:21 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;Diana, thanks for your comments. I am getting used to the scope that this is mostly about the...new comment on the cloud Diana&#39;s chosen principle by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-8202</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8202</guid>
+	      <description><![CDATA[<strong>"Diana, thanks for your comments. I am getting used to the scope that this is mostly about the...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6729">Diana's chosen principle</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Sun, 03 Feb 2013 13:39:12 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>sound clip twonew embedded content added to the cloud Design Science as a Design Principle by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#embed-2599</link>
+	      <guid>https://cloudworks.ac.uk/#embed-2599</guid>
+	      <description><![CDATA[<strong>sound clip two</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/7936">Design Science as a Design Principle</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Sun, 03 Feb 2013 13:34:40 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>sound clip onenew embedded content added to the cloud Design Science as a Design Principle by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#embed-2598</link>
+	      <guid>https://cloudworks.ac.uk/#embed-2598</guid>
+	      <description><![CDATA[<strong>sound clip one</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/7936">Design Science as a Design Principle</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Sun, 03 Feb 2013 13:34:05 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Design Science as a Design Principlenew cloud created by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7936">Design Science as a Design Principle</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Sun, 03 Feb 2013 13:32:19 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;I don&#39;t think we will see what happens till we experience the use of the patterns with actual...new comment on the cloud Diana&#39;s chosen principle by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-8180</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8180</guid>
+	      <description><![CDATA[<strong>"I don't think we will see what happens till we experience the use of the patterns with actual...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6729">Diana's chosen principle</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Sat, 02 Feb 2013 16:38:54 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Will Pollard Learning Journal Week Three - Ideatenew cloud created by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7870">Will Pollard Learning Journal Week Three - Ideate</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 28 Jan 2013 20:34:03 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;I found the cards quite hard to engage with to start with. I have the idea of a learning cycle in...new comment on the cloud What exactly does a learning design tool need to support? (What&#39;s essential? What&#39;s merely useful?) by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-8057</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8057</guid>
+	      <description><![CDATA[<strong>"I found the cards quite hard to engage with to start with. I have the idea of a learning cycle in...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6216">What exactly does a learning design tool need to support? (What's essential? What's merely useful?)</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 28 Jan 2013 20:27:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Course Features Cardsnew embedded content added to the cloud Will Pollard: Open Video Edit / Production by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#embed-2555</link>
+	      <guid>https://cloudworks.ac.uk/#embed-2555</guid>
+	      <description><![CDATA[<strong>Course Features Cards</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/7039">Will Pollard: Open Video Edit / Production</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Mon, 28 Jan 2013 20:17:21 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>&quot;Copied from my learning log as I think Sancha&#39;s comment should be here also-
+Sancha de...new comment on the cloud Will Pollard: Open Video Edit / Production by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-7871</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7871</guid>
+	      <description><![CDATA[<strong>"Copied from my learning log as I think Sancha's comment should be here also-
+Sancha de...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7039">Will Pollard: Open Video Edit / Production</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Wed, 23 Jan 2013 18:42:17 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Apart from the Ecology of Resources I have tried out most of this week suggestions.
+I have...new comment on the cloud Will Pollard Learning Journal Week Two - Inquire by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-7857</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7857</guid>
+	      <description><![CDATA[<strong>"Apart from the Ecology of Resources I have tried out most of this week suggestions.
+I have...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7582">Will Pollard Learning Journal Week Two - Inquire</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Wed, 23 Jan 2013 15:43:04 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I am going to concentrate on video http://cloudworks.ac.uk/cloud/view/7039
+but I&#39;m also...new comment on the cloud Sharon Collingwood: Using presence in virtual worlds a springboard for learning   by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-7840</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7840</guid>
+	      <description><![CDATA[<strong>"I am going to concentrate on video&nbsp;http://cloudworks.ac.uk/cloud/view/7039
+but I'm also...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7212">Sharon Collingwood: Using presence in virtual worlds a springboard for learning  </a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Wed, 23 Jan 2013 10:39:29 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Tiffany,
+Thanks for this suggestion. I will think on and add here later....new comment on the cloud Will Pollard: Open Video Edit / Production by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-7838</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7838</guid>
+	      <description><![CDATA[<strong>"Tiffany,
+Thanks for this suggestion. I will think on and add here later....</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7039">Will Pollard: Open Video Edit / Production</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Wed, 23 Jan 2013 09:50:54 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Art,
+I think the main blocks could be bandwidth, management attitudes to copyright, and attitudes...new comment on the cloud Will Pollard: Open Video Edit / Production by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-7837</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7837</guid>
+	      <description><![CDATA[<strong>"Art,
+I think the main blocks could be bandwidth, management attitudes to copyright, and attitudes...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7039">Will Pollard: Open Video Edit / Production</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Wed, 23 Jan 2013 09:50:16 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Borrowed from ARTiFactor: My Dream: a Digital Literacy MOOCnew embedded content added to the cloud Will Pollard: Open Video Edit / Production by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#embed-2517</link>
+	      <guid>https://cloudworks.ac.uk/#embed-2517</guid>
+	      <description><![CDATA[<strong>Borrowed from ARTiFactor: My Dream: a Digital Literacy MOOC</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/7039">Will Pollard: Open Video Edit / Production</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Wed, 23 Jan 2013 09:42:01 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>See discussion below - Process Arts / Chris Followsnew embedded content added to the cloud BETT by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#embed-2509</link>
+	      <guid>https://cloudworks.ac.uk/#embed-2509</guid>
+	      <description><![CDATA[<strong>See discussion below - Process Arts / Chris Follows</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2797">BETT</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Tue, 22 Jan 2013 10:29:11 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>&quot;Chris, thanks for this. I can&#39;t follow your blog link
+&quot;User registration is currently not...new comment on the cloud BETT by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-7744</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7744</guid>
+	      <description><![CDATA[<strong>"Chris, thanks for this. I can't follow your blog link
+"User registration is currently not...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2797">BETT</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Tue, 22 Jan 2013 10:25:48 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Edit on YouTube, see discussion belownew embedded content added to the cloud Will Pollard: Open Video Edit / Production by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#embed-2506</link>
+	      <guid>https://cloudworks.ac.uk/#embed-2506</guid>
+	      <description><![CDATA[<strong>Edit on YouTube, see discussion below</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/7039">Will Pollard: Open Video Edit / Production</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Tue, 22 Jan 2013 09:32:17 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>&quot;Chris, Thanks for this. I have added the video.
+Do you know of a reqassuring simple guide to how...new comment on the cloud Will Pollard: Open Video Edit / Production by Will Pollard</title>
+	      <link>https://cloudworks.ac.uk/#comment-7738</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7738</guid>
+	      <description><![CDATA[<strong>"Chris, Thanks for this. I have added the video.
+Do you know of a reqassuring simple guide to how...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7039">Will Pollard: Open Video Edit / Production</a> by <a href="https://cloudworks.ac.uk/user/view/1257" rel="author">Will Pollard</a></em>]]></description>
+	  	  <pubDate>Tue, 22 Jan 2013 09:30:27 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+	    </channel>
+</rss>

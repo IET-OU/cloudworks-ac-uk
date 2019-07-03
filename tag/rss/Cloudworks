@@ -1,0 +1,1379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: Cloudworks</title>
+        <link>https://cloudworks.ac.uk/tag/rss/Cloudworks</link>
+        <atom:link href="https://cloudworks.ac.uk/tag/rss/Cloudworks" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds tagged Cloudworks</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>IET TCM Event 2013: Learner experiences and the personalising of paths through a (massive) open online course</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8019</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8019</guid>
+              <description><![CDATA[<h3>SORRY - POSTPONED UNTIL 2014</h3>
+<h3>Personal learner experiences of multiple technologies during a (massive) open online course (MOOC)</h3>
+<p><strong>If you are based on campus please join us for this informal, face-to-face session, have a cup of coffee/tea (with biscuits!) and contribute to the discussion.&nbsp; This event will be broadcast live online for every one to watch and will be recorded for replay.</strong></p>
+<p><strong>Abstract: </strong>This presentation will review how a specific configuration of openly available collaborative and social media tools functioned during the OLDS MOOC Open Online which took place between January and March 2013. The course sought to use a range of existing tools including Cloudworks, Google groups and hangouts, Twitter, Bibsonomy, and personal blogging, principally integrating these through the design and organisation of the learning activities. The presentation will draw upon the a rich evidence base of participant feedback, blog posts and questionnaire survey data to describe how users experienced these multiple technologies and illustrate some of the ways that individuals, by exercising a degree of choice around which technologies to use and how, created more personal pathways through the course. The presentation will conclude by reflecting on the potential tensions between fragmentation and integration and between the personal and collaborative/cooperative experience.</p>
+<p><strong>Presenter:</strong> Dr Simon Cross (IET)</p>
+<p><strong>Location: </strong>Jennie Lee Building Meeting Room 1 Ground Floor</p>
+<p><strong><strong><a href="http://stadium.open.ac.uk/jlb/"><strong>Live Link to online broadcast</strong></a><br /><br /></strong></strong><strong>Twitter hashtag</strong>: <a title="Nick's suggestion - URL-encoding fail!!" href="http://twitter.com/search/#ouTCM">#ouTCM</a><br /><strong><br /><strong><a href="http://cloudworks.ac.uk/cloudscape/view/2107">IET TCM 2013 Schedule</a></strong></strong></p>
+<p><strong><a href="http://cloudworks.ac.uk/cloudscape/view/2107">General information about IET TCMs</a></strong></p>
+<p><a href="http://podcast.open.ac.uk/oulearn/engineering-and-technology/ict/podcast-iet-tcm" rel="nofollow"><strong>Podcasts of past&nbsp;events</strong></a></p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Wed, 13 Feb 2013 12:04:36 +0000</pubDate>
+            </item>
+                    <item>
+              <title>&#39;Learning Design&#39; experience - OLD-MOOC 2013</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7796</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7796</guid>
+              <description><![CDATA[<p><strong>Every week I 'design' a programme of learning when I take, one after the other, four groups of swimmers at my local swimming club. </strong></p>
+<p>Some 12 years of doing this, training and CPD means that I no longer prepare a programme in advance, rather I know the stroke and skills we are covering each week and have in my armoury a set of activities. These build from warm-up over 5-8 minutes into a variety of drills tailored to fixing problems with a stroke. The pattern whole-part-whole is used - to swim the stroke, spot problems, then put in a series of drills and exercises, typically involving only the legs or only the arms - as in 'part'. There are then advance 'whole swim' drills and any number of complementary fun activities. Diving or racing typically ends the session.</p>
+<p>Often I draw on sets of images from 'The Swimming Drill Book' to show swimmers poolside what I want them to do - so a sequence of actions or a particular arm, body or leg position. Used in this way these sets of images can become like a set of cards that can be placed in whatever order I feel is appropriate as we go along.</p>
+<p>Planning a programme of work for a squad is akin to creating a curriculum that runs from September through to the competitions season that runs through the Spring and Summer.</p>
+<p><strong>Creating e-learning for corporate clients - compliance on health and safety, data protection, graduate induction and so on, might follow a remarkably similar pattern.</strong></p>
+<p>The 'warm up' is an introduction, ideally something to grab their attention. Headliners on the banking crisis, a news piece on a data protection scandal, a criminal banged up (CPS induction) or a young person (actor) having an asthma attack. Like the swimming session these modules typically run for an hour, so 12 modules at five minutes each isn't unusual. There will be introductions to themes and ideas, following by activities to check learning or integrating an activity with fact finding.</p>
+<p><strong>It isn't all online - learners might have to figure something out on paper and then return to the screen.</strong></p>
+<p>It may also be personalised, so going into the system to generate something like a holiday request as per the instructions in the learning activity. Whilst the swimmer is observed and various skills checked off, in the e-learning experience the ticks relate to an activity successfully completed. This is not always linear, sometimes it is more exploratory, or can be done out of sequence, but the goal is to get everything done and demonstrate knowledge. At some stages a follow up set of questions will be issues to keep the information fresh.</p>
+<p><strong>The outcome is primary - what are you trying to achieve.</strong></p>
+<p>It is either state bluntly or apparent from the activities that day.</p>
+<p><strong>GOAL </strong>- To ensure that all swimmers keep their hands in front of their shoulders when swimming competitive breaststroke.</p>
+<p><strong>GOAL</strong> - To ensure that all graduate lawyers starting with the CPS can visualise a file as a defendant/law breaker - a person on whom all kinds of institutions and other people impact as their case comes to trial.</p>
+<p>I have always used a communications industry brief to spec out the project and to help focus on the ideas that are required. On a single sheet of paper respond to the following:</p>
+<ul>
+<li>What is the problem?</li>
+<li>Who are you speaking to?</li>
+<li>What do you want to say?</li>
+<li>How do you want them to respond to this?</li>
+<li>What else do we need to know?</li>
+</ul>
+<p>In Swimming ideas come from formal courses, from colleagues, from resources online and books. You see something that works, so you give it a go. You show what appears to be an intractable problem with others and they offer a solution.</p>
+<p>In e-learning the ideas are developed in a lengthy workshop - the client(s) and several team members strip down the creative brief, draw on the knowledge of an experience L&amp;D manager at the client end, may include a subject matter expert, but certainly includes a learning designer and project manager. Flip charts and post-it notes are used.</p>
+<p>A number of creative problem solving or idea generating activities can also be used - moderating and leading techniques compiled, trialed and explained by VanGundy, for example.</p>
+<p><strong>Marker pens on large sheets of paper - typically on sheets of A1 Flipchart paper - sometimes these are taped together. </strong></p>
+<p>My personal preference is for wallpaper backing paper as the long strips mean that people around a table can all contribute. These sessions need to be carefully choreographed ... and at various points the outcomes stated, written down so that everyone can see and agreed.</p>
+<p>Once done the Learning Designer takes it all away and compresses it into a form that can be shared digitally - typically a PowerPoint, with the warning that this should not imply a strict linear expression of the learning. Other programmes can be used, usually something built by the agency or a licensed commercial product.</p>
+<p>Other learning experiences I have 'designed' - linear and interactive video to support facilitated learning, run to some 50. These followed a far less collaborative process of taking a brief, brainstorming ideas alone ... sometimes using an interactive tool called 'Ideafisher' then producing a synopsis, treatment and script. When other professionals come in to produce the learning the design stage is complete. For interactive learning the video is scripted as a number of components that are an integral part of the learning journey.</p>
+<p><strong>REFERENCE</strong></p>
+<p>Guzman, R (2007) The Swim Drills Book</p>
+<p>Herd, C., Bentley, J., Morrison, D., Earnshaw,M., Haines,B., Woodford,S., Hooper,M., Lancaster,G., Knox.S., Nebel,A., Doyle,A., Bishop.A. &nbsp;(2003) The Client Brief - A best practice guide to briefing communications agencies - Joint industry guidelines for young marketing professionals in working effectively with agencies. Copyright by ISBA and CAF, representing the IPA, MCCA and PRCA (last accessed 9 Jan 2013 <a href="http://www.apra.cz/data/dokumenty/PRCA-The_Client_Brief-Full_Guidelines.pdf">http://www.apra.cz/data/dokumenty/PRCA-The_Client_Brief-Full_Guidelines.pdf</a>)</p>
+<p>VanGundy, A.B. (1988) Techniques of Structured Problem Solving, 2<sup>nd</sup> ed., Van Norstrand Reinhold.</p>]]></description>
+          <pubDate>Thu, 24 Jan 2013 18:55:42 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Helen Crump OLDS MOOC Learning Journal/blog</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7297</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7297</guid>
+              <description><![CDATA[<p>I&rsquo;m an adult literacy tutor and I live on the West Coast of Ireland. I'm also a very recent graduate of St. Angela's College, Sligo where I completed an M.A. awarded by NUI Galway in Technology, Learning, Innovation and Change.</p>
+<p>I&rsquo;m interested in digital literaciesand social learning, which ideally I'd like to teach online in a Higher Education or professional development context. For that reason I'm developing my skills and knowledge in relation to online pedagogy and instructional design; that's why I&rsquo;m glad to be here taking part in OLDS MOOC "Learning Design for a 21st Century Curriculum"</p>]]></description>
+          <pubDate>Fri, 18 Jan 2013 11:59:17 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Alison&#39;s first toe</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6995</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6995</guid>
+              <description><![CDATA[<p>The water's a bit cold!</p>]]></description>
+          <pubDate>Fri, 11 Jan 2013 12:06:05 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Presentation: A Cloudworks virtual fieldtrip</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5748</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5748</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Fri, 23 Sep 2011 12:38:09 +0000</pubDate>
+            </item>
+                    <item>
+              <title>More on using Cloudworks for K802 (2011)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5657</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5657</guid>
+              <description><![CDATA[<h2>Tabs</h2>
+<p><strong>Clouds have three tabs</strong>: Discussion, Links and Academic References. Depending on the tab you choose, you can view and post discussions, links and references.</p>
+<p><strong>Important</strong>: Don't forget to use all three tabs, and bear in mind that the content of a Cloud is not always visible at a single glance.&nbsp;</p>
+<h3>Discussion</h3>
+<p>The default view of the 'Contribute' section shows the <strong>Discussion</strong> tab, like this:</p>
+<div>
+<p><img src="http://learn.open.ac.uk/file.php/6106/untitled1.JPG" alt="" width="560" height="350" /></p>
+<h3><strong>Links</strong></h3>
+<p><strong>&nbsp;</strong> The links posted by the K802 Team and students are visible in the <strong>Links</strong> tab:</p>
+<p><img src="http://learn.open.ac.uk/file.php/6106/untitled2.JPG" alt="" width="559" height="408" /></p>
+<h3>Academic References</h3>
+<p>And finally, there's the academic references:</p>
+<p><img src="http://learn.open.ac.uk/file.php/6106/untitled3.JPG" alt="" width="561" height="227" /></p>
+<h3>Please remember the general guidance in the '<a href="http://cloudworks.ac.uk/cloudscape/view/2171">Using Cloudworks in K802</a>' Cloud.</h3>
+</div>]]></description>
+          <pubDate>Thu, 11 Aug 2011 09:39:30 +0000</pubDate>
+            </item>
+                    <item>
+              <title>How could we improve Cloudworks?</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5283</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5283</guid>
+              <description><![CDATA[<p>We created this cloud to extend our discussion on the use of Cloudworks beyond our H800 tutor forum.</p>
+<p>Some positive elements mentioned in our group were:</p>
+<p>&nbsp;</p>
+<ol>
+<li>Its kind of like being told to go on a journey and being presented with 20 different routes that will all get you there just on a different track and perhaps at a different speed.</li>
+<li>The metaphor of clouds is very clear and powerful.</li>
+<li>There is a wealth of information on the site.</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div>Some suggestions for areas of improvement were:</div>
+<p>&nbsp;</p>
+<p style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+<ol>
+<li>Some clouds are empty and it costs time to check them all out to find which ones are worth exploring.</li>
+<li>It's yet another social network to share resources, links etc. Why wouldn't I make a summary of conference notes on my blog and send a link around with Twitter?</li>
+<li>The problem is that I just don't have the time to get involved in them at the level I'd like to.</li>
+</ol>
+<div>What are your impressions of the site? &nbsp;What suggestions do you have to improve it?</div>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Wed, 06 Apr 2011 01:20:44 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Cloudworks at the Learn About Fair 2011 </title>
+              <link>https://cloudworks.ac.uk/cloud/view/5204</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5204</guid>
+              <description><![CDATA[<div>
+<h2>The role of collaboration and dialogue in the design process</h2>
+<div style="cursor:auto"><!--NO CSS-->
+<div>The Open University Learning Design Initiative applies a <em>design</em> approach to teaching and learning processes with the aim of enabling  practitioners to make more informed choices about their creation of  learning interventions and better use of good pedagogy and new  technologies. An approach which:</div>
+<ul>
+<li>Utilises a shared <em><strong>design language</strong></em> to both generate designs and as a mechanism for interpreting and discussing</li>
+<li>Uses a <em><strong>notational system</strong></em> which helps us  remember and navigate designs, enables designs to take form and be  shared, and helps us sharpen and multiply abstract design categories</li>
+<li>And recognises that different <em><strong>representations</strong></em> of a design are needed to articulate certain elements of the design, while ignoring others.</li>
+</ul>
+<p>It sees design as a conscious process which involves a dialogue both  with and about the materials. It is seen as a creative and communicative  process and an essentially social activity.</p>
+</div>
+<h2>Cloudworks</h2>
+<p>One of the overarching findings from analysis of the empirical  evidence we have gathered to date into how practitioners currently  design their teaching interventions, and what would help improve their  practice, is the desire to have examples from others and to have access  to a network of practitioners to share and discuss ideas. The <a href="http://www.cloudworks.ac.uk/">Cloudworks</a> site was developed with the intention of addressing this need. We  wanted to harness the best of social media practice for use in a  learning and teaching context.&nbsp; The site is attempting to address three  inter-related issues:</p>
+<ul>
+<li>The lack of uptake of technologies for learning and teaching  (despite the fact as outline above that they have immense potential)</li>
+<li>The new skills needed for engaging in a participatory digital landscape</li>
+<li>When asked the question &lsquo;what do you need in order to make better  use of new technologies in your teaching?&rsquo; teachers invariably say they  want examples and they want to be able to share and discuss their ideas  with others.</li>
+</ul>
+<h2>CloudEngine</h2>
+<p>CloudEngine is the software that powers Cloudworks and has been released on an OpenSource licence.</p>
+<h3 id="!features"><a href="http://getcloudengine.org/"><img title="CloudEngine" src="http://farm2.static.flickr.com/1240/5120647896_522ee0247f.jpg" alt="The CloudEngine Homepage" width="329" height="296" /></a></h3>
+<h3>Features</h3>
+<p>The software enables people to easily set up their own CloudEngine-powered site with loads of features:</p>
+<ul>
+<li>Clouds, Cloudscapes.</li>
+<li>Cloudstreams</li>
+<li>Support for events &ndash; conferences, workshops, paper deadlines</li>
+<li>Tags, search, user profiles.</li>
+<li>Favourite &amp; follow items.</li>
+<li>Twitter feeds</li>
+<li>Embed videos and multimedia (<a href="http://bitbucket.org/cloudengine/cloudengine/wiki/oEmbed">oEmbed</a>)</li>
+<li><a href="http://bitbucket.org/cloudengine/cloudengine/wiki/Translate#wiki">Internationalized</a> &ndash; currently in English and Greek!</li>
+<li>Feeds, <a href="http://bitbucket.org/cloudengine/cloudengine/wiki/API">API</a></li>
+<li>Administration panel including statistics.</li>
+<li>Themable, Extensible&hellip;</li>
+</ul>
+<h3 id="!technical-stuff">Technical stuff</h3>
+<ul>
+<li>CloudEngine uses PHP 5 and a MySQL database.</li>
+<li>It is built on the <a href="http://codeigniter.com/">CodeIgniter</a> framework &ndash; lightweight, easy to learn.</li>
+<li>It prefers Apache and <code>mod_rewrite</code>.</li>
+<li>With mod_rewrite come clean URLs</li>
+<li>Includes jQuery and the Tiny MCE editor.</li>
+<li>It uses Mollom for spam control}}}</li>
+<li>It uses <a href="http://bitbucket.org/cloudengine/cloudengine/wiki/oEmbed">oEmbed</a> for embedding from YouTube, Slideshare, Flickr.. (jQuery powered)</li>
+<li>GNU Gettext for localization.</li>
+<li>Many features (API, internationalization, moderation&hellip;) can be <a href="http://bitbucket.org/cloudengine/cloudengine/wiki/Config">switched on/off and configured</a>.</li>
+</ul>
+<ul>
+<li>Built with <a href="http://bitbucket.org/cloudengine/cloudengine/wiki/Accessibility">accessibility</a> &amp; standards in mind.</li>
+</ul>
+<h3><a href="http://www.getcloudengine.org/">Get CloudEngine!</a></h3>
+</div>]]></description>
+          <pubDate>Wed, 23 Mar 2011 11:31:08 +0000</pubDate>
+            </item>
+                    <item>
+              <title>TCM Feedback: Get CloudEngine - Cloudworks open-sourced</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5100</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5100</guid>
+              <description><![CDATA[<p><strong>Abstract: </strong>Juliette Culver made the Cloudworks software that powers Cloudworks avalable as the open-source CloudEngine project in October 2010.&nbsp;&nbsp;Nine months on we will be exploring:</p>
+<ol>
+<li>What CloudEngine is, what it has to offer </li>
+<li>The process, the journey, the people </li>
+<li>Why we went open-source, what we're learning </li>
+<li>Our roadmap </li>
+<li>How you can get involved </li>
+</ol>
+<p>Find out more about CloudEngine at, <a href="http://getcloudengine.org/">http://getcloudengine.org/</a></p>
+<p><strong>Presenter:</strong>&nbsp; Dr Nick Freear&nbsp;(IET)<br /><br /><strong>Location:</strong>&nbsp; Jennie Lee Building Meeting Room 1 Ground Floor</p>
+<p><strong>Twitter hashtag</strong>: <a title="Nick's suggestion - URL-encoding fail!!" href="http://twitter.com/search/#ouTCM">#ouTCM</a><br /><br /><strong>Link to TCM 2011 Schedule:</strong> <a href="http://cloudworks.ac.uk/cloudscape/view/2107">http://cloudworks.ac.uk/cloudscape/view/2107</a></p>
+<p><strong>OU Podcast Link to past events:&nbsp; <a title="http://podcast.open.ac.uk/oulearn/engineering-and-technology/ict/podcast-iet-tcm" href="http://podcast.open.ac.uk/oulearn/engineering-and-technology/ict/podcast-iet-tcm">http://podcast.open.ac.uk/oulearn/engineering-and-technology/ict/podcast-iet-tcm</a></strong></p>]]></description>
+          <pubDate>Tue, 02 Aug 2011 10:30:22 +0000</pubDate>
+            </item>
+                    <item>
+              <title>I just don&#39;t get it</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4847</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4847</guid>
+              <description><![CDATA[<p>I've watched the videos, I've contributed some links, I've gone on the <a href="http://cloudworks.ac.uk/cloud/view/4655">Cloudworks cloudquest challenge</a> (which to be frank wasn't really very challenging) and I still don't get it. What's the USP of cloudworks? Why would I be here and not in classroom2.0 or in my RSS feed reader or out on the Internet?</p>]]></description>
+          <pubDate>Tue, 16 Nov 2010 21:15:10 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Facilitating community activity on Cloudworks</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4650</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4650</guid>
+              <description><![CDATA[<p>Cloudworks was launched some 15 months ago now, and we are starting to see some distinctive patterns of activity on the site. We believe that this open space, which facilitates discussion between different communities of interest or practice, has the <em>capacity</em> to promote dynamic, evolving and potentially transformative networks. Our position is that &lsquo;community&rsquo; on the site is likely to evolve through many forms and that it can be seen as a <em>process or lifecycle</em>, rather than an absolute state.</p>
+<p>We are also able to begin to make some fairly clear recommendations about how best to go about facilitating community activity and discussion in this rather unique space. The following framework has come out of our observations about what seems to work and what doesn't on the site, and is well supported by the literature. We hope to empirically validate this framework over the next year or so and would value your thoughts and feedback.</p>
+<p><img src="http://farm5.static.flickr.com/4150/5051081282_7ff2a2505c.jpg" alt="Facilitative interventions for community activity on Cloudworks" hspace="25" width="517" height="471" align="centre" /></p>]]></description>
+          <pubDate>Mon, 04 Oct 2010 13:00:43 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Investigations into using Cloudworks as a &#39;pedagogical wrapper&#39; for LAMS sequences</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4186</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4186</guid>
+              <description><![CDATA[<p>This paper explores the use of Cloudworks as a 'pedagogical wrapper' for LAMS sequences in supporting the sharing of ideas accross professional boundaries and facilitating collaborative design, evaluation and critical reflection. This short paper was presented at the 2010 European LAMS &amp; Learning Design Conference, Oxford.</p>]]></description>
+          <pubDate>Mon, 19 Jul 2010 14:06:33 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Presentation - Conole - The rough guide to Cloudworks</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4014</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4014</guid>
+              <description><![CDATA[<p>Presentation for my talk at the OU Learning and Teaching Conference 22nd June 2010. Powerpoint presentation that will be presented during the Eluminate session is below, or try the link to the alternative Prezi presentation.&nbsp;</p>]]></description>
+          <pubDate>Tue, 22 Jun 2010 05:26:59 +0000</pubDate>
+            </item>
+                    <item>
+              <title>A framework for evaluating Cloudworks</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3391</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3391</guid>
+              <description><![CDATA[<p>Recently we have been developing a framework to help us to more systematically and&nbsp; reliably evaluate transactions and activity on Cloudworks in relation to our project aims of a) a developing community, b) the development of professional knowledge and c) sustained participation.</p>
+<p>As discussed in my blog post <a href="/news/view/1474">Community Indicators</a> on the 13th August 09, we have been focusing on pinning down what we might mean by 'community' and therefore what indicators of community we might expect to see as Cloudworks develops over time. I have identified four broad indicators:</p>
+<ul>
+<li>Participation</li>
+<li>Cohesion</li>
+<li>Identity</li>
+<li>Creative capability</li>
+</ul>
+<p>The type of communities we see on Cloudworks are likely to be relational and transient, our evaluation focus is therefore on the <em>process</em> <em>or lifecycle</em> of community formation and growth rather than community as an absolute state. Our interest is in the process of evolution from loosely tied webs or networks to the more cohesive productive groups that can be seen to emerge from repeated and iterative collaborative activity that happens <em>within, across and between</em> groups from more established Communities of Practice. The indicators identified are those we believe promote this evolution i.e. the factors which support the development of emerging Communities of Practice.</p>
+<p>I would be really interested to hear your thoughts on where I've got so far.</p>
+<p>Rebecca</p>]]></description>
+          <pubDate>Mon, 19 Apr 2010 14:54:26 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Resource: Cloudworks leaflet</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3143</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3143</guid>
+              <description><![CDATA[<p>An introductory leaflet for Cloudworks. Updated March 2010.</p>]]></description>
+          <pubDate>Mon, 15 Mar 2010 15:22:03 +0000</pubDate>
+            </item>
+                    <item>
+              <title> SocialLearn and Cloudworks: Developing your PhD Skills with online tools</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3135</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3135</guid>
+              <description><![CDATA[<p>Rebecca Ferguson</p>
+<p>Wednesday 24 March, 1.45-2.45pm<br />Workshop 6G<br />Second floor library, Information Suite</p>
+<p>Wednesday 24 March, 3.15-4.15pm<br />Workshop 7G<br />Second floor library, Information Suite</p>
+<p>Cloudworks includes a set of resources that can be used to help you to develop your research skills. It also offers the possibility of discussing these skills online, and sharing useful links and references.</p>
+<p>SocialLearn provides an additional set of tools that support your use of Cloudworks and other relevant websites.</p>
+<p><strong>Rebecca Ferguson</strong> is a Research Fellow in the Knowledge Media Institute at The Open University, working on the university&rsquo;s SocialLearn project. Her main research interest is in how people learn together successfully online. This has included investigations of learners&rsquo; use of forums, blogs, wikis and virtual worlds, and of how these technologies can be used to complement face-to-face interaction. Her PhD, which she completed in IET, focused on the construction of shared knowledge through asynchronous dialogue. Her current focus is on how social learning tools can be used to help postgraduate students locate and make sense of the resources they need.</p>]]></description>
+          <pubDate>Sun, 14 Mar 2010 13:44:44 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Conference Info: Programme</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2994</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2994</guid>
+              <description><![CDATA[<p>The conference is based around 4 sessions.&nbsp; Each session has the same structure:</p>
+<ul>
+<li>3 OU speakers</li>
+<li>Breakout for discussion around themes </li>
+<li>External speaker</li>
+</ul>
+<p>All the sessions were held in Elluminate. You can watch the playback of the sessions using the links below (at the bottom of the Elluminate window is bar you can use to scroll through, so you can skip parts).</p>
+<p>If you attended the live event, or watch the playbacks, please complete the questionnaire for us, thanks: <a href="http://www.surveymonkey.com/s/ouconf10">http://www.surveymonkey.com/s/ouconf10</a></p>
+<p><strong>June 22nd Morning - Open Content</strong></p>
+<p>You need to log into Elluminate here (for playback):&nbsp;</p>
+<p><a href="https://sas.elluminate.com/p.jnlp?psid=2010-06-22.0052.M.2B75F29C80EFE7AAEF7138B1D7E4AF.vcr&sid=cpp1 ">https://sas.elluminate.com/p.jnlp?psid=2010-06-22.0052.M.2B75F29C80EFE7AAEF7138B1D7E4AF.vcr&amp;sid=cpp1</a></p>
+<ul>
+<li> 9.30 - 10.00 Welcome to conference - Martin Weller</li>
+<li>10.00 - 11.00 OU Presentations:<br /><a href="http://cloudworks.ac.uk/about">Cloudworks </a>(Grainne Conole)<br /><a href="http://www.open.ac.uk/itunes/">iTunes U</a> (Peter Scott)<br /><a href="http://www8.open.ac.uk/score/">SCORE</a> (Chris Pegler) - DID NOT HAPPEN - SOUND PROBLEMS<br /><a href="http://olnet.org/">OLNet</a> (Patrick McAndrew) - WAS SCHEDULED FOR AFTERNOON SESSION, THANKS TO PATRICK FOR STEPPING IN</li>
+<li>11.00 -11.40 Moderated discussion - in separate 'rooms' in elluminate</li>
+<li>11.40 - 12.30 - external speaker:<a href="http://uhi.academia.edu/FrankRennie"> Prof. Frank Rennie (UHI)</a></li>
+</ul>
+<p><strong>June 22nd Afternoon - Open Learning</strong></p>
+<p>You need to log into Elluminate here (for playback):</p>
+<p><a href="https://sas.elluminate.com/p.jnlp?psid=2010-06-22.0516.M.D86AEB8E871EAD6819856184070D75.vcr&sid=cpp1">https://sas.elluminate.com/p.jnlp?psid=2010-06-22.0516.M.D86AEB8E871EAD6819856184070D75.vcr&amp;sid=cpp1</a></p>
+<ul>
+<li>1.30 - 2.30 OU presentations:<br /><a href="http://www8.open.ac.uk/score/">SCORE</a> (Andy Lane) - WAS SCHEDULED FOR MORNING SESSION.  THANK YOU TO ANDY FOR STEPPING IN AT LAST MINUTE<br /><a href="http://www.open.ac.uk/blogs/sociallearn/">SocialLearn </a>(Simon Buckingham Shum)<br /><a href="http://www.open.ac.uk/openlearn">OpenLearn</a> (Laura Dewis)</li>
+<li>2.30 - 3.15&nbsp; Moderated discussion </li>
+<li>3.15 - 4.30 External speaker - <a href="http://www.elearnspace.org/blog/">George Siemens</a> (Athabasca)</li>
+</ul>
+<p><strong>June 23rd Morning - Open Teaching</strong></p>
+<p>You need to log into Elluminate here (for playback):</p>
+<p><a style="color: #005488;" href="https://sas.elluminate.com/p.jnlp?psid=2010-06-23.0055.M.89E87ABFB3FE73191BBD0170E88759.vcr&sid=cpp1" target="_blank">https://sas.elluminate.com/p.jnlp?psid=2010-06-23.0055.M.89E87ABFB3FE73191BBD0170E88759.vcr&amp;sid=cpp1</a></p>
+<ul>
+<li>9.30 - 10.30 OU Presentations:<br />Creating open courses (<a href="http://ouseful.info">Tony Hirst</a>)<br /><a href=" http://www.open.ac.uk/Arts/digital-humanities/index.shtml ">Digital Humanities</a> &amp; <a href="http://www.classicsconfidential.co.uk/Classics_Confidential/Home.html">Classics Confidential</a> (Linda Wilks/Elton Barker)<br />Open to knowing about climate change (<a href="http://www.open.ac.uk/socialsciences/staff/people-profile.php?name=Joe_Smith">Joe Smith</a>)<br /><a href="http://www.open.ac.uk/opencetl/index.php"><br /></a></li>
+<li>10.30 - 11.15&nbsp; Moderated discussion </li>
+<li>11.15 - 12.00 - External speaker: Helen Milner, <a href="http://www.ukonlinecentres.com/">UK Online Centres</a></li>
+</ul>
+<p><strong>June 23rd Afternoon - Open Access</strong></p>
+<p>You need to log into Elluminate here (for playback):</p>
+<p><a style="color: #005488;" href="https://sas.elluminate.com/p.jnlp?psid=2010-06-23.0511.M.68832EA23A7B77C92FDE0F3652139E.vcr&sid=cpp1" target="_blank">https://sas.elluminate.com/p.jnlp?psid=2010-06-23.0511.M.68832EA23A7B77C92FDE0F3652139E.vcr&amp;sid=cpp1</a></p>
+<ul>
+<li>1.30 - 2.30 OU Presentations:<br /><a href="http://www.ispot.org.uk/">iSpot</a> (Doug Clow)<br /><a href="http://www.open.ac.uk/africa/HEAT_project.shtm">The OU in Africa - HEAT</a> (Alison Robinson)<br /><a href="http://www.open.ac.uk/opencetl/index.php">Open CETL</a> (Steve Swithenby)</li>
+<li>2.30 - 3.15 Moderated discussion </li>
+<li>3.15- 4.00 Closing Talk: <a href="http://en.wikipedia.org/wiki/Jimmy_Wales">Jimmy Wales</a>, Wikipedia</li>
+<li>4.00 - 4.30 - wrap up, Martin Weller</li>
+</ul>]]></description>
+          <pubDate>Mon, 14 Jun 2010 13:59:09 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Open Content: General information</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2975</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2975</guid>
+              <description><![CDATA[<p style="cursor:auto"><!--NO CSS-->For this session you need to log into Elluminate here:&nbsp;</p>
+<p style="cursor:auto"><!--NO CSS--><a style="font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline; color: #003399; padding: 0px; margin: 0px; border: 0px initial initial;" href="https://sas.elluminate.com/m.jnlp?sid=cpp1&password=M.698B12259317B5E61C82621C5E0A7A" target="_blank">https://sas.elluminate.com/m.jnlp?sid=cpp1&amp;password=M.698B12259317B5E61C82621C5E0A7A</a></p>
+<ul style="cursor:auto"><!--NO CSS-->
+<li style="cursor:auto"><!--NO CSS-->9.30 - 10.00 Welcome to conference - Martin Weller</li>
+<li style="cursor:auto"><!--NO CSS-->10.00 - 11.00 OU Presentations:<br /><a style="font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline; color: #003399; padding: 0px; margin: 0px; border: 0px initial initial;" href="/about">Cloudworks&nbsp;</a>(Grainne Conole)<br /><a style="font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline; color: #003399; padding: 0px; margin: 0px; border: 0px initial initial;" href="http://www.open.ac.uk/itunes/">iTunes U</a>&nbsp;(Peter Scott)<br /><a style="font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline; color: #003399; padding: 0px; margin: 0px; border: 0px initial initial;" href="http://www8.open.ac.uk/score/">SCORE</a>&nbsp;(Chris Pegler)</li>
+<li style="cursor:auto"><!--NO CSS-->11.00 -11.40 Moderated discussion - in separate 'rooms' in elluminate</li>
+<li style="cursor:auto"><!--NO CSS-->11.40 - 12.30 - external speaker:<a style="font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline; color: #003399; padding: 0px; margin: 0px; border: 0px initial initial;" href="http://uhi.academia.edu/FrankRennie">&nbsp;Prof. Frank Rennie (UHI)</a></li>
+</ul>
+<p>Topics we may discuss are:</p>
+<p>
+<ul>
+<li>What type of content does/should higher education produce?</li>
+<li>Issues of sustainability</li>
+<li>How is this content used by learners?</li>
+</ul>
+</p>
+<ul style="cursor:auto"><!--NO CSS-->
+</ul>]]></description>
+          <pubDate>Mon, 14 Jun 2010 14:00:43 +0000</pubDate>
+            </item>
+                    <item>
+              <title>OULDI - Cloudworks</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2871</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2871</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Fri, 29 Jan 2010 14:44:51 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Learn about...Cloudworks</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2842</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2842</guid>
+              <description><![CDATA[<p>The Cloudworks stall will be manned alternately by Rebecca Galley, Juliette Culver, Nick Freear and Grainne Conole. Please do come to speak to us about the site and your thoughts and ideas relating to it.</p>
+<p>We have set up 3 'flash debates' which you will be able to contribute to throughout the day:</p>
+<ul>
+<li><a href="/cloud/view/2884">Are OERs the dictionaries of our time?</a></li>
+<li><a href="/cloud/view/2886">Should staff and students learning in second life have accurate human avatars?</a></li>
+<li><a href="/index.php/cloud/view/2885">Mobile phones, augmenting your context or missing what's going on in the real world?</a></li>
+<li><a href="/cloud/view/2398">Using Twitter with students</a></li>
+</ul>
+<p>And Grainne Conole will be presenting on Cloudworks at 12pm in Meeting Room 1 (ground floor), Jennie Lee Building at part of the Learn About Fair 2010.</p>
+<p>Finally, give us your feedback -&nbsp; <a href="/cloud/view/2409">What 3 words would <em><strong>you</strong></em> associate with Cloudworks?</a></p>]]></description>
+          <pubDate>Wed, 20 Jan 2010 13:57:33 +0000</pubDate>
+            </item>
+                    <item>
+              <title>H800 Using Cloudworks on the H800 course</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2700</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2700</guid>
+              <description><![CDATA[<p>As part of the H800 course you will get a chance to explore and use the Cloudworks site. Use this space to discuss your impressions of the site and any ideas about how the site might be used to support H800 students generally. You might like to look at the L140 En Rumbo Spanish <a href="/index.php/cloudscape/view/776">Cloudscape</a> for example, which was used as a space to aggregte relevant resources for an intermediate level OU Spanish course.</p>]]></description>
+          <pubDate>Wed, 25 Nov 2009 09:20:36 +0000</pubDate>
+            </item>
+                    <item>
+              <title>H800 Cloudquest challenge</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2699</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2699</guid>
+              <description><![CDATA[<p>This activity is a variant on the idea of a webquest, it provides a fun ways of exploring the cloudworks site and sharing findings. The aim is to explore the site and to give you an idea of what it contains and how it can be used.</p>
+<p><strong>Introduction</strong></p>
+<ul>
+<li>If you haven't already done so, create a <strong>Cloudworks account </strong>(you can view anything on the site, but to post comments or add anything you need an account)<strong><br /></strong></li>
+<li>Spend a max of fifteen minutes <strong>exploring cloudworks </strong>(suggested stategies - browse clouds and cloudscapes, enter keywords in search, explore by tags, look at individual people's profiles </li>
+<li>You may wish to open your search in a <strong>new tab or page </strong>in your browser so that you can easily navigate back to this cloud</li>
+<li>If you are new to cloudworks you might like to take a look at our <a href="/cloudscape/view/1911">'using cloudworks cloudscape'</a>.</li>
+</ul>
+<p><strong>Activities</strong></p>
+<ul>
+<li>How many people with the firstname "Patrick" are registered with cloudworks?</li>
+<li>How many people are registered with cloudworks from "The Open University"?</li>
+<li>How many people are following Rebecca Galley?</li>
+<li>Name three of the people Juliette Culver is following</li>
+<li>Find an interesting cloud on collaborative learning</li>
+<li>Find a cloudscape that was set up for a conference</li>
+<li>Find a cloud you thiink is particularly interesting, say why you like it</li>
+<li>What can you find in the site on mindmapping tools?</li>
+<li>What kinds of clouds and cloudscapes have been tagged with the word "twitter"?</li>
+<li>What's the latest cloud that has been added to the site?</li>
+<li>What is the latest link that has been added to the flash debate cloudscape?</li>
+<li>What three words would you use to describe cloudworks?</li>
+</ul>
+<p><strong>And finally...</strong></p>
+<ul>
+<li><strong>Post your findings </strong>on the H800 forum, although feel free to add comments here, but note that anything you post here is open for anyone to see</li>
+<li><strong>Review </strong>entries on the forum from other students</li>
+<li><strong>Vote</strong> for your favourite cloud or cloudscape using the <a href="http://surveys.polldaddy.com/s/4FECC2CF90277B45/">survey</a></li>
+</ul>]]></description>
+          <pubDate>Wed, 25 Nov 2009 09:09:37 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Use of cloudworks by Associate Lecturers</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2683</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2683</guid>
+              <description><![CDATA[<p>I would be very keen to here views from Associate Lecturer's on cloudworks and how it might be used as a space for ALs to discuss learning and teaching issues and to share practice and experience.</p>
+<ul>
+<li>What are your views of the site?</li>
+<li>What ideas have you got for how it might be used?</li>
+<li>The site is open and can be viewed by anyone - this has advantages (we have people looking at the site from 140 countries) but are there any issues with this, would it deter you from using the site? </li>
+<li>Can you see this as a complementary 'open' space alongside existing closed OU-tutor forums?</li>
+</ul>]]></description>
+          <pubDate>Sat, 21 Nov 2009 18:36:15 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Cloudworks: a virtual fieldtrip</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2659</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2659</guid>
+              <description><![CDATA[<p>Discover a new island on web 2.0 world....</p>
+<ul>
+<li>Come and take a virtual fieldtrip of the cloudworks island</li>
+<li>Learn about the islands history and culture</li>
+<li>Join the intrepid expedition team as they explore the island's terrain, swimming in the blue lagoon, trecking along the islands trails through the jungle, climbing the central mountains.</li>
+<li>Meet the islands tribes, get to know the character of 'cloudworkers'</li>
+<li>Reflect on islands future, as it begins to make connections with other countries on web 2.0 world.</li>
+</ul>
+<p><strong>The virtual field trip to Cloudworks is on November 16, 2009 at 20:00 GMT</strong></p>
+<ul>
+<li>The context is looking at Cloudworks from a community of practice perspective. This event is open to the public and is organized by <a href="http://cpsquare.org/">CPsquare</a> and <a href="http://scope.bccampus.ca/">SCoPE</a>.</li>
+<li>A prezi presentation for the talk is available <a href="http://prezi.com/uompojaixcrp">here</a>.</li>
+<li>Further information available on the<a href="http://cpsquare.org/wiki/Visiting_Cloudworks_November_16_2009"> cpsquare wiki <br /></a></li>
+</ul>]]></description>
+          <pubDate>Mon, 16 Nov 2009 10:03:59 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Activity 20 mins: The cloudquest challenge</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2648</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2648</guid>
+              <description><![CDATA[<p>This activity is a variant on the idea of a webquest, it provides a fun ways of exploring the cloudworks site and sharing findings. The aim is to explore the site and to give you an idea of what it contains and how it can be used.</p>
+<p><strong>Introduction</strong></p>
+<ul>
+<li>If you haven't already done so, create a <strong>Cloudworks account </strong>(you can view anything on the site, but to post comments or add anything you need an account)<strong><br /></strong></li>
+<li>Spend a max of fifteen minutes <strong>exploring cloudworks </strong>(suggested stategies - browse clouds and cloudscapes, enter keywords in search, explore by tags, look at individual people's profiles </li>
+<li>You may wish to open your search in a <strong>new tab or page </strong>in your browser so that you can easily navigate back to this cloud</li>
+<li>If you are new to cloudworks you might like to take a look at our <a href="/cloudscape/view/1911">'using cloudworks cloudscape'</a>.</li>
+</ul>
+<p><strong>Activities</strong></p>
+<ul>
+<li>How many Karen's are registered with cloudworks?</li>
+<li>How many people are registered with cloudworks from "The Open University"?</li>
+<li>How many people are following Rebecca Galley?</li>
+<li>Name three of the people Juliette Culver is following</li>
+<li>Find an interesting cloud on collaborative learning</li>
+<li>Find a cloudscape that was set up for a conference</li>
+<li>Find a cloud you thiink is particularly interesting, say why you like it</li>
+<li>What can you find in the site on mindmapping tools?</li>
+<li>What kinds of clouds and cloudscapes have been tagged with the word "twitter"?</li>
+<li>What's the latest cloud that has been added to the site?</li>
+<li>What is the latest link that has been added to the flash debate cloudscape?</li>
+<li>What three words would you use to describe cloudworks?</li>
+</ul>
+<p><strong>And finally...</strong></p>
+<ul>
+<li><strong>Post your findings </strong>here&nbsp;</li>
+<li><strong>Review </strong>other entries</li>
+<li><strong>Vote</strong> for your favourite cloud or cloudscape using the <a href="http://surveys.polldaddy.com/s/4FECC2CF90277B45/">survey</a></li>
+<li>A <strong>summary</strong> of the survey will be posted here in due course</li>
+</ul>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Thu, 12 Nov 2009 09:17:32 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Workshop Activity 2: Evaluation and Action Plan </title>
+              <link>https://cloudworks.ac.uk/cloud/view/2632</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2632</guid>
+              <description><![CDATA[<div>
+<p>Use this cloud to reflect on the 'Cloudworking Exeter' workshop, post your responses as comments here and/or use the forms provided.</p>
+<ul>
+<li>What three words would you use&nbsp; to describe  Cloudworks?</li>
+<li>What did you like about the format and content of the workshop?</li>
+<li>What didn&rsquo;t you like or could be improved?</li>
+<li>What action points are you going to take as a result of the workshop?  
+<ul>
+</ul>
+</li>
+</ul>
+<ul>
+</ul>
+</div>]]></description>
+          <pubDate>Fri, 13 Nov 2009 10:38:22 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Cloudworks as a Social Networking System?</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2608</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2608</guid>
+              <description><![CDATA[<div>
+<div>
+<h1>Using Cloudworks to establish a community of academic discourse</h1>
+<h2>Background</h2>
+We've been engaging in a process of reflection about directions in the curriculum at Earlham College. But the way in which this has happened mirrors the fragmented nature of discourse on campus. So that although we are a small Liberal Arts College and everyone knows just about everyone else nevertheless there's no universal forum where one can get an overview of the sum total of what's been discussed. There is a 'curriculum visioning' committee (CVC) which oversees gathering of views, opinions, facts, etc and which initiates conversations about these curricular issues. Such conversations happen in disparate venues:<br /><ol>
+<li> Individual face to face. These are likely to be superficial in nature.</li>
+<li> Group conversations. These are meetings sponsored by CVC to draw out points of view expressed verbally by faculty.</li>
+<li> On-line discussion fora in a Moodle course</li>
+<li> Exchanges of messages on the 'Faculty' email list.</li>
+</ol>The first two are not of interest right now; rather, what intrigues me is why the computer mediated discussions are just not taking off. Despite some of the CVC making reference to the Moodle discussion fora, and despite my manually enroling all the teaching faculty into the Curriculum Visioning course to make it easy to find and participate the take up has been feeble. Indeed, more heat was generated by a comment from the President on the faculty email list which garnered several hot responses. However, this conversation about academic rigour is now effectively lost to the community since the email postings can only be retrieved by time consuming exploration and excavation of the mailing list archives. So, why is it so difficult to get faculty engaged in a debate online (to date only 12 postings total)? I don't think it's the way that the Moodle course has been set up. On the contrary, there's a single forum which is well labeled, top level postings have been seeded with leading questions and any faculty member of the course can create a new topic (but only two have). I'm thinking that perhaps it has to do with the nature of Moodle and the discussion forum, and faculty perceptions of these. Which is why software like Cloudworks could be more effective in establishing communities of academic discourse in general. But I'm getting ahead of myself.</div>
+<div><br />
+<h2>Why Moodle (or other LMS system) doesn't work well</h2>
+This has to do with both Faculty perceptions of Moodle and the way in which it works. At Earlham we use our Moodle system for a variety of functions. Student clubs, campus committees, divisional groups, workshops, library workers, etc, all have 'courses' on the single institutional Moodle. But all these entities have an implicit and obvious focus. So, why does Moodle not work very well in empowering this kind of campus wide conversation?<br /> 
+<ul>
+<li> Generally faculty view a Moodle 'course' as being a place where Teachers teach Students. This is a place where there are definite 'roles' (both explicit and implicit) which seem to engender an inner conflict with the idea of peer communication</li>
+<li> The Moodle 'course' is a vertical silo. You have to log in to Moodle and then 'enrol' into the course. There's no openness. While this is necessary for class work it's a brake against open discourse.</li>
+<li> The "effort for entry"
+<div style="cursor:auto"><!--NO CSS-->
+<blockquote>Here's what you have to do in order to post in a course Forum :<br /><ol>
+<li> Given that you have just logged in and are at your MyMoodle page you need to find the right course (<em>think</em>) and open it.</li>
+<li> Find the discussion forum in the Outline:   
+<ul>
+<li> Read through preamble (or skip)</li>
+<li> Distinguish forum link from others on the basis of it's icon</li>
+<li> Confirm by reading the title which not only describes the forum but tells you what to do : "CLICK HERE to View the Curricular Visioning Forum and add your comments."</li>
+</ul>
+</li>
+<li> What was it I wanted to write?</li>
+<li> Decide whether the topic you want to write about is already there.<ol>
+<li> If yes:   
+<ul>
+<li> Open discussion topic</li>
+<li> read through all postings</li>
+<li> Reply</li>
+</ul>
+</li>
+<li> If no :   
+<ul>
+<li> Click [Add new discussion topic]</li>
+</ul>
+</li>
+</ol></li>
+</ol><br /></blockquote>
+</div>
+into the Moodle course and then into the discussion forum is not repaid by the richness of the resulting environment.</li>
+<li> At the end of the day, you really have to be familiar with the <em>modus operandi</em> of online discussion forums to feel comfortable in the environment and empowered to make postings and comments.</li>
+</ul>
+<h2>Cloudworks as a vehicle for academic discourse</h2>
+So how might Cloudworks work better in this and other similar situations, if it were available as Open Source (please?) ?<br /><ol>
+<li> It's not Moodle or other LMS / VLE / Course Management system. That is, it's not focused around a 'management' or 'course' paradigm.</li>
+<li> It's relatively easy to get a handle on what a 'cloud' is meant to be about.</li>
+<li> The open nature makes it easy to cross reference and cross fertilise. It does not have the feel of a silo. All users are peers; there are no 'roles' as such.</li>
+<li> Is it another discussion forum? Kind of yes, but then again no.   
+<ul>
+<li> The richness of the environment encourages both thoughtful responses and constructive interactions. Just the line "Improve this cloud:" where you can add more content to the original thesis, add a link, tags or reference makes you want to add quality to the cloud.</li>
+<li> Moreover, the whole form, context and presentation of the conversation as a 'cloud' makes one desire only to add substantive content.</li>
+<li> And the rich surrounding environment empowers and encourages thoughtful constructive interaction</li>
+</ul>
+</li>
+</ol><br />So, in the context of the presenting problem, a Cloudworks , dare I say it, social networking system, could operate as follows:<br /> 
+<ul>
+<li> The site would have to be readily accessible from all the College's portals (web site, theheart, Moodle, etc)</li>
+<li> Authentication and automatic account creation via LDAP.</li>
+<li> Earlham community member gets URL to Curricular Discussion Cloud or searches or logs in and is presented with a list containing said cloud.</li>
+<li> Having logged in she/he can then add point of view to the Cloud. Students are treated as peers in this process. Links and references make it more useful.</li>
+<li> Other Clouds are created addressing different aspects and these are all collected into a Cloudscape.</li>
+<li> a buzz is created around the whole process and people think of it as cool</li>
+</ul>
+</div>
+</div><p>Contact details: markp@earlham.edu</p>]]></description>
+          <pubDate>Wed, 04 Nov 2009 21:24:36 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Talk Conole: Harnessing learning design as a new approach to  rethinking the curriculum</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2581</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2581</guid>
+              <description><![CDATA[<p><strong>Abstract</strong></p>
+<p>Technologies appear to offer seductive educational possibilities: in terms of new forms of innovation, cost effectiveness, personalisation. The policy and research literature around ICT use in education is littered with discourses that exemplify this: &lsquo;ICT as a catalyst for change&rsquo;, &lsquo;new pedagogical innovation through ICT&rsquo;, &lsquo;the affordances of new technologies&rsquo;.&nbsp; But to what extent is this rhetoric matched by reality? To what extent have technologies in the last decade or so truly transformed learning and teaching? Evidence from the ground is mixed; whilst clearly technologies have increasingly become central in institutional strategic thinking; how much things have radically shifted &lsquo;on the ground&rsquo; is another matter.</p>
+<p>The paper considers the issues raised by this conundrum, focusing in particular on the approach being adopted by the Open University in the UK to develop a new methodology for thinking about learning design. It will describe our approach; the tools we have developed to date and some of the issues evaluation findings have raised.</p>
+<p>The vision for our work is to enable practitioners to make better use of technologies and pedagogical approaches to provide an enhanced learning experience.<a href="#_ftn1">[1]</a> Our approach (<a href="http://ouldi.open.ac.uk/">http://ouldi.open.ac.uk</a>) is predicated on three inter-related facets: gathering of empirical evidence on the design process (including case studies of tool use, interviews with practitioners, and workshops/focus groups), representing/visualising designs (including use of the CompendiumLD tool (Conole et al., 2008a)) and supporting practice through community engagement and sharing (via a social networking site for design &ndash; Cloudworks (Conole et al., 2008b)).</p>
+<p>It will also discuss how we are extending the learning design methodology to application in the design and evaluation of Open Educational Resources, through a new initiative (<a href="http://olnet.org/">http://olnet.org</a>) funded by the Hewlett Foundation, started in January 2009 which integrates ourLearning Design approach with the Openlearn initiative (openlearn.open.ac.uk) (a repository of OERs developed from OU course materials). OLnet provides a basis for gathering evidence, developing methodologies, supporting involvement and gain value by aggregating and sharing information through appropriate infrastructure. Its aim is to be a global network for researchers, users and producers of OERs.</p>
+<p>We contend that the approach we are adopting offers an innovative and holistic approach to instigating learning design. Rather than focusing on specific staff development activities or the development of a &lsquo;learning design tool&rsquo; we are adopting a multifaceted approach matching evolving user needs with an appropriate set of tools and resources. We see this as important as design is a complex process:</p>
+<p>Design is a core part of any teaching or training role; i.e. how concepts can be presented to students to enable them to achieve a set of required learning outcomes. Educational text books might give the impression that there is a simple linear basis to the design process; starting with a set of learning outcomes, based on a particular pedagogical approach, appropriate resources, tools and activities are identified and linked together, assessment acting as the ultimate arbitrator in terms of success or failure. However in reality the design process is rarely so simple. [Conole, 2008]</p>
+<p>Some of the key questions the research is addressing include:</p>
+<ul>
+<li>What are the different forms of representation for articulating learning and teaching practice? How can each representation be used and by whom?</li>
+<li>What forms of scaffolding and support can be provided to support the design process, in what ways might technologies be used to enable this?</li>
+<li>What are the barriers and enablers to sharing learning and teaching practice? </li>
+<li>Why do some social networking services work and others fail? Can we apply the best of Web 2.0 principles to an educational context? More specifically can we use this as a means of shifting teaching practice to a culture of sharing learning ideas and designs? </li>
+<li>Can we harness the potential of technologies to create more engaging learning experiences for students? </li>
+</ul>
+<p><strong>Keywords: </strong></p>
+<p>Learning design, social objects, social networking, Cloudworks, CompendiumLD, Learning activities , Open Educational Resources</p>
+<p><strong>References</strong></p>
+<p>Conole, G., Brasher, A., Cross, S., Weller, M., Clark, P. and White, J. (2008a), Visualising learning design to foster and support good practice and creativity, Educational Media International</p>
+<p>Conole, G., Culver, J., Well, M., Williams, P., Cross, S., Clark, P. and Brasher, A. (2008b), Cloudworks: social networking for learning design, Ascilite Conference, Melbourne.</p>
+<p>Conole, G. (2008), &lsquo;Capturing practice: the role of mediating artefacts in learning design&rsquo;, in L. Lockyer, S. Bennett, S. Agostinho, and B. Harper (Eds),&nbsp; Handbook of Research on Learning Design and Learning Objects: Issues, Applications and Technologies</p>
+<p>Lockyer, L., Bennett, S., Agostinho, S. and Harper, B. (2008), Handbook of Research on Learning Design and Learning Objects: Issues, Applications and Technologies, Hersey PA: IGI Global.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<hr size="1" />
+<p><a href="#_ftnref">[1]</a> Lockyer et al. (2008) provide a summary of current learning design research (including examples of new ways of thinking about and representing designs, better mechanisms for finding and sharing resources and ideas, and tools for planning and designing).</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Fri, 30 Oct 2009 16:05:23 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Moodle and Cloudworks</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2574</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2574</guid>
+              <description><![CDATA[<p>Sorry if you came here thinking it was an answer.&nbsp; It isn't yet!</p>
+<p>I started this cloud to discuss what an integration should look like and how Moodle can help to work on it.</p>
+<p>I guess the simplest integration would be to treat this site as a big repository of clouds/cloudscapes/tags/people, and create a Moodle repository plugin that basically does what the search box here does, until you get to a page you want, and then that URL is passed back to the 'url' activity in Moodle, so that cloudworks pages can be easily added into Moodle courses.</p>
+<p>That's probably not enough, I'm guessing.&nbsp; What else can we do?&nbsp; What else would people want?</p><p>Contact details: here</p>]]></description>
+          <pubDate>Mon, 26 Oct 2009 14:12:24 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Discussion: The development of cloudworks</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2573</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2573</guid>
+              <description><![CDATA[<p>This cloud has been set up as a space to discuss cloudworks. The vision for the set is that it aims to be a site that applies web 2.0 practices in an educational context; a place to share, discuss and find learning and teaching ideas. A recent <a href="http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6VCJ-4XH5640-1&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&_docanchor=&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=2fb926c78f36dcec02d816e22b21a142">Computers and Education paper</a> gives an overview of our approach and work to date.</p>
+<ul>
+<li>To what extent does the site achieve these aims?</li>
+<li>A question we are often asked is what makes this different to other social networking sites, like elgg and ning - what are your views on this?</li>
+<li>What are the challenges a site like this faces - in terms of getting users to use it, in terms of sustainability, in terms of issues to do with quality assurance? </li>
+</ul>]]></description>
+          <pubDate>Mon, 26 Oct 2009 01:17:42 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Workshop: Conole - using the OU Learning Design tools, resources and activities</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2564</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2564</guid>
+              <description><![CDATA[<p>This cloud provides a link to some suggested activities delegates attending the workshop might like to explore. It points to relevant cloudscapes and clouds in cloudworks of interest as wel as appropriate external links. A cloud on my presentation at the conference which gives an overview of this work and some relevant links and reference can be found <a href="/cloud/view/2559">here.</a></p>
+<p><strong>Cloudworks</strong></p>
+<ul>
+<li><a href="/cloud/view/2521">Activity: Creating an account and profile on cloudworks</a></li>
+<li><a href="/cloudscape/view/1882">The OU Learning Design toolbox</a> - a cloudscape with the evolving set of OULDI tools, resources and activiites</li>
+<li><a href="/index.php/cloud/view/2454">Activity: The cloudquest chellenge </a>- this activity cloud enables you to explore the cloudworks site, to get a feel for it and to vote for the cloud or cloudscape you find particularly interesting/useful.</li>
+<li><a href="/index.php/cloud/view/2533">Activity: Design review -</a> this cloud gives you a chance to explore some different tools for thinking about desing from different perspectives.</li>
+<li><a href="/index.php/cloud/view/420.html">Activity: Finding and sharing learning and teraching ideas</a></li>
+<li><a href="/index.php/cloud/view/1906">Cloudworks evaluation </a>- take a moment to give us feedback on your thoughts on cloudworks</li>
+<li>For more on cloudworks, see the cloudscape <a href="/cloudscape/view/1911">Using Cloudworks</a></li>
+</ul>
+<p><strong>CompendiumLD</strong></p>
+<ul>
+<li><a href="/cloud/view/2478">Resource: Help and guidance on getting started with CompendiumLD</a></li>
+<li><a href="/cloud/view/393">Activity: CompendiumLD </a>- an introduction to using the tool, creating visual maps </li>
+<li><a href="/cloud/view/1802">Activity: Deconstructing the design of an OER&nbsp;&nbsp;</a></li>
+<li><a href="/cloud/view/1801">Activity: The power of visualisation</a></li>
+<li><a href="/index.php/cloud/view/2526">Activity: Making a design more collaborative using pedagogical patterns</a></li>
+</ul>
+<div id="site-header">
+<div id="site-header-content"><a id="link-home" rel="home" href="/index.php"> <br /></a></div>
+</div>]]></description>
+          <pubDate>Sat, 24 Oct 2009 13:55:36 +0000</pubDate>
+            </item>
+                    <item>
+              <title>How to set up a Cloud or Cloudscape</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2554</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2554</guid>
+              <description><![CDATA[<h3>What are Clouds and Cloudscapes?</h3>
+<p>A Cloud could be an idea, tool, question, advice or learning design. For example a brief introduction and a link to a new mindmapping tool, or a question about how you might use Twitter in the classroom successfully. It could also be a session at a conference or workshop activity and contain your slideshow, a discussion stream and links to relevant research and academic references.</p>
+<p>You might set up a Cloudscape when you want to bundle together several ideas, tools, activities (Clouds) together. For example for your own use you may want to pull together all Clouds relating to e-assessment, or several activities that relate to one workshop. Clouds can belong to any number of Cloudscapes. If you are still not sure of the difference between a Cloud and a Cloudscape you may find it useful to watch this short <a href="/cloud/view/2413">video</a></p>
+<h3>The functionality of Clouds and Cloudscapes.&nbsp;</h3>
+<p><strong>Cloudscape:</strong> <em>a collection of Clouds</em></p>
+<ul>
+<li>Favourite the Cloudscape</li>
+<li>Follow the Cloudscape</li>
+<li>Add dates (and the Cloudscape will appear in events listing)</li>
+<li>Mark as attending (for Cloudscapes with dates) &ndash; for entirely online conferences this function can be used for registration.</li>
+<li>RSS feed</li>
+<li>View Cloudstream</li>
+<li>Add tags</li>
+<li>Add Clouds</li>
+<li>Sort Clouds into sections (where there are a lot of Clouds in a Cloudscape they can be sorted into categories under tabs. For a conference this might be by day, theme, type of Cloud etc)</li>
+<li>Upload a picture</li>
+<li>Add a Twitter feed</li>
+</ul>
+<p><strong>Cloud:</strong> <em>for discussion, sharing and debate around a learning design, question, idea or theme.</em></p>
+<ul>
+<li>Favourite the Cloud (for bookmarking and recommending to others)</li>
+<li>Follow a Cloud (and receive email updates any time something is added)</li>
+<li>Have a discussion</li>
+<li>Embed a video, image, slideshow (from any of <a title="http://5min.com/" href="http://5min.com/">5min</a> <a title="http://www.amazon.co.uk/" href="http://www.amazon.co.uk/" target="_self">Amazon Product Images</a> <a title="http://www.flickr.com/" href="http://www.flickr.com/" target="_self">Flickr</a> <a title="http://video.google.com/" href="http://video.google.com/" target="_self">Google Video</a> <a title="http://www.hulu.com/" href="http://www.hulu.com/" target="_self">Hulu</a> <a title="http://www.imdb.com/" href="http://www.imdb.com/" target="_self">Imdb</a> <a title="http://www.metacafe.com/" href="http://www.metacafe.com/" target="_self">Metacafe</a> <a title="http://qik.com/" href="http://qik.com/" target="_self">Qik</a> <a title="http://revision3.com/" href="http://revision3.com/" target="_self">Revision3</a> <a title="http://www.slideshare.net/" href="http://www.slideshare.net/" target="_self">Slideshare</a> <a title="http://twitpic.com/" href="http://twitpic.com/" target="_self">Twitpic</a> <a title="http://www.viddler.com/" href="http://www.viddler.com/" target="_self">Viddler</a> <a title="http://www.vimeo.com/" href="http://www.vimeo.com/" target="_self">Vimeo</a> <a title="http://www.wikipedia.org/" href="http://www.wikipedia.org/" target="_self">Wikipedia</a> <a title="http://wordpress.org/" href="http://wordpress.org/" target="_self">WordPress</a> <a title="http://www.youtube.com/" href="http://www.youtube.com/" target="_self">YouTube</a> )</li>
+<li>Add a link</li>
+<li>Recommend a link (i.e. vote for a link that someone else has added)</li>
+<li>Add an academic reference</li>
+<li>Add extra content (i.e. project information, live blog of presentation etc)</li>
+<li>Add tags</li>
+</ul>
+<h3>Setting up a Cloud</h3>
+<p>This is really quick and easy to do. To set up a Cloud either go to a Cloudscape you want to add to and click on "<em>Create Cloud in this Cloudscape</em>" or if you want your Cloud to stand alone, click on the Cloud tab at the top of the page and then click on "<em>+Create a Cloud</em>"</p>
+<h3>Setting up a Cloudscape</h3>
+<p>To set up a Cloudscape click on the Cloudscape tab and then "<em>+Create a Cloudscape</em>"</p>
+<h3>To add Clouds to your Cloudscape</h3>
+<p>Go to those Clouds and click on "<em>Add to a Cloudscape</em>". Chose the Cloudscape you wish to add it to the Click "<em>Add to Cloudscape</em>".</p>]]></description>
+          <pubDate>Wed, 20 Jan 2010 10:43:35 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Podcast: Interview with Grainne Conole about cloudworks</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2548</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2548</guid>
+              <description><![CDATA[<p>This <a href="http://ltunplugged.wordpress.com/">podcast </a>was recorded in September 2009. Martin asked a series of questions about cloudworks, the concept, how it has developed and how it can be used.</p>]]></description>
+          <pubDate>Thu, 29 Oct 2009 12:58:04 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Keynote: Conole - Serendipity and fun as ingredients for transforming practice</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2544</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2544</guid>
+              <description><![CDATA[<p>Here is a link to my slides for the talk, I focused on:</p>
+<ul>
+<li>addressing the paradox of the gap between the promise of technologies and actual practice</li>
+<li>how the OU Learning Design Initiative and Olnet are attempting to bridge the gap</li>
+<li>the notion of "Open Design"</li>
+<li>Illustrative examples of "Open Design" through <br /> 
+<ul>
+<li>visualising and sharing: visualising designs, sharing and repurposing</li>
+<li>social and collective: patterns of behaviour in Cloudworks</li>
+</ul>
+</li>
+</ul>]]></description>
+          <pubDate>Wed, 21 Oct 2009 18:37:01 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Setting up a conference Cloudscape</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2525</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2525</guid>
+              <description><![CDATA[<p>Cloudworks is an excellent way of engaging event participants in key themes <em>prior</em> to the start of the programme, providing a space for discussion, resources, links and references <em>during</em> a conference and persists as a space for ongoing reflection and engagement <em>after</em> the conference has finished. This Cloudscape has been set up to guide you through the process of setting up your own Conference or event Cloudscape.</p>
+<p><em><strong>A paper version of this guide can be downloaded from <a href="http://www.slideshare.net/OULDI/information-for-conference-organisers">here</a>.</strong></em></p>
+<h3>Contents:</h3>
+<p><a href="#Why use Cloudworks rather than a different tool to support your event?">Why use Cloudworks rather than a different tool to support your event?</a></p>
+<p><a href="#Step 1 Register and set up profile">Step 1 Register and set up profile</a></p>
+<p><a href="#Step 2 Set up a Cloudscape">Step 2 Set up a Cloudscape</a></p>
+<p><a href="#Step 3 Adding Clouds">Step 3 Adding Clouds</a></p>
+<p><a href="#Step 4 Promoting and moderating your Cloudscape">Step 4 Promoting and moderating your Cloudscape</a></p>
+<p>In addition, the following are good examples of conference or event Cloudscapes for you to look at:</p>
+<ul>
+<li><a href="http://cloudworks.ac.uk/cloudscape/view/2053">The William and Flora Hewlett Foundation 2010 Grantees Meeting</a></li>
+</ul>
+<ul>
+<li><a href="http://cloudworks.ac.uk/index.php/cloudscape/view/1773" target="_self">DesignBash 2009</a></li>
+</ul>
+<ul>
+<li><a href="http://cloudworks.ac.uk/cloudscape/view/2012">Open University annual Learning and Technology conference: Learning in an open world</a></li>
+</ul>
+<ul>
+<li><a href="http://cloudworks.ac.uk/cloudscape/view/2073">The Joint Information Forum (JIF2010)</a></li>
+</ul>
+<p>&nbsp;</p>
+<h3><a title="Why use Cloudworks rather than a different tool to support your event?" name="Why use Cloudworks rather than a different tool to support your event?"></a>Why use Cloudworks rather than a different tool to support your event?</h3>
+<p>The functionality of Cloudworks compares very well with other tools that are commonly used at conferences (see below) &nbsp;but the site has the added benefit of having an existing and thriving community of people passionate about education. We believe that Cloudworks does three things better than other sites:</p>
+<ul>
+<li>Facilitates open,      cross-group discussion, collaboration and knowledge creation.</li>
+<li>Aggregates discussion,      slideshows, videos, related links, papers and academic references all in      one place.</li>
+<li>Creates an archive of the      event that people can use to reflect, and continue to develop emerging      themes and ideas.</li>
+</ul>
+<p><strong>Key terms: Cloudscape:</strong> <em>a home page for the event or conference</em></p>
+<p>(see <a title="http://cloudworks.ac.uk/cloudscape/view/1963/all/5#clouds-in-cloudscape" href="http://cloudworks.ac.uk/cloudscape/view/1963/all/5#clouds-in-cloudscape">http://cloudworks.ac.uk/cloudscape/view/1963/all/5#clouds-in-cloudscape</a> for an example)<em>&nbsp;</em></p>
+<ul>
+<li>Favourite the Cloudscape</li>
+<li>Follow the Cloudscape</li>
+<li>Add dates (and the      Cloudscape will appear in events listing)</li>
+<li>Mark as attending (for      Cloudscapes with dates) &ndash; for entirely online conferences this function      can be used for registration.</li>
+<li>RSS feed</li>
+<li>View Cloudstream</li>
+<li>Add tags</li>
+<li>Add Clouds</li>
+<li>Sort Clouds into sections      (where there are a lot of Clouds in a Cloudscape they can be sorted into      categories under tabs. For a conference this might be by day, theme, type      of Cloud etc)</li>
+<li>Upload a picture</li>
+<li>Add a Twitter feed</li>
+</ul>
+<p><strong>Key terms: Cloud:</strong> <em>for discussion, sharing and debate around a keynote, workshop, paper or theme.</em></p>
+<p>(see <a href="http://cloudworks.ac.uk/index.php/cloud/view/2754">http://cloudworks.ac.uk/index.php/cloud/view/2754</a>&nbsp; for an example)<em>&nbsp;</em></p>
+<ul>
+<li>Favourite the Cloud (for      bookmarking and recommending to others)</li>
+<li>Follow a Cloud (and receive      email updates any time something is added)</li>
+<li>Have a discussion</li>
+<li>Embed a video, image,      slideshow (from any of <a title="http://5min.com/" href="http://5min.com/">5min</a> <a title="http://www.amazon.co.uk/" href="http://www.amazon.co.uk/" target="_self">Amazon Product Images</a> <a title="http://www.flickr.com/" href="http://www.flickr.com/" target="_self">Flickr</a> <a title="http://video.google.com/" href="http://video.google.com/" target="_self">Google      Video</a> <a title="http://www.hulu.com/" href="http://www.hulu.com/" target="_self">Hulu</a> <a title="http://www.imdb.com/" href="http://www.imdb.com/" target="_self">Imdb</a> <a title="http://www.metacafe.com/" href="http://www.metacafe.com/" target="_self">Metacafe</a> <a title="http://qik.com/" href="http://qik.com/" target="_self">Qik</a> <a title="http://revision3.com/" href="http://revision3.com/" target="_self">Revision3</a> <a title="http://www.slideshare.net/" href="http://www.slideshare.net/" target="_self">Slideshare</a> <a title="http://twitpic.com/" href="http://twitpic.com/" target="_self">Twitpic</a> <a title="http://www.viddler.com/" href="http://www.viddler.com/" target="_self">Viddler</a> <a title="http://www.vimeo.com/" href="http://www.vimeo.com/" target="_self">Vimeo</a> <a title="http://www.wikipedia.org/" href="http://www.wikipedia.org/" target="_self">Wikipedia</a> <a title="http://wordpress.org/" href="http://wordpress.org/" target="_self">WordPress</a> <a title="http://www.youtube.com/" href="http://www.youtube.com/" target="_self">YouTube</a> )</li>
+<li>Add a link</li>
+<li>Recommend a link (i.e. vote      for a link that someone else has added)</li>
+<li>Add an academic reference</li>
+<li>Add tags</li>
+</ul>
+<p>&nbsp;</p>
+<h3><a title="Step 1 Register and set up profile" name="Step 1 Register and set up profile"></a>Step 1 Register and set up profile</h3>
+<p>Consider setting up a conference or event organiser profile instead of using your personal profile. This will help you differentiate between your role in organising the event or conference and your role as participant. If you do decide to do this please note that you will have to use a different email address to the one used for your personal profile.</p>
+<p>When you set up your new profile you will be asked for the name of the institution or organisation, a Twitter name, an email address and your &lsquo;interests&rsquo; (in the case of the conference this will be focus and themes). Try to fill as much of this in as possible as it will help people find you and hear about the event.</p>
+<p>Use a picture that is recognisable to conference or event goers - perhaps a logo or a picture of the building where the event will be held.</p>
+<p>&nbsp;</p>
+<h3><a title="Step 2 Set up a Cloudscape" name="Step 2 Set up a Cloudscape"></a>Step 2 Set up a Cloudscape</h3>
+<p>Setting up your Cloudscape well in advance of the event ensures that the URL can be used on publicity materials. An event Cloudscape is just like any other Cloudscape but used in a different way. From the home page click on the Events tab at the top of the page and you will see a list of upcoming events, and on the right a beige support box. In this box you will see a link which says <a href="http://cloudworks.ac.uk/cloudscape/add">create a cloudscape</a>. Click on this.</p>
+<p>Title: Enter the title of the Conference and in the summary box add the venue and dates.</p>
+<p><strong>Description:</strong> The description section of your Cloudscape will probably include the following:</p>
+<ul>
+<li>A short description of the      conference - title, focus, venue etc</li>
+<li>A hyperlink to the      conference website </li>
+<li>Hyperlinks to other      relevant webpages (i.e. multimap)</li>
+<li>An outline of the      conference timetable</li>
+<li>Contact information</li>
+<li>A link to a <a href="http://twapperkeeper.com/">TwapperKeeper</a> archive (where Twitter is being used)</li>
+</ul>
+<p><strong>Using html</strong></p>
+<p>If you are confident in using html (or know someone who is) you can edit the text by clicking on the html button at the top of the Description text box. This way you can add anchors so that visitors can navigate more easily around a longer description, and use different heading colours and fonts etc to structure the page.</p>
+<p><strong>Adding tags</strong></p>
+<p>Tags will help people find your Cloudscape, so choose 3 or 4 which you think represent the event well (these may match your profile &lsquo;interest&rsquo; tags)</p>
+<p>If you add a <a href="http://help.twitter.com/forums/10711/entries/49309" target="_self">#tag</a> in the Twitter tag box, any Twitter activity which includes your tag will be streamed down the right hand side of your Cloudscape.</p>
+<p><strong>Dates: </strong>Add the start and end date of your event, and the location. Your event will now automatically appear in the Event listings.</p>
+<p>Click on &lsquo;Create Cloudscape&rsquo;</p>
+<p>&nbsp;</p>
+<h3><a title="Step 3 Adding Clouds" name="Step 3 Adding Clouds"></a>Step 3 Adding Clouds</h3>
+<p>Before you start adding Clouds to your Cloudscape take time to consider how you would like to structure them - this will depend on your event and there is no right or wrong way of doing it. Please note that Clouds will appear in alphabetical/ numerical order so take case to title them so that they appear in the order you want them to!</p>
+<p>We recommend that, where possible, conference organisers set up &lsquo;placeholder&rsquo; Clouds for each item and then encourage presenters to take responsibility for organising, maintaining and promoting their Cloud. &nbsp;This ensures that presenters only add what they are happy sharing, and we have noticed that where more ownership is given to contributors, Clouds are better used and richer in content and discussion. To do this you will need to ask presenters to register on Cloudworks and then give them administration rights to the Cloud (click on &lsquo;Permissions&rsquo; on the right of your Cloudscape and then use the &lsquo;search users&rsquo; box; once your presenter&rsquo;s profile is found, click on &lsquo;<em>add as admin&rsquo;</em>. See the link to a word document with support information for presenters &ndash; please download and amend as appropriate.</p>
+<p>You will also need to decide whether you want to allow others to add additional Clouds to your Cloudscape. If you decide against this click on &lsquo;Permissions&rsquo; on the right of your Cloudscape and then on &lsquo;<em>make Cloudscape closed&rsquo;</em>.</p>
+<p>Examples:</p>
+<p><strong>1 day workshop:</strong> consider setting up Clouds around topics such as:</p>
+<ul>
+<li>Introduction (including      aims, outcomes and plan)</li>
+<li>Activities </li>
+<li>Groups</li>
+<li>Themes or discussions (one      for each)</li>
+<li>Evaluation </li>
+</ul>
+<p><a href="http://cloudworks.ac.uk/cloudscape/view/1912">Example</a></p>
+<p><strong>1 day conference:</strong> consider setting up Clouds around topics such as:</p>
+<ul>
+<li>Agenda or programme</li>
+<li>Keynotes (one for each)</li>
+<li>Presentations (one for      each)</li>
+<li>Workshops</li>
+</ul>
+<p><a href="http://cloudworks.ac.uk/cloudscape/view/1913">Example</a></p>
+<p><strong>Multi-day or large conferences: </strong>set up Clouds as for smaller conferences, but use the &lsquo;Sections&rsquo; tab function to further categorise these for easier navigation. For example you may create tabs for day 1, day 2 etc or individual tabs for Keynotes, presentations, workshops, papers, posters etc.</p>
+<p>To use the &lsquo;sections&rsquo; function, set up all the Clouds you want to then click on &lsquo;<em>Manage sections&rsquo;</em> on the right of your Cloudscape page. Click on &lsquo;<em>add a section&rsquo;</em> to add new sections and then click on &lsquo;<em>Add Clouds to a section&rsquo;. </em>This is very easy to do and prevents the problem of an endless and overwhelming list of Clouds on your Cloudscape!</p>
+<p><a href="http://cloudworks.ac.uk/cloudscape/view/1963/all/5#clouds-in-cloudscape">Example</a> (see the tabs at the top of this hyperlink view) &nbsp;</p>
+<p>&nbsp;</p>
+<h3><a title="Step 4 Promoting and moderating your Cloudscape" name="Step 4 Promoting and moderating your Cloudscape"></a>Step 4 Promoting and moderating your Cloudscape</h3>
+<p>If your Cloudscape is to be successful then you will need to allow time for someone to promote it (i.e. using email, Twitter etc) and then encourage people to contribute (by asking and answering questions, thanking contributors and adding links, references and comments yourself). Once the Cloudscape has taken off you will need to do less of this but it is very important at the beginning.</p>
+<p><strong>Becoming a featured Cloudscape</strong></p>
+<p>If you would like your Cloudscape to become featured on the front page, please make your request by email to <a href="mailto:cloudworks@open.ac.uk">cloudworks@open.ac.uk</a> and please make your image as close to 256 &times; 192 pixels as possible.</p>
+<p><strong>Emails and publicity materials</strong></p>
+<p>Ideally include the URL for your Cloudscape in all publicity material. This gives people a chance to find out about the space and explore. If this is not possible then it will be very important to inform people at the event. Delegates will need to know how to use it and a link to a delegate information document can be found on the right of this page. Please download and amend it as required. <em>It is especially important to ensure as far as possible that delegates are aware that the site is open to all before they begin to contribute.</em></p>
+<p><strong>Using Cloudworks for delegate registration</strong></p>
+<p>You can use Cloudworks to register delegates. Ask them to register, log in, and then click on the 'attending'' tab at the top of the Cloudscape. As the conference organiser you can then contact all registered delegates via email through the site with conference updates, information and activities.<em><br /></em></p>
+<p><strong>Using Twitter to promote the event more widely</strong></p>
+<p>Approximately 15% of traffic on Cloudworks comes through referrals from Twitter, for events and conferences the percentage is likely to be significantly more. &nbsp;Once you have set up your Cloudscape, tweet the URL out to your followers from time to time before, during and after your event. Ask others to retweet it.</p>]]></description>
+          <pubDate>Mon, 07 Dec 2009 10:41:13 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Using Twitter in Cloudworks</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2524</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2524</guid>
+              <description><![CDATA[<p>Using <a href="http://net.educause.edu/ir/library/pdf/ELI7027.pdf">Twitter</a> with Cloudworks allows for discussion which can be faster and more dynamic, and which pulls in people from a wider community. You may decide to incorporate Twitter into your Cloudscape when you want to include a wider discussion about a key question or issue. For example, Twitter can be used during workshops or conferences and be added to your Conference or workshop Cloudscape. The resulting discussion can be academically or creatively interesting in itself, and provide an excellent snapshot or record of the event or learning. Please note that although you can add a Twitter stream to a Cloudscape, you can not add one to a Cloud and you can only add to a Cloudscape you have created or been given editing permission for.</p>
+<p>You will need to create a <a href="http://twitter.com/">Twitter account</a> if you don&rsquo;t already have one.</p>
+<ul>
+</ul>
+<ul>
+</ul>
+<p><strong>(#) Hash tags</strong>. Hash tags are designed to create groupings on Twitter. Anyone joining a discussion about your Cloudscape will add your #tag to the message and it will be picked up and added to your Cloudscape Twitter stream. You create a hash tag by prefixing a short word with a # symbol like this - #cloudworks. Choose a #tag word which is short and relevant to the theme of your Cloudscape i.e. for the LAMS 2009 European Conference we chose #LAMS. Then add you #tag to your Cloudscape (in the Cloudscape edit window).</p>
+<p><strong>Promoting your #tag</strong>. You then need to tell people in the Twitter community that they can join the discussion at use your tag. If you are an established Twitterer and already have people following you that would be interested in commenting on your Cloudscape then update your Twitter status with a link to the Cloudscape and your hash tag. If you want to promote your Cloudscape more widely then search for communities in Twitter who may also be interested in your Cloudscape i.e. by searching themes such as learning, assessment etc. and invite their group (using their hash tag at the start of your update and yours at the end). It is likely that you will need to continue to promote your #tag over time and as your discussion develops.</p>
+<ul>
+</ul>
+<p>When people start using your hash tag in their tweets they will appear in the stream on the right of your Cloudscape page.</p>
+<ul>
+</ul>
+<p><strong>Twitter archives</strong>. Your Twitter stream will only last a couple of months and then disappear so we recommend that you use a Twitter archive such as <a href="/cloud/add/twapperkeeper.com/" target="_self">TwapperKeeper</a> . You will then need to add your TwapperKeeper archive URL as a hyperlink in your Cloudscape description.</p>]]></description>
+          <pubDate>Mon, 19 Oct 2009 14:38:56 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Copyright and Intellectual Property</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2523</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2523</guid>
+              <description><![CDATA[<h3>Copyright and Intellectual Property Rights</h3>
+<p>Cloudworks is a place to share, find and discuss learning and teaching ideas and experiences and by default all comments and content added are currently <a href="http://en.wikipedia.org/wiki/All_rights_reserved" target="_self">All Rights Reserved</a>&nbsp; (although you will soon be able to choose to be covered by a&nbsp; <a href="http://creativecommons.org/about/" target="_self">Creative Commons</a> <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">Attribution</a> or <a href="http://creativecommons.org/licenses/by-nc/2.0/uk/" target="_blank">Attribution-Non-commercial</a> licence instead). Creative Commons licences are designed to make sharing and collaboration easier.</p>
+<h3>Embeds and links</h3>
+<p>It is worth noting though that Cloudworks is not a repository, this means that it is not possible to upload files to the site. All documents, slideshows, videos etc must be hosted on another site (such as Flickr or Slideshare) and linked to, or embedded into a Cloud (<a href="/cloud/view/2511" target="_self">example</a> - scroll down). All work linked or hyperlinked to, or embedded will be covered by the permissions set on the&nbsp; 'host' site i.e. Flickr, YouTube etc. It is important<em> </em>that you adhere to the permissions given on the host site.&nbsp; For example, if you embed a photograph from Flickr it must be your own photo, or one that you have permission to upload, or published under a Creative Commons licence and properly attributed. When you refer to someone else&rsquo;s ideas or theories then they must be referenced, or attributed as appropriate to the work. Where appropriate and available create a &lsquo;link-back&rsquo; to the original online source.</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Mon, 19 Oct 2009 13:36:59 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Sharing pictures, videos, documents and ideas on Cloudworks.</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2522</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2522</guid>
+              <description><![CDATA[<h3>Sharing</h3>
+<p>Cloudworks is not a repository and you cannot upload your files to Cloudworks but you can easily link to files and content stored elsewhere on websites such as Flickr, Slideshare, YouTube &nbsp;etc. These files can be shared by linking, embedding or added in the text as a hyperlink.</p>
+<p><strong>Text</strong>. To add text to a Cloud, either click on <em>'Add content'</em> (if your text is informational) or add text to the '<em>Contribute</em>' box further down (if your text is conversational).</p>
+<p><strong>Links.</strong> To link to another web page, just click on '<em>Add link' </em>which can be found towards the top of the page. The links you have added will appear in the middle column beside the discussion.When you add a link you will be asked to give the link a title (so other people will know what it is) and the URL (webpage address i.e. http://www. cloudworks...).</p>
+<p><strong>Embeds.</strong> If you want the document, video or slideshow to viewed from the Cloud, rather than just linked to, you can add it by clicking '<em>Add embedded content'</em>'. Again, you will be asked for a descriptive title and the URL. The following sites are supported by this embed function:</p>
+<ul>
+<li><a href="http://5min.com/">5min</a> </li>
+<li><a href="http://www.amazon.co.uk/" target="_self">Amazon Product Images</a> </li>
+<li><a href="http://www.flickr.com/" target="_self">Flickr</a></li>
+<li><a href="https://docs.google.com/">Googledocs</a></li>
+<li><a href="http://video.google.com/" target="_self">Google Video</a> </li>
+<li><a href="http://www.hulu.com/" target="_self">Hulu</a> </li>
+<li><a href="http://www.metacafe.com/" target="_self">Metacafe</a> </li>
+<li><a href="http://revision3.com/" target="_self">Revision3</a> </li>
+<li><a href="http://www.slideshare.net/" target="_self">Slideshare</a> </li>
+<li><a href="http://twitpic.com/" target="_self">Twitpic</a> </li>
+<li><a href="http://www.viddler.com/" target="_self">Viddler</a> </li>
+<li><a href="http://www.vimeo.com/" target="_self">Vimeo</a> </li>
+<li><a href="http://www.wikipedia.org/" target="_self">Wikipedia</a> </li>
+<li><a href="http://www.youtube.com/" target="_self">YouTube</a></li>
+<li><a href="http://blip.tv/">Blip.tv</a></li>
+<li><a href="http://www.scribd.com/">Scribd</a></li>
+</ul>
+<p><strong>Hyperlinks.</strong> Most links will be created by '<em>add link</em>' as above, but occassionally it will be more appropriate to create a hyperlink in the text, for example if you want to create a link to help explain something you're discussing. To do this highlight a word or phrase while editing, and then click on the chain icon. You will be asked for the URL and whether you want the hyperlink to open in a new or the same window.&nbsp; If you create a hyperlink the link will not appear with other links, only in the text.</p>
+<h3>Copyright and Intellectual Property Rights</h3>
+<p>As detailed in the <a href="http://cloudworks.ac.uk/about/tandc">Terms and Conditions</a>, when you add content or comment all your rights are reserved by default.&nbsp; However work linked to, hyperlinked to, or embedded will be covered by the permissions set on the&nbsp; 'host' site i.e. Flickr, YouTube etc. It is important<em> </em>that you adhere to the permissions given on this site.&nbsp; For example, if you embed a photograph from Flickr it must be your own photo, or one that you have permission to upload, or published under a Creative Commons licence and properly attributed. When you refer to someone else&rsquo;s ideas or theories then they must be referenced, or attributed as is appropriate to the work. Where appropriate and available create a &lsquo;link-back&rsquo; to the original online source.</p>]]></description>
+          <pubDate>Mon, 19 Oct 2009 12:53:04 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Creating an account and profile</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2521</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2521</guid>
+              <description><![CDATA[<ul>
+</ul>
+<p><strong>Creating a user account.</strong> You can view everything available on the site, but if you want to create Clouds or Cloudscapes or if you want to add comments, links, content or references, then you need to <a href="http://cloudworks.open.ac.uk/index.php/user/register.html">create an account</a>. Once you have created an account you can &lsquo;follow&rsquo; both people and Cloudscapes.</p>
+<p>'<strong>Following'.</strong> In order to get the best out of the site it is a great idea to begin to follow a few Cloudscapes, clouds and people that interest you as soon as you register. Use the 'tags' link at the top of the page, the Cloudscapes tab or the site search engine to find topics that interest you. Open the Cloudscape/ cloud and click on follow - you can always unfollow if you change your mind. . Find people using the 'people' tab at the top on the page and follow in the same way.</p>
+<p><strong>Email alerts. </strong>You will be sent email alerts when someone adds something to a Cloud you have contributed to or a Cloudscape you are following, or if someone starts to follow you. These alerts are an excellent way of keeping in touch with what is happening. If you want to change your email preferences, do so <a href="/user/email/" target="_self">here</a>.</p>
+<p><strong>Setting up a profile.</strong> Once you have registered, you can set up a profile and include some information about yourself. Your profile page automatically includes your personal Cloudstream, the Clouds you have added, the Cloudscapes and people you are following, and who is following you. All the Clouds created by the people and Cloudscapes you are following are also collected under your Cloudstream.</p>
+<ul>
+</ul>
+<ul>
+</ul>]]></description>
+          <pubDate>Mon, 19 Oct 2009 11:19:45 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Resource: Navigating the site</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2520</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2520</guid>
+              <description><![CDATA[<p><a href="http://www.cloudworks.ac.uk" target="_blank"><strong>The front page</strong></a>. The front page shows a rolling list of particularly active Clouds on the right hand side, featured Cloudscapes are presented in the middle panel and below this, Cloudstreams for Clouds, Cloudscapes, Comments, Links, References and Extra content can be seen. Click on the ones that interest you.&nbsp; RSS feeds can be set up for each of these at the bottom of the front page.</p>
+<p><strong>Search engine</strong>. If you are looking for something specific then it is usually quickest to use the site search engine. Enter a word or phrase, and Clouds and Cloudscapes which include that word or phrase in the title or summarytwill be listed. Click on one of these to open it.</p>
+<p><strong>Using the tabs at the top of the page.</strong></p>
+<p style="cursor:auto"><!--NO CSS--><a href="/cloud/cloud_list" target="_blank"><strong>Clouds.</strong></a> You can get a list of all the Clouds in the site by clicking on the' Clouds' tab at the top of the page. A title and brief summary for each Cloud is provided. Click on the link to go to the Cloud.</p>
+<p style="cursor:auto"><!--NO CSS--><a href="/cloudscape/cloudscape_list" target="_blank"><strong>Cloudscapes</strong></a>. Clicking on the 'Cloudscapes' link lists all the Cloudscapes in the site, as with individual Clouds a brief description of each Cloudscape is provided. Clicking on a particular Cloudscape will take you into it and will show all the Clouds associated with that Cloudscape.</p>
+<p style="cursor:auto"><!--NO CSS--><strong><a href="/tag/" target="_blank">Tags.</a> </strong>If you are browsing (rather than looking for something specific in which case use the search engine) click on the 'tags' link. This will take you to a tag 'cloud' which is ordered according to the popularity of the tag. Click on the tag that interests you for a list of Clouds and Cloudscapes asscociated with that word. You can set up an RSS feed to be updated with any new content added associated with that tag eg new Clouds and Cloudscapes associated with assessment.</p>
+<p style="cursor:auto"><!--NO CSS--><a href="/user/people/" target="_blank"><strong>People</strong></a>. If you are looking for people from a certain institution, or are looking for a specific person, click on the 'people' tab. You will be asked whether you want to search by name or institution. Once you have found the name you are looking for click on the person to see their profile. Click on 'Follow' to follow them. You can also search for content by looking at people's profiles and seeing what Clouds they have set up or are following and keep up to date with their activity by setting up an RSS feed.</p>
+<ul>
+</ul>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Mon, 19 Oct 2009 11:01:01 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Discussion: Thoughts on cloudworks</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2517</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2517</guid>
+              <description><![CDATA[<p>Use this space to share your impressions of cloudworks. You might want to reflect on the following questions:</p>
+<ul>
+<li>Initial impressions of the site?</li>
+<li>How easy it is to use?</li>
+<li>What makes this distinct from other social networking sites?</li>
+<li>Can you see youself using the site after the workshop, if so in what ways?</li>
+</ul>]]></description>
+          <pubDate>Mon, 19 Oct 2009 08:24:20 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Resource: An introduction to cloudworks</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2458</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2458</guid>
+              <description><![CDATA[<p>This cloud provides some links which give an introduction to cloudworks. The powerpoint presentation has audio and is about 30 minutes long.</p>]]></description>
+          <pubDate>Wed, 11 Nov 2009 09:18:03 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Resource: Cloudworks the Movie</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2457</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2457</guid>
+              <description><![CDATA[<p>Cloudworks the Movie Pt I - starring Grainne Conole with Martin Weller and Doug Clow. Available for general release 9th October 2009...</p>]]></description>
+          <pubDate>Tue, 20 Oct 2009 03:04:42 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Activity: 10 mins A simple Cloudquest challenge</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2454</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2454</guid>
+              <description><![CDATA[<p>This activity is a variant on the idea of a webquest, it provides a fun ways of exploring the cloudworks site and sharing findings. The aim is to explore the site, choose a cloud or cloudscape you find interesting and then collectively vote on the best example found.</p>
+<ul>
+<li>If you haven't already done so, create a <strong>Cloudworks account </strong>(you can view anything on the site, but to post comments or add anything you need an account)<strong><br /></strong></li>
+<li>Spend a max of ten minutes <strong>exploring cloudworks </strong>(suggested stategies - browse clouds and cloudscapes, enter keywords in search, explore by tags, look at individual people's profiles </li>
+<li>You may wish to open your search in a <strong>new tab or page </strong>in your browser so that you can easily navigate back to this cloud</li>
+<li>Find one <strong>interesting cloud </strong></li>
+<li><strong>Post a comment </strong>here with<strong> </strong>the name of the cloud with a hyperlink to it and include your reasons for why you like it</li>
+<li><strong>Review </strong>other entries</li>
+<li><strong>Vote</strong> for favourite entry using the <a href="http://surveys.polldaddy.com/s/4FECC2CF90277B45/">survey</a></li>
+<li>A <strong>summary</strong> of the survey will be posted here in due course</li>
+</ul>]]></description>
+          <pubDate>Thu, 12 Nov 2009 09:24:36 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Interview: Patrick McAndrew</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2442</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2442</guid>
+              <description><![CDATA[<p>Rebecca Galley interviews Patrick McAndrew about Cloudworks</p>]]></description>
+          <pubDate>Thu, 08 Oct 2009 11:21:03 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Interview: Rebecca Galley</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2441</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2441</guid>
+              <description><![CDATA[<p>Juliette Culver interviews Rebecca Galley about Cloudworks</p>]]></description>
+          <pubDate>Thu, 08 Oct 2009 11:18:23 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Interview: Doug Clow</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2434</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2434</guid>
+              <description><![CDATA[<p>Rebecca Galley interviews Doug Clow, critical friend to the Cloudworks project.</p>]]></description>
+          <pubDate>Thu, 08 Oct 2009 07:44:03 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Interview: Juliette Culver, Cloudworks Developer</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2425</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2425</guid>
+              <description><![CDATA[<p>Rebecca Galley interviews Juliette Culver about the development approach for Cloudworks and plans future development.</p>]]></description>
+          <pubDate>Wed, 07 Oct 2009 12:33:38 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Interview: Elpida Makriyannis</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2421</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2421</guid>
+              <description><![CDATA[<p>Rebecca Galley interviews Elpida Makriyannis of the OLnet project about Cloudworks</p>]]></description>
+          <pubDate>Wed, 07 Oct 2009 10:42:18 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Interview: Chris Pegler</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2419</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2419</guid>
+              <description><![CDATA[<p>Chris Pegler talks with Grainne Conole about Cloudworks, the site's development and her future use of the site.</p>]]></description>
+          <pubDate>Wed, 07 Oct 2009 09:47:34 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Interview: Giota Alevizou</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2418</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2418</guid>
+              <description><![CDATA[<p>Giota talks about Cloudworks with Grainne Conole</p>]]></description>
+          <pubDate>Wed, 07 Oct 2009 09:45:21 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Podcast: Paul Gormley on Cloudworks</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2416</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2416</guid>
+              <description><![CDATA[<p>Paul discusses his impressions of Cloudworks and how the ILTA will use the site in the future. Click on the bar below to play</p>
+<div>
+&lt;object id="mp3playerlightsmallv3" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="210" height="25" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" align="middle"&gt;
+<param name="allowScriptAccess" value="sameDomain" />
+<param name="movie" value="http://www.podbean.com/podcast-audio-video-blog-player/mp3playerlightsmallv3.swf?audioPath=http://rebeccagalley.podbean.com/mf/play/qerv2/gormley_cworks2.mp3&autoStart=no" />
+<param name="quality" value="high" />
+<param name="bgcolor" value="#ffffff" />
+<param name="wmode" value="transparent" /> &lt;embed type="application/x-shockwave-flash" width="210" height="25" src="http://www.podbean.com/podcast-audio-video-blog-player/mp3playerlightsmallv3.swf?audioPath=http://rebeccagalley.podbean.com/mf/play/qerv2/gormley_cworks2.mp3&autoStart=no" quality="high" name="mp3playerlightsmallv3" allowscriptaccess="sameDomain" wmode="transparent" pluginspage="http://www.macromedia.com/go/getflashplayer" align="middle"&gt;&lt;/embed>
+&lt;/object&gt;
+<br /><a style="font-family: arial, helvetica, sans-serif; font-size: 11px; font-weight: normal; padding-left: 41px; color: #2DA274; text-decoration: none; border-bottom: none;" href="http://www.podbean.com">Powered by Podbean.com</a></div>]]></description>
+          <pubDate>Wed, 07 Oct 2009 09:23:17 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Interview: Dominic Newbould on cloudworks</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2414</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2414</guid>
+              <description><![CDATA[<p>Dominic Newbould's reflections on cloudworks after using it for a recent conference in Cambridge.</p>]]></description>
+          <pubDate>Tue, 06 Oct 2009 14:22:50 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Interview: Grainne Conole on cloudworks</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2413</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2413</guid>
+              <description><![CDATA[<p>Interview with Gr&aacute;inne Conole describing cloudworks and associated concepts - clouds, cloudscapes and actiivity streams.</p>
+<p><em>Interviewer: Rebecca Galley</em></p>]]></description>
+          <pubDate>Tue, 06 Oct 2009 14:17:21 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Interview questions: Reflections on cloudworks</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2410</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2410</guid>
+              <description><![CDATA[<p>We are seeking to gather a series of video/audio clips with people reflecting on cloudworks. If you have a spare moment create a cloud in this space! Some suggested questions:</p>
+<ul>
+<li>State your name and institution</li>
+<li>What are your impressions of Cloudworks to date?</li>
+<li> Describe how you first encountered Cloudworks</li>
+<li> Describe how you use Cloudworks</li>
+<li> What do you like about Cloudworks?</li>
+<li> Why are you interested in using Cloudworks in the future? </li>
+<li>How could Cloudworks integrate into the other tools you use?</li>
+<li> How do you envisage using the site in the future?</li>
+<li> What 3 key words would you use to describe Cloudworks?</li>
+</ul>]]></description>
+          <pubDate>Tue, 06 Oct 2009 07:41:19 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Question: What 3 words would you use to describe cloudworks?</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2409</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2409</guid>
+              <description><![CDATA[<p>As part of the creation of a short video for JISC on cloudworks we are gathering views and testimonials on the site.</p>
+<ul>
+<li>What 3 words would you use to describe cloudworks?</li>
+</ul>]]></description>
+          <pubDate>Tue, 06 Oct 2009 07:33:20 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Interview: Martin Weller on cloudworks</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2408</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2408</guid>
+              <description><![CDATA[<p>As part of our JISC-funded Curriculum Design project we need to put together a short video - we are planning to do one on cloudworks and plan to get a series of short snippets with people reflecting on their impressions of cloudworks to date. Martin Weller was the first of our victims.... here's the raw uncut version.</p>]]></description>
+          <pubDate>Tue, 06 Oct 2009 02:50:11 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Launch of the ILTA website</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2392</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2392</guid>
+              <description><![CDATA[<p>This cloud has been set up for the launch of the Irish Learning Technology Association (ILTA) web site launch on 1st October 2009. It includes the slides from Gr&aacute;inne Conole's introductory presentation and a set of questions for discussion:</p>
+<ul>
+<li>How can we foster and support the development of the Irish Learning Technology community, how can we encourage better sharing and discussion?</li>
+<li>How can web 2.0 technologies help and in particular how might cloudworks help?</li>
+</ul>]]></description>
+          <pubDate>Thu, 01 Oct 2009 09:35:13 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Keynote: Conole - Innovation through design: new approaches to learning and teaching</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2282</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2282</guid>
+              <description><![CDATA[<p>This cloud has been set up for my keynote at <a href="http://www2.open.ac.uk/r06/conference/">the Cambridge International Conference of Open and Distance Learning 2009</a> on 24th September 2009.This cloud can also be used as a discussion space around the themes and issues raised in the keynote.</p>
+<p>The talk focuses on work we are undertaking as part of the<a href="http://ouldi.open.ac.uk"> OU Learning Design Initiative </a>and the Hewlett-funded <a href="http://olnet.org">Olnet initiative</a>. A key focus of our work is the development of tools, methods and approached to support the desing of innovative learning activities and Open Educational Resources (OER). The website provide further details on both initiatives and links to assocaited tools, resources and publications. For this keynote I want to focus in on one strand of our work; namely how to leverage technologies to promote bettter sharing and discussing of learning and teaching ideas and designs.</p>
+<p>When asked what they would find most helpful to enable them to use technologies more in their teaching, most teachers say "give me examples, in my subject area" and "point me to relevant people I can discuss these issues with". Web 2.0 technologies - with their emphasis on sharing, networking, user production, seem to offer the solution. However uptake and use of web 2.0 sites such as Facebook, Ning, Flckr, and Twitter for educational purposes has to date being marginal.</p>
+<p>Some of the key questions in relation to this work are:</p>
+<ul>
+<li>Why have web 2.0 technologies not been taken up more extensively in learning and teaching?</li>
+<li>What are the barriers to teachers sharing and discussing their learning and teaching ideas and designs?</li>
+<li>How can social networking practices be harness and used in an educational context? </li>
+</ul>
+<p>Also see related clouds and ongoing discussions on these issues:</p>
+<ul>
+<li><a href="/cloud/view/1919">How do we get people to share designs and ideas - is social media the answer?</a></li>
+<li><a href="/cloud/view/1921">How do you foster the motivation for learning?</a></li>
+<li><a href="/cloud/view/1935">What are the barriers for sharing ideas and designs of OER?</a></li>
+</ul>
+<p>The talk will then outline the development of a social networking site for learning and teaching, <a href="//">cloudworks</a>; which is attempting to apply web 2.0 practices to support dialogue and sharing around learning and teaching ideas and designs.</p>
+<p><a rel="embed" href="http://www.slideshare.net/grainne/conole-cambridge">slides</a></p>
+<p>&nbsp;</p><p>Contact details: Grainne Conole, g.c.conole@open.ac.uk</p>]]></description>
+          <pubDate>Sun, 13 Sep 2009 12:12:33 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Literature review cloudscape: User survey - Please feedback your experience of using Cloudworks</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2092</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2092</guid>
+              <description><![CDATA[<ul>
+<li>Cloudworks is still under development and feedback from users is invaluable to us. </li>
+<li>If you have taken part in the<a href="../../index.php/cloudscape/view/1872"> Educational Technologist Literature Review cloudscape </a>we would welcome your thoughts. </li>
+<li>Please take a couple of minutes to complete our <a title="survey" href="http://www.surveymonkey.com/s.aspx?sm=DOuN8YdkJVbcPv6Nx9a5fQ_3d_3d" target="_blank">survey</a>.</li>
+</ul>
+<p>Thank you!</p>
+<p>The Cloudworks Team.</p>]]></description>
+          <pubDate>Wed, 26 Aug 2009 09:21:29 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Reading Design Challenge Evaluation</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1931</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1931</guid>
+              <description><![CDATA[<p>Cloudworks is still being developed and we really value your feedback on the site. Please take a couple of minutes to complete the survey (see link).</p>
+<p>Thank you!</p>]]></description>
+          <pubDate>Thu, 09 Jul 2009 09:26:00 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Evaluation: Cloudworks</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1906</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1906</guid>
+              <description><![CDATA[<p>We are really keen to discover your thoughts about Cloudworks. Please take a few minutes to complete the survey. Follow the link below.</p>
+<p>Thank you for your feedback!</p>]]></description>
+          <pubDate>Tue, 07 Jul 2009 11:58:49 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Interview: Jonathan Lopez </title>
+              <link>https://cloudworks.ac.uk/cloud/view/1212</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1212</guid>
+              <description><![CDATA[<p>Jonathan Lopez, principal reporter for the OLnet Monterey meeting discusses how the conference was&nbsp;successfully&nbsp;transfered into the virtual sphere by the use of Cloudworks. Connecting participants and enabling remote participation were the main goals.&nbsp;</p>]]></description>
+          <pubDate>Wed, 11 Mar 2009 11:37:17 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Template: Design challenge</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1196</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1196</guid>
+              <description><![CDATA[<p><strong>The short course design challenge&hellip; are you up to it???</strong></p>
+<p><strong>Background</strong><br /> Curriculum design has never being more challenging or potentially exciting:<br /> &bull;&nbsp;&nbsp; &nbsp;New technologies offer a seemingly endless range of possibilities in terms of use of engaging digital media to support core course material to exciting and authentic communicative and collaborative opportunities<br /> &bull;&nbsp;&nbsp; &nbsp;Modern students are more and more diverse with higher expectations of courses and more diverse needs from formal, work-related possibilities through to learning for informal, personal reasons<br /> &bull;&nbsp;&nbsp; &nbsp;Employers are increasingly demanding evidence of students having developed a diverse range of social skills and competences to meet the challenges of the modern workplace<br /> &bull;&nbsp;&nbsp; &nbsp;There is now a range of educational models that can be applied to help foster different pedagogical approaches.&nbsp;</p>
+<p>This one-day workshop has been developed to introduce course teams to  using a learning design approach. The example below (originally used at  Brunel University in 2009) uses the OULDI learning tools and activities  but we have successfully tried slotting in tools and activities from  other projects (especially the Viewpoints project) and the format holds  well. For a list of other activities and tools you could use try the  learning design toolbox. These and other examples of the template in use:</p>
+<p><a href="http://cloudworks.ac.uk/cloudscape/view/1912">Brunel Blended Design workshop November 2009</a></p>
+<p><a href="http://cloudworks.ac.uk/cloudscape/view/2130">Brunel 'Tools for change' workshop July 2010</a></p>
+<p><a href="http://cloudworks.ac.uk/cloudscape/view/2095">London South Bank  University 'Curriculum Design Fest' May 2010</a></p>
+<p><a href="http://cloudworks.ac.uk/cloudscape/view/2133">Reading University  Curriculum Design Workshop: New approaches to the design of Blended  Learning July 2010</a></p>
+<p>Please feel free to use or  repurpose this template and let us know what you do and how you get on.</p>
+<p>&nbsp;</p>
+<table style="width: 100%;" border="0">
+<tbody>
+<tr>
+<td>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="http://www.open.ac.uk/blogs/OULDI/wp-content/uploads/2010/11/Readteamshot2.png" alt="" width="329" height="295" /><em>&nbsp;</em></p>
+<p style="cursor:auto"><!--NO CSS--><em>"Thank  you for running a whole day event. I think  we needed this time  to  really become familiar with the motivation and </em></p>
+<p style="cursor:auto"><!--NO CSS--><em>nature of the course  and  to develop close cross  curricular</em></p>
+<p style="cursor:auto"><!--NO CSS--><em> links with other  collegues, a secondary but immensely </em></p>
+<p style="cursor:auto"><!--NO CSS--><em>valuable side product" </em>Design Challenge  participant</p>
+</td>
+<td>
+<h2>Session aims</h2>
+<p>&nbsp;</p>
+<ul>
+<li>An awareness of the range of resources, tools and methods which are    available to support learning design &ndash; including case studies of good    practice, learning object repositories and learning design    tools/methods.&nbsp;</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>Experience of thinking about the design process from different    perspectives; an understanding of the issues and challenges involved in    designing blended learning </li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>An understanding that will allow you to transfer the experience    gained from the design challenge to your own context and the blended    learning modules you are involved in designing</li>
+</ul>
+<br /></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>The Challenge...</h2>
+<p>&nbsp;</p>
+<p>The Design  Challenge&rsquo; is intended to be an intense  but fun means of illustrating a  range of resources, tools and ways of  thinking about course design.  Participants are introduced to a range of  tools and techniques by means  of access to advisors who will help them  along the process. <br /> <br /> Towards the end of the afternoon each team  presents their ideas. A  panel evaluates their work and select the  strongest designs. The  session concludes with a reflection on the  usefulness of the event and  on which of the ideas, resources and tools  participants might wish to  pursue further. <br /> <br /> Although designed  as a fun activity, the event gives an awareness of  the latest in  thinking innovatively about curriculum design and is  designed to be  proactive rather than being composed around an  uncontextualised set of  one-to-many presentations. The time-limited  challenge enables  participants to make a preliminary assessment of  which of the ideas,  tools and resources are useful and gives them some  feel for what might  be possible in a longer, term real course  production process. Hopefully  the challenge will open avenues for  participants to pursue this further.</p>
+<p>&nbsp;</p>
+<h2>Resources</h2>
+<p>Paper  and pens (hard copies of tools if appropriate - A3 best)</p>
+<p>'Stalls'  facilitators</p>
+<p>Two laptops per team (can also bring their own  but should be networked)</p>
+<p>So that your teams can export the CompendiumLD maps and save any    other work done on workshop laptops, please ensure that they bring at    least one USB memory key with them per team.</p>
+<h2>Outline  of the day</h2>
+<p>&nbsp;</p>
+<p style="cursor:auto"><!--NO CSS--><strong>9.30 &ndash; 9.45</strong>&nbsp; Arrival  activity: <a href="http://cloudworks.ac.uk/view/2596">Setting personal and team  objectives</a></p>
+<p style="cursor:auto"><!--NO CSS--><strong>9.45 &ndash; 10.15</strong> Welcome and  introductions:<a href="http://cloudworks.ac.uk/view/3648"> What is learning design?</a></p>
+<p style="cursor:auto"><!--NO CSS--><strong>10.15 &ndash; 10.35</strong> <a href="http://cloudworks.ac.uk/view/2597">Activity: How to ruin a  course</a></p>
+<p style="cursor:auto"><!--NO CSS-->This activity will focus on the key issues  and   strategies that  impact on the success (or otherwise) of learning  and teaching   within  your context. The output of this activity will  be a team checklist    which will be used as one of the design  evaluation tools in the design  review   and at the end of the workshop.</p>
+<p style="cursor:auto"><!--NO CSS--><strong>10.35 &ndash; 11.15</strong> <a href="http://cloudworks.ac.uk/view/2598">Activity: &lsquo;At a glance&rsquo;  course map</a>&nbsp;</p>
+<p style="cursor:auto"><!--NO CSS--><strong>11.15 &ndash; 11.30</strong> Tea and coffee</p>
+<p style="cursor:auto"><!--NO CSS--><strong>11.30 &ndash; 12.00</strong> <a href="http://cloudworks.ac.uk/view/2599">Activity: Design review</a></p>
+<p style="cursor:auto"><!--NO CSS-->We will introduce 3 tools which can be  used at   various points in  the design process to represent, inform and  reflect on   designs:</p>
+<ul>
+<li>&nbsp;   
+<ul>
+<li><a href="http://jiscdesignstudio.pbworks.com/w/page/OULDI:-Pedagogy-Profile">Pedagogy  profile</a></li>
+<li><a href="http://jiscdesignstudio.pbworks.com/w/page/OULDI:-Course-Dimensions">Course  dimensions</a></li>
+<li>Ruin a course checklist (created during the first activity)</li>
+</ul>
+</li>
+</ul>
+<p style="cursor:auto"><!--NO CSS-->Each team will use these tools to evaluate  their   designs and inform  their design decision making.</p>
+<p style="cursor:auto"><!--NO CSS--><strong>12.00 &ndash; 12.40</strong>&nbsp; <a href="http://cloudworks.ac.uk/view/2600">Activity: Stalls activity</a></p>
+<p style="cursor:auto"><!--NO CSS-->Teams will split in to focus groups.  Individuals,   with the support  of expert facilitators, will explore  one of the following   themes (examples from Brunel University  workshop):</p>
+<ul>
+<li>&nbsp;   
+<ul>
+<li><a href="http://cloudworks.ac.uk/view/2557">Library, media services  and accessibility</a></li>
+<li><a href="http://cloudworks.ac.uk/view/2556">Open Educational  Resources</a></li>
+<li>Pedagogy (including assessment)</li>
+<li><a href="http://cloudworks.ac.uk/view/2555">Visualisation and  representations</a></li>
+</ul>
+</li>
+</ul>
+<p style="cursor:auto"><!--NO CSS-->Individuals will then rejoin their work  teams,   share findings and  consider what the impact of these findings  might be the   emerging  designs. The expert facilitators will be  available to offer support    for the remainder of the workshop and will  upload links and resources to    Cloudworks as appropriate.</p>
+<p style="cursor:auto"><!--NO CSS--><strong>12.40 &ndash; 1.30</strong> Lunch</p>
+<p style="cursor:auto"><!--NO CSS--><strong>1.30 &ndash; 3.00</strong> <a href="http://cloudworks.ac.uk/view/2601">Activity: Visualising  designs</a></p>
+<p style="cursor:auto"><!--NO CSS-->Using all the online and physical  resources   available, teams will  draw up a more detailed  representation of their module.   These  representations are likely to  include i.e. sequence, learning outcomes,    outlines of activities,  technologies used, assessment strategies etc.  Using   Compendium it is  also possible to create links to specific OERs,  tools and   resources.  Designs and discussions around design problems  and decisions will   be  added to the Cloudworks site &ndash; allowing for  collaborative discussion    between teams and opening up discussion  beyond the workshop.</p>
+<p style="cursor:auto"><!--NO CSS--><strong>3.00 &ndash; 3.15</strong> Tea and  coffee</p>
+<p style="cursor:auto"><!--NO CSS--><strong>3.15 &ndash; 3.45</strong> <a href="http://cloudworks.ac.uk/view/2602">Activity: Design  Evaluation</a></p>
+<p style="cursor:auto"><!--NO CSS-->&nbsp;This activity will provide an opportunity  to view   and review the  designs of other teams and give and receive  feedback. It is   recognised  that designs at this stage will contain  detail but will not    necessarily be &lsquo;finished&rsquo;.</p>
+<p style="cursor:auto"><!--NO CSS--><strong>3.45 &ndash; 4.30</strong><a href="http://cloudworks.ac.uk/view/2603"> Activity: Next steps,  action   planning and evaluation</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>4.15 &ndash; 4.30</strong> Close of  session</p>]]></description>
+          <pubDate>Fri, 06 Mar 2009 16:21:17 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Interview: Amee Godwin&#39;s reflection on cloudworks</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1194</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1194</guid>
+              <description><![CDATA[<p>&nbsp;Interview with Amee Godwin</p>]]></description>
+          <pubDate>Fri, 06 Mar 2009 00:51:58 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Cloudworks Overview</title>
+              <link>https://cloudworks.ac.uk/cloud/view/996</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/996</guid>
+              <description><![CDATA[<div id="__ss_1074075" style="cursor:auto"><!--NO CSS--><br />This presentation with audio gives an overview of the cloudworks site, it takes about 30 minutes to watch.</div>]]></description>
+          <pubDate>Mon, 16 Nov 2009 07:18:59 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Cloudworks Issues and Suggestions</title>
+              <link>https://cloudworks.ac.uk/cloud/view/977</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/977</guid>
+              <description><![CDATA[<p>If you encounter any problems with Cloudworks, post them here and I'll look into them. I'd also love to hear any idea for how to improve Cloudworks.&nbsp;</p>
+<ul>
+<li> We have <a href="/node/384">a list of known issues and what we are working on.</a></li>
+<li>You can also contact me directly at <a class="linkification-ext" title="Linkification: mailto:cloudworks@open.ac.uk" href="mailto:cloudworks@open.ac.uk">cloudworks@open.ac.uk</a>&nbsp; </li>
+<li>Also would appreciate your feedback generally: cloudworks evaluation <a href="/cloud/view/1906">survey</a></li>
+</ul>
+<p>&nbsp;</p>
+<p><em> Special note for Monterey 2009: I'm in the UK so the time difference may mean that it'll take me a little bit of time to get back to you, but I'll check this cloud and the e-mail address each day. This also means that if I have to get back to you to ask questions, it will slow down fixing any bugs by a large amount, so if it's urgent please give me as much information as possible.&nbsp; </em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Thu, 26 Feb 2009 16:21:18 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Cloudworks - social networking for design</title>
+              <link>https://cloudworks.ac.uk/cloud/view/584</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/584</guid>
+              <description><![CDATA[<p>Presentation on <a href="http://cloudworks.ac.uk">cloudworks</a> with audio is now available from <a href="http://www.slideshare.net/grainne/conole-ascilite-paper-presentation/">slideshare</a>.</p>
+<p></p>
+<p>There is also a <a href="http://www.ascilite.org.au/conferences/melbourne08/procs/conole.pdf">full conference paper </a>with more on the theortical background to the work.</p>]]></description>
+          <pubDate>Fri, 05 Dec 2008 03:43:57 +0000</pubDate>
+            </item>
+                    <item>
+              <title>LAMS: Cloudworks presentation</title>
+              <link>https://cloudworks.ac.uk/cloud/view/572</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/572</guid>
+              <description><![CDATA[<p>
+This presentation gives an overview of the latest developed of the social networking site for design, Cloudworks, that has been developed as part of the <a href="http://ouldi.open.ac.uk">OU Learning Design Initiative.</a>
+</p>
+]]></description>
+          <pubDate>Thu, 04 Dec 2008 08:48:15 +0000</pubDate>
+            </item>
+                    <item>
+              <title>NDLR 2008 Symposium workshop on contextualisation</title>
+              <link>https://cloudworks.ac.uk/cloud/view/445</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/445</guid>
+              <description><![CDATA[<p>Here is the abstract:</p>
+<p>&nbsp;</p>
+<p>The problem of contextualisation is one which has plagued re-use. The challenges of writing content so that it is &lsquo;context-free&rsquo; and blending content from elsewhere with your own content are not trivial. What we once thought was simple now appears to be a persistent problem. Re-purposing content is popular with re-users, but may be perceived as a threat to quality by those offering reusable content. How can we resolve this? There are examples of effective practice, but these often exist within the courses and are not themselves connected or shared.</p>
+<p>Perhaps communities hooked into social networking tools are the key? Cloudworks and its development towards &lsquo;cloudscapes&rsquo;, is in development at the OU as a social tool for sharing contextual information about learning design and learning content within and across communities. Where better to explore this and other social systems than within the NDLR communities? Bring a laptop and wifi to start building a cloud during this session, but even those without the gadgets should come prepared to share ideas and examples of contextualisation in practice.</p>
+<p>If you are reading this on 2nd December then you may be able to catch the live webcast at <a>http://live.heanet.ie/ndlr.asx</a> (later it will be available from the NDLR site.</p>]]></description>
+          <pubDate>Fri, 28 Nov 2008 15:29:59 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Possible Project</title>
+              <link>https://cloudworks.ac.uk/cloud/view/444</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/444</guid>
+              <description><![CDATA[<p><b>Open University, Birmingham City University and Bradford University</b> partners are bidding for National Teaching Fellowship funding to collect and share patterns which illustrate how resable content can be reused or repurposed effectively across different contexts and how contextualisation works. Initial trial will create and draw on repository content and target PG Cert in Academic Practice participants across these institutions. If successful in securing HEA funding the project will start in September 2009.</p>
+<p>One tool which may be used is Cloudworks.</p>]]></description>
+          <pubDate>Fri, 28 Nov 2008 15:13:29 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Activity: 30 mins Finding and sharing learning and teaching ideas and designs</title>
+              <link>https://cloudworks.ac.uk/cloud/view/420</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/420</guid>
+              <description><![CDATA[<p>You are going to begin by exploring different repositories of resources to find information that might be of relevance to a particular teaching scenario. Start by choosing one of the following scenarios (or outline your own) as the teaching and learning context for you explorations:</p>
+<ul>
+<li>Refresher course for returner nurses, providing skills update and outline of latest changes in legislation, etc. Use an e-portfolio as the main vehicle of students demonstrating evidence </li>
+<li>Beginners social work course, large cohort of students, want to encourage lots of communication and ways of students practicing their interpersonal skills </li>
+<li>Final year research project in which students need to demonstrate an evidence-based approach </li>
+<li>Large cohort introductory statistics course for students in a range of different disciplines</li>
+</ul>
+<p>&nbsp;</p>
+<p>Cloudworks is a social networking site for sharing learning and teaching ideas and design. Use the Cloudworks site to help you find useful resources and ideas for your design and suggestions for how you might incorporate different technologies. In terms of specific sites on technologies and how they might be used in an educations context you might want to look in particular at the Educause 7 things you should know about series (see link below). Write down things you like and don&rsquo;t like about the particular resource collection(s) explored. Note the strategies you are using to search in order to locate resources, etc. that are appropriate for your chosen scenario. How useful were the different sites? How useful was the information they provided? What was missing?</p>]]></description>
+          <pubDate>Fri, 23 Oct 2009 23:31:26 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Cloudworks: a social networking site for design</title>
+              <link>https://cloudworks.ac.uk/cloud/view/419</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/419</guid>
+              <description><![CDATA[Conole, G., Culver, J., Well, M., Williams, P., Cross, S., Clark, P. and Brasher, A. (2008), Cloudworks: social networking for learning design, Ascilite Conference, 30th Nov – 3rd Dec 2008, Melbourne. ]]></description>
+          <pubDate>Tue, 25 Nov 2008 21:12:45 +0000</pubDate>
+            </item>
+                    <item>
+              <title>OULDI website</title>
+              <link>https://cloudworks.ac.uk/cloud/view/388</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/388</guid>
+              <description><![CDATA[The site provides an overview of the work of the OU Learning Design Initiative which is developing a set of tools, resources, etc. to help teachers make better use of technology and make pedagogically informed decisions in their design processes.]]></description>
+          <pubDate>Fri, 21 Nov 2008 13:52:09 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

@@ -1,0 +1,789 @@
+<!DOCTYPE html><html  lang="en" ><head>
+
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta charset="UTF-8" />
+
+    <title>WED: WordPress: Implementation of a knowledge management system to facilitate a culture of tacit knowledge sharing within a corporate work environment (Henry Fuller) - Cloudworks</title>
+    <link rel="stylesheet" href="https://cloudworks.ac.uk/_design/styles_1_1.css" />
+        <link rel="stylesheet" href="https://cloudworks.ac.uk/themes/cloudworks/styles.css" />
+        <meta name="copyright" content="© 2009-2019 The Open University (IET)." />
+    <meta name="keywords" content="" />
+    <meta name="description" content="Welcome to Cloudworks, a place to share, find and discuss learning and teaching ideas and experiences." />
+    <link rel="shortcut icon" href="https://cloudworks.ac.uk/themes/cloudworks/favicon.ico" />
+    
+    <!--[if IE 6]>
+    <style type="text/css">
+    div#site {width:940px; /* Because IE6 doesn't support max-width */ }
+    div#site-header-content {width:940px;}
+    </style>
+    <![endif]-->
+
+    <script src="https://unpkg.com/jquery@3.4.1/dist/jquery.min.js"></script>
+    </head>
+<body id="clouds" class="block-registration block-login">
+<div id="site-header">
+ 
+<div id="site-header-content">
+        <div id="skip">
+        <a href="#content">Skip navigation</a> </div>
+                <a rel="home" href="https://cloudworks.ac.uk/">
+                <img id="link-home" src="https://cloudworks.ac.uk/themes/cloudworks/cloudworks_logo.gif" alt="Cloudworks home page" />
+                </a>
+                <div id="site-nav">
+            <ul  lang="en" >
+                <li class="home">
+                                            <a href="https://cloudworks.ac.uk/" class="home">Home</a>                                    </li>
+                <li lang="en" class="clouds">
+                                            <a href="https://cloudworks.ac.uk/cloud/cloud_list" class="clouds">Clouds</a>                                    </li>
+                <li lang="en" class="cloudscapes">
+                                            <a href="https://cloudworks.ac.uk/cloudscape/cloudscape_list" class="cloudscapes">Cloudscapes</a>                                    </li>
+                <li class="events">
+                                            <a href="https://cloudworks.ac.uk/events/view" class="events">Events</a>                                    </li>
+                <li class="tags">
+                                            <a href="https://cloudworks.ac.uk/tag" class="tags">Tags</a>                                    
+                </li>
+                                <li class="badges">
+                                            <a href="https://cloudworks.ac.uk/badge/badge_list" class="badges">Badges</a>                                    </li>
+                <li class="support">
+                                            <a href="https://cloudworks.ac.uk/support" class="support" title="Support">Support</a>                                    </li>                  
+              
+            </ul>
+        </div>
+    </div></div>
+
+<div id="site">
+    <div id="site-body">
+        <div id="page">
+        <div id="content">
+                              <p class="warn readonly-message"> The web-site is now in readonly mode. Login and registration are disabled. <small>(28 June 2019)</small></p>
+                                          
+                    <div id="id-gaad-widget"></div>
+        <script type="text/javascript" src="https://cloudworks.ac.uk/_scripts/iframe_strip.js"></script>
+<div class="grid headline">
+    <div class="c1of2">
+        <h1>WED: WordPress: Implementation of a knowledge management system to facilitate a culture of tacit knowledge sharing within a corporate work environment (Henry Fuller)</h1>
+        <div class="grid">
+    <ul class="options">
+        
+        
+        
+     
+        
+            <li class="favourite"><a href="https://cloudworks.ac.uk/cloud/favourite/8874">Favourite</a>        </li>
+        
+    <li class="stats"><div class="nolink">2607 views</div></li>
+            <li  class="stats"><a href="https://cloudworks.ac.uk/cloud/favourited/8874">2 favourites</a>        </li>
+        </ul>
+</div>                    11 February 2015<br /><br />
+                
+        
+            </div>
+
+    <div class="c2of2">
+        <p class="created-by">
+        <abbr title='Clouds can be anything of relevance to learning and teaching'>Cloud</abbr> created by: </p>
+
+                            <img src="https://cloudworks.ac.uk/_design/avatar-default-32.jpg" class="go2" alt=""/>
+                    <p><a href="https://cloudworks.ac.uk/user/view/6258" class="author rdfa" xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName" rel="cc:attributionURL">Henry Fuller</a><br />
+        29 December 2014</p>
+    </div>
+</div>
+
+<div id="region1">
+
+    <div class="user-entry">
+
+        <p class="BodyText1">In an e-learning production company of approximately 50 multidisciplinary employees, senior management have highlighted that knowledge sharing is high on the agenda with social networking tools being used regularly for file sharing and rapid communication. However, knowledge being shared is kept inside disciplinary silos and largely explicit, such as files and digital resources etc. (Nonaka 1994 cited in Frost, 2013).</p>
+<p class="BodyText1">Research suggests that tacit knowledge, although more difficult to attain, is far more valuable for organisations trying to compete in the networked and globalised marketplace of today (Hemmecke &amp; Stary, 2004 and Dzekashu &amp; McCollum, 2014 and Hedesstrom &amp; Whitley, 2000). Panahi et al.,&nbsp; (2012, p.1096) summarised common characteristics associated with tacit knowledge, some of which have the potential to be made explicit (Frost, 2013); for example knowledge that is:</p>
+<ul>
+<li>learnt through experiences, skills, observation, intuitive feeling, mental modes, beliefs, and values;</li>
+<li>job specific, context-specific;</li>
+<li>experience based, knowledge-in-action;</li>
+<li>transferred through conversation and narrative (story-telling, discussions, etc.);</li>
+<li>know-how; or</li>
+<li>experts knowledge;</li>
+</ul>
+<p class="BodyText1">This presentation discusses the implementation of a knowledge management system &#40;KMS&#41; to host and share externalised tacit knowledge. WordPress<a title="" href="file:///C:/Users/henryf/AppData/Local/Temp/Rar$DI30.560/FullerH_PI.B4872208_TMA2.docx#_ftn1" rel="nofollow">[1]</a> was selected as a platform for the KMS, as it comes with all the desired social and collaborative (web 2.0) features synonymous with KMS'&nbsp;as standard. The cyclical diagram illustrates the intended knowledge management process (see embedded content section).</p>
+<p>Externalised knowledge is captured using a case study template and completed collaboratively by a project team of various disciplines. Hemmecke &amp; Stary (2004) suggest that activity theory can provide a conceptual framework to promote the externalisation of tacit knowledge by focusing on the multifaceted viewpoints of an entire activity system &#40;project&#41;. Components of an activity system &#40;Robertson, 2008&#41; were used to define the structure of the form template (Table 1).</p>
+<p>Table 1: Data to be captured using a case study template</p>
+<table width="568" border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="26%">
+<p><strong>Form field</strong></p>
+</td>
+<td width="73%">
+<p><strong>Data to be captured</strong></p>
+</td>
+</tr>
+<tr>
+<td width="26%">
+<p><strong>Activity</strong></p>
+</td>
+<td width="73%">
+<p>Project type</p>
+</td>
+</tr>
+<tr>
+<td width="26%">
+<p><strong>Object(ive)</strong></p>
+</td>
+<td width="73%">
+<p>Project aims</p>
+</td>
+</tr>
+<tr>
+<td width="26%">
+<p><strong>Subjects</strong></p>
+</td>
+<td width="73%">
+<p>Involved (project team, project sponsors, target audience)</p>
+</td>
+</tr>
+<tr>
+<td width="26%">
+<p><strong>Tools</strong></p>
+</td>
+<td width="73%">
+<p>Business needs analysis, training needs analysis, technical analysis, demographic analysis, instructional design methodologies, creative design methodologies, technical design methodologies, technologies</p>
+</td>
+</tr>
+<tr>
+<td width="26%">
+<p><strong>Rules and regulations</strong></p>
+</td>
+<td width="73%">
+<p>Project risks identified, cultural</p>
+</td>
+</tr>
+<tr>
+<td width="26%">
+<p><strong>Division of labour</strong></p>
+</td>
+<td width="73%">
+<p>Project responsibilities</p>
+</td>
+</tr>
+<tr>
+<td width="26%">
+<p><strong>Community</strong></p>
+</td>
+<td width="73%">
+<p>Social environment, physical environment, technical environment</p>
+</td>
+</tr>
+<tr>
+<td width="26%">
+<p><strong>Outcomes</strong></p>
+</td>
+<td width="73%">
+<p>Project scope, lessons learned</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The next part of the process involves the completed case study being sent to a project panel of experts for critical review from directly within the KMS. Once satisfied that the content is of quality and is perceived to be of use to the wider team, it is published for wider consumption.</p>
+<p class="BodyText1">The site has been integrated with the enterprise social networking tool Slack, already popular with staff, which sends automatic notification that a new case study has been posted.</p>
+<p class="BodyText1">Employees are able to critically review each case study from directly within the site. As stipulated by Frost (2013), &lsquo;[&hellip;] the individual will interact with other members of the organization [within the KMS] and learning will take place.&rsquo; Internalisation of tacit knowledge is therefore a direct product of this interaction.</p>
+<p>&nbsp;</p>
+<div><hr align="left" size="1" width="33%" />
+<div>
+<p><a title="" href="file:///C:/Users/henryf/AppData/Local/Temp/Rar$DI30.560/FullerH_PI.B4872208_TMA2.docx#_ftnref1" rel="nofollow">[1]</a> A free and open source blogging tool and a content management system &#40;CMS&#41; (Wikipedia, 2014)</p>
+</div>
+</div>    </div>
+
+    
+<h2 id="extra-content">Extra content</h2>
+    		<div class="extra-content">
+			<a name="content-2220"></a>
+			<h2>Case study template</h2>
+<p>This form has been designed to capture tacit knowledge gained by members of a project team throughout the duration of a project. The information will be peer reviewed and once approved, uploaded as a case study example on the Instructional Design Toolkit website. Please provide as much or as little detail as you deem necessary to give your colleagues reasonable insight into your design methodologies and decision-making processes.&nbsp;</p>
+<p><strong>Project Manager(s):</strong></p>
+<p><strong>Designer(s):</strong></p>
+<p><strong>Developer(s):</strong></p>
+<p><strong>Client:</strong></p>
+<p><strong>Project title:</strong></p>
+<p><strong>Brief description:</strong></p>
+<table cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top">
+<p><strong>To be complete by</strong></p>
+</td>
+<td valign="top">
+<p><strong>Involved</strong></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p><strong>PM</strong></p>
+</td>
+<td valign="top">
+<p>Who were the project team and what were their responsibilities?&nbsp;Who were the project sponsors? Who were the target audience?</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p><strong>Data gathering</strong></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p><strong>PM</strong></p>
+</td>
+<td valign="top">
+<p>Did you identify a business or training need? What were the technical requirements of the project? What was the learner demographic? What were the associated risks? What methods or tools did you use to gather this data?&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p>Learning objectives</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p><strong>PM</strong></p>
+</td>
+<td valign="top">
+<p>What were the learning objectives? What methods or tools did you use to define them?</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p><strong>Instructional design</strong></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p><strong>PM</strong></p>
+</td>
+<td valign="top">
+<p>What methods did you use to gain the learners attention and why? What learning activities did you use and why? What assessment approach did you use and why?</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p><strong>Creative design</strong></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p><strong>Des</strong></p>
+</td>
+<td valign="top">
+<p>Please provide information on some of the creative design decisions you made during the design phase. What influenced these decisions?&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p><strong>Technical design</strong></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p><strong>Dev</strong></p>
+</td>
+<td valign="top">
+<p>Please provide information on some of the technical design decisions you made during the development phase. What influenced these decisions? How did the clients technical environment influence the technical design decisions of the module?</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p><strong>Prototype</strong></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p><strong>PM, Dev, Des</strong></p>
+</td>
+<td valign="top">
+<p>Was a prototype of the module produced?&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p><strong>Testing</strong></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p><strong>PM, Dev</strong></p>
+</td>
+<td valign="top">
+<p>What, if any, testing was done? Why did you feel that testing was necessary for this project? How did you plan the testing phase?</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p><strong>Implementation</strong></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p><strong>PM, Dev</strong></p>
+</td>
+<td valign="top">
+<p>How was the module implemented? What methods did you use and why?</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p><strong>Evaluation</strong></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p>Did you evaluate the course? What methods did you use? Are the results of the evaluation accessible? How will the results influence your future practice?</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p><strong>Lessons learned</strong></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p><strong>PM, Dev, Des</strong></p>
+</td>
+<td valign="top">
+<p>What went well for this project? What did not go well? What advice can you give to your colleagues undertaking similar projects?</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>			<div class="posted-by">
+										    <img src="https://cloudworks.ac.uk/_design//avatar-default-32.jpg" alt="" style="float:left;margin-right:5px"/>
+					
+					<p class="date-stamp">
+					<a href="https://cloudworks.ac.uk/user/view/6258">Henry Fuller</a>					<br /> 20:27 on  8 February 2015																	(Edited 20:41 on  8 February 2015)
+																									</p>
+			</div>
+
+
+		</div>
+    		<div class="extra-content">
+			<a name="content-2225"></a>
+			<h2><strong>Presentation transcript</strong></h2>
+<p><strong>Slide 1</strong></p>
+<p>Hi everyone, my name is Henry Fuller and I am a Project Manager currently working for a private e-learning development company in Leeds.</p>
+<p>My presentation is about the implementation of a knowledge management system, to facilitate a culture of tacit knowledge sharing within a corporate work environment.&nbsp;</p>
+<p><strong>Slide 2</strong></p>
+<p>So, I thought I would start my presentation off by just giving you a very brief background on my organisation and the rationale behind why I felt it necessary to implement a knowledge management process and system.&nbsp;</p>
+<p>Our organisation develops technology assisted learning solutions, for both public and private sector clients. We are a team of approximately 45 multidisciplinary professionals, with experts in sales, graphic design, web design, instructional design and project management, to name a few. There is a strong commitment from managers to more open ways of working, which is evidenced by the recent introduction of panel meetings, which involve a project scoping exercise between a group of multidisplinary experts at the start of every project.</p>
+<p>However, there is concern that the explicit knowledge being shared day-to-day is often kept within disciplinary silos, stored in personal internet bookmarks, file folders and social media applications. Tacit knowledge &ndash; which is the knowledge that resides in the heads of individuals - is often shared verbally, but not made explicit.</p>
+<p><strong>Slide 3</strong></p>
+<p>So, on this slide you can see a basic diagram that I have put together to show the knowledge management process I aim to implement, which has been adapted from Wig and Agresti&rsquo;s knowledge evolution cycle.&nbsp;</p>
+<ol>
+<li>1.The first part of the process represents the project activity itself.</li>
+<li>2.The second part of the process focuses the externalisation of knowledge. By externalisation, I am talking about capturing knowledge that typically resides in the head of an individual, so it can be accessed by others.</li>
+<li>3.The third part of the process focuses on how the externalised knowledge is reviewed.</li>
+<li>4.The forth part of the process concentrates on how the captured knowledge is shared and made accessible.</li>
+<li>5.And finally, the last part of the process looks at how knowledge is internalised. By internalised I mean knowledge that has been learnt and is retained in the head of the individual, so it can be retrieved as and when required.</li>
+</ol>
+<p>I chose WordPress as a system to facilitate this process. WordPress is an open source, full customisable content management system, which comes with a lot of the features synonymous with knowledge management systems as standard, such as: content quality features, intelligent search, content tagging, user role management and much, much more&hellip;</p>
+<p><strong>Slide 4&nbsp;</strong></p>
+<p>So, this page shows a screenshot of the WordPress site homepage, I have labeled with the areas that are of significance for this presentation.&nbsp;</p>
+<p>The primary navigation is a multilayered menu of links that provide easy access to pages of information and guidance, relating to all aspects of e-learning production.</p>
+<p>The case study areas is reserved specifically to display the tacit knowledge captured from project activity in the form of a case study.&nbsp;</p>
+<p>The downloads area provides easy access to downloadable documents that can be printed for practical use during project activity, such as an instructional design checklist. The case study template can also be downloaded from this area.</p>
+<p><strong>Slide 5</strong></p>
+<p>For the remainder of my presentation, I will be describing the knowledge management process I intend to implement in more detail.&nbsp;</p>
+<p>The process begins with the initiation of project activity.&nbsp;</p>
+<p>To fully understand what project activity is, I have used activity theory, which provides a framework for analysing an activity&nbsp; from multiple viewpoints. For example, it suggests that to understand an an activity, you must consider the subject (i.e. the person whose point of view you are analysing the activity from), the rules, the community, the division of labour, the tools, the objectives and the outcomes.&nbsp;</p>
+<p>I decided to use this framework to design a case study template form, which will be used to capture a more holistic snapshot of the knowledge gained from project activity. I have uploaded a copy of this form to both Cloudworks and Openstudio for those who are interested.&nbsp;</p>
+<p><strong>Slide 6&nbsp;</strong></p>
+<p>Following project initiation, each project is now kicked off with a panel meeting, whereby the project manager and multidisplinary experts get to together to outline the scope of the project. At this point the team will decide whether or not the project is unique and therefore warrants being written up as a case study. It will be a requirement for the Project Manager to make completion of the case study template explicit within their project plan. As I previously eluded to, the case study template has been designed in such a way, that the project manager will need to request contributions from the other members of the project team in order to produce a more holistic snapshot of the project activity.</p>
+<p>Like all project tasks, completion of the template will be a pre-requisite to project sign-off, which will be monitored by the organisations resource manager.</p>
+<p><strong>Slide 7&nbsp;</strong></p>
+<p>After the case study is completed by the project manager, it will then be sent back to the panel for review. The panel will assess the case study for completeness and ask probing questions, if necessary, to address any ambiguity in the content. Following that, the case study will also be reviewed by the organisations quality assurance experts for typos and grammatical errors<strong>. &nbsp;</strong></p>
+<p><strong>Slide 8&nbsp;</strong></p>
+<p>Once the case study has be signed off by the panel and quality assurance team, the project manager will forward it on to me, who will upload it to the WordPress site and reformat it as a WordPress page in the case study area. The material will also be supplemented with hyperlinks to wider reading and other digital resources if it is felt that certain concepts need further elaborating on, making it accessible to all members of the organisation, regardless of their discipline. The case study will also be tagged with relevant key words, making it easily discoverable through the WordPress search feature and tag cloud widget.</p>
+<p>I have integrated WordPress with our widely used instant messaging tool, Slack. So, staff receive instant notification each time a new case study is uploaded.&nbsp;</p>
+<p>Completed case studies will also be used in panel meetings as blueprints for projects of a similar specification, encouraging project members to reuse certain tools or approaches, digital assets or learn from previous mistakes that could potentially be repeated.&nbsp;</p>
+<p>For example, imagine that a project manager completes a unique project that involved the development of a mobile assessment application using a particular piece of software. Before the application is deployed, there is an extensive testing phase too make sure the application works on multiple mobile devices, which is takes a lot of time and effort.</p>
+<p>Their case study might include the results of that testing phase, including details such as who was involved in testing, what devices were tested, how were the devices connected to the internet &ndash; wifi, 3g or 4G.&nbsp;</p>
+<p>Having this kind of contextual information available for another project manager taking on a project of a similar nature would be invaluable and save both time and money.</p>
+<p><strong>Slide 9&nbsp;</strong></p>
+<p>Finally, as individuals apply the concepts and theories documented in the case studies to new projects of a similar nature; knowledge will be internalised through practice. Any new findings from the new project activity will be used to update and refine the case study, before the whole process starts again.</p>
+<p><strong>Slide 10</strong></p>
+<p>So I hope that wasn&rsquo;t too overly complicated, however I will be glad to answer any questions. Thank you.</p>
+<p>&nbsp;</p>			<div class="posted-by">
+										    <img src="https://cloudworks.ac.uk/_design//avatar-default-32.jpg" alt="" style="float:left;margin-right:5px"/>
+					
+					<p class="date-stamp">
+					<a href="https://cloudworks.ac.uk/user/view/6258">Henry Fuller</a>					<br /> 22:45 on 10 February 2015																									</p>
+			</div>
+
+
+		</div>
+    
+<p class="add-link"><a href="https://cloudworks.ac.uk/content/add/8874">Add extra content</a></p>
+    
+
+<div id="embeds" class="embed-block">
+<h2>Embedded Content</h2>
+
+<a id="embed-2953"></a>
+<div class="embed-wrap em-s24-postimg-org">
+    <h3></h3>
+  <a id="em-n0" class="em" href="http://s24.postimg.org/qnq3hma1h/knowledge_sharing_process.png"  rel="nofollow"></a>
+<p>  <small>added by
+<a href="https://cloudworks.ac.uk/user/view/6258">Henry Fuller</a></small>
+
+</p>
+</div>
+<a id="embed-3006"></a>
+<div class="embed-wrap em-www-dropbox-com">
+    <h3>Knowledge Management System &#40;Artefact&#41; presentation</h3>
+  <a id="em-n1" class="em" href="https://www.dropbox.com/s/4oaf31ycw85p32f/Artefact intro.pdf?dl=0"  rel="nofollow">Knowledge Management System &#40;Artefact&#41; presentation</a>
+<p>  <small>added by
+<a href="https://cloudworks.ac.uk/user/view/6258">Henry Fuller</a></small>
+
+</p>
+</div>
+<a id="embed-3007"></a>
+<div class="embed-wrap em-www-slideshare-net">
+    <h3>Conference presentation</h3>
+  <a id="em-n2" class="em" href="http://www.slideshare.net/HenryFuller1/henry-fuller-b4872208"  rel="nofollow">Conference presentation</a>
+<p>  <small>added by
+<a href="https://cloudworks.ac.uk/user/view/6258">Henry Fuller</a></small>
+
+</p>
+</div>
+
+
+<script src="https://cloudworks.ac.uk/_scripts/jquery.oembed.js"></script>
+<script>
+$(document).ready(function() {
+  $('.embed-block a.em').oembed(null, {"oupodcast":{"theme":"oup-light"},"ispot":{"count":3,"postmessage":1,"style":1},"customProviders":[{"name":"wordpress","type":"rich","urlschemes":["wordpress\\.com","wp\\.me","oerresearchhub\\.org","ouseful\\.info","dougclow\\.org","penbentley\\.com","isharacomix\\.org","openeducationnews\\.org","oerconsortium\\.org","techchrunch\\.com","tekartist\\.org"],"apiendpoint":"https:\/\/public-api.wordpress.com\/oembed\/1.0\/?for=Cloudworks.ac.uk"},{"name":"fileviewer","type":"rich","urlschemes":["sites\\.google\\.com","www\\.lkl\\.ac\\.uk","blogs.cetis.ac.uk"],"apiendpoint":"https:\/\/embed.open.ac.uk\/oembed"},{"name":"scraperwiki","type":"rich","urlschemes":"scraperwiki\\.com","apiendpoint":"https:\/\/views.scraperwiki.com\/run\/scraperwiki_oembed_v1\/"}]});
+});
+</script>
+
+<p class="add-link add-embed"><a href="https://cloudworks.ac.uk/embed/add/8874">Add embedded content</a></p>
+</div>
+
+
+    <div class="grid">
+        <h2>Contribute</h2>
+        <a name="contribute"></a>
+        <ul class="cloudstream-filter">
+            <li>
+                            <strong>Discussion (8)</strong>
+                        </li>
+            <li>
+                            <a href="https://cloudworks.ac.uk/cloud/view/8874/links#contribute">Links (1)</a>                        </li>
+            <li>                            <a href="https://cloudworks.ac.uk/cloud/view/8874/references#contribute">Academic References (8)</a>            </li>
+        </ul>
+    </div>
+
+    <div class="grid" id="comments">
+
+                  <h3 class="hidden">Comment 1 by Louise Worsley</h3>
+                <div class="user-comment" id="comment-9669">
+				<a name="cloud_comment-9669"></a>
+
+                <div class="posted-by">
+                                            <img src="https://cloudworks.ac.uk/_design//avatar-default-32.jpg" alt="" style="float:left; margin-right: 5px"/>
+                    
+
+                    <p class="date-stamp">
+                       <a href="https://cloudworks.ac.uk/user/view/7385">Louise Worsley</a>	                    <br />
+                        9:32am 15 January 2015	                    	                    	                   						                    <a href="#comment-9669" class="permalink">Permalink</a>
+                    </p>
+                    </div>
+                    <br />
+
+                   <p>I think the critical review by employyes in the Knowledge internalised in perhos the most important stage. &nbsp; Especially if we are to get real value of tacit knowledge. &nbsp; Look forward to hearning more on this.</p>
+<p>I lecture in PM and one of my MSc students did her dissertation on lessons learned. &nbsp;She showed that in her organisation while every project had a lessons learned report there was little or no evidence that these reports were being accessed poset the project close.</p>        </div>
+                          <h3 class="hidden">Comment 2 by Alison Walker</h3>
+                <div class="user-comment" id="comment-9678">
+				<a name="cloud_comment-9678"></a>
+
+                <div class="posted-by">
+                                            <img src="https://cloudworks.ac.uk/image/user_32/7414" alt="" style="float:left; margin-right: 5px"/>
+                    
+
+                    <p class="date-stamp">
+                       <a href="https://cloudworks.ac.uk/user/view/7414">Alison Walker</a>	                    <br />
+                        12:36pm 17 January 2015	                    	                    	                   						                    <a href="#comment-9678" class="permalink">Permalink</a>
+                    </p>
+                    </div>
+                    <br />
+
+                   <p>Hi Henry</p>
+<p>I work with a couple of organisations that have exactly the issue Louise's student experienced, so I will be very interested in your presentation and how something like this could be rolled out. The organisation's have processes in place as part of the PIR (post implementation review) for each project but this is where the overall system falls down as there is no consistent completion of the process. Pressure is on the PMs to get to the next project as quickly as possible and so their focus is on starting the next not completing the last. In your situation&nbsp;&nbsp;"senior management have highlighted that knowledge sharing is high on the agenda" I would be really interested to hear how important you consider this to be for the successful implementation of a system to share tacit knowledge</p>        </div>
+                          <h3 class="hidden">Comment 3 by Henry Fuller</h3>
+                <div class="user-comment" id="comment-9692">
+				<a name="cloud_comment-9692"></a>
+
+                <div class="posted-by">
+                                            <img src="https://cloudworks.ac.uk/_design//avatar-default-32.jpg" alt="" style="float:left; margin-right: 5px"/>
+                    
+
+                    <p class="date-stamp">
+                       <a href="https://cloudworks.ac.uk/user/view/6258">Henry Fuller</a>	                    <br />
+                        4:55pm 21 January 2015	                    	                    	                   						                    <a href="#comment-9692" class="permalink">Permalink</a>
+                    </p>
+                    </div>
+                    <br />
+
+                   <p>Hey guys, thank you so much for bring these points to my attention, as they had been somewhat overlooked. However, now I have a solution, which you will hear all about in my presentation!&nbsp;</p>        </div>
+                          <h3 class="hidden">Comment 4 by Louise Worsley</h3>
+                <div class="user-comment" id="comment-9693">
+				<a name="cloud_comment-9693"></a>
+
+                <div class="posted-by">
+                                            <img src="https://cloudworks.ac.uk/_design//avatar-default-32.jpg" alt="" style="float:left; margin-right: 5px"/>
+                    
+
+                    <p class="date-stamp">
+                       <a href="https://cloudworks.ac.uk/user/view/7385">Louise Worsley</a>	                    <br />
+                        4:03pm 22 January 2015	                    	                    	                   						                    <a href="#comment-9693" class="permalink">Permalink</a>
+                    </p>
+                    </div>
+                    <br />
+
+                   <p>One of the solutions adopted by Woolworths (South Africa) was to bring leassons learned into project initiation. &nbsp;Every project in initation has to identify a project it is like that has been done before. &nbsp;If there isnt one - we can all panic!</p>        </div>
+                          <h3 class="hidden">Comment 5 by Stefanie Anyadi</h3>
+                <div class="user-comment" id="comment-9694">
+				<a name="cloud_comment-9694"></a>
+
+                <div class="posted-by">
+                                            <img src="https://cloudworks.ac.uk/_design//avatar-default-32.jpg" alt="" style="float:left; margin-right: 5px"/>
+                    
+
+                    <p class="date-stamp">
+                       <a href="https://cloudworks.ac.uk/user/view/7394">Stefanie Anyadi</a>	                    <br />
+                        12:37pm 24 January 2015	                    	                    	                   						                    <a href="#comment-9694" class="permalink">Permalink</a>
+                    </p>
+                    </div>
+                    <br />
+
+                   <p>Sounds really interesting, Henry, and something that might be useful in lots of organisations (including my own!). One problem we have had with using a wiki for sharing best practice is that people often are so busy that they feel they can't spare the time to contribute to these repositories. How would you try to overcome that issue?</p>
+<p>It would also be good to think about how you can help people retrieve relevant case studies. Will you have a search facility? How will you make sure that certain tags are used consistently?</p>        </div>
+                          <h3 class="hidden">Comment 6 by Catherine Dartnall</h3>
+                <div class="user-comment" id="comment-9868">
+				<a name="cloud_comment-9868"></a>
+
+                <div class="posted-by">
+                                            <img src="https://cloudworks.ac.uk/image/user_32/6189" alt="" style="float:left; margin-right: 5px"/>
+                    
+
+                    <p class="date-stamp">
+                       <a href="https://cloudworks.ac.uk/user/view/6189">Catherine Dartnall</a>	                    <br />
+                        11:40am 6 February 2015	                    	                        (<small><em>Edited 11:43am 6 February 2015</em></small>)
+	                    	                    	                   						                    <a href="#comment-9868" class="permalink">Permalink</a>
+                    </p>
+                    </div>
+                    <br />
+
+                   <p>Hi Henry</p>
+<p>I'm really interested in your project as I too am involved in Workplace learning. &nbsp;Identifying and sharing tacit knowledge (in an engaging manner!) is a challenge. &nbsp;I have previously designed Sharing Workshops for a business where cross-functional teams with mixed experience of a system come together to share tips and hints and also explore new topics. &nbsp;This workshops has a 'Share your Story' element to it at the beginning where everyone writes a tip/hint or story onto a sheet of coloured paper and displays it on the Sharing Wall in the breakout area. &nbsp;During the workshop participants are free to view the stories and to discuss these with each other in more detail. &nbsp;After the workshops I have photographed the stories on the wall (hence my desire for coloured paper as it looks far more appealing...) and then created a photo album from the day which is uploaded to a VLE. &nbsp;Previous photo albums are then introduced to new workshop participants when they come to their workshops. &nbsp;I think that it could be a challenge however to maintain momentum for sharing after the initial workshop experience.</p>
+<p>As Stefanie says, time is always an issue however having witnessed the amount of time that can be saved by picking up on tacit knowledge held by others I know that it is more than worth the investment. &nbsp;I suppose we need to be able to identify and communicate this value to others? &nbsp;</p>
+<p>Your case study template looks thorough and appears to capture all of the elements. &nbsp;I wonder if it would help engagement if individuals talked through their key lessons learnt in a 'project showcase' environment to bring this information 'to life' and to help engagement on a more personal level? &nbsp;The case study template content would then be available afterwards for people to drill down further into the detail.</p>
+<p>Looking forward to your presentation on Wednesday to find out more as this will all be really useful for me too.</p>
+<p>Catherine</p>        </div>
+                          <h3 class="hidden">Comment 7 by Dr Simon Ball</h3>
+                <div class="user-comment" id="comment-9934">
+				<a name="cloud_comment-9934"></a>
+
+                <div class="posted-by">
+                                            <img src="https://cloudworks.ac.uk/image/user_32/6651" alt="" style="float:left; margin-right: 5px"/>
+                    
+
+                    <p class="date-stamp">
+                       <a href="https://cloudworks.ac.uk/user/view/6651">Dr Simon Ball</a>	                    <br />
+                        10:23am 12 February 2015	                    	                    	                   						                    <a href="#comment-9934" class="permalink">Permalink</a>
+                    </p>
+                    </div>
+                    <br />
+
+                   <p>Your questions and comments from the live conference presentation are below:</p>
+<ul>
+<li>Is the wordpress site hosted on a private intranet?</li>
+<li>did you find activity theory useful (if so how?)</li>
+<li>Great idea to for sharing tacit knowledge amongst project managers - this is a problem I come across in many organisations I work with</li>
+<li>Yes - the power of wordpress should not be underestimated - ASK Martin :-)</li>
+<li>I think it's a good idea to tie completion of the case study template to project sign off to ensure that this tacit knowledge is captured rather than overlooked or viewed as optional</li>
+<li>how does your organisation view issues of confidentiality or competition?</li>
+<li>So it's not something that will be made generally available?</li>
+<li>Have you had any feedback from Project Managers so far as to how useful they think this will be?</li>
+<li>Do you need to be a techie to set up wordpress?<br /><br /></li>
+</ul>        </div>
+                          <h3 class="hidden">Comment 8 by Jane Ballans</h3>
+                <div class="user-comment" id="comment-9958">
+				<a name="cloud_comment-9958"></a>
+
+                <div class="posted-by">
+                                            <img src="https://cloudworks.ac.uk/image/user_32/7420" alt="" style="float:left; margin-right: 5px"/>
+                    
+
+                    <p class="date-stamp">
+                       <a href="https://cloudworks.ac.uk/user/view/7420">Jane Ballans</a>	                    <br />
+                        1:56pm 13 February 2015	                    	                    	                   						                    <a href="#comment-9958" class="permalink">Permalink</a>
+                    </p>
+                    </div>
+                    <br />
+
+                   <p>Hi Henry, So sorry not to have heard your live presentation, however I have listened to the recorded session and wanted to add a little feedback. I found your presentation interesting informative and particularly apprecviated the clear rationale and the very clear explanation of KM process. It was a very professional presentation.</p>
+<p>Nice slides! Definitely made me feel I need to up my game!!</p>        </div>
+            </div>
+
+<div class="grid">
+    <a name="post"></a><h3 id="post-comment">Contribute to the discussion</h3>
+    <p>Please <a href="https://cloudworks.ac.uk/auth/login">log in</a> to post a comment. <a href="https://cloudworks.ac.uk/user/register">Register here</a> if you haven't signed up yet.</p>
+    </div>
+
+</div>
+
+<div id="region2">
+    <div id="search-site">
+    <form id="form-search" action="https://cloudworks.ac.uk/search/result/" method="get">
+      <p>
+        <label for="query">Search</label>
+        <input id="query" name="q" type="search" value="" maxlength="30" />
+        <input id="search-button" type="image" src="https://cloudworks.ac.uk/_design/search-button.gif" alt="Search" />
+      </p>
+        </form>
+</div>
+    <p class="login">
+    <a href="#login" class="link-arrow show">Log in</a> 
+    <a href="https://cloudworks.ac.uk/auth/register">Sign up</a></p>
+
+<div id="login" class="collapsed">
+      <form action="https://cloudworks.ac.uk/auth/login" method="post" id="login-form">        <p><label for="user_name">Username:</label><br />
+     	<input type="text" name="user_name" value="" id="user_name"  />    </p>
+    	<p><label for="password">Password:</label><br />
+        <input type="password" name="password" value="" id="password"  /></p>    
+        <p>
+        <input type="submit" name="submit" id="submit" class="submit" value="Log in" />
+    <a href="https://cloudworks.ac.uk/auth/forgotten_password">Forgotten password</a>    
+    
+    </p>
+    </form></div>
+
+    <h2>Tags</h2>
+
+
+      <p class="add-link"><a href="https://cloudworks.ac.uk/tag/add_tags/cloud/8874">Add a tag</a></p>
+    <div class="box">
+<h2>In Cloudscapes</h2>
+    <ul class="cloudscapes">
+                    <li>
+                <a href="https://cloudworks.ac.uk/cloudscape/view/2916">OU H818 'The Networked Practitioner' Online Conference 2015</a>            </li>
+             </ul>
+<p class="add-link"><a href="https://cloudworks.ac.uk/cloudscape/add_cloud/8874">Add to a Cloudscape</a></p>
+</div>
+
+
+
+            
+               
+            
+            <div class="box">
+<h2>Improve this cloud</h2>
+
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/tag/add_tags/cloud/8874">Add a tag</a></p>
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/content/add/8874">Add extra content</a></p>
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/embed/add/8874">Add embedded content</a></p>
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/cloud/add_link/8874">Add link</a></p>
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/cloud/add_reference/8874">Add reference</a></p>
+
+</div>                </div>
+                   </div>
+                    <div id="site-footer">
+				        <div class="grid">
+				        <p class="left">
+                                        <a href="https://www.open.ac.uk" title="© 2009-2019 The Open University (IET)">©</a> |
+				        <a href="https://cloudworks.ac.uk/about/about">About</a> |
+				        <a href="https://cloudworks.ac.uk/blog/archive">Blog</a> |
+				        <a href="https://cloudworks.ac.uk/about/tandc" class="rdfa" rel="license">Terms and Conditions</a> |
+				        <a href="https://cloudworks.ac.uk/about/privacy">Privacy notice</a> |
+				        				    				                                                <a href="https://github.com/IET-OU/cloudengine"
+                                           ><img src="https://cloudworks.ac.uk//_design/cloudengine-sm.gif" alt="Powered by CloudEngine, open-source social software" />
+                                        </a>
+				          </p>
+				      
+<!-- The language drop-down menu - jump to the top/#skip. -->
+
+<form id="form-lang" action="#skip" method="post">
+<p class="right"><label for="lang_select">
+Preferred language </label>
+<select id="lang_select" name="lang">
+        <option value="el" >Ελληνικά / Greek</option>
+        <option value="en" selected="selected">English</option>
+  </select>
+<button type="submit" >Load</button>
+</p>
+</form>
+				        </div>
+				    </div>
+				</div>
+			</div>
+		</div>
+		
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-5304738-3', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+
+
+    
+<script
+  data-nofollow-count="5"
+  data-rtt=""  data-ga-analytics-id="UA-5304738-3"></script>
+
+
+
+                <script src="https://unpkg.com/gaad-widget@%5E3/dist/gaad-widget.min.js"
+          data-gaad-widget='{"debug":true,"days_before":15,"x_lang":"en","analytics":false}'></script>
+          <script src="https://cloudworks.ac.uk/_scripts/custom.js"></script>
+
+<script> console.warn('rel=nofollow count:', 5) </script>
+	</body>
+</html>

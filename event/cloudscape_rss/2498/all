@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Cloudstream for Adrian&#39;s OLDS&#45;MOOC Portfolio</title>
+    <link>https://cloudworks.ac.uk/</link>
+	<description>Cloudstream for Adrian&#39;s OLDS&#45;MOOC Portfolio</description>
+	<dc:language>en</dc:language>
+	<dc:creator>cloudworks@open.ac.uk</dc:creator>
+	<dc:rights>Copyright 2019 </dc:rights>
+	<admin:generatorAgent>
+    <atom:link href="https://cloudworks.ac.uk/event/cloudscape_rss/2498" rel="self" type="application/rss+xml" />
+    		    <item>
+	      <title>OLDS MOOC Overview new link on Adrian&#39;s Learning Journal (OLDS-MOOC) added by Adrian Stagg</title>
+	      <link>https://cloudworks.ac.uk/#link-5016</link>
+	      <guid>https://cloudworks.ac.uk/#link-5016</guid>
+	      <description><![CDATA[<strong>OLDS MOOC Overview </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/6748">Adrian's Learning Journal (OLDS-MOOC)</a> added by <a href="https://cloudworks.ac.uk/user/view/5685" rel="author">Adrian Stagg</a></em>]]></description>
+	  	  <pubDate>Mon, 14 Jan 2013 03:39:08 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Futuretech for Learning (Scoop.It page) new link on Adrian&#39;s Learning Journal (OLDS-MOOC) added by Adrian Stagg</title>
+	      <link>https://cloudworks.ac.uk/#link-5015</link>
+	      <guid>https://cloudworks.ac.uk/#link-5015</guid>
+	      <description><![CDATA[<strong>Futuretech for Learning (Scoop.It page) </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/6748">Adrian's Learning Journal (OLDS-MOOC)</a> added by <a href="https://cloudworks.ac.uk/user/view/5685" rel="author">Adrian Stagg</a></em>]]></description>
+	  	  <pubDate>Sun, 13 Jan 2013 23:20:08 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Adrian&#39;s Learning Journal (OLDS-MOOC)cloud added to the cloudscape Adrian&#39;s OLDS-MOOC Portfolio by Adrian Stagg</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/6748">Adrian's Learning Journal (OLDS-MOOC)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2498">Adrian's OLDS-MOOC Portfolio</a> by <a href="https://cloudworks.ac.uk/user/view/5685" rel="author">Adrian Stagg</a></em>]]></description>
+	  	  <pubDate>Mon, 07 Jan 2013 01:49:57 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+	    </channel>
+</rss>

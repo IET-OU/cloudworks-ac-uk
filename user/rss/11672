@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: Manuela Cabezas da Rosa</title>
+        <link>https://cloudworks.ac.uk/user/rss.11672</link>
+        <atom:link href="https://cloudworks.ac.uk/user/rss.11672" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds by Manuela Cabezas da Rosa</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>Learning design struggles</title>
+              <link>https://cloudworks.ac.uk/cloud/view/12020</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/12020</guid>
+              <description><![CDATA[<p>In January 2019 I began working with technology in higher education. Part of this work includes building communities of learning and researching. I hope to share and build some experience while also making use of the potential of cloudworks.</p>]]></description>
+          <pubDate>Tue, 19 Mar 2019 14:25:53 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

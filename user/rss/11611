@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: Belle Louis Jinot</title>
+        <link>https://cloudworks.ac.uk/user/rss.11611</link>
+        <atom:link href="https://cloudworks.ac.uk/user/rss.11611" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds by Belle Louis Jinot</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>SAT: Using And Creating OERs In Mauritius: A Reality or A Myth? (Louis Jinot BELLE)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/11984</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/11984</guid>
+              <description><![CDATA[<p align="center"><strong>CONFERENCE ABSTRACT</strong></p>
+<p>&nbsp;</p>
+<p><em>Using and creating OERs in Mauritius: A reality or a myth?</em></p>
+<p>Open education is viewed as an emancipatory force (Lane, 2016), which enables students to map and remap on the acquired knowledge in an attempt to increase their understanding of concepts through networks. This is based on the cartography and decalcomania principles of Deleuze and Guattari (Cormier, 2012). Open educational resources (OERs) is one of the features of open education. In open learning, there should be both knowledge acquisition and knowledge participation (Sfard, 1998) which promotes knowledge construction and sharing. However, learners&rsquo; participation may be found along a continuum in the Jeong et al (2017) framework for inclusion, namely from being lurkers to using artefacts such as online platforms to mediate interactions and their support for co-construction of knowledge (Krasny et al, 2018). From this theoretical background, this research paper aims at examining the extent to which open education at the Open University of Mauritius (OUM) is emancipatory. Its dual objectives are to determine the perceptions of the learners of using and creating OERS and investigate into their experiences in doing so. We aim to understand these when there is inclusion of learners by allowing them to use existing OERs available online and create their own content in the online platforms such as Facebook and the E-learn platform (LMS). This is because at the OUM, there is knowledge imposition, rather than knowledge sharing (UNESCO, 2002). On registration, learners are provided with a prescribed reading material together with the study planner and assignments. In this project, data about the perceptions and experiences of the learners are collected and analysed by using the qualitative approach, from an interpretivist perspective. Fifteen OUM B Ed (Hons) Early Childhood Education and care Education learners are observed and interviewed as a group. The researcher is a non-participant observer. Since there are only 15 learners in the programme, the sample is the population. However, other learners in other education programmes at the OUM may participate by giving their feedback on the user-generated content. This will contribute to the information gathered about the perceptions and experiences of using and creating OERS by the sampled participants. The content analysis approach is also used to analyse the transcribed gathered information, based on the Lodico, Spaulding and Voegtle (2010) data processing method. Due to the small sample, the aim of the study is not to generalise the findings but to have insights into the first-hand experiences of the learners so that such a study may sensitise other OUM learners and lecturers to use and create OERs as well as to motivate university leaders to promote their use and creation for more effective online learning. Based on the findings, it is recommended that all the learners use and create their own knowledge by constituting a community of inquiry with three presences in open education, namely cognitive, social and teaching, that encourages the participation of each and every learner in knowledge construction.</p>
+<p>Key words: inclusion, OERs, knowledge, creation.</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Mon, 28 Jan 2019 09:35:09 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

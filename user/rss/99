@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: Yishay Mor </title>
+        <link>https://cloudworks.ac.uk/user/rss.99</link>
+        <atom:link href="https://cloudworks.ac.uk/user/rss.99" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds by Yishay Mor </description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title> David Griffiths, Timothy Goddard and Mi Wang:  Why has IMS LD not led to the advances which were hoped for?</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5818</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5818</guid>
+              <description><![CDATA[<p>The publication of the IMS Learning Design (LD) specification in 2003 led to high hopes that the specification would lead to advances both in formalising the description of learning designs and patterns, and also of extending the range of possible learning designs which could be implemented with technological support. Today, however, there is no evidence that it has achieved anything approaching widespread adoption within the education sector. This study seeks to identify the reasons for this, and the lessons which can be learned for future research into learning designs and patterns. We describe how data is currently being gathered in the form of interviews with leading participants in IMS LD research, and how this will be analysed in order to identify hypotheses which can clarify the history of the specification in the form of proposed explanatory mechanisms. The results of this process will be presented at the ASLD workshop. Subsequently an open process will be carried out to contrast these hypotheses with evidence in the existing literature, and to develop conclusions regarding the lessons for future research into learning design and pedagogic patterns.</p>]]></description>
+          <pubDate>Wed, 05 Oct 2011 23:37:00 +0000</pubDate>
+            </item>
+                    <item>
+              <title> Dejan Ljubojevic and Diana Laurillard: Pedagogical Pattern Collector software tool</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5815</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5815</guid>
+              <description><![CDATA[<p>This paper describes one of the key strands of the three-year ESRC/EPSRC funded, research project titled Learning Design Support Environment (LDSE http://www.ldse.org.uk). One of the principal strategies adopted by the LDSE project is to enable teachers to build on the work of others by providing the support tools to assist them in finding, interpreting, evaluating, and, reusing/redesigning the work of their colleagues. Operationalising that strategy requires a way of representing the theory and practice of learning design so that the analytical links, between the pedagogical first principles and the practice-instances, are exposed and offered to practitioners as support.&nbsp;<br /><br />The Pedagogical Pattern Collector (PPC) tool is a proposal for operationally modeling design, abstraction, and interpretation of pedagogical patterns. Underpinning the design of the PPC is the Conversational Framework (Laurillard, 2002). The Conversational Framework (CF) offers analytical means for dissecting any approach to teaching and learning (teaching and learning conversation) and is not value-laden, that is, it does not prescribe, or favour, any one approach.</p>]]></description>
+          <pubDate>Wed, 05 Oct 2011 23:29:54 +0000</pubDate>
+            </item>
+                    <item>
+              <title> Diana Laurillard and Liz Masterman: Re-envisioning Pedagogic Planning: the Learning Designer</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5814</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5814</guid>
+              <description><![CDATA[<p>We present the Learning Designer, a microworld to support teachers in designing pedagogy, based upon a principled, theory driven approach and supported by an artificial intelligence engine. By providing several representations of learning designs at the micro and macro level, the system provides a way for teachers to reflect upon their work and makes it easy for them to share and reuse the designs of others. Our preliminary user research with teachers in Higher Education has shown that teachers can see how they would use the Learning Designer in their own practice.</p>]]></description>
+          <pubDate>Wed, 05 Oct 2011 23:27:08 +0000</pubDate>
+            </item>
+                    <item>
+              <title> Luis Pablo Prieto, Yannis Dimitriadis and Sara Villagrá-Sobrin: Representing learning design and classroom orchestration through atomic patterns</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5811</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5811</guid>
+              <description><![CDATA[<p>Learning designers have tried to find new ways of conceptualizing their designs in a graphical way, both to communicate with others and for themselves to reflect and create new designs. However, few representations of LD take into account how the activities will actually unfold when the design is enacted in a classroom. This paper proposes a representation for learning designs (especially collaborative learning designs using multiple ICT tools), which tries to depict how the activities are actually enacted by the teacher in the classroom, using the notion of "atomic patterns". This notion can be used by designers to provide more detail into how the different elements of the classroom ecosystem can be used, as well as by teachers to enrich their own learning designs. Initial evidence from teacher workshops in primary and higher education is also provided.</p>]]></description>
+          <pubDate>Wed, 05 Oct 2011 15:35:24 +0000</pubDate>
+            </item>
+                    <item>
+              <title> Yannis Dimitriadis, Luis Pablo Prieto and Sara Villagrá-Sobrin: Designing for enactment: Multi-level patterns and routines in teacher practice</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5810</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5810</guid>
+              <description><![CDATA[<p>Although there exist many approaches and frameworks for the design of learning activities, from different theoretical and pedagogical standpoints, very few of them take into account the fine-grained, contextual logistics that are required to enact those designs in an authentic classroom. These enactment aspects, especially when ICT and multiple collaboration levels are in play, have been termed "orchestration" in the recent years. This paper proposes an approach for learning design based on the concept of patterns of different levels, that tries to address the orchestration of activities by teachers in authentic classrooms. This approach does not enforce a theoretical or pedagogical point of view, and it may be thought of as a complement to other LD approaches, in order to make them fitter for its comprehension and enactment by teachers in authentic situations.</p>]]></description>
+          <pubDate>Wed, 05 Oct 2011 15:19:15 +0000</pubDate>
+            </item>
+                    <item>
+              <title>#taggedlife: a mobile game and social experiement</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8536</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8536</guid>
+              <description><![CDATA[<p>#taggedlife is a social event, a mobile game, and an experiment in complex systems, social dynamics and ethics.</p>
+<p>The questions it explores span multiple dimensions:</p>
+<ul>
+<li>what are the system dynamics of memes? what does the spread of a social phenomena over time and space look like?</li>
+<li>how easy or hard is it to get people to reveal personal information online?</li>
+<li>what are our roles and responsibilities as researchers engaging with such questions?</li>
+</ul>
+<p>It explores these questions through a simple, game-like activity. We will set up a stand in Bristol, and hand out instructions for the #taggedlife game.&nbsp;</p>
+<p>The instructions, a QR code, and a map of the tweets are available on the game page:</p>
+<p><a href="http://www.yishaymor.org/projects/taggedlife">http://www.yishaymor.org/projects/taggedlife</a></p>
+<p>We will use Martin Hawksey's <a href="http://mashe.hawksey.info/2013/02/twitter-archive-tagsv5/" target="_blank">TAGS</a> to map these tweets and explore their evolution over time and space.</p>]]></description>
+          <pubDate>Mon, 20 Jan 2014 21:41:20 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Ana Maia, Teresa Pessoa, Leonel Morgado and Paulo Martins: Specification of pedagogical processes and dynamics in e-learning through modeling languages</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5823</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5823</guid>
+              <description><![CDATA[<p>This communication presents a work that is aimed at identifying the weaknesses and limitations of existing Design Languages (DL), based on a review of different existing DL and the perspectives of different authors.&nbsp;<br />Today we are witnessing a general expansion of e-learning. This is an area that involves the participation of various stakeholders, each with its specific contribution. Thus, communication between different actors is assumed as a decisive factor for the whole process.&nbsp;<br />There is a meta-language, the Educational Modelling Language, to support the representation of processes in this area, which is represented by design languages (DL), as E2ML (Bottura, 2006).&nbsp;<br />By applying DL in the group of teachers in the project of implementation and dissemination of e-learning at the University of Tr&aacute;s-os-Montes and Alto Douro, the objective of the work is propose changes to the existing DL or even a new one, to remedy the weaknesses and limitations identified. Thus, we intend to improve the level of communication and creativity provided by the DL, enhancing the success of the teaching-learning in e-learning.</p>]]></description>
+          <pubDate>Thu, 06 Oct 2011 00:04:28 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Analysing Context: Factors and Concerns</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6788</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6788</guid>
+              <description><![CDATA[<p><em>This cloud is part of the&nbsp;<a href="http://cloudworks.ac.uk/cloudscape/view/2473" target="_blank">Personas &amp; Force Maps in Scenarios</a>&nbsp;activity of OLDS MOOC week 2. It is derived from an activity developed for the "Learning Design Studio"&nbsp;section of the OU H817 module &ldquo;Openness and innovation in elearning&rdquo; (<a href="http://www3.open.ac.uk/study/postgraduate/course/h817.htm" target="_blank">http://www3.open.ac.uk/study/postgraduate/course/h817.htm</a>)</em></p>
+<p>The context of learning design can be described along three dimensions: <em>material, social</em> and <em>intentional</em>. We will use these dimensions to describe the factors and concerns of our <a href="http://cloudworks.ac.uk/cloudscape/view/2473">personas</a>.</p>
+<ul>
+<li><strong>Material factors</strong> include the characteristics of the physical space and the tools and objects which the actors have access to.</li>
+<li><strong>Social factors</strong> include organisational structure, grouping of and relations between various actors, conventions and norms.</li>
+<li><strong>Intentional factors</strong> include the beliefs, desires, motivations, expectations, and mental or emotional barriers of individual actors.</li>
+</ul>
+<p>The actors&rsquo; concerns are those factors which they wish to effect through the innovation. Some of these are easy to express as learning objectives, but some may be more subtle.</p>
+<p>After <a href="http://cloudworks.ac.uk/cloud/view/6787">constructing personas</a> of your target audience, use those to list the factors and concerns in your context. Then, you can use these as a starting point for <a href="http://cloudworks.ac.uk/cloud/view/6639">developing scenarios</a>.</p>
+<p>To use the template below, open it in google docs, and make a copy:</p>
+<p><a href="https://docs.google.com/document/d/1IFVoY4FToIQAMKZm5Sh5eK2HNcrtoUHj49KDdCZj_ws/edit" target="_blank">https://docs.google.com/document/d/1IFVoY4FToIQAMKZm5Sh5eK2HNcrtoUHj49KDdCZj_ws/edit</a></p>
+<p><img style="border-style: none;" src="http://i.creativecommons.org/l/by-nc-sa/2.0/uk/88x31.png" alt="" />&nbsp;This work by the OU H817 module &ldquo;Openness and innovation in elearning&rdquo; (<a style="color: #003366;" href="http://www3.open.ac.uk/study/postgraduate/course/h817.htm">http://www3.open.ac.uk/study/postgraduate/course/h817.htm</a>) &nbsp;is licensed under a<a style="color: #003366;" href="http://creativecommons.org/licenses/by-nc-sa/2.0/uk/deed.en_GB">&nbsp;Creative Commons Attribution-NonCommercial-ShareAlike 2.0 UK: England &amp; Wales License</a>.</p>]]></description>
+          <pubDate>Wed, 09 Jan 2013 06:16:55 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Andrew Brasher, Simon Cross and Rebecca Galley: CompendiumLD</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5813</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5813</guid>
+              <description><![CDATA[<p>CompendiumLD is a software tool for designing learning activities using a flexible visual interface. This paper introduces CompendiumLD, and describes aspects of its development and use in practice. It concludes by describing some features which will be available in a new version which will be released by the the time the ASLD 2011 workshop occurs.</p>]]></description>
+          <pubDate>Wed, 05 Oct 2011 15:44:30 +0000</pubDate>
+            </item>
+                    <item>
+              <title>brainstorming learning design </title>
+              <link>https://cloudworks.ac.uk/cloud/view/6621</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6621</guid>
+              <description><![CDATA[<p>What does "learning design" mean for you? <a href="http://www.mindmeister.com/206981485?password=coomsldo" target="_blank">Edit the mindmap</a>, add your ideas and comment on others' or join the discussion at:&nbsp;<a href="https://groups.google.com/d/topic/olds-mooc-open/1bCPsIDn3O8/discussion" target="_blank">https://groups.google.com/d/topic/olds-mooc-open/1bCPsIDn3O8/discussion</a></p>
+<p>To edit the mindmap, please <a href="http://www.mindmeister.com/206981485?password=coomsldo">click this link</a>. You will then be asked to create a mindmiester account (if you don't have one). You can <a href="https://www.mindmeister.com/signup/basic" target="_blank">sign up for free to the basic edition</a>. Once you do, you will recieve a mail with a confirmation link. Follow that link, then reopen (or refresh) <a href="http://www.mindmeister.com/206981485?password=coomsldo" target="_blank">our mindmap page</a>.</p>
+<p>Peter Bryant has currated some resources at:</p>
+<p><a href="http://www.scoop.it/t/initiate-what-is-learning-design">http://www.scoop.it/t/initiate-what-is-learning-design</a></p>
+<p>Some references, to seed the discussion (all tagged at&nbsp;<a href="http://www.bibsonomy.org/tag/oldsmooc_w1+brainstorm" target="_blank">http://www.bibsonomy.org/tag/oldsmooc_w1+brainstorm</a>)</p>
+<p style="cursor:auto"><!--NO CSS-->Shirley Agostinho, Sue Bennett, Lori Lockyer, and Barry Harper.&nbsp;<a style="color: #283e6f; font-size: 11px; font-family: Arial, Helvetica, 'sans serif'; line-height: 14px; text-decoration: underline;" href="http://www.bibsonomy.org/bibtex/2a34d3cf6f441a5ad6dc7e9f1ba839726/yish">The future of learning design</a>.&nbsp;Learning, Media and Technology,&nbsp;(36)2:97-99,&nbsp;2011.&nbsp;<a style="color: #283e6f; font-size: 11px; font-family: Arial, Helvetica, 'sans serif'; line-height: 14px; text-decoration: underline;" href="http://www.tandfonline.com/doi/abs/10.1080/17439884.2011.553619">URL</a></p>
+<p style="cursor:auto"><!--NO CSS-->Yael Kali, Peter Goodyear, and Lina Markauskaite.&nbsp;<a style="color: #283e6f; font-size: 11px; font-family: Arial, Helvetica, 'sans serif'; line-height: 14px; text-decoration: underline;" href="http://www.bibsonomy.org/bibtex/21feb7e0a6741bf14bb2001545eb397fa/yish">Researching design practices and design cognition: contexts, experiences and pedagogical knowledge‐in‐pieces</a>.&nbsp;Learning, Media and Technology,&nbsp;(36)2:129-149,&nbsp;2011.&nbsp;<a style="color: #283e6f; font-size: 11px; font-family: Arial, Helvetica, 'sans serif'; line-height: 14px; text-decoration: underline;" href="http://www.tandfonline.com/doi/abs/10.1080/17439884.2011.553621">URL</a></p>
+<p style="cursor:auto"><!--NO CSS-->Isobel Falconer, Janet Finlay, and Sally Fincher.&nbsp;<a style="color: #283e6f; font-size: 11px; font-family: Arial, Helvetica, 'sans serif'; line-height: 14px; text-decoration: underline;" href="http://www.bibsonomy.org/bibtex/2b522208bdc0ba6acdf30b974bae6e387/yish">Representing practice: practice models, patterns, bundles &hellip;</a>.&nbsp;Learning, Media and Technology,&nbsp;(36)2:101-127,&nbsp;2011.&nbsp;<a style="color: #283e6f; font-size: 11px; font-family: Arial, Helvetica, 'sans serif'; line-height: 14px; text-decoration: underline;" href="http://www.tandfonline.com/doi/abs/10.1080/17439884.2011.553620">URL</a></p>
+<p style="cursor:auto"><!--NO CSS-->Annette Diefenthaler, Adam Geremia, Ellen Sitkin, Sarah Soffer, Sandy Speicher, Jackie Steck, Karen Fierst, Patrick Murray, Michael Schurr, and Dominic Randolph.&nbsp;<a style="color: #283e6f; font-size: 11px; font-family: Arial, Helvetica, 'sans serif'; line-height: 14px; text-decoration: underline;" href="http://www.bibsonomy.org/bibtex/24dcbd62da22c436488342ee2962c79ca/yish">Design Thinking for Educators</a>.&nbsp;2011.&nbsp;<a style="color: #283e6f; font-size: 11px; font-family: Arial, Helvetica, 'sans serif'; line-height: 14px; text-decoration: underline;" href="http://designthinkingforeducators.com/">URL</a></p>
+<p style="cursor:auto"><!--NO CSS-->Rob Koper, and Colin Tattersall.&nbsp;<a style="color: #283e6f; font-size: 11px; font-family: Arial, Helvetica, 'sans serif'; line-height: 14px; text-decoration: underline;" href="http://www.bibsonomy.org/bibtex/2b3bf257ea70d0f36dee1ce70276af86f/yish">Preface to Learning Design: A Handbook on Modelling and Delivering Networked Education and Training</a>.&nbsp;Journal of Interactive Media in Education,&nbsp;(2005)12005.&nbsp;&nbsp;<a style="color: #283e6f; font-size: 11px; font-family: Arial, Helvetica, 'sans serif'; line-height: 14px; text-decoration: underline;" href="http://jime.open.ac.uk/article/2005-18/261">URL</a></p>
+<p style="cursor:auto"><!--NO CSS-->Rob Koper.&nbsp;<a style="color: #283e6f; font-size: 11px; font-family: Arial, Helvetica, 'sans serif'; line-height: 14px; text-decoration: underline;" href="http://www.bibsonomy.org/bibtex/2ccb050119cb3e8908279318614bfbc94/yish">Current Research in Learning Design</a>.&nbsp;Educational Technology &amp; Society,&nbsp;(9)1:13-22,&nbsp;2006.&nbsp;<a style="color: #283e6f; font-size: 11px; font-family: Arial, Helvetica, 'sans serif'; line-height: 14px; text-decoration: underline;" href="http://www.ifets.info/abstract.php?art_id=599">URL</a></p>
+<p style="cursor:auto"><!--NO CSS-->E. Dobozy.&nbsp;<a style="color: #283e6f; font-size: 11px; font-family: Arial, Helvetica, 'sans serif'; line-height: 14px; text-decoration: underline;" href="http://www.bibsonomy.org/bibtex/2888f9372bb7c35ca9900c311afd892ae/yish">Typologies of Learning Design and the introduction of a "LD-Type 2" case example</a>.&nbsp;eLearning Papers,&nbsp;27December 2011.&nbsp;<a style="color: #283e6f; font-size: 11px; font-family: Arial, Helvetica, 'sans serif'; line-height: 14px; text-decoration: underline;" href="http://elearningeuropa.info/sites/default/files/asset/In-depth_27_1.pdf">URL</a></p>
+<p style="cursor:auto"><!--NO CSS-->Robert Reiser.&nbsp;<a style="color: #283e6f; font-size: 11px; font-family: Arial, Helvetica, 'sans serif'; line-height: 14px; text-decoration: underline;" href="http://www.bibsonomy.org/bibtex/29e1ac86eb1aa8f15215523d163e53334/yish">A history of instructional design and technology: Part II: A history of instructional design</a>.&nbsp;Educational Technology Research and Development,&nbsp;(49):57-67,&nbsp;Springer Boston,&nbsp;2001.<a style="color: #283e6f; font-size: 11px; font-family: Arial, Helvetica, 'sans serif'; line-height: 14px; text-decoration: underline;" href="http://dx.doi.org/10.1007/BF02504928">URL</a></p>
+<p style="cursor:auto"><!--NO CSS-->James Dalziel.&nbsp;<a style="color: #283e6f; font-size: 11px; font-family: Arial, Helvetica, 'sans serif'; line-height: 14px; text-decoration: underline;" href="http://www.bibsonomy.org/bibtex/2583f256b2a0a714836b0749b96529912/yish">The Larnaca Declaration on Learning Design</a>.&nbsp;2012.&nbsp;<a style="color: #283e6f; font-size: 11px; font-family: Arial, Helvetica, 'sans serif'; line-height: 14px; text-decoration: underline;" href="http://bit.ly/WtK8mg">URL</a></p>
+<p style="cursor:auto"><!--NO CSS-->Yishay Mor, and Brock Craft.&nbsp;<a style="color: #283e6f; font-size: 11px; font-family: Arial, Helvetica, 'sans serif'; line-height: 14px; text-decoration: underline;" href="http://www.bibsonomy.org/bibtex/21d6ab9f77ec3f6aea757337ade92bcd7/yish">Learning Design: reflections on a snapshot of the current landscape</a>.&nbsp;In D.G. Hawkridge, S. Verjans, and G. Wilson (Eds.),&nbsp;Research in Learning Technology,&nbsp;2012.&nbsp;<a style="color: #283e6f; font-size: 11px; font-family: Arial, Helvetica, 'sans serif'; line-height: 14px; text-decoration: underline;" href="http://www.researchinlearningtechnology.net/index.php/rlt/article/view/19196/">URL</a></p>
+<p><em>We appriciate your feedback. You can use the form below, &nbsp;or leave a comment on this cloud. Your comments on the cloud will be visible to other participants, but anything you enter in the form will only be visible to the MOOC facilitators.</em></p>
+<p><em><a style="color: #4374b7; margin: 0px; padding: 0px; border: 0px; font-size: 13px; text-decoration: initial; text-align: center;" href="http://creativecommons.org/licenses/by-nc-sa/2.0/uk/deed.en_GB" rel="license"><img style="vertical-align: middle; margin: 0px; padding: 0px; line-height: 1; font-family: inherit;" src="http://i.creativecommons.org/l/by-nc-sa/2.0/uk/88x31.png" alt="Creative Commons Licence" /></a>This work&nbsp;by the&nbsp;<a href="http://iet.open.ac.uk">The Institute of Educational Technology (IET) at theOpen University</a>&nbsp;is licensed under a&nbsp;<a style="color: #4374b7; margin: 0px; padding: 0px; border: 0px; font-size: 13px; text-decoration: initial; text-align: center;" href="http://creativecommons.org/licenses/by-nc-sa/2.0/uk/deed.en_GB" rel="license">Creative Commons Attribution-NonCommercial-ShareAlike 2.0 UK: England &amp; Wales License</a>.</em></p>]]></description>
+          <pubDate>Wed, 14 Nov 2012 13:19:28 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

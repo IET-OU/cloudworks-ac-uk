@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: Ashwini Datt</title>
+        <link>https://cloudworks.ac.uk/user/rss.2997</link>
+        <atom:link href="https://cloudworks.ac.uk/user/rss.2997" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds by Ashwini Datt</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>Networking for capacity development research</title>
+              <link>https://cloudworks.ac.uk/cloud/view/11854</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/11854</guid>
+              <description><![CDATA[<p>Are you an higher educator who is enthusiastic about technology use in education?&nbsp;Help me develop an informed view on the use of networks in developing capacity for teaching with technologies. You can do so by participating in research conducted at the University of Auckland (Ethics approved on&nbsp;17 March 2017 for three years,&nbsp;Reference Number 018812) under the supervision of&nbsp;<a href="https://www.linkedin.com/in/helen-sword-902aa98/" target="_blank">Prof. Helen Sword</a>&nbsp;and&nbsp;<a href="https://www.linkedin.com/in/johnpatrickegan/" target="_blank">Dr. John Egan</a>. You can complete an&nbsp;<a href="https://auckland.au1.qualtrics.com/jfe/form/SV_41rP9bXQbIpjoNf" rel="nofollow noopener" target="_blank">anonymous questionnaire</a>&nbsp;that should take no more than 15-20 minutes of your time and/or volunteer for a&nbsp;<a href="https://auckland.au1.qualtrics.com/jfe/form/SV_5AcgUxEDAn09XTf" rel="nofollow noopener" target="_blank">semi-structured interview</a>&nbsp;that will last about&nbsp;an hour.&nbsp;If you choose to&nbsp;participate, you will be contributing to the growing knowledge on contemporary professional development approaches for embracing the scholarship of technology enhanced learning. For more details, see the&nbsp;<a href="https://auckland.au1.qualtrics.com/CP/File.php?F=F_3lnyJ9nv6HsUfw9" rel="nofollow noopener" target="_blank">participant information sheet</a>.</p>
+<p>Many thanks for considering this and feel free to circulate the request in your wider networks.</p>]]></description>
+          <pubDate>Mon, 29 Oct 2018 02:18:55 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: lms</title>
+        <link>https://cloudworks.ac.uk/tag/rss/lms</link>
+        <atom:link href="https://cloudworks.ac.uk/tag/rss/lms" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds tagged lms</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>SAT: Break Out of the Box! How you can use xAPI to free in-house staff development (Katherine Hinchey)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/11472</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/11472</guid>
+              <description><![CDATA[<h2>Abstract</h2>
+<p>You learn by doing and collaborating, watching videos, accessing just-in-time information from your mobile device, mentoring, and more. Why, then, does the Human Resources department only give you slides to learn from?</p>
+<p>Today&rsquo;s workers and corporations are united in wanting more access to the formal, non-formal, and informal learning needed to support an increasingly skilled workforce (The Education Commission, 2016; Pew Research Center, 2016a and 2016b). However, today&rsquo;s corporations largely store their learning resources in virtual learning environments (VLEs) that have adopted a uniform way of storing content. This uniform way, called SCORM, was incredibly helpful when it was designed nineteen years ago, and it still has an important role to play today. When SCORM was created, computer-based training was relatively new and organisations needed a single way to store and track training. For a time, innovation in elearning stopped at the known, established boundaries of the VLE (Weller, 2014, p. 194).</p>
+<p>Now, a new need has developed: a way to store and track learning when it occurs on mobile devices, or through social and collaborative activities, or offline by reading a book or engaging in stretch assignments, or when participating in simulations or augmented and virtual reality programmes.</p>
+<p>An innovation that meets that need was first released in 2013, and had its last planned update in 2016. It is the Experience API (xAPI). xAPI provides a common format for capturing data from today&rsquo;s distributed learning landscape (Rustici Software, n.d.). With xAPI in place, you can free staff development from the confines of SCORM:</p>
+<ul>
+<li>Rely less on elearning courses designed from slides and more on learning experiences;</li>
+<li>Recognise learning from formal and informal or non-formal activities (Downes, 2015);</li>
+<li>And track not only clicks and views but also correlate learning with performance (Torrance, 2016).</li>
+</ul>
+<p>Managers and other decision-makers within learning departments and organisations are at a critical point. They need a source from which to gain a high-level, jargon-free understanding of the benefits of xAPI, common applications and uses of xAPI to support learners as they access modern and innovative learning opportunities, best practices and lessons learned, and information they should provide to their learning development and learning technology teams to prepare for implementation of xAPI (HT2 Labs, n.d.).</p>
+<p>In my conference presentation, I will discuss and share a workshop created to meet those needs. The workshop helps managers, even those without extensive technical backgrounds, to be prepared to move forward with discussions and decisions about xAPI within their organisation. My presentation will show some of the workshop features and provide attendees with tools they can take with them, for use in their future endeavours.</p>
+<h3>References</h3>
+<p>Downes, A. (2015) '9 Practical Applications of Tin Can API', webinar presented by Rustici Software. 31 March. Available at <a href="https://www.slideshare.net/RusticiSoftware/ nine-applications-of-the-tin-can-api-xapi">https://www.slideshare.net/RusticiSoftware/</a><br /><a href="https://www.slideshare.net/RusticiSoftware/ nine-applications-of-the-tin-can-api-xapi">nine-applications-of-the-tin-can-api-xapi</a> (Accessed 1 November 2017).</p>
+<p>The Education Commission (aka the International Commission on Financing Global Education Opportunity) (2016) <em>The Learning Generation: Investing in education for a changing world</em> [Online]. Available at <a href="http://report.educationcommission.org/downloads/">http://report.educationcommission.org/downloads/</a> (Accessed 18 November 2017).</p>
+<p>HT2 Labs (n.d.) <em>The Learning Technology Manager's Guide to xAPI</em> [Online]. Available at <a href="https://www.ht2labs.com/resources/the-learning-technology-managers-guide-to-the-xapi/">https://www.ht2labs.com/resources/the-learning-technology-managers-guide-to-the-xapi/</a> (Accessed 9 December 2017).</p>
+<p>Pew Research Center (2016a) <em>Lifelong Learning and Technology</em> [Online]. Available at <a href="http://www.pewinternet.org/2016/03/22/lifelong-learning-and-technology/">http://www.pewinternet.org/2016/03/22/lifelong-learning-and-technology/</a> (Accessed 18 November 2017).</p>
+<p>Pew Research Center (2016b) <em>The State of American Jobs: How the shifting economic landscape is reshaping work and society and affecting the way people think about the skills and training they need to get ahead</em> [Online]. Available at <a href="http://www.pewsocialtrends.org/2016/10/06/the-state-of-american-jobs/">http://www.pewsocialtrends.org/2016/10/06/the-state-of-american-jobs/</a> (Accessed 18 November 2017).</p>
+<p>Rustici Software (n.d.) <em>Experience API</em> [Online]. Available at <a href="https://experienceapi.com/">https://experienceapi.com/</a> (Accessed 1 November 2017).</p>
+<p>Torrance, M. (2016) 'The xAPI: What Does an Instructional Designer Need to Know?', presentation given at <em>Learning Solutions Conference &amp; Expo.</em> Orlando, Florida, 16-18 March. Available at <a href="https://www.slideshare.net/torrancelearning/xapi-what-does-an-instructional-designer-need-to-know">https://www.slideshare.net/torrancelearning/xapi-what-does-an-instructional-designer-need-to-know</a> (Accessed 1 November 2017).</p>
+<p>Weller, M. (2014) <em>The Battle for Open: How openness won and why it doesn't feel like victory</em>, London, ubiquity press. Available at <a href="http://www.ubiquitypress.com/ site/books/detail/11/battle-for-open/">http://www.ubiquitypress.com/</a><br /><a href="http://www.ubiquitypress.com/ site/books/detail/11/battle-for-open/">site/books/detail/11/battle-for-open/</a> (Accessed 2 May 2016).</p>]]></description>
+          <pubDate>Thu, 04 Jan 2018 15:37:46 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Synap - Online MCQ creator (free)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/11352</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/11352</guid>
+              <description><![CDATA[<p>Synap lets students (and teachers) create, practice and share Multiple Choice Question (MCQ) quizzes, and uses spaced learning to help them learn more in less time.&nbsp;</p>
+<p>Most features available completely free, including for teachers. Over 250,000 questions already written by members of the community, covering areas from GCSE/A-Level to University and professional education. Check it out and feel free to leave a comment with any feedback</p>]]></description>
+          <pubDate>Sat, 04 Nov 2017 22:04:40 +0000</pubDate>
+            </item>
+                    <item>
+              <title>WED: How can Next Generation Digital Learning Environments fulfil the promise of online education? (Elizabeth Ellis)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/10197</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/10197</guid>
+              <description><![CDATA[<p>This multimedia poster session on the theme of Innovation will ask, &lsquo;How can Next Generation Digital Environments embody and execute the promise of online education?&rsquo; As the higher education sector comes to terms with the idea that there is probably not a single &lsquo;solution&rsquo; to the problems inherent to virtual learning environments (VLEs), the term NGDLE is starting to creep into horizon scanning conversations among learning technologists.</p>
+<p>A product of their time, VLEs are increasingly problematic in a more socially networked and digitally confident world. VLEs can often be passive repositories of learning material and grades, guilty of simply putting the offline online, rather than providing immersive personalised learning environments - teaching spaces with their own methods and approaches taking advantage of what the digital world has to offer students.</p>
+<p>Now that we are in a Teaching Excellence Framework landscape, how should NGDLEs effectively help students succeed in their academic and professional careers? By providing them with personalised learning experiences and the acquisition of lifelong learning skills (HEFCE, 2016)? Should NGDLEs drive behavioural change in our students and our teaching staff? How can we easily identify the user requirements of an NGDLE?</p>
+<p>An ongoing consultation challenge from Jisc poses the question, &lsquo;What should the next generation of digital learning environments do?&rsquo; (Jisc, 2016)</p>
+<p>Online learning continues to be highly emotive, with those who use technology to teach online often being accused of trying to delete or diminish the human element of learning. Particularly with learning analytics becoming increasingly more mainstream, and the conflation of learning analytics with personal data and privacy concerns, educational technology is under scrutiny from the academic and student communities.</p>
+<p>This session will ask:</p>
+<p>1) What are NGDLEs?</p>
+<p>2) What do NGDLEs mean for online education, and what does it require of it?</p>
+<p>3) How can NGDLEs be a vehicle for the best parts of online education: the open web, co-creation, student engagement, technology, and digital capability?</p>
+<p>4) What does student success look like in an NGDLE?</p>
+<p>5) What do NGDLEs signify about innovation in online education?</p>
+<p>Even if there is no single technological leap forward with regards to digital learning environments, NGDLEs could represent a disruptive or incremental innovation in online learning and teaching. As we challenge our students to take more ownership through participative learning, as we encourage our students to become more digitally confident and creative, as we provide our students with the tools for deeper engagement with learning materials and new strategies for immersive learning, and as we continue to help them battle with the ongoing curse and joy of collaborative learning, taking an active stance with regard to the development of future digital learning environments can help improve trust between online learning and teaching evangelists and sceptics, and ultimately improve student attainment, progression and retention.</p>
+<p><em>References</em></p>
+<p>HEFCE. (2016) &lsquo;Teaching Excellence Framework&rsquo; [Online]. Available at http://www.hefce.ac.uk/lt/tef/ (last accessed 5 January 2017)</p>
+<p>Jisc. (2016) &lsquo;What should the next generation of digital learning environments do?&rsquo; [Online]. Available at https://www.jisc.ac.uk/rd/get-involved/what-should-the-next-generation-of-digital-learning-environments-do (last accessed 5 January 2017)</p>]]></description>
+          <pubDate>Mon, 09 Jan 2017 10:02:51 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Using Google Apps as a Free LMS: a crowdsourced course for educators</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8218</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8218</guid>
+              <description><![CDATA[<p><a href="https://plus.google.com/communities/110147344160609001644" target="_blank">A Google+ community</a> formed on 23 February 2013 and quickly grew to over 200 members. If this is of interest to you, please join!</p>
+<p><a href="https://docs.google.com/a/slidespeech.com/spreadsheet/viewform?formkey=dFN2MG0tVGI2VkNjVXBBVjNlb3pOd1E6MQ&ifq" target="_blank">Here is a sample exercise.</a></p>]]></description>
+          <pubDate>Tue, 12 Mar 2013 02:18:59 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Presentation: Isabelle Martin-Fernandes</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7310</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7310</guid>
+              <description><![CDATA[<p>Hello!</p>
+<p>My name is Isabelle Martin-Fernandes. Now I live in Portugal and I teach French and Spanish for Portuguese Students in <em>Estoril Higher Institute for Tourism and Hotel Studies.</em></p>
+<p>I have a master's degree in pedagogy of elearning . My thesis was on content analysis in the discussion forum on Moodle platform. The greatest interest was to see the level of deepening students' learning indoors LMS. My conclusion would open doors to see what is happening outside the LMS suspecting another space where learning.</p>
+<p>Now, I&rsquo;m a PhD student at Universidade Aberta (Distance Education and E-learning), Open University of Lisbon, Portugal.</p>
+<p>I'm interesting in measuring quantitative and qualitive learning outside the LMS. As a member of an institution of higher education, I know that we have to find a compromise LMS-Social network for our students.</p>
+<p>I am responsible for the development of pedagogical platform moodle for training teachers in the use of the platform and helpdesk.</p>
+<p>As a teacher, my interests are teaching foreign languages, French and Spanish to Portuguese students and &nbsp;development of self-learning Resource Centre with support.</p>
+<p>As a fanatic, I created chocolates online course and a Spanish module level (A1) for foreigners. I'm interested in building more courses related to gastronomy.<br /> I'm developing a project online guide for tourists in Lisbon.</p>
+<p>I'm speaking French, Spanish and Portuguese and I apologize for butchering the language across the channel. J</p>
+<p>Regards,</p>
+<p>Isabelle</p>]]></description>
+          <pubDate>Mon, 14 Jan 2013 12:25:35 +0000</pubDate>
+            </item>
+                    <item>
+              <title>AK&#39;s OLDS MOOC Cloud [Daily Happenings + Chronicling]</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6822</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6822</guid>
+              <description><![CDATA[<p>This is AK's cloud for working on OLDS MOOC, collecting links to other clouds, interesting references and websites I've come across, and chronicling my participation in the MOOC. &nbsp;Scroll down to see participation as the MOOC progresses. Each section is a weekly heading.</p>]]></description>
+          <pubDate>Wed, 09 Jan 2013 21:34:03 +0000</pubDate>
+            </item>
+                    <item>
+              <title>A well-designed VLE or LMS can support any kind of online learning activity, so there is no need to use web tools for learning.</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5281</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5281</guid>
+              <description><![CDATA[<p>Recently I participated in two teaching/learning conferences where presentations included a fairly equal mix of LMS/VLE and web 2.0 activities; a fair number included a 'mash up' of both. Stories were told in hallways about institutions requiring the use of the 'official' learning technology, while in some sessions participants were launched straight into the cloud with no visible means of support.</p>
+<p>Technology-enhanced learning and practice is in a volatile state, and everyone seems to have an opinion about the relative merits of an institutional LMS or VLE vs the cloud, with 'mash-ups' of both technologies widespread. Is compromise a real solution, or should we commit to one or the other?</p>
+<p>It has been suggested that a well-designed VLE or LMS can support any kind of online learning activity, so there is no need to use web tools for learning. To what extent do you agree or disagree?</p>]]></description>
+          <pubDate>Tue, 05 Apr 2011 17:57:54 +0000</pubDate>
+            </item>
+                    <item>
+              <title>The centralisation dilemma in educational IT</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4587</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4587</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Sun, 19 Sep 2010 18:40:39 +0000</pubDate>
+            </item>
+                    <item>
+              <title>The networked student model for construction of personal learning environments: Balancing teacher control and student autonomy</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4586</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4586</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Sun, 19 Sep 2010 18:34:41 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Open complementing closed - PLE and LMS - why, what for and how?</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4585</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4585</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Sun, 19 Sep 2010 18:33:06 +0000</pubDate>
+            </item>
+                    <item>
+              <title>PLE’s versus LMS: Are PLEs ready for Prime time?</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4584</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4584</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Sun, 19 Sep 2010 18:15:50 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Resource: Three Dimensional 3-D Curriculum Design</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2509</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2509</guid>
+              <description><![CDATA[<p>Anyone else had this thought?&nbsp; Why is it that we are continually applying a 19th century model of curriculum design, one based on a single linear pathway for all students to progress through, with common assessment points, that really only applies and lives when articulated using the medium of paper?&nbsp; Does this still sound familiary, "Okay class, you will notice in the course outline that during this semester we will all be doing...blah, blah, blah... on October 5th, and we'll all be doing...blah, blah, blah...on November 8th, culminating in a final exam on December 7th."</p>
+<p>My argument is simple.&nbsp; Through the integration of technology, we can (and should) be creating three dimensional learning environments (NOTE: i am NOT talking about 3-D graphics or Second Life) whereby we establish multiple learning pathways that responds to an individual students learning styles (both catering for and challenging of) as well as a variety of assesment tools.</p>
+<p>I have modeled these environments using very sophisticated selective-release tools in Bb Vista and my students absolutely loved the experience.</p>
+<p>For the record, I think the "LMS/VLE is Dead" argument is a silly-one, in the sense that what the doomsayers are arguing for, mainstream education is far from ready to implement, regardless of how utopian the 'open' environment is.&nbsp; And for me, the key argument is that these environments are NOT exclusionary, as many others such as <a href="http://www.mrstucke.com/2009/08/25/the-vle-debate-my-thoughts/">Dan Stucke</a> have argued.&nbsp; Use the VLE as the unifying and organizational hub for the myriad of activities that we can be using to engage our students.&nbsp; Just imagine your response to a parent, potential employer, or district administrator when they ask, "Can you please show me the activities that you have done with the students this semester?" and all you have are are series of email messages containing links to 30 different PLE's?</p>
+<p>In conclusion, and what should be self-evident but I'll clarify it anyway, is that if anyone were to ask me to describe or demonstrate what I am talking about, and the medium of paper was the only one they gave me, they would not be happy with my response.&nbsp; I'll never forget in 1998 being told that my final master thesis could not 'exist' on the internet as there HAD to be a bound hard-copy on the shelf in the library...morons...</p><p>Contact details: Rob Peregoodoff, UBC Sauder School of Business</p>]]></description>
+          <pubDate>Mon, 19 Oct 2009 23:48:02 +0000</pubDate>
+            </item>
+                    <item>
+              <title>The VLE is Dead</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2162</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2162</guid>
+              <description><![CDATA[<p>ALT-C 2009 Session: This Cloud has been set up to aggregate live blogs, comments, discussion and links for this session.</p>
+<p>&nbsp;</p>
+<div id="oembed-0" class="oembed"><a type="application/x-shockwave-flash" href="embed src=">The VLE is dead... the trailer</a></div>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Thu, 27 Aug 2009 14:07:22 +0000</pubDate>
+            </item>
+                    <item>
+              <title>A flexible model for LMS course design</title>
+              <link>https://cloudworks.ac.uk/cloud/view/528</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/528</guid>
+              <description><![CDATA[<p><a href="http://2.bp.blogspot.com/_M_8lz7Hrfdg/STTMx0uUUhI/AAAAAAAACio/juBtVqIth1M/s1600-h/Flexible+template+for+LMS+course+design_sml.jpg"><img id="BLOGGER_PHOTO_ID_5275066219896263186" style="margin: 0px auto 10px; display: block; text-align: right; cursor: pointer; width: 142px; height: 200px;" src="http://2.bp.blogspot.com/_M_8lz7Hrfdg/STTMx0uUUhI/AAAAAAAACio/juBtVqIth1M/s200/Flexible+template+for+LMS+course+design_sml.jpg" alt="" /></a><br /> Recently I have been working with a number of faculty at Unitec NZ to develop courses in the LMSs we have (Moodle and Blackboard). Alongside the adaptation of existing courses and activities, often staff will be at a loss as to what they really want to include in an LMS course.<br /> <br /> It was suggested that faculty, alongside considerations of how they will adapt specific activities using <a href="http://efest2008collaboratingbydesign.pbwiki.com/">the ICTELT model and framework</a>, draw up a mindmap that identifies the main functionality and design of the LMS course they wish to use. However, some faculty found this a challenge, so I have developed the following <a href="http://www.mindomo.com/view.htm?m=2bd537cb41c349508eb65e01fc3bbf4c">mindmap 'model'</a>. It is flexible and users of it are encouraged to change it to suit their purposes. You will need to go to the Mindomo site where the map is hosted to view it properly.<br /> <br /> Although the central starting point of the mindmap is labelled "course" it could just as easily be a Community of Practice, a department, or a support unit that wishes to improve their communication. Users, therfore, should change or omit any of the elements that are irrelevant to them.<br /> <br /> Any feedback that you might have on what I have missed out, or suggestions for improvement would be very much appreciated.</p>]]></description>
+          <pubDate>Tue, 02 Dec 2008 06:02:03 +0000</pubDate>
+            </item>
+                    <item>
+              <title>CCK08</title>
+              <link>https://cloudworks.ac.uk/cloud/view/494</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/494</guid>
+              <description><![CDATA[<p>Any comments about the recent CCK08 course? It seems to fit with the spirit and practice of sharing learning designs and I'd be interested in the views of others- even if it means relinking to your blogs posts.</p>
+<p>This could all get very self referential......</p>
+<p>See http://ltc.umanitoba.ca/wiki/Connectivism for more details.</p>
+<p>"Delivered in partnership with: Extended Education and Learning Technologies Centre, University of Manitoba</p>
+<p>Course Code: 98813- 08-01</p>
+<p>Course Description: Connectivism and Connective Knowledge is a twelve week course that will explore the concepts of connectivism and connective knowledge and explore their application as a framework for theories of teaching and learning. It will outline a connectivist understanding of educational systems of the future. This course will help participants make sense of the transformative impact of technology in teaching and learning over the last decade. The voices calling for reform do so from many perspectives, with some suggesting 'new learners' require different learning models, others suggesting reform is needed due to globalization and increased competition, and still others suggesting technology is the salvation for the shortfalls evident in the system today. While each of these views tell us about the need for change, they overlook the primary reasons why change is required.</p>
+<p>Programs: For credit in Certificate in Adult and Continuing Education and Certificate in Emerging Technologies for Learning (certificate will be available January, 2009.</p>
+<p>Date: September 8, 2008 - November 30, 2008</p>
+<p>Technologies Used: Through out this "course" participants will use a variety of technologies. For example, participants will use blogs, Second Life, Page Flakes, attend UStream sessions, attend Elluminate sessions, participate in discussions in Moodle forums, and so on. Additional technologies will be introduced as is required to attend to concerns or opportunities arising over the next 12 weeks.</p>
+<p>Facilitators: George Siemens and Stephen Downes will co-facilitate this innovative and timely course."</p>]]></description>
+          <pubDate>Mon, 01 Dec 2008 09:00:14 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

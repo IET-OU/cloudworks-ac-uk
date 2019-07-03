@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: PLE</title>
+        <link>https://cloudworks.ac.uk/tag/rss/PLE</link>
+        <atom:link href="https://cloudworks.ac.uk/tag/rss/PLE" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds tagged PLE</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>SAT: Break Out of the Box! How you can use xAPI to free in-house staff development (Katherine Hinchey)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/11472</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/11472</guid>
+              <description><![CDATA[<h2>Abstract</h2>
+<p>You learn by doing and collaborating, watching videos, accessing just-in-time information from your mobile device, mentoring, and more. Why, then, does the Human Resources department only give you slides to learn from?</p>
+<p>Today&rsquo;s workers and corporations are united in wanting more access to the formal, non-formal, and informal learning needed to support an increasingly skilled workforce (The Education Commission, 2016; Pew Research Center, 2016a and 2016b). However, today&rsquo;s corporations largely store their learning resources in virtual learning environments (VLEs) that have adopted a uniform way of storing content. This uniform way, called SCORM, was incredibly helpful when it was designed nineteen years ago, and it still has an important role to play today. When SCORM was created, computer-based training was relatively new and organisations needed a single way to store and track training. For a time, innovation in elearning stopped at the known, established boundaries of the VLE (Weller, 2014, p. 194).</p>
+<p>Now, a new need has developed: a way to store and track learning when it occurs on mobile devices, or through social and collaborative activities, or offline by reading a book or engaging in stretch assignments, or when participating in simulations or augmented and virtual reality programmes.</p>
+<p>An innovation that meets that need was first released in 2013, and had its last planned update in 2016. It is the Experience API (xAPI). xAPI provides a common format for capturing data from today&rsquo;s distributed learning landscape (Rustici Software, n.d.). With xAPI in place, you can free staff development from the confines of SCORM:</p>
+<ul>
+<li>Rely less on elearning courses designed from slides and more on learning experiences;</li>
+<li>Recognise learning from formal and informal or non-formal activities (Downes, 2015);</li>
+<li>And track not only clicks and views but also correlate learning with performance (Torrance, 2016).</li>
+</ul>
+<p>Managers and other decision-makers within learning departments and organisations are at a critical point. They need a source from which to gain a high-level, jargon-free understanding of the benefits of xAPI, common applications and uses of xAPI to support learners as they access modern and innovative learning opportunities, best practices and lessons learned, and information they should provide to their learning development and learning technology teams to prepare for implementation of xAPI (HT2 Labs, n.d.).</p>
+<p>In my conference presentation, I will discuss and share a workshop created to meet those needs. The workshop helps managers, even those without extensive technical backgrounds, to be prepared to move forward with discussions and decisions about xAPI within their organisation. My presentation will show some of the workshop features and provide attendees with tools they can take with them, for use in their future endeavours.</p>
+<h3>References</h3>
+<p>Downes, A. (2015) '9 Practical Applications of Tin Can API', webinar presented by Rustici Software. 31 March. Available at <a href="https://www.slideshare.net/RusticiSoftware/ nine-applications-of-the-tin-can-api-xapi">https://www.slideshare.net/RusticiSoftware/</a><br /><a href="https://www.slideshare.net/RusticiSoftware/ nine-applications-of-the-tin-can-api-xapi">nine-applications-of-the-tin-can-api-xapi</a> (Accessed 1 November 2017).</p>
+<p>The Education Commission (aka the International Commission on Financing Global Education Opportunity) (2016) <em>The Learning Generation: Investing in education for a changing world</em> [Online]. Available at <a href="http://report.educationcommission.org/downloads/">http://report.educationcommission.org/downloads/</a> (Accessed 18 November 2017).</p>
+<p>HT2 Labs (n.d.) <em>The Learning Technology Manager's Guide to xAPI</em> [Online]. Available at <a href="https://www.ht2labs.com/resources/the-learning-technology-managers-guide-to-the-xapi/">https://www.ht2labs.com/resources/the-learning-technology-managers-guide-to-the-xapi/</a> (Accessed 9 December 2017).</p>
+<p>Pew Research Center (2016a) <em>Lifelong Learning and Technology</em> [Online]. Available at <a href="http://www.pewinternet.org/2016/03/22/lifelong-learning-and-technology/">http://www.pewinternet.org/2016/03/22/lifelong-learning-and-technology/</a> (Accessed 18 November 2017).</p>
+<p>Pew Research Center (2016b) <em>The State of American Jobs: How the shifting economic landscape is reshaping work and society and affecting the way people think about the skills and training they need to get ahead</em> [Online]. Available at <a href="http://www.pewsocialtrends.org/2016/10/06/the-state-of-american-jobs/">http://www.pewsocialtrends.org/2016/10/06/the-state-of-american-jobs/</a> (Accessed 18 November 2017).</p>
+<p>Rustici Software (n.d.) <em>Experience API</em> [Online]. Available at <a href="https://experienceapi.com/">https://experienceapi.com/</a> (Accessed 1 November 2017).</p>
+<p>Torrance, M. (2016) 'The xAPI: What Does an Instructional Designer Need to Know?', presentation given at <em>Learning Solutions Conference &amp; Expo.</em> Orlando, Florida, 16-18 March. Available at <a href="https://www.slideshare.net/torrancelearning/xapi-what-does-an-instructional-designer-need-to-know">https://www.slideshare.net/torrancelearning/xapi-what-does-an-instructional-designer-need-to-know</a> (Accessed 1 November 2017).</p>
+<p>Weller, M. (2014) <em>The Battle for Open: How openness won and why it doesn't feel like victory</em>, London, ubiquity press. Available at <a href="http://www.ubiquitypress.com/ site/books/detail/11/battle-for-open/">http://www.ubiquitypress.com/</a><br /><a href="http://www.ubiquitypress.com/ site/books/detail/11/battle-for-open/">site/books/detail/11/battle-for-open/</a> (Accessed 2 May 2016).</p>]]></description>
+          <pubDate>Fri, 05 Jan 2018 05:58:13 +0000</pubDate>
+            </item>
+                    <item>
+              <title>A Digital Literacies Toolkit</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8478</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8478</guid>
+              <description><![CDATA[<p>We have just&nbsp; made our Digital Literacies Toolkit live. It's now available for students and educators to use or link to. This&nbsp; set of interactive learning&nbsp;resources was designed and developed by <a href="http://www.elanguages.ac.uk/" target="_blank">eLanguages</a>&nbsp;at the University of Southampton with support from the university Student Centredness Fund. The purpose of the toolkit&nbsp; is to help students:</p>
+<p>explore the educational uses of Web 2.0 tools and services;</p>
+<p>familiarise themselves with a range of useful applications for study-related purposes;</p>
+<p>highlight good practice in the use of social software and the internet, in general.</p>]]></description>
+          <pubDate>Mon, 22 Jul 2013 08:14:11 +0000</pubDate>
+            </item>
+                    <item>
+              <title>ARTiFactor&#39;s Dream&#39;s project; a reflection of my OLDSMOOC experience</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8152</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8152</guid>
+              <description><![CDATA[<p>Art volunteers for FreeGeekTwinCities and initially envisioned creating</p>
+<p style="cursor:auto"><!--NO CSS-->"a&nbsp;<strong>map of learning activities</strong>&nbsp;for raising participant's&nbsp;<strong>digital literacy&nbsp;</strong>competencies.&nbsp;Learners could jump in at any time, anywhere on the map,&nbsp;and find guidance to master that particular skill set.&nbsp;The map would be dynamic, continually being improved and expanded, much like in wikipedia." (<a title="ARTiFactor Dream Project" href="http://cloudworks.ac.uk/cloud/view/6942">My Dream</a>)</p>
+<p>Art has a BS in Physics Education and created his own curriculum for 10 years but has not been in a class room for thirty years. Art is a life-long-learner and is aware of many recent internet communication technologies.</p>
+<p>For years Art has wanted to help people use the internet to realize their potential. He read that 2012 was the "year of the MOOC" and decides to enroll in his first mooc, OLDSMOOC&nbsp;"Learning Design for a 21st Century Curriculum".</p>
+<p>For three weeks Art functioned much as he had during his 10 years in college. He tried to do what he thought the instructors wanted. If he was uncertain of expectations he watched and imitated his peers (vicarious learning).</p>
+<p>Art was thrilled to learn new tools like MindMeister, NetVibes, BibSonomy, LucidChart,and Twitter. Trying to manage the tsunamy of new resources was overwhelming. He decided not to even start using Diigo because it only allowed 1000 bookmarks before hiiting a paywall . He did start to see why social bookmarking was valuable, though.</p>
+<p>Week 4 theme was connecting or partnering up. It did not happen. Art suddenly realized he had not made an entry in his daily jounal after Day 20. Feeling lost and hoplessly behind Art decided to sign up for 2 more MOOCs. He did a week's worth of assignments in foeMOOC but 2 minutes after submitting his homework the foeMOOC was suspended. He jumped over to edcMOOC and did 5 weeks of work, submitted his unfinished oldsMOOC project for his digital artefact requirement and will probably get a certificateof participation.</p>
+<p>Now it is Week 8 and Art wants to show his peers he is not a quitter. His Dream Project is not finished but he now realizes how similar it is to the learning design of oldsMOOC.&nbsp;</p>
+<p>In order to best enable participants to learn, Art agrees with the learning design theory that &nbsp;<strong>learning is enabled best when it involves an authentic project that the learner is passionate about, and that involves group work with discussion, reflection, cooperation, and peer assessment</strong>. Art's experience in oldsMOOC, leads him to believe that community building, and if necessary, facilitating "partnering up"&nbsp;be a requirement before practicing social networking. He hopes to structure the learning environment so that every participant's contributions are&nbsp;acknowledged.&nbsp;</p>
+<p>Art's project intends to provide and model using tools for knowledge aquisition, collaboration, reflection, construction, presentation, etc., facilitating networks between fellow students, and also faciltating networking with others contributing to their field of inquiry.</p>
+<p style="cursor:auto"><!--NO CSS-->"Self-organised learning networks provide a base for the establishment of a form of education that goes beyond course and curriculum centric models, and envisions a learner-centred and learner controlled model of lifelong learning."&nbsp;(<a title="Koper 2004 life long learning design" href="http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8535.2004.00427.x/abstract">Koper 2004</a>)</p>
+<p>Art is joining up with teams working on similar projects; <a title="Peeragogy Handbook Project" href="http://peeragogy.org/">Peeragogy Handbook Project</a>, <a title="P2PU peer to peer learning" href="https://p2pu.org/en/">P2PU</a>, <a title="wikiversity.org" href="http://en.wikiversity.org/wiki/Wikiversity:Main_Page">wikiversity.org</a>, and <a title="MozillaFestival participate" href="http://mozillafestival.org/participate/">MozillaFestival</a>.&nbsp;</p>
+<p>Some challenges yet to be worked out are:</p>
+<ul>
+<li>getting site visitors to commit (click on the join button)</li>
+<li>match up newcomers by interests (maybe a form that populates a spreadsheet)</li>
+<li>scaling if numbers exceed capacity of server or number of facilitators</li>
+<li>a way for voting up or down available OER</li>
+</ul>]]></description>
+          <pubDate>Sun, 03 Mar 2013 03:33:49 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Participatory Media Teaching and Learning Resources</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8079</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8079</guid>
+              <description><![CDATA[<h2 class="title">Participatory Media Teaching and Learning Resources</h2>
+<p>Open Educational Resources (OER) are learning modules that are available for reuse. By standing upon the shoulders of giants, we can reach further than if we attempt to reinvent our own learning modules.</p>
+<p><a title="Howard Rheingold web site" href="http://rheingold.com/">Howard Rheingold</a> has created&nbsp;<strong><a title="Participatory Media Teaching and Learning Resources" href="http://socialmediaclassroom.com/community/wiki/participatory-media-teaching-and-learning-resources">Participatory Media Teaching and Learning Resources</a></strong> with a&nbsp;<strong><a title="cc by-nc 3.0 US license" href="http://creativecommons.org/licenses/by-nc/3.0/us/">CC BY-NC 3.0 US</a>&nbsp;</strong>license which I will be reusing.</p>
+<p>I am creating a <strong>personal learning environment</strong> (PLE). I am inviting others to join with me to experience <strong>participatory learning</strong> as demonstrated by Howard Rheingold. I will also encourage participants to read this <strong><a title="Peeragogy Handbook" href="http://peeragogy.org/">Peeragogy Handbook</a></strong>. Mozilla is currently drafting a <strong><a title="Mozilla white paper on web literacies" href="https://wiki.mozilla.org/Learning/WebLiteracyStandard/Legacy/WebLiteraciesWhitePaper">White Paper on Web Literacies</a></strong>, too.</p>
+<p>I got a deal on hosting at BlueHost recently ($3.50/mo) and purchased the domain <strong><a title="digital literacy web site" href="http://dglt.org/">dgtl.org</a> </strong>for about $10/yr. I am using WordPress as a content management system and for blogging and have also installed forum, wiki, and Moodle software within this website. So for less than $5/mo I am able to provide a playground where I intend to learn by doing - hopefully along with others.&nbsp;</p>
+<h2>&nbsp;</h2>]]></description>
+          <pubDate>Mon, 18 Feb 2013 16:27:56 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Digital literacy in HE - Force Map</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7700</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7700</guid>
+              <description><![CDATA[<p>I didn't really get this but spent a lot of time trying to understand. I found some of the instructions/ advice contradictory and couldn't figure out what a concern was and how it differed from a force until I had spent really 2 or 3 hours reconfiguring things. The thinking through was useful in that it helped me think about additional personas or actors in this project and therefore additonal challenges. But as with "rich pictures" in soft systems I just don't find this useful or natural to do. Anyway, I have uploaded a Force Map to google docs. Don't know how to embed here so see link.</p>
+<p>Hoping for more success with this week's challenge and lots of help from my team mate.</p>]]></description>
+          <pubDate>Tue, 22 Jan 2013 10:18:26 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Helen Crump OLDS MOOC Learning Journal/blog</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7297</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7297</guid>
+              <description><![CDATA[<p>I&rsquo;m an adult literacy tutor and I live on the West Coast of Ireland. I'm also a very recent graduate of St. Angela's College, Sligo where I completed an M.A. awarded by NUI Galway in Technology, Learning, Innovation and Change.</p>
+<p>I&rsquo;m interested in digital literaciesand social learning, which ideally I'd like to teach online in a Higher Education or professional development context. For that reason I'm developing my skills and knowledge in relation to online pedagogy and instructional design; that's why I&rsquo;m glad to be here taking part in OLDS MOOC "Learning Design for a 21st Century Curriculum"</p>]]></description>
+          <pubDate>Fri, 18 Jan 2013 11:59:17 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Digital Identity and Social Media</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7190</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7190</guid>
+              <description><![CDATA[<p>I am particularly interested in helping students learn about online identity and how to use social media for effective collaboration and learning</p>]]></description>
+          <pubDate>Sun, 13 Jan 2013 11:12:20 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Lesley&#39;s learning journey, 13th January 2013</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7186</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7186</guid>
+              <description><![CDATA[<p>Well, I've worked out that I haven't structured this as well as I might have done. Really, I should have created a new blog artefact and linked to it from here. Instead, it looks as though I'm going to have many clouds - they don't lend themselves to long entries, so individual musings per day. Why don't I create a blog? Because I already have a couple and I simply can't be bothered to set up yet another blog, particularly as it won't get used after the OLDS MOOC experience. Does that sound cynical? I reckon it's realistic. I know how I operate: I've had a lot of experience working with me and I don't feel the need to share my OLDS MOOC thoughts on a long term basis. I'm beginning to get the hang of this thing, I feel and I'm starting to consider the design aspects but maybe more from the point of view of what works for me rather than more generally. On the other hand, what this suggests is that the environment is sufficiently flexible to allow me to take my preferred approach, so maybe the mercury-like tendency to slide away when you think you've pinned it down is a benefit rather than the annoyance it feels like at present. Back to my question of yesterday - is a MOOC just a collection of loosely (or more tightly if there's an overarching goal) related collection of PLEs? And are these really PLEs or are they constrained by the artefacts suggested by the designers... A semi-structured VLE, maybe? So far, I haven't seen anything innovative or even new about this environment, We were doing similar things years ago but they didn't have a label! At least the fog is lifting, and that emphasises my view that it's essential to experience a tool or environment to design in a manner appropriate to it. This is not to promote technology-driven design; rather, it's a reflection that too many designers develop learning activities unsuited to where they take place. This may be something as simple as providing an instruction using inappropriate terms, but there's far too much of it about in my experience. It would be so easy to check things out before designing...</p>]]></description>
+          <pubDate>Sun, 13 Jan 2013 09:07:38 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Jane C&#39;s Dreambazaar Cloud: Let&#39;s get Digital!</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7109</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7109</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Sat, 12 Jan 2013 12:36:19 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Enquiry based, experiential and situated learning</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4678</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4678</guid>
+              <description><![CDATA[<p>A collection of workshop resources, initially developed by OCSLD for Cranfield University's PG Cert course.</p>]]></description>
+          <pubDate>Fri, 08 Oct 2010 12:35:48 +0000</pubDate>
+            </item>
+                    <item>
+              <title>The centralisation dilemma in educational IT</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4587</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4587</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Sun, 19 Sep 2010 18:40:39 +0000</pubDate>
+            </item>
+                    <item>
+              <title>The networked student model for construction of personal learning environments: Balancing teacher control and student autonomy</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4586</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4586</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Sun, 19 Sep 2010 18:34:41 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Open complementing closed - PLE and LMS - why, what for and how?</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4585</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4585</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Sun, 19 Sep 2010 18:33:06 +0000</pubDate>
+            </item>
+                    <item>
+              <title>PLE’s versus LMS: Are PLEs ready for Prime time?</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4584</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4584</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Sun, 19 Sep 2010 18:15:50 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Rob&#39;s plenk</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4567</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4567</guid>
+              <description><![CDATA[<p>This cloud is my first port of call for the course Personal Learning Environments, Network and Knowledge 2010. I expect to go to many other places in the next few weeks, but this may well be the anchor for it all.</p>]]></description>
+          <pubDate>Tue, 14 Sep 2010 20:53:25 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Twitter: The Heart of your PLE?</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4565</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4565</guid>
+              <description><![CDATA[<p>My co-workshop with Jos&eacute; Mota at PLE Conference, Barcelona, July 2010</p>]]></description>
+          <pubDate>Mon, 13 Sep 2010 13:47:10 +0000</pubDate>
+            </item>
+                    <item>
+              <title>PLENK 2010 Journal</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4564</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4564</guid>
+              <description><![CDATA[<p>I would like to use this cloud to write a weekly journal about my learning journey in the 10-weeks course <a href="http://ple.elg.ca/course/moodle/mod/wiki/view.php?id=60&page=Personal+Learning+Environments,+Network+and+Knowledge+2010" target="_blank">PLENK2010 - Personal Learning Environments, Networks and Knowledge</a> (13th September - 19 November 2010), a new massive open online course (MOOC) facilitated by George Siemens, Stephen Downes, Rita Kop and Dave Cormier.</p>
+<p>As usual for this kind of courses, each participant has free registration access, can choose any level of participation and can adopt any type of social media to engage in discussions and produce own contributions. In particular, this edition will also be a research setting, within <a href="http://ple.elg.ca/course/moodle/mod/wiki/view.php?id=60&page=Research+in+Personal+Learning+Environments" target="_blank">an inquiry</a> on personal learning environments conducted by the National Research Council of Canada.</p>
+<p>Instructions to join PLENK2010 here: <a href="http://connect.downes.ca/how.htm" target="_blank">How this course works</a></p>
+<p>Twitter hashtag: #PLENK2010</p>
+<p>Delicious tag: PLENK2010</p>
+<p>Live sessions <a href="http://ple.elg.ca/course/moodle/mod/wiki/view.php?id=60&page=Recordings" target="_blank">recordings</a></p>]]></description>
+          <pubDate>Sun, 12 Sep 2010 14:51:50 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Bob and Sue - Adult Learners returning to Higher Education</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4103</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4103</guid>
+              <description><![CDATA[<p>Meet Bob and Sue to listen to their perspectives as adult learners returning to University to study Technology Enhanced Learning.</p>
+<p>Scroll down to view latest videos:<br /><strong>OpenEd10 held in Barcelona 2-4 November<br />What "Siemens Says" about 21st Century knowledge<br />Transavartarts Boo and Sob<br />Preparing for the NZ Tertiary Writers Network Colloquium<br />The Graduate, Bob and Sue version</strong></p>
+<p>Series 2: <a href="http://cloudworks.ac.uk/cloud/view/4686">Rog, Bob and Sue</a>&nbsp;on ethics</p>]]></description>
+          <pubDate>Mon, 05 Jul 2010 05:25:58 +0000</pubDate>
+            </item>
+                    <item>
+              <title>REVIVE workshop at the EDEN 2010 conference</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3217</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3217</guid>
+              <description><![CDATA[<p>If you are interested in social software and how it can be used in vocational education &amp; training and higher education institutions, if you are looking into Personal Learning Environments and how they can help you and/or your students to put some structure into the unstructured world of social networks, learning tools, and educational resources, than you really shouldn&rsquo;t miss this workshop. The workshop will address the following issues:</p>
+<ul>
+<li>How have <em>learning and teaching strategies</em> at vocational education &amp; training (VET) and higher education (HE) institutions changed since the advent of new learning tools and Personal Learning Environments (PLE)? How can success stories be identified?</li>
+</ul>
+<ul>
+<li>What challenges do teachers and trainers, as well as curriculum authors face in relation to this shift in learning and teaching tools?</li>
+</ul>
+<ul>
+<li>What key competences teachers and learners require and develop when learning with social software, new learning tools and Personal Learning Environments?</li>
+</ul>
+<p>The official title of the workshop is: Reviewing and reviving learning and teaching strategies with the new learning tools (REVIVE project)</p>
+<p><strong><br /></strong></p>]]></description>
+          <pubDate>Tue, 30 Mar 2010 16:04:02 +0000</pubDate>
+            </item>
+                    <item>
+              <title>The PLE conference </title>
+              <link>https://cloudworks.ac.uk/cloud/view/2918</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2918</guid>
+              <description><![CDATA[<div>
+<p><strong>Barcelona, Spain</strong></p>
+<p><strong>8-9 July 2010<br /></strong></p>
+<p style="cursor:auto"><!--NO CSS-->Personal Learning Environments (PLE) include the tools, communities, and services that constitute the individual educational platforms learners use to direct their own learning and pursue educational goals. The idea of the PLE represents a shift away from the model in which students consume information through independent channels such as the library, a textbook, or an LMS, moving instead to a model where students draw connections from a growing matrix of resources that they select and organize. Because they emphasize relationships, PLEs can promote authentic learning by incorporating expert feedback into learning activities and resources. A PLE also puts students in charge of their own learning processes, challenging them to reflect on the tools and resources that help them learn best. By design, a PLE is created from self-direction, and therefore the responsibility for organization&mdash;and thereby for learning&mdash;rests with the learner. (<a href="http://net.educause.edu/ir/library/pdf/ELI7049.pdf">7 things you should know about Personal Learning Environments, Educause 2009</a>).<strong></strong></p>
+<p style="cursor:auto"><!--NO CSS--><strong>The PLE Conference </strong>is intended to produce a space for researchers and practitioners to exchange ideas, experience and research around the development and implementation of PLEs including the design of environments, sociological and educational issues and their effectiveness and desirability as (informal) learning spaces.</p>
+<p style="cursor:auto"><!--NO CSS-->Whilst the conference includes a traditional research paper strand, we also encourage proposals for sessions in different formats including workshops, posters, debates, cafe sessions, hands on sessions and demonstrations. <strong>There will be a Spanish strand, so contributions in Spanish are also welcome! </strong></p>
+<p>We will also provide opportunities for unconferencing events, including the provision of spaces for informal meetings and discussions. Although the main conference takes place on 8th and 9th of July, there will be an informal launch event (with wine and tapas!) on the evening of Wednesday 7th.</p>
+<p style="cursor:auto"><!--NO CSS-->As well as the face to face sessions, the conference will be supported by a variety of different online spaces. You can join the YouTube group for the PLE conference at<br /> <a href="http://www.youtube.com/group/PLE2010CONF">http://www.youtube.com/group/PLE2010CONF</a>. The YouTube group will also be used for the <a href="http://pleconference.citilab.eu/wp-content/uploads/2009/12/MediacastingContest.pdf" target="_blank">Mediacast Contest</a>: a celebration of User Generated Content with awards for the best three mediacast productions on Personal Learning Environments.</p>
+Selected papers will be published by the <a href="http://www.igi-global.com/journals/details.asp?id=33046">International Journal of Virtual and Personal Learning Environments.</a>
+<p>Conference themes include (but are not limited to):</p>
+<ul>
+<li>Theories and frameworks for Personal Learning Environments</li>
+<li>Technologies and software for developing Personal Learning Environments</li>
+<li>PLEs in Practice (case studies, approaches to using PLEs)</li>
+<li>Educational institutions, change and PLEs</li>
+<li>Pedagogical approaches to managing personal learning</li>
+<li>The development and management of Personal Learning Networks Mobile PLEs and augmented reality</li>
+<li>Supporting informal and contextual learning</li>
+<li>Using PLEs in organisations</li>
+<li>Using PLEs for Work based learning</li>
+</ul>
+</div>]]></description>
+          <pubDate>Sat, 06 Feb 2010 12:07:54 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Composing your Learning Environment II</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2620</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2620</guid>
+              <description><![CDATA[<p><em>Led by Wilbert Kraan and Sheila MacNeill</em></p>]]></description>
+          <pubDate>Wed, 11 Nov 2009 13:47:19 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Online round table on Personal Learning Environment</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2449</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2449</guid>
+              <description><![CDATA[<p>via Twitter @<strong><a title="Graham Attwell" href="http://twitter.com/GrahamAttwell">GrahamAttwell</a></strong> RT@mebner: Today Online Round Table on Personal Learning Environment with @<a href="http://twitter.com/ErikDuval">ErikDuval</a> and @<a href="http://twitter.com/klamma">klamma</a></p>
+<p><a title="#educamp" href="http://twitter.com/search?q=#educamp">#educamp</a> 2000CET 1900UK</p>]]></description>
+          <pubDate>Thu, 08 Oct 2009 12:30:42 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Research paper: The web as Personal Learning Environment</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2436</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2436</guid>
+              <description><![CDATA[<p>via <strong><a title="eDCSD" href="http://twitter.com/eDCSD">eDCSD on Twitter</a></strong></p>
+<p><strong>Abstract:</strong></p>
+<h3>The Web as Personal Learning Environment</h3>
+<div><em>Krunoslav Žubrini&#263;, Damir Kalpi&#263;</em></div>
+<p>&nbsp;</p>
+<p>Today, the lifelong learning has become a necessity in most professions, especially in computer science where people are constrained to follow fast developments. This learning is predominantly informal, based on self-studying. Internet has turned into the most important source of all kind of information. Many Web sites provide tools and services for exchange of knowledge between people sharing a common concern, and that has a significant influence on self-studying. Personal learning environment provides an opportunity for the user to create and manage his or her environment for learning and knowledge exchange. This article describes a model of personal learning environment based on available free Web services.</p>]]></description>
+          <pubDate>Thu, 08 Oct 2009 09:57:58 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Conceptual diagram of a Personal Learning Environment</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2363</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2363</guid>
+              <description><![CDATA[<p>via <strong><a title="Andrew Middleton" href="http://twitter.com/andrewmid">@andrewmid</a></strong>PLE's? <a title="#shusml" href="http://twitter.com/search?q=#shusml">#shusml</a> good visualisation: RT @<a href="http://twitter.com/timbuckteeth">timbuckteeth</a> on Twitter</p>
+<p><img src="http://edtechpost.wikispaces.com/file/view/swl_ple2.gif?responseToken=08fe47ab8540d8ccd3d21f2e5c08a52fe" alt="PLE" /></p>]]></description>
+          <pubDate>Thu, 24 Sep 2009 16:19:16 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Personal Learning Environment - a conceptual study</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2360</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2360</guid>
+              <description><![CDATA[<p>Paper being presented at the ICL2009 conference, argues that PLEs are the next generation learning environment to help improve learning and teacher behaviour.</p>]]></description>
+          <pubDate>Thu, 24 Sep 2009 13:42:43 +0000</pubDate>
+            </item>
+                    <item>
+              <title>What is your persoanal learning environment/mix of tools and conversations?</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2254</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2254</guid>
+              <description><![CDATA[<p>This Cloud has been prompted in part by some of the debate around Martin Bean's keynote at ALTC 2009 and the ongoing debate about the VLE is dead debate. Here's mine...</p>
+<p>&nbsp;<a rel="embed" href="http://www.slideshare.net/grainne/my-ple">My Personal Learning Environment</a></p>
+<ul>
+<li>What is your Personal Learning Environment?</li>
+<li>What tools do you use, to?   
+<ul>
+<li>Find, use. manage, and share information</li>
+<li>Communicate with others</li>
+</ul>
+</li>
+<li>What is the mix of formal/institutional tools and freely avaiable ones?</li>
+<li>What are your views on formal education./educators infringing in your personal, social spaces?</li>
+</ul>]]></description>
+          <pubDate>Thu, 10 Sep 2009 08:31:32 +0000</pubDate>
+            </item>
+                    <item>
+              <title>The PLE grow model</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2215</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2215</guid>
+              <description><![CDATA[<p>Nice blog post about the definition of Personal Learning Environments and a model for how can can grow/develop.</p>]]></description>
+          <pubDate>Mon, 07 Sep 2009 08:17:00 +0000</pubDate>
+            </item>
+                    <item>
+              <title>The VLE is Dead</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2162</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2162</guid>
+              <description><![CDATA[<p>ALT-C 2009 Session: This Cloud has been set up to aggregate live blogs, comments, discussion and links for this session.</p>
+<p>&nbsp;</p>
+<div id="oembed-0" class="oembed"><a type="application/x-shockwave-flash" href="embed src=">The VLE is dead... the trailer</a></div>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Thu, 27 Aug 2009 14:07:22 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Head in the cloud, PLEase help me study!</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2155</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2155</guid>
+              <description><![CDATA[<p>ALT-C 2009 Session: This Cloud has been set up to aggregate live blogs, comments, discussion and links for this session.</p>]]></description>
+          <pubDate>Thu, 03 Dec 2009 09:06:32 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Where does the university end and learning begin? Facilitating personal learning environments to enhance ownership of knowledge.</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1962</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1962</guid>
+              <description><![CDATA[<p>ALT-C 2009 Session: This Cloud has been set up to aggregate live blogs, comments, discussion and links for this session.</p>]]></description>
+          <pubDate>Mon, 24 Aug 2009 08:13:28 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Supporting Collaborative Exam Revision via Google talk and Examopedia wiki</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1960</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1960</guid>
+              <description><![CDATA[<p>ALT-C 2009 Session: This Cloud has been set up to aggregate live blogs, comments, discussion and links for this session.</p>]]></description>
+          <pubDate>Sun, 27 Dec 2009 14:31:52 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: helen</title>
+        <link>https://cloudworks.ac.uk/user/rss.2268</link>
+        <atom:link href="https://cloudworks.ac.uk/user/rss.2268" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds by helen</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>mobile learning</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3790</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3790</guid>
+              <description><![CDATA[<p style="cursor:auto"><!--NO CSS-->we have plenty of technology at our hands now which allow us to connect to the internet through phones, text messages to groups of students using text tools, applications on Iphones and other similar devices, cameras, sound recorders and video are all made into small easy to use and edit packages.&nbsp; There is&nbsp;a great opportunity to use these as tools in learning, but does it push the student away? These mobile worlds are great, but does it encourage the ethos of distant learning? - Which is great for holidays and out of hours contact, but not for day to day attendance.&nbsp;</p>
+<p style="cursor:auto"><!--NO CSS-->&nbsp;To use mobile technology in the classroom is a good thing, photos, documentary, collage and working in groups with materials that students own themselves.&nbsp; But the initiatives have to come from technological savvy tutors.&nbsp; There is, however, always someone at hand.&nbsp; In our own college we have great technical support and this isn&rsquo;t just in IT use but through our Flexible Learning Areas who understand how the technology could work in learning and thus are keen to be involved in projects.</p>
+<p style="cursor:auto"><!--NO CSS-->We don&rsquo;t utilise the opportunities as we should, but one day soon, that will all change.</p>]]></description>
+          <pubDate>Tue, 01 Jun 2010 09:54:48 +0000</pubDate>
+            </item>
+                    <item>
+              <title>mobile learning</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3791</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3791</guid>
+              <description><![CDATA[<p style="cursor:auto"><!--NO CSS-->we have plenty of technology at our hands now which allow us to connect to the internet through phones, text messages to groups of students using text tools, applications on Iphones and other similar devices, cameras, sound recorders and video are all made into small easy to use and edit packages.&nbsp; There is&nbsp;a great opportunity to use these as tools in learning, but does it push the student away? These mobile worlds are great, but does it encourage the ethos of distant learning? - Which is great for holidays and out of hours contact, but not for day to day attendance.&nbsp;</p>
+<p style="cursor:auto"><!--NO CSS-->&nbsp;To use mobile technology in the classroom is a good thing, photos, documentary, collage and working in groups with materials that students own themselves.&nbsp; But the initiatives have to come from technological savvy tutors.&nbsp; There is, however, always someone at hand.&nbsp; In our own college we have great technical support and this isn&rsquo;t just in IT use but through our Flexible Learning Areas who understand how the technology could work in learning and thus are keen to be involved in projects.</p>
+<p style="cursor:auto"><!--NO CSS-->We don&rsquo;t utilise the opportunities as we should, but one day soon, that will all change.</p>]]></description>
+          <pubDate>Tue, 01 Jun 2010 09:56:14 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

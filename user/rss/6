@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: Andrew Brasher</title>
+        <link>https://cloudworks.ac.uk/user/rss.6</link>
+        <atom:link href="https://cloudworks.ac.uk/user/rss.6" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds by Andrew Brasher</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>Adding timing information to an activity</title>
+              <link>https://cloudworks.ac.uk/cloud/view/428</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/428</guid>
+              <description><![CDATA[<p><strong>See slides 3 - 6 in the</strong> "<strong><a href="http://www.slideshare.net/andrew_x/doing-more-with-compendium-ld">Doing more with with CompendiumLD</a></strong>" <strong>slide show</strong>.</p>
+<p>By the way there are <a title="Videos and slide shows about CompendiumLD" href="http://compendiumld.open.ac.uk/documentation/version1.0/videos/">other slideshows and videos about CompendiumLD</a>.</p>]]></description>
+          <pubDate>Wed, 26 Nov 2008 10:33:08 +0000</pubDate>
+            </item>
+                    <item>
+              <title>CompendiumLD maps in SVG </title>
+              <link>https://cloudworks.ac.uk/cloud/view/4161</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4161</guid>
+              <description><![CDATA[<p>I can't make it to the meeting, but here's something that may be of interest. I'd be interested to hear from anyone else who has or is playing with SVG and learning design.</p>
+<p>I've linked to a couple of <a title="CompendiumLD web site" href="http://compendiumld.open.ac.uk">CompendiumLD</a> maps in <a title="Scalable Vector Graphics (SVG)" href="http://www.w3.org/Graphics/SVG/">SVG</a> format. These have been created using a new prototype of CompendiumLD which allows SVG format exports of learning design maps. I think SVG is of interest with respect to learning design because</p>
+<ul>
+<li>it enables the maps to be edited in other graphic design tools e.g. Illustrator, CoreLDraw or Inkscape</li>
+<li>it is rendered (displayed) <a title="Browser support for SVG" href="http://www.codedread.com/svg-support.php">by most browsers</a>, and IE support is coming</li>
+<li>Web based manipulation (zooming, clipping, editing) of SVG files is possible now, and tool sets are developing (e.g. javascript libraries and browser based tools such as <a href="http://code.google.com/p/svg-edit/">SVG-edit</a>).</li>
+</ul>
+<p>The examples I've produced so far only include the visual information to render the maps in a browser. To enable more sphisticated manuipulation of the SVG maps via a browser, further work is necessary to include semantic information about each visual element in the SVG file. By semantic information I mean information to identify nodes and links of being of a particular type,&nbsp; e.g. that a node is a ''Task' node or a 'Tool' node.</p>
+<p>By the way, I've linked to the SVG files because Cloudworks doesn't seem to render embedded SVG files. Could be me making a mistake when editting in the HTML view but I did try a couple of times!</p>]]></description>
+          <pubDate>Thu, 15 Jul 2010 14:25:45 +0000</pubDate>
+            </item>
+                    <item>
+              <title>D 3 .3 : Pilot workshops: workshops for different educational levels</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8623</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8623</guid>
+              <description><![CDATA[<div style="font-size: 16px; font-family: sans-serif; left: 120px; top: 583.84px; transform: rotate(0deg) scale(0.90968, 1); transform-origin: 0% 0% 0px;" dir="ltr" data-angle="0" data-font-name="g_font_3952_0" data-canvas-width="107.6">Deliverable D3.3</div>
+<div style="font-size: 16px; font-family: sans-serif; left: 449.92px; top: 606.24px; transform: rotate(0deg) scale(0.852135, 1); transform-origin: 0% 0% 0px;" dir="ltr" data-angle="0" data-font-name="g_font_3952_0" data-canvas-width="7.584">presents three workshop structures across higher education (OU), adult training (Agora) and vocational training (KEK).</div>
+<div style="font-size: 16px; font-family: sans-serif; left: 120px; top: 651.2px; transform: rotate(0deg) scale(0.93288, 1); transform-origin: 0% 0% 0px;" dir="ltr" data-angle="0" data-font-name="g_font_3952_0" data-canvas-width="151.904">In each case the workshops are developed from the meta-design that was included in Deliverable D3.2 and has beenupdated to reflect use.</div>
+<div style="font-size: 16px; font-family: sans-serif; left: 120px; top: 687.04px; transform: rotate(0deg) scale(0.914169, 1); transform-origin: 0% 0% 0px;" dir="ltr" data-angle="0" data-font-name="g_font_3952_0" data-canvas-width="161.808">The deliverable includes:</div>
+<div style="font-size: 16px; font-family: sans-serif; left: 352.16px; top: 745.28px; transform: rotate(0deg) scale(0.915501, 1); transform-origin: 0% 0% 0px;" dir="ltr" data-angle="0" data-font-name="g_font_3952_0" data-canvas-width="207.71199999999996">1. Description of the development process based on running of a pilot workshop within the project , use of patterns and guidelines.</div>
+<div style="font-size: 16px; font-family: sans-serif; left: 559.68px; top: 745.28px; transform: rotate(0deg) scale(0.906067, 1); transform-origin: 0% 0% 0px;" dir="ltr" data-angle="0" data-font-name="g_font_3952_0" data-canvas-width="4.032">.</div>
+<div style="font-size: 16px; font-family: sans-serif; left: 168px; top: 767.68px; transform: rotate(0deg) scale(0.925828, 1); transform-origin: 0% 0% 0px;" dir="ltr" data-angle="0" data-font-name="g_font_3952_0" data-canvas-width="477.7120000000001">2. Template files for planning the workshops and adjusting the meta design.</div>
+<div style="font-size: 16px; font-family: sans-serif; left: 168px; top: 812.64px; transform: rotate(0deg) scale(0.895131, 1); transform-origin: 0% 0% 0px;" dir="ltr" data-angle="0" data-font-name="g_font_3952_0" data-canvas-width="101.12000000000002">3. Description of the design of each workshop together with associated resource packs.</div>
+<div style="font-size: 16px; font-family: sans-serif; left: 562.4px; top: 835.04px; transform: rotate(0deg) scale(0.906067, 1); transform-origin: 0% 0% 0px;" dir="ltr" data-angle="0" data-font-name="g_font_3952_0" data-canvas-width="4.032">4. Summary of the next steps as the pilot workshops take place.</div>
+<div style="font-size: 16px; font-family: sans-serif; left: 562.4px; top: 835.04px; transform: rotate(0deg) scale(0.906067, 1); transform-origin: 0% 0% 0px;" dir="ltr" data-angle="0" data-font-name="g_font_3952_0" data-canvas-width="4.032">&nbsp;</div>
+<div style="font-size: 16px; font-family: sans-serif; left: 120px; top: 893.28px; transform: rotate(0deg) scale(0.928803, 1); transform-origin: 0% 0% 0px;" dir="ltr" data-angle="0" data-font-name="g_font_3952_0" data-canvas-width="376.79999999999995">The pilot workshops contain: instructions for the trainers as to how to run the workshop; a sequence of activities for the trainer and the</div>
+<div style="font-size: 16px; font-family: sans-serif; left: 120px; top: 938.24px; transform: rotate(0deg) scale(0.921135, 1); transform-origin: 0% 0% 0px;" dir="ltr" data-angle="0" data-font-name="g_font_3952_0" data-canvas-width="366.31999999999994">trainees; a description of the rationale and pedagogical methodology on which the workshop is based; and attached learning resources to be used in the workshop.</div>]]></description>
+          <pubDate>Fri, 21 Mar 2014 13:32:44 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Designing using open educational resources</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1868</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1868</guid>
+              <description><![CDATA[<p><a href="http://compendiumld.open.ac.uk/documentation/examples/CSCL-2009/">Modelling adaptations featuring open educational resources</a> is a design which shows how existing open educational resources can be included in an activity structure that caters for learners with different levels of skills and knowledge. Further information about the design process is available in a slidecast: <a title="Modelling CSCL activities using CompendiumLD" href="http://www.slideshare.net/andrew_x/modelling-cscl-activities-using-compendium-ld">Modelling CSCL activities using CompendiumLD</a>, and this <a href="ttp://cloudworks.ac.uk/node/1846">description of a potential design cycle.</a></p>
+<p>This <a href="http://compendiumld.open.ac.uk/documentation/examples/CSCL-2009/">example</a> has been created using the export 'Web Maps" option, avaiable via the 'File' menu in <a href="http://compendiumld.open.ac.uk">CompendiumLD</a> i.e. 'File-&gt;Export-&gt;Web Maps'. The 'full depth' option was selected to achieve this. Note that some of the images in these maps are big, i.e. several hundreds of KB. <br />You can import the <a href="http://compendiumld.open.ac.uk/documentation/examples/CSCL-2009/cscl-workshop-example.xml">XML source code</a> of the <a href="http://compendiumld.open.ac.uk/documentation/examples/CSCL-2009/">Modelling adaptations featuring open educational resources</a> design. First, download the <a href="http://compendiumld.open.ac.uk/documentation/examples/CSCL-2009/cscl-workshop-example.xml">source code</a>, then open a map within CompendiumLD, i.e. open either a standard Compenpium map&nbsp; or a learning design activity map&nbsp; by dragging it from the LD-OU stencil on the left hand side. Now right-click on white space in the map you have just opened, and select the 'Import-&gt;XML File' menu item. Now select the file you downloaded using the 'Import XML..' button, and the cotents of the file will be imported into the map. <br />CompendiumLD also allows you to share the source code of your designs. To do this, right-click when viewing either an activity map or a standard Compendium map, then choose these menu options: 'Export -&gt; XML File..'. Now choose 'Export map to full depth' if your activity map contains other maps which ypou want to include in the export. Clicking the 'Export..' button will enable you to choose a directory to store the file in.<br /><em><br /></em></p>]]></description>
+          <pubDate>Fri, 03 Jul 2009 22:04:38 +0000</pubDate>
+            </item>
+                    <item>
+              <title>How to design collaborative learning activities - a workshop for OU staff, 24.10.2013</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8510</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8510</guid>
+              <description><![CDATA[<p>The OU pilot workshop took place on 24th October 2013.&nbsp; It was attended by 17 participants, who worked in four groups determined by the faculty they work for (as far as&nbsp; possible). This meant we had groups for the following faculties.</p>
+<ul>
+<li>Science<br />4 participants: 1 from Library services, 3 from <a href="http://www.google.com/url?q=http://www.open.ac.uk/about/open-educational-resources/what-we-do/learning-and-teaching-solutions&sa=D&sntz=1&usg=AFrqEzfBn37qYxxxBXAB3snw0gJ0PmBuyg">LTS </a></li>
+<li>Business and law<br />6 participants: one regional manger with <a href="http://www.google.com/url?q=http://www.open.ac.uk/jobs/tutors/teaching-roles&sa=D&sntz=1&usg=AFrqEzdkWHk8Bit9kRt-fnXcz9-TYEKQ3g">Associate Lecturer</a> experience, one module chair, one academic, 2 <a href="http://www.google.com/url?q=http://www.open.ac.uk/about/open-educational-resources/what-we-do/learning-and-teaching-solutions&sa=D&sntz=1&usg=AFrqEzfBn37qYxxxBXAB3snw0gJ0PmBuyg">LTS</a> people and one academic from HSC who showed up unexpectedly on the day</li>
+<li>Health and Social Care<br />4 participants: One academic, 2 <a href="http://www.google.com/url?q=http://www.open.ac.uk/about/open-educational-resources/what-we-do/learning-and-teaching-solutions&sa=D&sntz=1&usg=AFrqEzfBn37qYxxxBXAB3snw0gJ0PmBuyg">LTS</a> people and one from library services.</li>
+<li>Mathematics, Computing and Technology<br />3 participants: one academic, one from LTS and a manager of learning and teaching.</li>
+</ul>
+<p>In the workshop, participants worked in theses teams to design a collaborative online learning activity. Reports on this and othe other workshops will be available from the <a href="http://www.metis-project.org/">project's website</a> in March 2014. Much data was collected at the OU workshop, and this will be analysed and reporrted in detail within&nbsp; the evalu;tion deliverable due in April 2014.</p>
+<p>In the meantime,&nbsp; it appeared that the workshop was successful in that most &nbsp;participants appeared to engage in &nbsp;(and even enjoy) the activity sequence of going from understanding the context, rough conceptual storyboard to detailed design in WebCollage, through demo of implemetation to evaluating&nbsp; other gorup's designs. More details about the activity sequence and tools used are available in the slides shown below..</p>]]></description>
+          <pubDate>Thu, 07 Nov 2013 15:59:33 +0000</pubDate>
+            </item>
+                    <item>
+              <title>On line scientific  calculator</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5646</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5646</guid>
+              <description><![CDATA[<p>I am looking for an on line scientif calculator for use in a course to build students confidence and ability in mathematics.&nbsp; To give you an idea of the intended context, it will be used in a course similar to the Open University's '<a href="http://www3.open.ac.uk/study/undergraduate/course/y162.htm">Starting with maths</a>'. &nbsp; The ideal calculator would handle</p>
+<ul>
+<li>fractions</li>
+<li>mixed number notation</li>
+<li>percentages</li>
+<li>exponents</li>
+<li>sqaure root</li>
+</ul>
+<p>I have searched around but none of&nbsp; the calculators I have found handle fraction input and mixed number notation. If you know of one please let me know (it's for the <a href="http://www8.open.ac.uk/platform/news-and-features/ou-project-awarded-750000-improve-us-college-completion-rates">Open Learning: Bridge to Success (B2S) project</a>).</p>
+<p>Thanks</p>
+<p>Andrew</p>]]></description>
+          <pubDate>Fri, 08 Jul 2011 15:24:31 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Peer assessment using a wiki (a CompendiumLD learning design)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3686</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3686</guid>
+              <description><![CDATA[<p>This desgn uses a wiki to involve students in exploration of a theory, reflect on how it might impact on their current practice, and to analyse others' ideas on the same topic using a process of peer assessment. It could be used in applied disciplines e.g. business/management, or health and social care.</p>
+<p>This is a prototype of a design, i.e. the design is not fully developed. It is intended as a prompt for others to build on and make specific to their needs. To edit or extend this design, save <a title="CompendiumLD activity file: Peer assessment using a wiki" href="http://compendiumld.open.ac.uk/documentation/examples/analytical-skills+theory/analytical-skills+theory.zip">this activity file</a> to your computer, then load it into CompendiumLD using the 'File-&gt;Import-&gt;Learning design file..' option to import the .zip file</p>
+<p><a href="http://compendiumld.open.ac.uk/documentation/examples/analytical-skills+theory/"><img src="http://www.open.ac.uk/blogs/brasherblog/wp-content/uploads/2010/05/Peer-assessment-using-a-wiki-a-CompendiumLD-learning-dsign.png" alt="" /></a></p>]]></description>
+          <pubDate>Tue, 18 May 2010 12:36:49 +0000</pubDate>
+            </item>
+                    <item>
+              <title>REFLECTIONS ON DEVELOPING A TOOL FOR CREATING VISUAL REPRESENTATIONS OF LEARNING DESIGNS </title>
+              <link>https://cloudworks.ac.uk/cloud/view/6635</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6635</guid>
+              <description><![CDATA[<p>Abstract</p>
+<p>Over the past four years we have been developing CompendiumLD, a software tool for designing learning activities using a flexible visual interface. It has been developed as a tool to support lecturers, teachers and others involved in education to help them articulate their ideas and map out a design or learning sequence. CompendiumLD is a specialised version of Compendium, a tool for managing connections between information and ideas, which has been applied in many domains including the mapping of discussions and arguments. As most of the core knowledge mapping facilities provided by Compendium are included within CompendiumLD, it can be used for learning design, and&nbsp; applied it to other information mapping and modelling problems. Evidence gathered since CompendiumLD&rsquo;s first release has shown the many conditions in which it is likely to be applied and appreciated by users. It appears that the need for visualising learning designs may continue to grow given we have found that over half of staff now agree that it is becoming harder to understand how all the components of planned learning and teaching fit together. Furthermore, the use of technology is making the process of creating courses more complex. We explore these challenges and conclude with some reflections on the developments in visual representation needed to further facilitate the modelling of today and tomorrow&rsquo;s complex learning situations.</p>]]></description>
+          <pubDate>Fri, 16 Nov 2012 22:15:48 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Research related to teaching and learning mathematics online and in the open (a literature review)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5727</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5727</guid>
+              <description><![CDATA[<p>This is an ongoing review of literature related to teaching and learning mathematics online, and via open educational resources and collaborations. It is an attempt to identify best practices and research findings related to enabling students to attain the mathematics skills and concepts necessary for participation in undergraduate degree level courses (not just undergraduate maths courses, any course requiring maths).<br /><br />Three overlapping areas to focus on have been identified<br />• best practice in teaching and learning mathematics online<br />• mechanisms for engendering effective support (e.g. through peers)<br />• mechanisms for dealing with math anxiety syndrome.</p>
+<p>The review is available on Gogle Docs: <a href="http://tinyurl.com/B2S-lit-rev"> <strong>http://tinyurl.com/B2S-lit-rev</strong></a> (if you find it useful please do let me know).</p>
+<p>If you have any comments (e.g. suggestions of particular papers or topics, or criticisms of the review) please do post them here.</p>
+<p>Thanks!</p>]]></description>
+          <pubDate>Sun, 18 Sep 2011 14:56:05 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Resource: Getting Started With CompendiumLD</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1874</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1874</guid>
+              <description><![CDATA[<p><a href="http://www.slideshare.net/andrew_x/getting-started-with-compendium-ld-new-version">This slide show</a> describes how to get started using CompendiumLD i.e. it describes how to create and edit a visual representation of a learning activity.</p>]]></description>
+          <pubDate>Sun, 05 Jul 2009 13:20:22 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

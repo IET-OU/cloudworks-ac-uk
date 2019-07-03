@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Cloudstream for Assessing Online Discussion</title>
+    <link>https://cloudworks.ac.uk/</link>
+	<description>Cloudstream for Assessing Online Discussion</description>
+	<dc:language>en</dc:language>
+	<dc:creator>cloudworks@open.ac.uk</dc:creator>
+	<dc:rights>Copyright 2019 </dc:rights>
+	<admin:generatorAgent>
+    <atom:link href="https://cloudworks.ac.uk/event/cloudscape_rss/1929" rel="self" type="application/rss+xml" />
+    		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-11823</link>
+	      <guid>https://cloudworks.ac.uk/#comment-11823</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Mon, 16 Oct 2017 05:32:44 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Exploring Online Discussioncloud added to the cloudscape Assessing Online Discussion</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2674">Exploring Online Discussion</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1929">Assessing Online Discussion</a></em>]]></description>
+	  	  <pubDate>Wed, 18 Nov 2009 09:10:36 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;Ah, yes, you do have some thing caught up in moderation. I&#39;ll set things up so that your items...new comment on the cloud Exploring Online Discussion by Juliette Culver</title>
+	      <link>https://cloudworks.ac.uk/#comment-2326</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2326</guid>
+	      <description><![CDATA[<strong>"Ah, yes, you do have some thing caught up in moderation. I'll set things up so that your items...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2674">Exploring Online Discussion</a> by <a href="https://cloudworks.ac.uk/user/view/1" rel="author">Juliette Culver</a></em>]]></description>
+	  	  <pubDate>Tue, 17 Nov 2009 11:18:01 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud Exploring Online Discussion by Juliette Culver</title>
+	      <link>https://cloudworks.ac.uk/#embed-133</link>
+	      <guid>https://cloudworks.ac.uk/#embed-133</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2674">Exploring Online Discussion</a> by <a href="https://cloudworks.ac.uk/user/view/1" rel="author">Juliette Culver</a></em>]]></description>
+	  	  <pubDate>Tue, 17 Nov 2009 11:16:43 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Exploring Online Discussion new link on Exploring Online Discussion added by Mary Loftus</title>
+	      <link>https://cloudworks.ac.uk/#link-1852</link>
+	      <guid>https://cloudworks.ac.uk/#link-1852</guid>
+	      <description><![CDATA[<strong>Exploring Online Discussion </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2674">Exploring Online Discussion</a> added by <a href="https://cloudworks.ac.uk/user/view/973" rel="author">Mary Loftus</a></em>]]></description>
+	  	  <pubDate>Tue, 17 Nov 2009 11:14:46 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;Thanks for that, Juliette.
+Yes, I&#39;ve tried the &#39;Add embedded content&#39; option - but it&#39;s not...new comment on the cloud Exploring Online Discussion by Mary Loftus</title>
+	      <link>https://cloudworks.ac.uk/#comment-2324</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2324</guid>
+	      <description><![CDATA[<strong>"Thanks for that, Juliette.
+Yes, I've tried the 'Add embedded content' option - but it's not...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2674">Exploring Online Discussion</a> by <a href="https://cloudworks.ac.uk/user/view/973" rel="author">Mary Loftus</a></em>]]></description>
+	  	  <pubDate>Tue, 17 Nov 2009 10:48:54 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Mary,
+You need to use the add embedded content link just above. We don&#39;t allow direct embedding...new comment on the cloud Exploring Online Discussion by Juliette Culver</title>
+	      <link>https://cloudworks.ac.uk/#comment-2322</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2322</guid>
+	      <description><![CDATA[<strong>"Hi Mary,
+You need to use the add embedded content link just above. We don't allow direct embedding...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2674">Exploring Online Discussion</a> by <a href="https://cloudworks.ac.uk/user/view/1" rel="author">Juliette Culver</a></em>]]></description>
+	  	  <pubDate>Tue, 17 Nov 2009 10:43:34 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Black, Alison. (2005) The Use of Asynchronous Discussion: Creating a Text of Talk new link on Exploring Online Discussion added by Mary Loftus</title>
+	      <link>https://cloudworks.ac.uk/#link-1854</link>
+	      <guid>https://cloudworks.ac.uk/#link-1854</guid>
+	      <description><![CDATA[<strong>Black, Alison. (2005) The Use of Asynchronous Discussion: Creating a Text of Talk </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2674">Exploring Online Discussion</a> added by <a href="https://cloudworks.ac.uk/user/view/973" rel="author">Mary Loftus</a></em>]]></description>
+	  	  <pubDate>Tue, 17 Nov 2009 10:19:32 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;Garrison &amp; Anderson. (2003) E-Learning in the 21st Century: A Framework for Research and Practice .......&quot; reference added to the cloud Exploring Online Discussion by Mary Loftus</title>
+	      <link>https://cloudworks.ac.uk/#reference-202</link>
+	      <guid>https://cloudworks.ac.uk/#reference-202</guid>
+	      <description><![CDATA[<strong>"Garrison & Anderson. (2003) E-Learning in the 21st Century: A Framework for Research and Practice ......."</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2674">Exploring Online Discussion</a> by <a href="https://cloudworks.ac.uk/user/view/973" rel="author">Mary Loftus</a></em>]]></description>
+	  	  <pubDate>Tue, 17 Nov 2009 10:18:21 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Palloff &amp; Pratt. (2004). Collaborating Online: Learning Together in Community . San Francisco:......&quot; reference added to the cloud Exploring Online Discussion by Mary Loftus</title>
+	      <link>https://cloudworks.ac.uk/#reference-201</link>
+	      <guid>https://cloudworks.ac.uk/#reference-201</guid>
+	      <description><![CDATA[<strong>"Palloff & Pratt. (2004). Collaborating Online: Learning Together in Community . San Francisco:......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2674">Exploring Online Discussion</a> by <a href="https://cloudworks.ac.uk/user/view/973" rel="author">Mary Loftus</a></em>]]></description>
+	  	  <pubDate>Tue, 17 Nov 2009 10:17:03 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Brookfield &amp; Preskill, Stephen. (2005). Discussion as a Way of Teaching: Tools and Techniques for......&quot; reference added to the cloud Exploring Online Discussion by Mary Loftus</title>
+	      <link>https://cloudworks.ac.uk/#reference-200</link>
+	      <guid>https://cloudworks.ac.uk/#reference-200</guid>
+	      <description><![CDATA[<strong>"Brookfield & Preskill, Stephen. (2005). Discussion as a Way of Teaching: Tools and Techniques for......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2674">Exploring Online Discussion</a> by <a href="https://cloudworks.ac.uk/user/view/973" rel="author">Mary Loftus</a></em>]]></description>
+	  	  <pubDate>Tue, 17 Nov 2009 10:16:20 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;I&#39;m playing around with Cloudworks - trying to embed content.  Have tried to embed Slideshare...new comment on the cloud Exploring Online Discussion by Mary Loftus</title>
+	      <link>https://cloudworks.ac.uk/#comment-2319</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2319</guid>
+	      <description><![CDATA[<strong>"I'm playing around with Cloudworks - trying to embed content. &nbsp;Have tried to embed Slideshare...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2674">Exploring Online Discussion</a> by <a href="https://cloudworks.ac.uk/user/view/973" rel="author">Mary Loftus</a></em>]]></description>
+	  	  <pubDate>Tue, 17 Nov 2009 09:59:43 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+	    </channel>
+</rss>

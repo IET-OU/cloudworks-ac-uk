@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Cloudstream for AECT 2010: Cyber&#45;change: learning in our connected world</title>
+    <link>https://cloudworks.ac.uk/</link>
+	<description>Cloudstream for AECT 2010: Cyber&#45;change: learning in our connected world</description>
+	<dc:language>en</dc:language>
+	<dc:creator>cloudworks@open.ac.uk</dc:creator>
+	<dc:rights>Copyright 2019 </dc:rights>
+	<admin:generatorAgent>
+    <atom:link href="https://cloudworks.ac.uk/event/cloudscape_rss/1981" rel="self" type="application/rss+xml" />
+    		    <item>
+	      <title>Busylandcloud added to the cloudscape AECT 2010: Cyber-change: learning in our connected world by Erik Wallin</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/3447">Busyland</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1981">AECT 2010: Cyber-change: learning in our connected world</a> by <a href="https://cloudworks.ac.uk/user/view/2299" rel="author">Erik Wallin</a></em>]]></description>
+	  	  <pubDate>Tue, 27 Apr 2010 09:18:26 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Call for papers: AECT conference, October 2010cloud added to the cloudscape AECT 2010: Cyber-change: learning in our connected world by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2912">Call for papers: AECT conference, October 2010</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1981">AECT 2010: Cyber-change: learning in our connected world</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Fri, 05 Feb 2010 15:00:55 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+	    </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: Samantha Bennett</title>
+        <link>https://cloudworks.ac.uk/user/rss.11570</link>
+        <atom:link href="https://cloudworks.ac.uk/user/rss.11570" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds by Samantha Bennett</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>FRI: School Inclusion For Seriously Ill Children. A Website To Share Experiences Of Telepresence Robots In Schools. (Samantha Bennett)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/11905</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/11905</guid>
+              <description><![CDATA[<p>Each year, approximately 225,000 children in England are absent from school for extended periods of time due to illness (DfE, 2018). In the UK, local authorities are required to provide a suitable, alternative education for these children (DfE, 2013), usually in the form of tuition at home or at a hospital school. Whilst these alternatives can enable educational inclusion, ensuring that children do not miss out academically, they often do not provide essential social interactions with their peers or inclusion within the context of their own school community. Without maintaining this connection to their friends, teachers and school routines, these children can quickly develop a sense of isolation from the world that they know. This social disconnection can create difficulties when returning to school (CLIC Sargent 2012) and have lasting impacts upon their future relationships and emotional well-being (Donnan et al., 2015).</p>
+<p>In order to help these children to stay connected to their schools during their treatment, telepresence robots have been used in a number of countries, including the USA, Australia and France, and more recently in the UK. Originally designed for use by telecommuters in office environments, they are increasingly being adopted by educational settings for children and students who are unable to attend in person.</p>
+<p>UK Government investment (DfE, 2018) and recent media interest has highlighted the potential benefits of this innovative use of telepresence robots, with the possibility to extend their use to students suffering from wide range of physical and mental health conditions. A combination of political, economic, social and technological factors are likely to ensure that telepresence robots will become increasingly popular in schools and other educational settings in the future (Goldsmith, 2016) . However, the ad-hoc and geographically disparate adoption of this technology, combined with the lack of research into the use of telepresence robots in real-world mainstream classrooms (Newhart et. al., 2016), means that we still have much to learn about the effectiveness of this technology in educational settings.</p>
+<p>Through personal experience of supporting a child using a telepresence robot whilst undergoing cancer treatment, the author has gained valuable insights into the transformative potential of this technology for the emotional well-being of children who are unable to attend school due to illness.The author has also witnessed many of the challenges and constraints in implementing this technology successfully in schools, from the student, teacher and institutional perspectives. This leads to a question being raised on the extent to which telepresence robots can enable &lsquo;real&rsquo; inclusion.</p>
+<p>Due to the limited use of telepresence robots in schools in the UK, I have been motivated to utilise and develop online networks with the purpose of sharing stories and experiences from across the world and to encourage a more critical approach to their use and implementation.</p>
+<p>My presentation will tell the story of my learning journey, specifically focussing upon the development of a website as a tool to build and consolidate a global 'Robots In Schools' network.</p>]]></description>
+          <pubDate>Mon, 31 Dec 2018 14:24:56 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

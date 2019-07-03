@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Cloudstream for Andrew Augustine</title>
+    <link>https://cloudworks.ac.uk/</link>
+	<description>Cloudstream for Andrew Augustine</description>
+	<dc:language>en</dc:language>
+	<dc:creator>cloudworks@open.ac.uk</dc:creator>
+	<dc:rights>Copyright 2019 </dc:rights>
+	<admin:generatorAgent>
+    <atom:link href="https://cloudworks.ac.uk/event/user_rss/11607" rel="self" type="application/rss+xml" />
+    		    <item>
+	      <title>&quot;
+DSpace is becoming widely used among global south / developing countries - excellent free...new comment on the cloud Mon: Open Textbook Implementation: A Caribbean Experience (Andrew Augustine) by Andrew Augustine</title>
+	      <link>https://cloudworks.ac.uk/#comment-13167</link>
+	      <guid>https://cloudworks.ac.uk/#comment-13167</guid>
+	      <description><![CDATA[<strong>"
+DSpace is becoming widely used among global south / developing countries - excellent free...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/11978">Mon: Open Textbook Implementation: A Caribbean Experience (Andrew Augustine)</a> by <a href="https://cloudworks.ac.uk/user/view/11607" rel="author">Andrew Augustine</a></em>]]></description>
+	  	  <pubDate>Thu, 07 Mar 2019 17:42:10 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hello Ognjen
+Very interesting project. I am looking forward to your presentation....new comment on the cloud MON: Evaluation of game-based SRS (Student Response Systems) as OER and examples of open practices in secondary education (Ognjen Vukas) by Andrew Augustine</title>
+	      <link>https://cloudworks.ac.uk/#comment-13030</link>
+	      <guid>https://cloudworks.ac.uk/#comment-13030</guid>
+	      <description><![CDATA[<strong>"Hello Ognjen
+Very interesting project. I am looking forward to your presentation....</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/11971">MON: Evaluation of game-based SRS (Student Response Systems) as OER and examples of open practices in secondary education (Ognjen Vukas)</a> by <a href="https://cloudworks.ac.uk/user/view/11607" rel="author">Andrew Augustine</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Feb 2019 01:21:29 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hello Phil. I would love to see wider implementation as well. I have seen many students struggle...new comment on the cloud Mon: Open Textbook Implementation: A Caribbean Experience (Andrew Augustine) by Andrew Augustine</title>
+	      <link>https://cloudworks.ac.uk/#comment-13029</link>
+	      <guid>https://cloudworks.ac.uk/#comment-13029</guid>
+	      <description><![CDATA[<strong>"Hello Phil. I would love to see wider implementation as well. I have seen many students struggle...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/11978">Mon: Open Textbook Implementation: A Caribbean Experience (Andrew Augustine)</a> by <a href="https://cloudworks.ac.uk/user/view/11607" rel="author">Andrew Augustine</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Feb 2019 01:14:50 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hello Wendy. There have been some daunting challenges to open textbook implementation in the small...new comment on the cloud Mon: Open Textbook Implementation: A Caribbean Experience (Andrew Augustine) by Andrew Augustine</title>
+	      <link>https://cloudworks.ac.uk/#comment-13028</link>
+	      <guid>https://cloudworks.ac.uk/#comment-13028</guid>
+	      <description><![CDATA[<strong>"Hello Wendy. There have been some daunting challenges to open textbook implementation in the small...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/11978">Mon: Open Textbook Implementation: A Caribbean Experience (Andrew Augustine)</a> by <a href="https://cloudworks.ac.uk/user/view/11607" rel="author">Andrew Augustine</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Feb 2019 01:11:11 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Mon: Open Textbook Implementation: A Caribbean Experience (Andrew Augustine)new cloud created by Andrew Augustine</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11978">Mon: Open Textbook Implementation: A Caribbean Experience (Andrew Augustine)</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/11607" rel="author">Andrew Augustine</a></em>]]></description>
+	  	  <pubDate>Thu, 24 Jan 2019 01:17:36 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+	    </channel>
+</rss>

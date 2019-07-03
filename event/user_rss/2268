@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Cloudstream for helen</title>
+    <link>https://cloudworks.ac.uk/</link>
+	<description>Cloudstream for helen</description>
+	<dc:language>en</dc:language>
+	<dc:creator>cloudworks@open.ac.uk</dc:creator>
+	<dc:rights>Copyright 2019 </dc:rights>
+	<admin:generatorAgent>
+    <atom:link href="https://cloudworks.ac.uk/event/user_rss/2268" rel="self" type="application/rss+xml" />
+    		    <item>
+	      <title>mobile learningnew cloud created by helen</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/3791">mobile learning</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/2268" rel="author">helen</a></em>]]></description>
+	  	  <pubDate>Tue, 01 Jun 2010 09:56:14 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>mobile learningnew cloud created by helen</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/3790">mobile learning</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/2268" rel="author">helen</a></em>]]></description>
+	  	  <pubDate>Tue, 01 Jun 2010 09:54:48 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+	    </channel>
+</rss>

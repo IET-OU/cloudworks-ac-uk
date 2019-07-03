@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: Geetanjali Soni</title>
+        <link>https://cloudworks.ac.uk/user/rss.5266</link>
+        <atom:link href="https://cloudworks.ac.uk/user/rss.5266" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds by Geetanjali Soni</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>Geetanjali Soni: Learning design proposal Professional/Faculty development</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7144</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7144</guid>
+              <description><![CDATA[<h2>Situation</h2>
+<p>I am currently working on state &nbsp;grant aimed at improving K-12 education in our state. In my position, I work with a team of content area experts and Instructional design professionals to create online professional development for teachers. We are currently working with the challenge of providing professional development to teachers across a whole state with very limited human resources.</p>
+<p>Relevant context:</p>
+<p>&nbsp;</p>
+<ul>
+<li>The audience is large and very varied. There are techno and content novices as well as experienced users</li>
+<li>Teachers are very busy and do not have the time to deal with a steep learning curve</li>
+<li>Motivation can be a barrier</li>
+<li>Making the learning environment relevant to a diverse population is a challenge</li>
+<li>Building peer collaboration and networking is important</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;The change you would like to see (challenge)</p>
+<p>Currently we are providing un-facilitated modules that teachers can take individually or in PLCs. The PLCs are supported mainly through a blended learning environment.... though we have recently provided suggestions for other options.</p>
+<p>Alternatively we offer a few facilitated course, one instructor and 30 or so students. This is not scalable as we are attempting to reach a target of 100000 teachers</p>
+<p>What would be wonderful would be a way to support&nbsp; larger cohorts of learners</p>
+<p><strong>How you might go about bringing that change</strong></p>
+<p>&nbsp;A modified MOOc. Less open and less massive than most.&nbsp; Technologies would have to be simple (or easily adopted)</p>
+<p>I would be interested in any content relevant to the K-12 teacher</p>
+<ul>
+<li>Teaching online</li>
+<li>Using technology in the classroom</li>
+<li>Teaching diverse students ect.</li>
+</ul>]]></description>
+          <pubDate>Sat, 12 Jan 2013 18:03:56 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Geetanjali&#39;s Journal</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7004</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7004</guid>
+              <description><![CDATA[<p style="cursor:auto"><!--NO CSS-->To briefly introduce myself: I currently work as an educational consultant and instructional designer with North Carolina's Race to the top grant. Having a PhD in Educational Research and technology: I have bounced back and forth between being an assessment/ed research professional and working in online learning. Both fields continue to fascinate me.</p>
+<p style="cursor:auto"><!--NO CSS-->Through this MOOC, I am hopeful to see what works, and what does not, in such an environment and also hope to familiarize my self with tools like Cloudworks. I also look forward to looking into new aspects of learning design. And of course I look forward to network and connect with ... and learn from..others like you who have similar interests</p>]]></description>
+          <pubDate>Fri, 11 Jan 2013 12:22:21 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

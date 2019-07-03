@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Cloudstream for Janet Harvell</title>
+    <link>https://cloudworks.ac.uk/</link>
+	<description>Cloudstream for Janet Harvell</description>
+	<dc:language>en</dc:language>
+	<dc:creator>cloudworks@open.ac.uk</dc:creator>
+	<dc:rights>Copyright 2019 </dc:rights>
+	<admin:generatorAgent>
+    <atom:link href="https://cloudworks.ac.uk/event/user_rss/6140" rel="self" type="application/rss+xml" />
+    		    <item>
+	      <title>&quot;Many thanks Rebecca...new comment on the cloud Resource: Cloudworks leaflet by Janet Harvell</title>
+	      <link>https://cloudworks.ac.uk/#comment-8863</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8863</guid>
+	      <description><![CDATA[<strong>"Many thanks Rebecca...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/3143">Resource: Cloudworks leaflet</a> by <a href="https://cloudworks.ac.uk/user/view/6140" rel="author">Janet Harvell</a></em>]]></description>
+	  	  <pubDate>Thu, 02 May 2013 11:50:46 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;How does this open as a pdf document that i can print off?...new comment on the cloud Resource: Cloudworks leaflet by Janet Harvell</title>
+	      <link>https://cloudworks.ac.uk/#comment-8834</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8834</guid>
+	      <description><![CDATA[<strong>"How does this open as a pdf document that i can print off?...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/3143">Resource: Cloudworks leaflet</a> by <a href="https://cloudworks.ac.uk/user/view/6140" rel="author">Janet Harvell</a></em>]]></description>
+	  	  <pubDate>Sat, 13 Apr 2013 11:19:48 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+	    </channel>
+</rss>

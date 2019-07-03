@@ -1,0 +1,180 @@
+<!DOCTYPE html><html  lang="en" ><head>
+
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta charset="UTF-8" />
+
+    <title>Internationalizing Cloudworks - Cloudworks</title>
+    <link rel="stylesheet" href="https://cloudworks.ac.uk/_design/styles_1_1.css" />
+        <link rel="stylesheet" href="https://cloudworks.ac.uk/themes/cloudworks/styles.css" />
+        <meta name="copyright" content="© 2009-2019 The Open University (IET)." />
+    <meta name="keywords" content="" />
+    <meta name="description" content="Welcome to Cloudworks, a place to share, find and discuss learning and teaching ideas and experiences." />
+    <link rel="shortcut icon" href="https://cloudworks.ac.uk/themes/cloudworks/favicon.ico" />
+    
+    <!--[if IE 6]>
+    <style type="text/css">
+    div#site {width:940px; /* Because IE6 doesn't support max-width */ }
+    div#site-header-content {width:940px;}
+    </style>
+    <![endif]-->
+
+    <script src="https://unpkg.com/jquery@3.4.1/dist/jquery.min.js"></script>
+    </head>
+<body id="" class="block-registration block-login">
+<div id="site-header">
+ 
+<div id="site-header-content">
+        <div id="skip">
+        <a href="#content">Skip navigation</a> </div>
+                <a rel="home" href="https://cloudworks.ac.uk/">
+                <img id="link-home" src="https://cloudworks.ac.uk/themes/cloudworks/cloudworks_logo.gif" alt="Cloudworks home page" />
+                </a>
+                <div id="site-nav">
+            <ul  lang="en" >
+                <li class="home">
+                                            <a href="https://cloudworks.ac.uk/" class="home">Home</a>                                    </li>
+                <li lang="en" class="clouds">
+                                            <a href="https://cloudworks.ac.uk/cloud/cloud_list" class="clouds">Clouds</a>                                    </li>
+                <li lang="en" class="cloudscapes">
+                                            <a href="https://cloudworks.ac.uk/cloudscape/cloudscape_list" class="cloudscapes">Cloudscapes</a>                                    </li>
+                <li class="events">
+                                            <a href="https://cloudworks.ac.uk/events/view" class="events">Events</a>                                    </li>
+                <li class="tags">
+                                            <a href="https://cloudworks.ac.uk/tag" class="tags">Tags</a>                                    
+                </li>
+                                <li class="badges">
+                                            <a href="https://cloudworks.ac.uk/badge/badge_list" class="badges">Badges</a>                                    </li>
+                <li class="support">
+                                            <a href="https://cloudworks.ac.uk/support" class="support" title="Support">Support</a>                                    </li>                  
+              
+            </ul>
+        </div>
+    </div></div>
+
+<div id="site">
+    <div id="site-body">
+        <div id="page">
+        <div id="content">
+                              <p class="warn readonly-message"> The web-site is now in readonly mode. Login and registration are disabled. <small>(28 June 2019)</small></p>
+                                          
+                    <div id="id-gaad-widget"></div>
+        <div class="grid headline">
+    <div class="c1of1">
+<h1>
+Internationalizing Cloudworks</h1>
+    </div>
+</div>
+<div id="region1">
+
+
+<p>I've been keeping a low profile since <a href="/news/view/1507">Juliette blogged</a> that I had joined the Cloudworks team, back in January. However, as we will shortly be launching a new feature &ndash; namely, the Cloudworks site translated into Greek, it seems like a good time to share our experiences.  I'll keep technical detail to a minimum.</p>
+<p>First, it should be pointed out that it is the user-interface, for example the main navigation links  and form labels that have been localized (translated), <em>not</em> the dynamic content, Clouds, Cloudscapes and so on. Greek was chosen as the first language as we recieved European funding for this purpose, but translating into other languages will require less effort (volunteers are welcome to email <a href="mailto:Cloudworks@open.ac.uk?subject=Translation">cloudworks@open.ac.uk</a>).</p>
+<p class="photo"><a href="http://flickr.com/photos/nfreear/4464704994/"><img src="http://farm5.static.flickr.com/4014/4464704994_5217d026dc.jpg" alt="Screen shot of Cloudworks - Greek preview, on Flickr" /></a></p>
+<p>Cloudworks is built on top of the <a href="http://codeigniter.com/">CodeIgniter software framework</a>, which has support for internationalization. However, CodeIgniter uses a bespoke method, which though it is efficient, has drawbacks, for translators  - a lack of tools, and for developers - having to simultaneously edit two files when internationalizing  a source text. Both these issues were a concern given the size of Cloudworks (700 texts extracted!)  and the limited time available.  (Tech: by default CodeIgniter stores language packs in arrays, a similar method to that used by the  <a href="http://moodle.org/">Moodle open-source e-learning software</a>.)</p>
+<p>After further research, I settled on <a href="http://www.gnu.org/software/gettext/">GNU Gettext</a>, a set of free/open-source software libraries and file formats, which is used by many Linux distributions, and by web projects including Wordpress and <a href="http://drupal.org/">Drupal</a> (with subtle variations).  In the Gettext method, each text string in the software is manually wrapped by the developer in a function call (a software notation or syntax). A software tool is  used to automatically extract each chunk of text to a file &#40;with a .po or .pot file extension&#41;.</p>
+<p>The translator uses a specialised <a href="http://www.poedit.net/">graphical</a> <a href="http://gorm.po.dk/">editor</a> to translate the text.  Files can be merged and joined. The resulting file is converted to a binary format  (.mo extension), which is deployed to the server. Gettext handles plurals (languages use suffixes differently for zero, one, two...), and to some extent dates.</p>
+<p>I developed a system of placeholders for dynamic parts of sentences and phrases  - for example the titles of Clouds, names of contributors, dates and so on. This borrowed heavily from Drupal with some variations to help maintain content flow,  particularly in the about pages (the only content to be translated). And, the language will be chosen based on your  <a title="Content negotiation" rel="glossary" href="http://en.wikipedia.org/wiki/Content_negotiation">browser software's configuration</a>,  with the option to override this by selecting the language from a menu.</p>
+<h2>What lessons have we learnt?</h2>
+<ul>
+<li> Using built-in date/time functionality (Tech: <code>strftime</code> PHP/C function)  is not trivial, due to encoding issues on Windows servers. This is one reason why web projects like Drupal handle dates and times themselves. </li>
+<li> Preparing the template files for translation, writing notes/instructions for translators,  and integrating the text from translators takes more time than you might think. </li>
+<li> Character encoding can be an issue - for historical reasons Cloudworks  uses Latin1 (ISO-8859-1), and we still need to convert content with a quite a  lot of accents to <a rel="glossary" href="http://en.wikipedia.org/wiki/Unicode">Unicode</a>.  (Note, this may require some down time - we'll keep you posted.) </li>
+<li> The only drawbacks to Gettext that I have found in the context of a web site/application,  are the need to create a binary file, and the difficulty of extending a language using multiple files.  Drupal deals with these issues by handling the localization files itself, bypassing the default system functionality. </li>
+</ul>
+<p>Finally, my thanks to <a rel="colleague" href="/user/view/1854">Martha Vasiliadou</a> from <a rel="contributor" href="http://www.innovade.eu/">Innovade LI Ltd.</a> in Cyprus, who is doing a great job of translating the site to Greek! And we'll keep you posted as we release the new language functionality.</p><p>
+            <img src="https://cloudworks.ac.uk/image/user_32/1040" class="go2" alt=""/>
+           
+&nbsp; Posted by <a href='https://cloudworks.ac.uk/user/view/1040'>Nick Freear</a> on 26 March 2010
+    <p class="blog-comments-disabled">Blog comments are disabled.</p>
+
+    
+</div>
+<div id="region2">
+<div id="search-site">
+    <form id="form-search" action="https://cloudworks.ac.uk/search/result/" method="get">
+      <p>
+        <label for="query">Search</label>
+        <input id="query" name="q" type="search" value="" maxlength="30" />
+        <input id="search-button" type="image" src="https://cloudworks.ac.uk/_design/search-button.gif" alt="Search" />
+      </p>
+        </form>
+</div>
+<p class="login">
+    <a href="#login" class="link-arrow show">Log in</a> 
+    <a href="https://cloudworks.ac.uk/auth/register">Sign up</a></p>
+
+<div id="login" class="collapsed">
+      <form action="https://cloudworks.ac.uk/auth/login" method="post" id="login-form">        <p><label for="user_name">Username:</label><br />
+     	<input type="text" name="user_name" value="" id="user_name"  />    </p>
+    	<p><label for="password">Password:</label><br />
+        <input type="password" name="password" value="" id="password"  /></p>    
+        <p>
+        <input type="submit" name="submit" id="submit" class="submit" value="Log in" />
+    <a href="https://cloudworks.ac.uk/auth/forgotten_password">Forgotten password</a>    
+    
+    </p>
+    </form></div>
+
+<p>
+You can also search for <a href="https://cloudworks.ac.uk/user/people">people</a> and <a href="https://cloudworks.ac.uk/user/institution_list">institutions</a></p>
+
+</div> 
+                   </div>
+                    <div id="site-footer">
+				        <div class="grid">
+				        <p class="left">
+                                        <a href="https://www.open.ac.uk" title="© 2009-2019 The Open University (IET)">©</a> |
+				        <a href="https://cloudworks.ac.uk/about/about">About</a> |
+				        <a href="https://cloudworks.ac.uk/blog/archive">Blog</a> |
+				        <a href="https://cloudworks.ac.uk/about/tandc" class="rdfa" rel="license">Terms and Conditions</a> |
+				        <a href="https://cloudworks.ac.uk/about/privacy">Privacy notice</a> |
+				        				    				                                                <a href="https://github.com/IET-OU/cloudengine"
+                                           ><img src="https://cloudworks.ac.uk//_design/cloudengine-sm.gif" alt="Powered by CloudEngine, open-source social software" />
+                                        </a>
+				          </p>
+				      
+<!-- The language drop-down menu - jump to the top/#skip. -->
+
+<form id="form-lang" action="#skip" method="post">
+<p class="right"><label for="lang_select">
+Preferred language </label>
+<select id="lang_select" name="lang">
+        <option value="el" >Ελληνικά / Greek</option>
+        <option value="en" selected="selected">English</option>
+  </select>
+<button type="submit" >Load</button>
+</p>
+</form>
+				        </div>
+				    </div>
+				</div>
+			</div>
+		</div>
+		
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-5304738-3', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+
+
+    
+<script
+  data-nofollow-count="0"
+  data-rtt=""  data-ga-analytics-id="UA-5304738-3"></script>
+
+
+
+                <script src="https://unpkg.com/gaad-widget@%5E3/dist/gaad-widget.min.js"
+          data-gaad-widget='{"debug":true,"days_before":15,"x_lang":"en","analytics":false}'></script>
+          <script src="https://cloudworks.ac.uk/_scripts/custom.js"></script>
+
+<script> console.warn('rel=nofollow count:', 0) </script>
+	</body>
+</html>

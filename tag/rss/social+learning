@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: social learning</title>
+        <link>https://cloudworks.ac.uk/tag/rss/social+learning</link>
+        <atom:link href="https://cloudworks.ac.uk/tag/rss/social+learning" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds tagged social learning</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>SAT: Break Out of the Box! How you can use xAPI to free in-house staff development (Katherine Hinchey)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/11472</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/11472</guid>
+              <description><![CDATA[<h2>Abstract</h2>
+<p>You learn by doing and collaborating, watching videos, accessing just-in-time information from your mobile device, mentoring, and more. Why, then, does the Human Resources department only give you slides to learn from?</p>
+<p>Today&rsquo;s workers and corporations are united in wanting more access to the formal, non-formal, and informal learning needed to support an increasingly skilled workforce (The Education Commission, 2016; Pew Research Center, 2016a and 2016b). However, today&rsquo;s corporations largely store their learning resources in virtual learning environments (VLEs) that have adopted a uniform way of storing content. This uniform way, called SCORM, was incredibly helpful when it was designed nineteen years ago, and it still has an important role to play today. When SCORM was created, computer-based training was relatively new and organisations needed a single way to store and track training. For a time, innovation in elearning stopped at the known, established boundaries of the VLE (Weller, 2014, p. 194).</p>
+<p>Now, a new need has developed: a way to store and track learning when it occurs on mobile devices, or through social and collaborative activities, or offline by reading a book or engaging in stretch assignments, or when participating in simulations or augmented and virtual reality programmes.</p>
+<p>An innovation that meets that need was first released in 2013, and had its last planned update in 2016. It is the Experience API (xAPI). xAPI provides a common format for capturing data from today&rsquo;s distributed learning landscape (Rustici Software, n.d.). With xAPI in place, you can free staff development from the confines of SCORM:</p>
+<ul>
+<li>Rely less on elearning courses designed from slides and more on learning experiences;</li>
+<li>Recognise learning from formal and informal or non-formal activities (Downes, 2015);</li>
+<li>And track not only clicks and views but also correlate learning with performance (Torrance, 2016).</li>
+</ul>
+<p>Managers and other decision-makers within learning departments and organisations are at a critical point. They need a source from which to gain a high-level, jargon-free understanding of the benefits of xAPI, common applications and uses of xAPI to support learners as they access modern and innovative learning opportunities, best practices and lessons learned, and information they should provide to their learning development and learning technology teams to prepare for implementation of xAPI (HT2 Labs, n.d.).</p>
+<p>In my conference presentation, I will discuss and share a workshop created to meet those needs. The workshop helps managers, even those without extensive technical backgrounds, to be prepared to move forward with discussions and decisions about xAPI within their organisation. My presentation will show some of the workshop features and provide attendees with tools they can take with them, for use in their future endeavours.</p>
+<h3>References</h3>
+<p>Downes, A. (2015) '9 Practical Applications of Tin Can API', webinar presented by Rustici Software. 31 March. Available at <a href="https://www.slideshare.net/RusticiSoftware/ nine-applications-of-the-tin-can-api-xapi">https://www.slideshare.net/RusticiSoftware/</a><br /><a href="https://www.slideshare.net/RusticiSoftware/ nine-applications-of-the-tin-can-api-xapi">nine-applications-of-the-tin-can-api-xapi</a> (Accessed 1 November 2017).</p>
+<p>The Education Commission (aka the International Commission on Financing Global Education Opportunity) (2016) <em>The Learning Generation: Investing in education for a changing world</em> [Online]. Available at <a href="http://report.educationcommission.org/downloads/">http://report.educationcommission.org/downloads/</a> (Accessed 18 November 2017).</p>
+<p>HT2 Labs (n.d.) <em>The Learning Technology Manager's Guide to xAPI</em> [Online]. Available at <a href="https://www.ht2labs.com/resources/the-learning-technology-managers-guide-to-the-xapi/">https://www.ht2labs.com/resources/the-learning-technology-managers-guide-to-the-xapi/</a> (Accessed 9 December 2017).</p>
+<p>Pew Research Center (2016a) <em>Lifelong Learning and Technology</em> [Online]. Available at <a href="http://www.pewinternet.org/2016/03/22/lifelong-learning-and-technology/">http://www.pewinternet.org/2016/03/22/lifelong-learning-and-technology/</a> (Accessed 18 November 2017).</p>
+<p>Pew Research Center (2016b) <em>The State of American Jobs: How the shifting economic landscape is reshaping work and society and affecting the way people think about the skills and training they need to get ahead</em> [Online]. Available at <a href="http://www.pewsocialtrends.org/2016/10/06/the-state-of-american-jobs/">http://www.pewsocialtrends.org/2016/10/06/the-state-of-american-jobs/</a> (Accessed 18 November 2017).</p>
+<p>Rustici Software (n.d.) <em>Experience API</em> [Online]. Available at <a href="https://experienceapi.com/">https://experienceapi.com/</a> (Accessed 1 November 2017).</p>
+<p>Torrance, M. (2016) 'The xAPI: What Does an Instructional Designer Need to Know?', presentation given at <em>Learning Solutions Conference &amp; Expo.</em> Orlando, Florida, 16-18 March. Available at <a href="https://www.slideshare.net/torrancelearning/xapi-what-does-an-instructional-designer-need-to-know">https://www.slideshare.net/torrancelearning/xapi-what-does-an-instructional-designer-need-to-know</a> (Accessed 1 November 2017).</p>
+<p>Weller, M. (2014) <em>The Battle for Open: How openness won and why it doesn't feel like victory</em>, London, ubiquity press. Available at <a href="http://www.ubiquitypress.com/ site/books/detail/11/battle-for-open/">http://www.ubiquitypress.com/</a><br /><a href="http://www.ubiquitypress.com/ site/books/detail/11/battle-for-open/">site/books/detail/11/battle-for-open/</a> (Accessed 2 May 2016).</p>]]></description>
+          <pubDate>Thu, 04 Jan 2018 15:41:05 +0000</pubDate>
+            </item>
+                    <item>
+              <title>MON: Compulsory Or Graded Peer Forum Activity As A Factor Affecting Inclusion And Ownership Of Learning In Higher Education Distance Learning (Richard Sharp)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/11450</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/11450</guid>
+              <description><![CDATA[<h2><strong>Abstract</strong></h2>
+<p>The presentation while recognising the value of peer participation, experienced in asynchronous forums on higher education (HE) distance-learning courses, will discuss its application. &nbsp;Peer participation is regarded by some as an <em>essential</em> component of learning.&nbsp; Brown states that participation is key in a social view of learning in which understanding is socially constructed, saying &ldquo;we learn [&hellip;] from our interaction with others&rdquo; (Brown, 2007, 3:27).&nbsp; Where learning and curriculum design is framed to support this kind of social learning pedagogy, then forum participation may be set as compulsory or graded (effectively compulsory). &nbsp;&nbsp;</p>
+<p>The paper will ask whether a compulsory approach to peer activities acknowledges diversity and supports inclusion within the student cohort.&nbsp; Also, whether the reduction of choice could negatively affect a student&rsquo;s sense of ownership about their own learning practices, leading to isolation and exclusion.&nbsp; &nbsp;</p>
+<p><strong>In support of diversity and inclusion</strong></p>
+<p>The UK Department for Education (DfE), in a report about inclusivity in HE stated that HE institutions must adopt inclusive practice in order to equitably support the learning experience for the whole student body (Department for Education, 2017, p. 3).&nbsp; The report confirms the Government&rsquo;s acceptance of the social model of disability, and notes how inflexible practice, not individual characteristics, are at the root of exclusion issues (Department for Education, 2017, p. 12).&nbsp; Although the report focuses on disability and adjustment, there is also a clear recognition that inclusive practice and design can remove barriers for all students by &ldquo;using more flexible methods of teaching, assessment and service provision to cater for different [&hellip;] learners&rdquo; (Department for Education, 2017, p. 16).&nbsp;</p>
+<p><strong>Choice, flexibility, and ownership of learning.&nbsp; </strong></p>
+<p>Anderson&rsquo;s (2003) Equivalency Theory proposed that there are three types of interaction that a student engages in: student-student, student-teacher, and student-content interaction.&nbsp; These differing foci can be equally valuable in achievement of a learning outcome, dependent on the individual and situation.&nbsp; In relation to student-student peer interaction, Luhrs and McAnally-Salas (2016) state that asynchronous discussion forums are especially useful for students on distance courses (Luhrs &amp; McAnally-Salas, 2016, p. 29).&nbsp;</p>
+<p>When Downes (2006) said that &lsquo;students own education&rsquo;, he was referring to how students can now define and construct their own personal learning environments (PLEs) and make individual choices about how they act, and interact, in their own learning practice.&nbsp; The National Centre on Universal Design for Learning (UDL) also state that a key factor in encouraging engagement is to &ldquo;optimise individual choice and autonomy&rdquo; (National Center on Universal Design for Learning, 2017). &nbsp;The ability to choose gives the student a sense of ownership of their learning practice.</p>
+<p><strong>Can graded or compulsory forum participation activity be restrictive and disabling?</strong></p>
+<p>Inclusion is a term which is often linked to disability adjustments.&nbsp; However, all students benefit from experiencing control over the learning practices that they choose to adopt.&nbsp; The presentation will suggest that practitioners consider the effect of making participatory forum activity compulsory or graded, and asks whether, for some learners, it could reduce choices, and create feelings of exclusion and disengagement?<strong><br clear="all" /></strong></p>
+<p>&nbsp;</p>
+<p><strong>References </strong></p>
+<p>Anderson, T. (2003) &lsquo;Getting the mix right again: an updated and theoretical rationale for interaction&rsquo;, <em>International Review of Research in Open and Distance Learning</em>, vol. 4, no. 2 [Online]. Available at http://www.irrodl.org/index.php/irrodl/article/view/149 (Accessed 20 December 2017).</p>
+<p>Brown, J. S. (2007) &lsquo;Researching open content in education&rsquo;, The OpenLearn Conference October 2007 [Webcast], Milton Keynes, The Open University. Available at: https://learn2.open.ac.uk/mod/ page/view.php?id=972208 (Accessed 18 December 2017).</p>
+<p>Department for Education (2017)<em> Inclusive Teaching and Learning in Higher Education as a route to Excellence</em> [Online], Gov.UK, Department for Education. Available at: https://www.gov.uk/ government/publications/inclusive-teaching-and-learning-in-higher-education (Accessed 18 December 2017).</p>
+<p>Downes, S. (2006) &lsquo;The Students Own Education&rsquo;, <em>Stephen Downes</em>, 19 June [Blog]. Available at: http://www.downes.ca/post/34792 (Accessed 18 December 2017).</p>
+<p>Luhrs, C. and McAnally-Salas, L. (2016) &lsquo;Collaboration levels in asynchronous discussion forums: A social network analysis approach&rsquo;, <em>Journal of Interactive Online Learning</em>, vol. 14, no. 1, pp. 29-44 [Online]. Available at EBSCOhost (Accessed 19 December 2017).</p>
+<p>National Center on Universal Design for Learning (2017) <em>Universal Design for Learning Guidelines</em> [Online]. Available at: http://www.udlcenter.org/aboutudl/udlguidelines_theorypractice (Accessed 18 December 2017).</p>]]></description>
+          <pubDate>Thu, 15 Feb 2018 22:05:35 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Visualising Social Learning for Discoverability</title>
+              <link>https://cloudworks.ac.uk/cloud/view/10521</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/10521</guid>
+              <description><![CDATA[<p><a href="http://www.lancaster.ac.uk/educational-research/about-us/people/philip-tubman" target="_blank">Philip Tubman</a>, <a href="http://www.lancaster.ac.uk/scc/about-us/people/phillip-benachour" target="_blank">Phillip Benachour</a> and <a href="http://www.lancaster.ac.uk/educational-research/about-us/people/murat-oztok" target="_blank">Murat Oztok</a></p>
+<p>FutureLearn&rsquo;s platform is grounded in Laurillard&rsquo;s conversational framework: &ldquo;..conversation at the level of actions where discussion is directed towards interpreting the learning materials&rdquo;. What actions are we asking the learner to do? What does the platform &lsquo;afford&rsquo;? Activity based learning, like reciprocal teaching or jigsaw groups work in smaller classes, but needs rethinking at scale. Active learning concentrates on what the student does. I propose that extensions to the FutureLearn platform are required to initiate deep active learning, and have prototyped 2 visualisations: a word cloud, and &lsquo;semantic speed dating&rsquo;. Pedagogical activities around social tagging and summarisation should be considered.</p>]]></description>
+          <pubDate>Mon, 15 May 2017 11:19:36 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Semantic Web in Education</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8920</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8920</guid>
+              <description><![CDATA[<p>Just for discussion.</p>]]></description>
+          <pubDate>Sat, 07 Feb 2015 14:36:51 +0000</pubDate>
+            </item>
+                    <item>
+              <title>MON: What do Distance Students Learn in Social Media Study Groups? (P.Seaward)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8856</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8856</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Wed, 10 Dec 2014 15:52:37 +0000</pubDate>
+            </item>
+                    <item>
+              <title>A review, or two, giving the heads up for social learning designs #oldsmooc_w9</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8212</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8212</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Sun, 10 Mar 2013 12:25:41 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Jonathan Vernon&#39;s Mind Bursts - his OLDS MOOC Learning Journal</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7551</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7551</guid>
+              <description><![CDATA[<p>I'm always loath to start a blog or learning journal away from the platforms I've used for the last five years - Wordpress since 2007 (www.mymindbursts.com) 1500+ entries and as an OU postrgraduate student on the OU Student Blogging Platform since February 2010 (1000+ entries) ... and before this in Diaryland.com since 1999 1.5m words. I believe in the format, I've kept a diary for long enough. I rather like the idea of being able instead to blab into a webcam like Jack Sully in Avatar. I guess I could talk to Siri on the iPad but then it still has to be edited and posted somewhere ... here if it is to be shared (which is the whole point).</p>
+<p>My experience with learning online for the last three years (Masters in Open and Distance Education) is that when at this level someone says it'll take 'x hours' in the week I double the number before I decide if I can make the time - this takes care of needing to familiarise myself with the landscape. I can take 'x hours' and multiply by 4 if there is new software involved, even longer to the point of giving up if it isn't immediately obvious, intuitive and FUN. A fellow MOOCER pointed me towards Pearltrees and I feel in love. But then again, I take both a professional interest and have the boyish curiosity that makes me click on everything anyway. So we'll see.</p>
+<p>I've skipped in and out of week 1 trying to follow the instructions but feeling like one in a thousand playing a game of treasure hunt. Or, like one of several hundred on the first evening of an OU Residential School. With an added difficulty here - all Holiday Inn's look the same, but the platforms here are not. Even Cloudworks, which I tried during an MAODE module, looks as unfamiliar as it did 18 months ago. I couldn't get it then ... though I played ball, wrote and posted, but got no interaction. It felt like I was being sent into the jungle to list the flora and collect insects and meet fellow travellers but what I found as a desert full of chimeras.&nbsp;</p>]]></description>
+          <pubDate>Thu, 17 Jan 2013 22:02:10 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Briar Jamieson: Measuring Outcomes/Learning Gains in Open Access Language Learning Environments </title>
+              <link>https://cloudworks.ac.uk/cloud/view/7365</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7365</guid>
+              <description><![CDATA[<div>
+<h2 dir="ltr">My Dream</h2>
+<strong><strong>I have come to the OLDSMOOC to understand how 21st Century learning designers are expressing and measuring learning outcomes in open educational environments.  My hope is to immerse myself in the OLDSMOOC activities and learn from participant experts/explorers by observing/questioning decisions about activities and the indicators/measures/assessment of learning gains.<br /><br />It is my dream to find ways to better express, collect, measure, report the learning gains of self-directed language learners registered with my publicly funded organization.  <br /><br />My situation (context)</strong></strong>
+<div dir="ltr">
+<table><colgroup><col width="351" /><col width="273" /></colgroup>
+<tbody>
+<tr>
+<td>Overview:<br />
+<ul>
+<li dir="ltr">not-for-profit organization, providing language learning resources/support to Self-directed learners, 1600 registered learners, 300-350 active every month; w/2.5 FTE instructors</li>
+<li dir="ltr">funding received from government to provide language learning supports/resources to newcomers</li>
+<li dir="ltr">access to learning resources at no cost to learners everything online</li>
+<li dir="ltr">activities for learners include: drop-in online classes, access to modules from Literacy to Intermediate, additional lessons, assignments, tests, community discussion board, 4 week courses, weekly tips, learners encouraged to develop Personal Language Learning Environments, access to an</li>
+<li dir="ltr">most of these activities are self-assessed, answer keys, community discussion, journal reflections</li>
+<li dir="ltr">instructors feedback on baseline assessments, guide to further resources, deliver synchronous classes, weekly tips, moderate discussion board and feedback on journal reflections</li>
+<li dir="ltr">learners can pick and choose the content and activities they want to engage in; there is no requirement to complete</li>
+<li dir="ltr">work completed within an LMS</li>
+<li dir="ltr">learners have access to a learning portfolio within the LMS to show evidence of work but not a requirement</li>
+</ul>
+</td>
+<td>Example<br /><br />Learner: focus on writing, completes only writing activities, receives feedback on writing and then leaves. We have examples of writing improvement, but each learner is different in their gain, collection is time consuming. Sometimes a testimonial comes; or feedback on survey (10% returns).<br /><br />Learner: focus on listening, uses links from Twitter, wiki, etc. doesn’t login to LMS for 3 months.  Gets a reminder call, and they have been completing activities on recommended resources.  We have no data on language gains.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<strong><strong><br /><br /></strong></strong>
+<h4 dir="ltr">The change I would like to see (challenge)</h4>
+<table><colgroup><col width="348" /><col width="276" /></colgroup>
+<tbody>
+<tr>
+<td>Challenge:<br />
+<ul>
+<li dir="ltr">Funders, understandably, want ‘proof’ of learning gains, reliable/valid measures of project impact on clients.</li>
+<li dir="ltr">Our organization reports primarily on learner activity (number of hits, logins, hours in LMS, number of calls, journal reflections...) as measures of activity or impact.  Learning gains are reported in learner testimonials or feedback surveys that are ‘only’ self-reflections of learning.</li>
+</ul>
+Achieve:<br />
+<ul>
+<li dir="ltr">As I move through this OLDSMOOC, I would like to understand how designers are assessing learners in open environments.</li>
+<li dir="ltr">I would like to have more examples/ ways to collect data on learner achievement.</li>
+<li dir="ltr">I would also like to be directed to articles, books, research on assessment of SDL</li>
+</ul>
+</td>
+<td>Example<br /><br />I have a list of new assessment activities for self-directed learners.<br /><br />I have a bibliography of literature/research reflecting the good, bad and ugly of SDL learning gains.<br /><br />I have innovative ideas to change the current learning options provided to learners to better meet their learning needs and at the same time the needs of funders!  (True dream?)</td>
+</tr>
+</tbody>
+</table>
+<strong><strong><br /><br /></strong></strong>
+<h2 dir="ltr">How you might go about bringing that change</h2>
+<div dir="ltr">
+<table><colgroup><col width="346" /><col width="278" /></colgroup>
+<tbody>
+<tr>
+<td>Tackle the problem:<br />
+<ul>
+<li dir="ltr">What do I do/know: reflect on current assessment practices (strengths/weaknesses)</li>
+<li dir="ltr">What does group know: ask for feedback on current assessment; ask for new ideas; observe/question assessment choices in other projects.</li>
+<li dir="ltr">Literature review (maybe not that extensive at this point but something to inform assessment choices...)</li>
+</ul>
+</td>
+<td>Example<br /><br />Community circle/cloudscape of assessment activities, models, approaches <br /><br />Wiki of literature</td>
+</tr>
+</tbody>
+</table>
+</div>
+<strong><br /><br /></strong></div>]]></description>
+          <pubDate>Tue, 15 Jan 2013 04:44:54 +0000</pubDate>
+            </item>
+                    <item>
+              <title>[Marcos Tenório] My dream: Social media used for e-Learning</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7157</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7157</guid>
+              <description><![CDATA[<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->I Dream about &nbsp;using social media websites like Facebook, twitter or another for e-learning with big success experiences... how can we teach on social medias without all the contents interferences of a social media website? Or how can we use it on our favor?</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->How can we speak the students language in them virtual and social places without be only a boring professor?</div>
+<div>I Dream about &nbsp;using social media websites like Facebook, twitter or another for e-learning with big success experiences... how can we teach on social medias without all the contents interferences of a social media website? Or how can we use it on our favor?</div>
+<div>How can we speak the students language in them virtual and social places without be only a boring professor?</div>
+<div>
+<h2 style="color: #333333; font-size: 1.4em; padding: 0px; margin: 0px 0px 0.8em; background-image: none; " dir="ltr">Your situation (context)</h2>
+<div dir="ltr">
+<table style="border-collapse: collapse; border-spacing: 0px; vertical-align: middle; margin-bottom: 1.4em; width: 624px; border: none;" border="0">
+<colgroup><col width="*"></col><col width="*"></col></colgroup> 
+<tbody>
+<tr style="cursor:auto"><!--NO CSS-->
+<td style="cursor:auto"><!--NO CSS-->Everyday we use Social medias to chat, be informed, be in contact with the world. The same happens with the young students with more frequency and as a new place for social relations. The Social networks brings a lot of new experiences and collaborative works.&nbsp;</td>
+<td style="cursor:auto"><!--NO CSS-->Example</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 style="color: #333333; font-size: 1.4em; padding: 0px; margin: 0px 0px 0.8em; background-image: none; " dir="ltr">The change you would like to see (challenge)</h2>
+<div dir="ltr">
+<table style="border-collapse: collapse; border-spacing: 0px; vertical-align: middle; margin-bottom: 1.4em; width: 624px; border: none;" border="0">
+<colgroup><col width="*"></col><col width="*"></col></colgroup> 
+<tbody>
+<tr style="cursor:auto"><!--NO CSS-->
+<td style="cursor:auto"><!--NO CSS-->We can observe that its is a new road without comeback and if we could enter and navigate by it without any problems, we would have success.</td>
+<td style="cursor:auto"><!--NO CSS-->
+<p>Example</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 style="color: #333333; font-size: 1.4em; padding: 0px; margin: 0px 0px 0.8em; background-image: none; " dir="ltr">How you might go about bringing that change</h2>
+<div dir="ltr">
+<table style="border-collapse: collapse; border-spacing: 0px; vertical-align: middle; margin-bottom: 1.4em; width: 624px; border: none;" border="0">
+<colgroup><col width="*"></col><col width="*"></col></colgroup> 
+<tbody>
+<tr style="cursor:auto"><!--NO CSS-->
+<td style="cursor:auto"><!--NO CSS-->I think that could be created a new social network based on existents but with more control about interactions and contents, it may help students on focus all the interactions at them education and could creat a learning collaborative based interaction.</td>
+<td style="cursor:auto"><!--NO CSS-->
+<p><strong>Examples</strong></p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>]]></description>
+          <pubDate>Sat, 12 Jan 2013 20:34:21 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Helen Crump: Design Project:: Digital Me -Understanding Digital Literacies</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7057</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7057</guid>
+              <description><![CDATA[<p><strong>My situation </strong></p>
+<p>I&rsquo;m an adult literacy tutor and I live on the West Coast of Ireland (originally from Nottingham) . I'm also a very recent graduate of St. Angela's College, Sligo where I completed an M.A. awarded by NUI Galway in Technology, Learning, Innovation and Change.<br /> <br /> I&rsquo;m interested in digital literacies and social learning, which ideally I'd like to teach online in a Higher Education or professional development context. For that reason, I'm developing my skills and knowledge in relation to online pedagogy and instructional design (which I&rsquo;m going to refer to as learning design from now on).<br /> <br /> <strong>My learning design project</strong><br /> <br /> I&rsquo;m already developing my course through participation in <a href="http://pedagogyfirst.org/wppf12/">Pedagogy First </a>&nbsp;,which is a small MOOC like programme led by volunteers of Mira Costa College, San Diego, which focuses on online pedagogical skills. <br /> <br /> However, within OLDSMOOC I&rsquo;d like to develop some learning design skills so as to help me develop my course as effectively as possible. <br /> <br /> I have been blogging about my progress on the course so far: <a href="http://learningcreep.wordpress.com/">http://learningcreep.wordpress.com/</a></p>]]></description>
+          <pubDate>Fri, 11 Jan 2013 20:23:19 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Xin(Alice) Huang: My dream: OTC Sales Force Effectiveness</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6933</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6933</guid>
+              <description><![CDATA[<h2>Your situation (context)</h2>
+<p>&nbsp;I want to produce a training curriculum for the first line sales managers of a Pharmaceutical company in China to manage their OTC (over the counter) sales force effectively.</p>
+<p>With the ever increasing pressure to ensure maximum return on investment, sales force effectiveness(SFE) is becoming a high priority area in the global pharmaceutical industry. How to improve the effectiveness is now a dual responsibility between sales force management team and sales training team. Training sales representatives alone is not going to work, the learning has to extend to outside training room and involve first line sales managers to carry on after-training coaching to make sure transfer of learning happens.</p>
+<p>China, a thickly populated large country, to cover most OTC pharma channel, including retail stores, pharmacies, supermarkets, neighborhood convenient stores will require a&nbsp; large size of the OTC sales force and widely dispersed throughout the country. It can be extremely costly and difficult to bring sales team together in one place for training. Also due to the nature of the sales work, sale Rep would need training and support&nbsp; that areaccessible whenever&nbsp; they need it. This will&nbsp; also contribute to thesales force stability. Therefore, the first line sales manager is becoming a pivotal role in terms of training their own team and providing ongoing support.&nbsp;</p>
+<h2>The change you would like to see (challenge)</h2>
+<p><em><strong>What do you hope to achieve?</strong></em></p>
+<p>Produce a blended training approach that will incorporate training outcome&nbsp; with business performance, will merge learning process into everyday sales activities so that learning will happen naturally any time, any where.</p>
+<p><em><strong>What would be different if you succeed?</strong></em></p>
+<p>If I succeed, both the OTC sales managers and sales Rep would never complain that attending training is a waste of their time. The Rep will feel empowered, confident in doing their job. The sales manager will feel a sense of achievement because they are able to upskill and support their own team member.&nbsp;&nbsp;</p>
+<h2>How you might go about bringing that change</h2>
+<p><em><strong>What is your pedagogical approach? </strong></em></p>
+<p>&nbsp;Constructionism will be the underpin learning theory for this project.</p>
+<p><strong>&nbsp;Which technologies will you use to implement it, and how?</strong></p>
+<p>&nbsp;Mobile device and social media platform will be used to implement the project. All learning material, training workshop, will be hosted via social media platform, and learning interactions will be enalbed through mobile devices.&nbsp;</p>]]></description>
+          <pubDate>Thu, 10 Jan 2013 21:49:23 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Maria Kukhareva, Discourses of inclusion of the hard-to-reach</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6081</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6081</guid>
+              <description><![CDATA[<p>&nbsp;</p>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->To be presented at the Widening Participation Conference 2012 'Discourses of Inclusion in Higher Education', 24-25 April 2012</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->Discourses of inclusion of the hard-to-reach: &nbsp;building resilience of looked after children and young people in alternative education through Aimhigher interventions</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->Maria Kukhareva</div>
+<p>To be presented at the Widening Participation Conference 2012 'Discourses of Inclusion in Higher Education', 24-25 April 2012</p>
+<h2>Discourses of inclusion of the hard-to-reach: &nbsp;building resilience of looked after children and young people in alternative education through Aimhigher interventions</h2>
+<h3>Maria Kukhareva</h3>
+<p>&nbsp;</p>
+<p>The paper is based on doctoral research which explores views and experiences of young people who have been placed in the care system and/ or educated outside mainstream education. The particular angle of the study is the concept of resilience and whether (and in what way) participation in Widening Participation activities impacts on the resilience of the groups in question.</p>
+<p>The paper looks at the findings resulted from semi-structured interviews with 19 young people and nine professionals, the relevant discussion and implications for widening participation practitioners and professionals working with vulnerable groups.&nbsp;</p>]]></description>
+          <pubDate>Sun, 19 Feb 2012 20:16:47 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Presentation: OLNET</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5447</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5447</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Tue, 24 May 2011 10:42:30 +0000</pubDate>
+            </item>
+                    <item>
+              <title>8th international networked learning conference held in Maastricht</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5397</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5397</guid>
+              <description><![CDATA[<p>&lt;!--StartFragment--&gt;EIGHTH INTERNATIONAL CONFERENCE ON NETWORKED LEARNING IN HIGHER EDUCATION AND LIFELONG LEARNING<br /> &nbsp;<br /> To be held in Maastricht, the Netherlands on the 2nd. 3rd &amp; 4th April 2012. <br /> &nbsp;<br /> NOTE: Full papers must be submitted for peer review by Monday 3rd October, 2011. &nbsp;<br /> &nbsp;<br /> See: <a href="http://www.lancs.ac.uk/fss/organisations/netlc/call/key-dates.htm">http://www.lancs.ac.uk/fss/organisations/netlc/call/key-dates.htm</a><br /> <br /> This conference is considered a major event in the international 'technology enhanced learning' conference circuit, and provides a friendly, collegiate context for meeting researchers and practitioners in networked learning.<br /> &nbsp;<br /> All submissions are peer reviewed, and accepted papers published in conference proceedings<br /> &nbsp;<br /> Invited Speakers: Terry Anderson, Tara Fenwick &amp; Judi Marshall<br /> &nbsp;<br /> PRE-CONFERENCE ONLINE COMMUNITY AND ONLINE SEMINARS: please visit the conference website for further details<br /> &nbsp;<br /> Full Conference Details can be found at:<br /> &nbsp;<br /> <a href="http://www.networkedlearningconference.org.uk/">http://www.networkedlearningconference.org.uk/</a></p>
+<p>Regards,</p>
+<p>Maarten de Laat</p>
+<p><a href="http://www.open.ou.nl/rslmlt/">http://www.open.ou.nl/rslmlt/</a></p>]]></description>
+          <pubDate>Wed, 04 May 2011 13:53:41 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Are training courses dead?</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5152</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5152</guid>
+              <description><![CDATA[<p>Stimulating review by Al Bird of the <a rel="external" href="http://www.c4lpt.co.uk/handbook/index.html">Social Learning Handbook </a>and the <a rel="external" href="http://www.lulu.com/product/paperback/working-smarter-fieldbook-|-september-2010-edition/14309750">Working Smarter Fieldbook</a>. Concludes that training and development professionals must show themselves to be credible. How? By focusing formal training where it works best (and weeding it out where it doesn't - especially when it's costly and unnecessary). Both books point to 'performance consulting' in their analyses of people-productivity challenges (as opposed to 'training needs analysis'). They argue that we should probe deep and look at what creates the 'problem' for an individual/team/organisation and what can be done to improve performance in a hard business sense. The answer will not necessarily be 'training' (it may involve, for example, clearer role definition, opportunities for collaboration, better performance management or regular coaching). 'As with some of my clients, better to knock off the word "training" and simply call it a "needs analysis"'. This means not prejudging the outcomes (as we are wont to do).</p>]]></description>
+          <pubDate>Tue, 15 Mar 2011 13:37:44 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Session: Social networks and learning networks session </title>
+              <link>https://cloudworks.ac.uk/cloud/view/3525</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3525</guid>
+              <description><![CDATA[<p><strong>Social   network dynamics in international students' learning</strong></p>
+<p>Nashrawan   Taha, Andrew Cox,&nbsp; <em>The   University of Sheffield, United Kingdom</em></p>
+<p><strong> </strong></p>
+<p><strong>Social   Networks and Learning Networks: Using social network perspectives to   understand social learning</strong></p>
+<p>Caroline   Haythornthwaite<sup>1</sup>, Maarten de Laat<sup>2</sup>,&nbsp; <em><sup>1</sup></em><em>University of Illinois, United   States,<sup> 2</sup>Open University of the Netherlands, Netherlands</em></p>
+<p><em> </em></p>
+<p><strong>Challenging   the Traditional Theorisation on Group Development: An International Online   Perspective</strong></p>
+<p>Lucilla   Crosta<sup>1</sup>, David McConnell<sup>2</sup>,&nbsp; <em><sup>1</sup></em><em>Lancaster University, United   Kingdom,<sup> 2</sup>Glasgow Caledonian University, United Kingdom</em></p>]]></description>
+          <pubDate>Wed, 10 Aug 2011 15:08:57 +0000</pubDate>
+            </item>
+                    <item>
+              <title>The End of Certification?</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3439</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3439</guid>
+              <description><![CDATA[<p>Does the increasingly shared, informal, social and improvised nature of&nbsp;learning mean that the idea of being formally assessed, certificated and 'qualified' will cease in the future to have any validity? And would this be a good thing?</p>]]></description>
+          <pubDate>Thu, 22 Apr 2010 23:11:44 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Research tools: online tools for medical researchers</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3377</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3377</guid>
+              <description><![CDATA[<p><strong>For carrying out research</strong></p>
+<ul>
+<li>BLAST -      Basic Local Alignment Search Tool for comparing gene and protein sequences      against others in public databases</li>
+<li>ClustalW2      &ndash; Multiple sequence alignment program for DNA or proteins</li>
+<li>EMAN - suite of scientific image processing tools aimed primarily at the      transmission electron microscopy community</li>
+<li>EMBER &ndash;      practical guide to bioinformatics</li>
+<li>ExPASy &ndash;      Tools for the analysis of protein sequences and structures</li>
+<li>Genecards      - searchable, integrated, database of human genes that      provides concise genomic, transcriptomic, genetic, proteomic, functional      and disease related information on all known and predicted human genes</li>
+<li>LS-SNP - annotated database of SNPs.</li>
+<li>NCBI &ndash; National      Center for Biotechnology Information provides access to a wide range of online      tools</li>
+<li>OMIM &ndash;      Online Mendelian Inheritance in Man is a catalogue of human genes and      genetic disorders, with links to the literature</li>
+<li>PMut - software aimed at the annotation and prediction of      pathological mutations</li>
+<li>Polyphen      - predicts possible impact of an amino acid      substitution on the structure and function of a human protein</li>
+<li><strong>SIFT BLink</strong> - provides SIFT predictions for a single protein for a given      RefSeq ID or a gi number</li>
+<li>SNPs3D - assigns molecular functional effects of non-synonymous      SNPs based on structure and sequence analysis</li>
+</ul>
+<p><strong>For staying in touch with the field and with colleagues</strong></p>
+<ul>
+<li>Pubcrawler      &ndash; alerting service for Medline and GenBank</li>
+<li>Zetoc &ndash;      relevant journal/paper updater</li>
+</ul>
+<p><strong>For guidance with ethical issues<br /></strong></p>
+<ul>
+<li>BioEdge - latest news from around the world on bioethics</li>
+<li>NHS National Research Ethics Service</li>
+</ul>
+<p><strong>For funding opportunities</strong></p>
+<ul>
+<li>ResearchResearch</li>
+</ul>]]></description>
+          <pubDate>Thu, 15 Apr 2010 14:09:08 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Social Media</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3326</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3326</guid>
+              <description><![CDATA[<p>Bringing together attempts at social media education...</p>]]></description>
+          <pubDate>Mon, 05 Apr 2010 11:00:04 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Research tools: online tools for educators and educational technologists</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3238</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3238</guid>
+              <description><![CDATA[<p><strong>For accessing relevant literature</strong></p>
+<ul>
+<li>Google      Scholar</li>
+</ul>
+<p><strong>For sharing and accessing files</strong></p>
+<ul>
+<li>Delicious</li>
+<li>Dropbox</li>
+<li>Google Docs</li>
+</ul>
+<p><strong>For staying in touch with the field and with colleagues</strong></p>
+<ul>
+<li>Times      Higher Education </li>
+<li>Guardian      Education</li>
+<li>BERA      (British Educational Research Association)</li>
+<li>Twitter</li>
+<li>Plurk</li>
+<li>MSN</li>
+<li>Facebook</li>
+<li>LinkedIn</li>
+</ul>
+<p><strong>For developing, sharing and presenting ideas</strong></p>
+<ul>
+<li>Mindmeister</li>
+</ul>
+<p><strong>For relevant conferences</strong></p>
+<ul>
+<li>JISC      mail</li>
+</ul>
+<p><strong>For funding opportunities</strong></p>
+<ul>
+<li>ResearchResearch</li>
+</ul>]]></description>
+          <pubDate>Thu, 01 Apr 2010 12:12:44 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Research tools: online tools for arts and humanities</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3234</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3234</guid>
+              <description><![CDATA[<p><strong>For accessing relevant literature</strong></p>
+<ul>
+<li>RSS      feeds</li>
+<li>University      library website</li>
+</ul>
+<ul>
+<li>Google      Scholar</li>
+<li>Twitter</li>
+</ul>
+<p><strong>For sharing and presenting ideas</strong></p>
+<ul>
+<li>Blogger</li>
+<li>Posterous</li>
+</ul>
+<ul>
+<li>Prezi</li>
+</ul>
+<p><strong>For keeping in touch with the field and with colleagues</strong></p>
+<ul>
+<li>a-n      magazine [focused on visual arts]</li>
+</ul>
+<p><strong>For job opportunities</strong></p>
+<ul>
+<li>LinkedIn</li>
+</ul>]]></description>
+          <pubDate>Thu, 01 Apr 2010 10:17:22 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Research tools: online tools for maths, computing and technology</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3154</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3154</guid>
+              <description><![CDATA[<p><strong>For accessing relevant literature</strong></p>
+<ul>
+<li>Scopus      &ndash; abstract and citation database</li>
+<li>Web of      Science</li>
+<li>Citeseer</li>
+<li>Google      Scholar</li>
+<li>ACM      Portal</li>
+<li>Mendeley</li>
+<li>Citeulike</li>
+<li>Delicious</li>
+<li>RSS      feeds from journals</li>
+<li>LibX</li>
+</ul>
+<p><strong>For managing relevant literature</strong></p>
+<ul>
+<li>EndNote</li>
+<li>RefWorks</li>
+<li>BibDesk      (for Bibtex/Latex users)</li>
+<li>Diigo</li>
+</ul>
+<p><strong>For data collection</strong></p>
+<ul>
+<li>Survey      Monkey (online survey tool)</li>
+<li>Facebook      (for publicising surveys)</li>
+</ul>
+<p><strong>For data analysis</strong></p>
+<ul>
+<li>ANVIL      (video annotation tool)</li>
+<li>Transana      (video and audio annotation tool)</li>
+<li>CAQDAS      (for discussing tools for qualitative analysis)</li>
+<li>Humdrum      (for music research)</li>
+<li>British      National Corpus (for corpus analysis)</li>
+</ul>
+<p><strong>For sharing and accessing files</strong></p>
+<ul>
+<li>Dropbox</li>
+<li>Subversion</li>
+<li>Macfusion      (for Mac users)</li>
+</ul>
+<p><strong>For sharing and presenting ideas</strong></p>
+<ul>
+<li>Prezi</li>
+</ul>
+<p><strong>For collaboration</strong></p>
+<ul>
+<li>Meetomatic</li>
+<li>Doodle</li>
+<li>Elluminate</li>
+</ul>
+<p><strong>For keeping in touch with the field and with colleagues</strong></p>
+<ul>
+<li>Skype</li>
+<li>Blogs</li>
+<li>Google      Docs</li>
+<li>Plurk</li>
+<li>Friendfeed</li>
+<li>Second      Life</li>
+<li>Netvibes</li>
+<li>Google      Reader</li>
+</ul>
+<p><strong>For funding opportunities</strong></p>
+<ul>
+<li>EPSRC      website</li>
+<li>ESRC      website</li>
+<li>HEA      website and associated RSS feed</li>
+</ul>
+<p><strong>For job opportunities</strong></p>
+<ul>
+<li>LinkedIn</li>
+</ul>]]></description>
+          <pubDate>Fri, 19 Mar 2010 14:49:16 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Research tools: online tools for social scientists</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3153</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3153</guid>
+              <description><![CDATA[<p><strong>For accessing relevant literature</strong></p>
+<ul>
+<li>Abstract      databases</li>
+<li>Email      updates from journals</li>
+<li>Zetoc      alerts</li>
+<li>Amazon</li>
+</ul>
+<p><strong>For managing relevant literature</strong></p>
+<ul>
+<li>EndNote</li>
+</ul>
+<p><strong>For keeping in touch with the field and with colleagues</strong></p>
+<ul>
+<li>JISCmail</li>
+<li>RSS      readers</li>
+<li>Blogs</li>
+<li>iTunesU</li>
+<li>LexisLibrary (legal, tax and regulatory sources)</li>
+<li>OpenLearn      labspace</li>
+<li>Twitter</li>
+</ul>
+<p><strong>For data collection</strong></p>
+<ul>
+<li>Survey      Monkey </li>
+<li>Bristol      Online Survey</li>
+<li>Facebook      (to publicise online surveys)</li>
+</ul>
+<p><strong>For data analysis</strong></p>
+<ul>
+<li>NVivo</li>
+</ul>
+<p><strong>For developing, sharing and presenting ideas</strong></p>
+<ul>
+<li>Slideshare</li>
+<li>Screenjelly</li>
+<li>Skype</li>
+</ul>
+<p><strong>For funding opportunities</strong></p>
+<ul>
+<li>ESRC      website and feeds</li>
+<li>ResearchResearch</li>
+</ul>
+<p><strong>For job opportunities</strong></p>
+<ul>
+<li>jobs.ac.uk</li>
+</ul>]]></description>
+          <pubDate>Fri, 19 Mar 2010 14:07:13 +0000</pubDate>
+            </item>
+                    <item>
+              <title>The SocialLearn Project (KMi seminar)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3145</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3145</guid>
+              <description><![CDATA[<p>Presenter:&nbsp;Dr Simon Buckingham Shum<br /> Title:&nbsp;The SocialLearn Project<br /> Date: Thursday 18 March 2010<br /> Time: 11:30am<br /> Location: KMi Podium</p>
+<div>SocialLearn is exploring the potential of the social web for learning and sensemaking (both academic, and in the workplace) with specific interest in how different OU communities might benefit (e.g. students, staff, researchers, alumni). In this session, we'll give an update on some of the project's thinking and prototyping.</div>
+<div></div>
+<div>
+<div>This will be a work-in-progress update, in which Simon will be inviting input on what KMi research/technologies could plug into SocialLearn, eg<br /> 
+<ul>
+<li>Natural language parsing to improve user profiling</li>
+<li> Analytics and recommendation engines</li>
+<li> Merging social graphs from the cloud</li>
+<li> Ontologies relevant to learning/academic research</li>
+<li> Relevant widgets/gadgets for learners/researchers</li>
+</ul>
+</div>
+</div>]]></description>
+          <pubDate>Tue, 16 Mar 2010 11:26:04 +0000</pubDate>
+            </item>
+                    <item>
+              <title> SocialLearn and Cloudworks: Developing your PhD Skills with online tools</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3135</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3135</guid>
+              <description><![CDATA[<p>Rebecca Ferguson</p>
+<p>Wednesday 24 March, 1.45-2.45pm<br />Workshop 6G<br />Second floor library, Information Suite</p>
+<p>Wednesday 24 March, 3.15-4.15pm<br />Workshop 7G<br />Second floor library, Information Suite</p>
+<p>Cloudworks includes a set of resources that can be used to help you to develop your research skills. It also offers the possibility of discussing these skills online, and sharing useful links and references.</p>
+<p>SocialLearn provides an additional set of tools that support your use of Cloudworks and other relevant websites.</p>
+<p><strong>Rebecca Ferguson</strong> is a Research Fellow in the Knowledge Media Institute at The Open University, working on the university&rsquo;s SocialLearn project. Her main research interest is in how people learn together successfully online. This has included investigations of learners&rsquo; use of forums, blogs, wikis and virtual worlds, and of how these technologies can be used to complement face-to-face interaction. Her PhD, which she completed in IET, focused on the construction of shared knowledge through asynchronous dialogue. Her current focus is on how social learning tools can be used to help postgraduate students locate and make sense of the resources they need.</p>]]></description>
+          <pubDate>Sun, 14 Mar 2010 13:44:44 +0000</pubDate>
+            </item>
+                    <item>
+              <title>SocialLearn session: OU&#39;s Learning &amp; Tech Conf. 2010</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3122</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3122</guid>
+              <description><![CDATA[<p><strong>[<a href="http://projects.kmi.open.ac.uk/sociallearn/SocialLearn-Talk-OU2010.mov" target="_blank">Replay SocialLearn presentation</a>]</strong></p>
+<p><strong>Welcome</strong> to our cloud for this conference session :-)&nbsp;from the&nbsp;SocialLearn team: Simon Buckingham Shum, Rebecca Ferguson, Mark Glaister, Thanh Le&nbsp;</p>
+<p>SocialLearn (part of the portfolio under Denise Kirkpatrick, Pro-Vice Chancellor for Learning &amp; Teaching Quality) is designing a social learning space which can integrate existing tools in the OU and the cloud, to support learning.&nbsp;Our immediate target groups are the hundreds of thousands of users in the Open University&rsquo;s online communities, with a specific focus in the coming year on professional development and e-scholarship/research.</p>
+<p style="cursor:auto"><!--NO CSS-->SocialLearn&nbsp;<a href="http://sociallearn.org">beta site</a>&nbsp;|&nbsp;<a href="http://www.open.ac.uk/blogs/sociallearn">blog</a>&nbsp;| <a href="http://twitter.com/sociallearn">twitter</a> | <a href="http://www.slideshare.net/SocialLearn">slideshare</a></p>
+<p>Post your comments here... or to make up for the absence of f-f discussion, feel free to call me (Simon) during the conference after this session on 01908 655723 or Skype on sbskmi</p>]]></description>
+          <pubDate>Sun, 14 Mar 2010 10:48:30 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Introducing social learning</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3100</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3100</guid>
+              <description><![CDATA[<p>Some starting assumptions about social learning:</p>
+<ul>
+<li>It's a common term in lots of fields (domains if you like)</li>
+<li>It is understood differently in these fields, at least on the surface</li>
+<li>It relates to a diverse range of practices</li>
+</ul>
+<p>The purpose of the symposium is to explore the different understandings and practices relating to social learning amongst researchers at the Open University, drawing particularly on OSRG and the SocialLearn team.</p>
+<p style="cursor:auto"><!--NO CSS-->The most general idea I know of for social learning is that it is a space of platform which supports collective exploration of an idea or situation. &nbsp;I'd like to propose this as an heuristic idea to drive discussion by inviting anyone taking part to express their concept and experience of social learning in these terms.</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Fri, 12 Mar 2010 23:08:56 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Future of social learning at The Open University</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3082</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3082</guid>
+              <description><![CDATA[<p>Discussion moderated by Martin Reynolds (OSRG) at the OSRG Social learning symposium at The Open University, 17 March 2010</p>]]></description>
+          <pubDate>Wed, 10 Mar 2010 19:08:49 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Crowdsourcing education </title>
+              <link>https://cloudworks.ac.uk/cloud/view/3081</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3081</guid>
+              <description><![CDATA[<p>Presentation by Joe Corneli (KMI) at the OSRG Social learning symposium at The Open University, 17 March 2010</p>]]></description>
+          <pubDate>Wed, 10 Mar 2010 19:06:48 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Social learning systems and communities of practice</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3080</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3080</guid>
+              <description><![CDATA[<p>Presentation by Chris Blackmore (OSRG) at the OSRG Social learning symposium at The Open University, 17 March 2010</p>]]></description>
+          <pubDate>Wed, 10 Mar 2010 19:05:00 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Social learning in the context of OpenLearn</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3079</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3079</guid>
+              <description><![CDATA[<p>Presentation by Kasia Kozinska (OLnet/ IET/ CREET) at the OSRG Social learning symposium at The Open University, 17 March 2010</p>]]></description>
+          <pubDate>Wed, 10 Mar 2010 19:02:34 +0000</pubDate>
+            </item>
+                    <item>
+              <title>International perspectives on social learning</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3078</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3078</guid>
+              <description><![CDATA[<p>Presentation by Kevin Collins (OSRG) at the OSRG Social learning symposium at The Open University, 17 March 2010.</p>]]></description>
+          <pubDate>Wed, 10 Mar 2010 18:59:31 +0000</pubDate>
+            </item>
+                    <item>
+              <title>An emerging suite of social learning technologies</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3077</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3077</guid>
+              <description><![CDATA[<p>Presentation by Simon Buckingham Shum (OLnet/ KMI) at the OSRG Social learning symposium held at The Open University on 17 March 2010.</p>]]></description>
+          <pubDate>Wed, 10 Mar 2010 18:56:18 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Blog Post: The Transition from the Co-Digital to the Post-Digital</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2781</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2781</guid>
+              <description><![CDATA[<p>This <a href="http://tallblog.conted.ox.ac.uk/index.php/2009/11/27/the-transition-from-the-co-digital-to-the-post-digital/" target="_blank">blog post</a> by David White synthesizes the strong debate sparked by the discussion paper<a href="http://docs.google.com/View?id=aqv2zmc9bgm_51ft65rbn2" target="_blank"> Planning for the Post-Digital&rsquo;.</a></p>
+<p>Moreover, the author presents a model of innovation process built upon the <a href="http://www.informationisbeautiful.net/visualizations/the-hierarchy-of-digital-distractions/" target="_blank">Hierarchy of Digital Distractions </a>by David McCandless.</p>
+<p>The proposed model aims to represent the transition from an early phase 'Co-digital' - in which "a technology goes through as the user community appropriates it and influences its development" - towards a 'Postdigital' one, in which (according to the original document), the power of the technologies "arises in the act of their colonisation, or appropriation, by people into their lives; when they cease to be technology and become simply "stuff that works".</p>
+<p>The debate is underway in reply to this post.</p>]]></description>
+          <pubDate>Wed, 09 Dec 2009 20:13:01 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Open Social Learning</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2726</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2726</guid>
+              <description><![CDATA[<p>This cloud is set up to collect resources about the projects presented at the <a href="http://www.uoc.edu/symposia/unescoseminar2009/" target="_blank">Open Social Learning Seminar</a> hosted by the Universitat Oberta de Catalunya in Barcelona. I am following the event only via Twitter.</p>
+<p>Twitter hashtag: <strong><a class="tweet-url hashtag" title="#eLChair09" href="http://twitter.com/search?q=#eLChair09"><strong>#eLChair09</strong></a></strong></p>
+<p><strong><strong>All the tweets with the conference hashtag are collected <a href="/cloud/edit/a TCarr: searched for good practices; 2 models stood out - Gi" target="_blank">here</a>.</strong></strong></p>
+<p>Day 1 tweets are visualized <strong><strong><a href="http://www.wordle.net/show/wrdl/1393844/Day_1_Tweets_-_Open_Social_Learning_-_VI_Seminar_of_UNESCO_Chair_in_E-Learning" target="_blank">here.</a> </strong></strong>using Wordle.<strong><strong><br /></strong></strong></p>]]></description>
+          <pubDate>Mon, 30 Nov 2009 17:05:17 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

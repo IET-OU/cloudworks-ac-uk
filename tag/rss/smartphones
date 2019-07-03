@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: smartphones</title>
+        <link>https://cloudworks.ac.uk/tag/rss/smartphones</link>
+        <atom:link href="https://cloudworks.ac.uk/tag/rss/smartphones" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds tagged smartphones</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>SAT: Break Out of the Box! How you can use xAPI to free in-house staff development (Katherine Hinchey)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/11472</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/11472</guid>
+              <description><![CDATA[<h2>Abstract</h2>
+<p>You learn by doing and collaborating, watching videos, accessing just-in-time information from your mobile device, mentoring, and more. Why, then, does the Human Resources department only give you slides to learn from?</p>
+<p>Today&rsquo;s workers and corporations are united in wanting more access to the formal, non-formal, and informal learning needed to support an increasingly skilled workforce (The Education Commission, 2016; Pew Research Center, 2016a and 2016b). However, today&rsquo;s corporations largely store their learning resources in virtual learning environments (VLEs) that have adopted a uniform way of storing content. This uniform way, called SCORM, was incredibly helpful when it was designed nineteen years ago, and it still has an important role to play today. When SCORM was created, computer-based training was relatively new and organisations needed a single way to store and track training. For a time, innovation in elearning stopped at the known, established boundaries of the VLE (Weller, 2014, p. 194).</p>
+<p>Now, a new need has developed: a way to store and track learning when it occurs on mobile devices, or through social and collaborative activities, or offline by reading a book or engaging in stretch assignments, or when participating in simulations or augmented and virtual reality programmes.</p>
+<p>An innovation that meets that need was first released in 2013, and had its last planned update in 2016. It is the Experience API (xAPI). xAPI provides a common format for capturing data from today&rsquo;s distributed learning landscape (Rustici Software, n.d.). With xAPI in place, you can free staff development from the confines of SCORM:</p>
+<ul>
+<li>Rely less on elearning courses designed from slides and more on learning experiences;</li>
+<li>Recognise learning from formal and informal or non-formal activities (Downes, 2015);</li>
+<li>And track not only clicks and views but also correlate learning with performance (Torrance, 2016).</li>
+</ul>
+<p>Managers and other decision-makers within learning departments and organisations are at a critical point. They need a source from which to gain a high-level, jargon-free understanding of the benefits of xAPI, common applications and uses of xAPI to support learners as they access modern and innovative learning opportunities, best practices and lessons learned, and information they should provide to their learning development and learning technology teams to prepare for implementation of xAPI (HT2 Labs, n.d.).</p>
+<p>In my conference presentation, I will discuss and share a workshop created to meet those needs. The workshop helps managers, even those without extensive technical backgrounds, to be prepared to move forward with discussions and decisions about xAPI within their organisation. My presentation will show some of the workshop features and provide attendees with tools they can take with them, for use in their future endeavours.</p>
+<h3>References</h3>
+<p>Downes, A. (2015) '9 Practical Applications of Tin Can API', webinar presented by Rustici Software. 31 March. Available at <a href="https://www.slideshare.net/RusticiSoftware/ nine-applications-of-the-tin-can-api-xapi">https://www.slideshare.net/RusticiSoftware/</a><br /><a href="https://www.slideshare.net/RusticiSoftware/ nine-applications-of-the-tin-can-api-xapi">nine-applications-of-the-tin-can-api-xapi</a> (Accessed 1 November 2017).</p>
+<p>The Education Commission (aka the International Commission on Financing Global Education Opportunity) (2016) <em>The Learning Generation: Investing in education for a changing world</em> [Online]. Available at <a href="http://report.educationcommission.org/downloads/">http://report.educationcommission.org/downloads/</a> (Accessed 18 November 2017).</p>
+<p>HT2 Labs (n.d.) <em>The Learning Technology Manager's Guide to xAPI</em> [Online]. Available at <a href="https://www.ht2labs.com/resources/the-learning-technology-managers-guide-to-the-xapi/">https://www.ht2labs.com/resources/the-learning-technology-managers-guide-to-the-xapi/</a> (Accessed 9 December 2017).</p>
+<p>Pew Research Center (2016a) <em>Lifelong Learning and Technology</em> [Online]. Available at <a href="http://www.pewinternet.org/2016/03/22/lifelong-learning-and-technology/">http://www.pewinternet.org/2016/03/22/lifelong-learning-and-technology/</a> (Accessed 18 November 2017).</p>
+<p>Pew Research Center (2016b) <em>The State of American Jobs: How the shifting economic landscape is reshaping work and society and affecting the way people think about the skills and training they need to get ahead</em> [Online]. Available at <a href="http://www.pewsocialtrends.org/2016/10/06/the-state-of-american-jobs/">http://www.pewsocialtrends.org/2016/10/06/the-state-of-american-jobs/</a> (Accessed 18 November 2017).</p>
+<p>Rustici Software (n.d.) <em>Experience API</em> [Online]. Available at <a href="https://experienceapi.com/">https://experienceapi.com/</a> (Accessed 1 November 2017).</p>
+<p>Torrance, M. (2016) 'The xAPI: What Does an Instructional Designer Need to Know?', presentation given at <em>Learning Solutions Conference &amp; Expo.</em> Orlando, Florida, 16-18 March. Available at <a href="https://www.slideshare.net/torrancelearning/xapi-what-does-an-instructional-designer-need-to-know">https://www.slideshare.net/torrancelearning/xapi-what-does-an-instructional-designer-need-to-know</a> (Accessed 1 November 2017).</p>
+<p>Weller, M. (2014) <em>The Battle for Open: How openness won and why it doesn't feel like victory</em>, London, ubiquity press. Available at <a href="http://www.ubiquitypress.com/ site/books/detail/11/battle-for-open/">http://www.ubiquitypress.com/</a><br /><a href="http://www.ubiquitypress.com/ site/books/detail/11/battle-for-open/">site/books/detail/11/battle-for-open/</a> (Accessed 2 May 2016).</p>]]></description>
+          <pubDate>Fri, 05 Jan 2018 05:56:22 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Gizmostimes inspiring gadgets and gizmos</title>
+              <link>https://cloudworks.ac.uk/cloud/view/10625</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/10625</guid>
+              <description><![CDATA[<p>>Gizmostimes</a> writes about technology &amp; gadgets, troubleshooting, tech tutorials, tips, and tricks, comparison of <a title="smartphones" href="https://gizmostimes.com/category/smartphones/" target="_blank">smartphones</a>, laptops, cameras &amp; <a title="gadgets" href="https://gizmostimes.com/category/gadgets/" target="_blank">cool gadgets</a></p>]]></description>
+          <pubDate>Sun, 02 Jul 2017 21:59:52 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Migrants learning languages using smartphones: tensions between wanting to belong and wanting to learn</title>
+              <link>https://cloudworks.ac.uk/cloud/view/10491</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/10491</guid>
+              <description><![CDATA[<p><a href="http://oro.open.ac.uk/view/person/ap6.html" target="_blank">Alice Peasgood</a> and <a href="http://oro.open.ac.uk/view/person/mbg57.html" target="_blank">Mark Gaved</a></p>
+<p>This paper presents work recently published in the Journal of Media in Education (JIME), but not previously presented at a conference. <br />There is great interest in the potential of smartphones to enable language learning during daily activities. However, this overlooks the paradox faced by migrant learners that while they have the educational goal of seeking to improve their language skills, they also have the cultural goal of fitting into the host society. Inappropriate use of smartphones as learning aids makes learners stand out as outsiders. <br />Here, we investigate the use of smartphones by migrants for Mobile Assisted Language Learning (MALL) in their daily lives. We report on their participation in the trial of a system that coupled a custom smart&not;phone app with location-based hardware triggers. This presented learning activities based on scenarios from everyday life that were prompted when approaching relevant locations around a UK town. Analysis of pre- and post- interviews indicates that social and cultural influences affect the location, timing and type of learning undertaken using the system. <br />Participants preferred to learn in ways that were unobtrusive, and deferred engagement with content if social context inhibited use of the phone. For example, playing audio in public was seen as inappropriate. Although the app was designed with location-specific content, many participants chose to study elsewhere and at other times, in addition to accessing content from the phone at the time and place that the activity was triggered. <br />We conclude that social context and wanting to belong are important influences for migrant learners, and emphasise the potential of MALL systems in encouraging engagement with physical and digital spaces and reflections about citizenship.</p>]]></description>
+          <pubDate>Wed, 14 Jun 2017 10:12:15 +0000</pubDate>
+            </item>
+                    <item>
+              <title>TCM Feedback: Location-based learning: Education in the wild </title>
+              <link>https://cloudworks.ac.uk/cloud/view/5804</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5804</guid>
+              <description><![CDATA[<p><strong>Abstract:</strong>&nbsp; The growth in personal mobile devices and the increasing ubiquity of Internet access has led to people accessing the Internet anywhere, at almost any place and time. We are continually on-the-go and demand that our technology keep pace with us. An emerging area of mobile computing is that of location-awareness, where our smartphones and PDAs utilise GPS or cell tower triangulation to provide location-based services and apps, direct to our devices, wherever we happen to be.</p>
+<p>This talk examines the potential of the mobile Internet to offer informal learning opportunities that are location-based and contextually relevant to the user. I will introduce some projects where the focus has been on learning whilst in location, drawing upon examples primarily from geography and history. I will also look at the possibility of using geolocated user-generated content as means of enabling peer learning and fostering asynchronous social interaction.</p>
+<p>As well as talking about these projects, I hope to inspire anyone else who might be thinking about introducing location-based learning into their line of work - formally or informally. I hope to also show the potential for non-work-based learning, through visits to the countryside, nature reserves or cultural heritage sites.</p>
+<p><strong>Presenter:</strong> Dr Elizabeth FitzGerald (IET)</p>
+<p><strong>Location: </strong>Jennie Lee Building Meeting Room 1 Ground Floor</p>
+<p><strong>Date: </strong>19 October 2011<br /><br /><strong>Twitter hashtag</strong>: <a title="Nick's suggestion - URL-encoding fail!!" href="http://twitter.com/search/#ouTCM">#ouTCM</a><br /><strong><br />Link to&nbsp;TCM 2011 Schedule:</strong> <a href="http://www.cloudworks.ac.uk/cloudscape/view/2107">http://www.cloudworks.ac.uk/cloudscape/view/2107</a></p>
+<p><a rel="nofollow" href="http://www.youtube.com/user/ietou"><strong>"TCM YouTube Podcasts"</strong></a></p>]]></description>
+          <pubDate>Tue, 04 Oct 2011 10:16:17 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

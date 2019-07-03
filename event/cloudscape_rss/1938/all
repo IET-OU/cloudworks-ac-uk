@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Cloudstream for Ascilite Learning Design Workshop</title>
+    <link>https://cloudworks.ac.uk/</link>
+	<description>Cloudstream for Ascilite Learning Design Workshop</description>
+	<dc:language>en</dc:language>
+	<dc:creator>cloudworks@open.ac.uk</dc:creator>
+	<dc:rights>Copyright 2019 </dc:rights>
+	<admin:generatorAgent>
+    <atom:link href="https://cloudworks.ac.uk/event/cloudscape_rss/1938" rel="self" type="application/rss+xml" />
+    		    <item>
+	      <title>&quot;The Pedagogy Profiler is a user-friendly and helpful tool. Thanks a million....new comment on the cloud Pedagogy profile/Activity profile by Helen Guerin</title>
+	      <link>https://cloudworks.ac.uk/#comment-8006</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8006</guid>
+	      <description><![CDATA[<strong>"The Pedagogy Profiler is a user-friendly and helpful tool. Thanks a million....</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2459">Pedagogy profile/Activity profile</a> by <a href="https://cloudworks.ac.uk/user/view/1215" rel="author">Helen Guerin</a></em>]]></description>
+	  	  <pubDate>Sat, 26 Jan 2013 17:18:31 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I&#39;ve just added a link to an updated Excel version. there are 3 worksheets &#39;Predict&#39;, &#39;As is&#39;, &#39;To...new comment on the cloud Pedagogy profile/Activity profile by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#comment-5902</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5902</guid>
+	      <description><![CDATA[<strong>"I've just added a link to an updated Excel version. there are 3 worksheets 'Predict', 'As is', 'To...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2459">Pedagogy profile/Activity profile</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 05 Mar 2012 09:53:20 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Pedagogy profile in Excel new link on Pedagogy profile/Activity profile added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-4724</link>
+	      <guid>https://cloudworks.ac.uk/#link-4724</guid>
+	      <description><![CDATA[<strong>Pedagogy profile in Excel </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2459">Pedagogy profile/Activity profile</a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 05 Mar 2012 09:51:14 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;Just added another interesting tool (via Tim Seal - thx Tim) called Balsamiq. Designed for teams to...new comment on the cloud Good examples of mindmapping in teaching? by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#comment-5577</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5577</guid>
+	      <description><![CDATA[<strong>"Just added another interesting tool (via Tim Seal - thx Tim) called Balsamiq. Designed for teams to...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Fri, 17 Jun 2011 09:20:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Balsamiq new link on Good examples of mindmapping in teaching? added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-4527</link>
+	      <guid>https://cloudworks.ac.uk/#link-4527</guid>
+	      <description><![CDATA[<strong>Balsamiq </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Fri, 17 Jun 2011 09:16:25 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;Just to say thanks for your contributions, I can now go off and explore those mentioned. I also...new comment on the cloud Good examples of mindmapping in teaching? by Maria Tannant</title>
+	      <link>https://cloudworks.ac.uk/#comment-5037</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5037</guid>
+	      <description><![CDATA[<strong>"Just to say thanks for your contributions, I can now go off and explore those mentioned. I also...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> by <a href="https://cloudworks.ac.uk/user/view/3903" rel="author">Maria Tannant</a></em>]]></description>
+	  	  <pubDate>Sun, 27 Mar 2011 10:31:43 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Overview of browser-based mindmapping applications new link on Good examples of mindmapping in teaching? added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-4296</link>
+	      <guid>https://cloudworks.ac.uk/#link-4296</guid>
+	      <description><![CDATA[<strong>Overview of browser-based mindmapping applications </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Fri, 11 Feb 2011 14:18:11 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Think  new link on Good examples of mindmapping in teaching? added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-2953</link>
+	      <guid>https://cloudworks.ac.uk/#link-2953</guid>
+	      <description><![CDATA[<strong>Think  </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 30 Mar 2010 16:18:25 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Flockdraw new link on Good examples of mindmapping in teaching? added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-2784</link>
+	      <guid>https://cloudworks.ac.uk/#link-2784</guid>
+	      <description><![CDATA[<strong>Flockdraw </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 15 Mar 2010 16:05:53 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Cacoo new link on Good examples of mindmapping in teaching? added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-2783</link>
+	      <guid>https://cloudworks.ac.uk/#link-2783</guid>
+	      <description><![CDATA[<strong>Cacoo </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 15 Mar 2010 16:05:22 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Bubbl.us new link on Good examples of mindmapping in teaching? added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-2782</link>
+	      <guid>https://cloudworks.ac.uk/#link-2782</guid>
+	      <description><![CDATA[<strong>Bubbl.us </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 15 Mar 2010 16:04:22 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Slatebox new link on Good examples of mindmapping in teaching? added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-2781</link>
+	      <guid>https://cloudworks.ac.uk/#link-2781</guid>
+	      <description><![CDATA[<strong>Slatebox </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 15 Mar 2010 16:02:52 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Wise mapping new link on Good examples of mindmapping in teaching? added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-2780</link>
+	      <guid>https://cloudworks.ac.uk/#link-2780</guid>
+	      <description><![CDATA[<strong>Wise mapping </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 15 Mar 2010 16:01:37 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Nine examples of free mindmaps that can be used collaboratively new link on Good examples of mindmapping in teaching? added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-2779</link>
+	      <guid>https://cloudworks.ac.uk/#link-2779</guid>
+	      <description><![CDATA[<strong>Nine examples of free mindmaps that can be used collaboratively </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 15 Mar 2010 16:00:15 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;I have been thinking for some time about the power of visual representations as part of the...new comment on the cloud Good examples of mindmapping in teaching? by Paul Clark</title>
+	      <link>https://cloudworks.ac.uk/#comment-3104</link>
+	      <guid>https://cloudworks.ac.uk/#comment-3104</guid>
+	      <description><![CDATA[<strong>"I have been thinking for some time about the power of visual representations as part of the...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> by <a href="https://cloudworks.ac.uk/user/view/9" rel="author">Paul Clark</a></em>]]></description>
+	  	  <pubDate>Tue, 09 Mar 2010 09:44:24 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Thanks Vic - must take a look when I have a mo, I certainly like FreeMind - very simple and...new comment on the cloud Good examples of mindmapping in teaching? by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-2920</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2920</guid>
+	      <description><![CDATA[<strong>"Thanks Vic - must take a look when I have a mo, I certainly like FreeMind - very simple and...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Thu, 04 Feb 2010 08:49:54 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-2919</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2919</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Thu, 04 Feb 2010 03:53:09 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Vic
+haven&#39;t come across Freeplane before - how is it different to FreeMind?...new comment on the cloud Good examples of mindmapping in teaching? by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-2916</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2916</guid>
+	      <description><![CDATA[<strong>"Hi Vic
+haven't come across Freeplane before - how is it different to FreeMind?...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Wed, 03 Feb 2010 20:35:50 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-2911</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2911</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Wed, 03 Feb 2010 14:35:36 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Thanks! Would welcome any futher thoughts you have on this, particularly if yu use them at all in...new comment on the cloud Resource: Five-category course map representation by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-2807</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2807</guid>
+	      <description><![CDATA[<strong>"Thanks! Would welcome any futher thoughts you have on this, particularly if yu use them at all in...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2481">Resource: Five-category course map representation</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Fri, 22 Jan 2010 12:12:31 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Wonderful job....new comment on the cloud Resource: Five-category course map representation by linsharon</title>
+	      <link>https://cloudworks.ac.uk/#comment-2805</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2805</guid>
+	      <description><![CDATA[<strong>"Wonderful job....</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2481">Resource: Five-category course map representation</a> by <a href="https://cloudworks.ac.uk/user/view/1780" rel="author">linsharon</a></em>]]></description>
+	  	  <pubDate>Thu, 21 Jan 2010 08:54:40 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Thanks for the live blog Sue - much appreciated!...new comment on the cloud Presentation: Conole Presentation  for the Ascilite Learning Design workshop by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-2556</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2556</guid>
+	      <description><![CDATA[<strong>"Thanks for the live blog Sue - much appreciated!...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2749">Presentation: Conole Presentation  for the Ascilite Learning Design workshop</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sun, 06 Dec 2009 20:01:48 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Yep it makes a big difference doesnt it and its amazing how much rich content and discussion you...new comment on the cloud Presentation: Conole Presentation  for the Ascilite Learning Design workshop by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-2555</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2555</guid>
+	      <description><![CDATA[<strong>"Yep it makes a big difference doesnt it and its amazing how much rich content and discussion you...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2749">Presentation: Conole Presentation  for the Ascilite Learning Design workshop</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sun, 06 Dec 2009 20:01:23 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Action plan
+
+Keep up the sharing!
+Need to think more about representation of learning designs......&quot;new content on Evaluation: Ascilite workshop evaluation and action plan by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#content-351</link>
+	      <guid>https://cloudworks.ac.uk/#content-351</guid>
+	      <description><![CDATA[<strong>Action plan
+
+Keep up the sharing!
+Need to think more about representation of learning designs......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/2701">Evaluation: Ascilite workshop evaluation and action plan</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sun, 06 Dec 2009 18:24:36 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Three words to describe cloudworks
+
+Conducive, collaborative, clarity
+Clear, concise,......&quot;new content on Evaluation: Ascilite workshop evaluation and action plan by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#content-350</link>
+	      <guid>https://cloudworks.ac.uk/#content-350</guid>
+	      <description><![CDATA[<strong>Three words to describe cloudworks
+
+Conducive, collaborative, clarity
+Clear, concise,......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/2701">Evaluation: Ascilite workshop evaluation and action plan</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sun, 06 Dec 2009 18:24:22 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Three words to describe the workshop and the representations
+
+Too fast, useful good intro to info......&quot;new content on Evaluation: Ascilite workshop evaluation and action plan by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#content-349</link>
+	      <guid>https://cloudworks.ac.uk/#content-349</guid>
+	      <description><![CDATA[<strong>Three words to describe the workshop and the representations
+
+Too fast, useful good intro to info......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/2701">Evaluation: Ascilite workshop evaluation and action plan</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sun, 06 Dec 2009 18:24:05 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Didn’t like, what could be improved
+
+A bit too much in the time
+Over emphasis on tools
+Have......&quot;new content on Evaluation: Ascilite workshop evaluation and action plan by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#content-348</link>
+	      <guid>https://cloudworks.ac.uk/#content-348</guid>
+	      <description><![CDATA[<strong>Didn&rsquo;t like, what could be improved
+
+A bit too much in the time
+Over emphasis on tools
+Have......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/2701">Evaluation: Ascilite workshop evaluation and action plan</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sun, 06 Dec 2009 18:23:49 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Liked 
+
+New ideas, could discuss these with colleagues on how we could apply them
+Fresh perspective......&quot;new content on Evaluation: Ascilite workshop evaluation and action plan by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#content-347</link>
+	      <guid>https://cloudworks.ac.uk/#content-347</guid>
+	      <description><![CDATA[<strong>Liked 
+
+New ideas, could discuss these with colleagues on how we could apply them
+Fresh perspective......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/2701">Evaluation: Ascilite workshop evaluation and action plan</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sun, 06 Dec 2009 18:23:22 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Format
+
+Access to rich source of tools and liked the introduction to cloudworks
+Useful workshop,......&quot;new content on Evaluation: Ascilite workshop evaluation and action plan by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#content-346</link>
+	      <guid>https://cloudworks.ac.uk/#content-346</guid>
+	      <description><![CDATA[<strong>Format
+
+Access to rich source of tools and liked the introduction to cloudworks
+Useful workshop,......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/2701">Evaluation: Ascilite workshop evaluation and action plan</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sun, 06 Dec 2009 18:22:59 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>The Future of Learning Design Conference at UOW new link on Presentation: Bennett and Agostinho: Learning Design Workshop  added by Sue Bennett</title>
+	      <link>https://cloudworks.ac.uk/#link-2070</link>
+	      <guid>https://cloudworks.ac.uk/#link-2070</guid>
+	      <description><![CDATA[<strong>The Future of Learning Design Conference at UOW </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2752">Presentation: Bennett and Agostinho: Learning Design Workshop </a> added by <a href="https://cloudworks.ac.uk/user/view/240" rel="author">Sue Bennett</a></em>]]></description>
+	  	  <pubDate>Sun, 06 Dec 2009 02:37:00 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Grainne provided a brief introduction to the learning design work at the OU.
+Because we couldn&#39;t......&quot;new content on Presentation: Conole Presentation  for the Ascilite Learning Design workshop by Sue Bennett</title>
+	      <link>https://cloudworks.ac.uk/#content-345</link>
+	      <guid>https://cloudworks.ac.uk/#content-345</guid>
+	      <description><![CDATA[<strong>Grainne provided a brief introduction to the learning design work at the OU.
+Because we couldn't......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/2749">Presentation: Conole Presentation  for the Ascilite Learning Design workshop</a> by <a href="https://cloudworks.ac.uk/user/view/240" rel="author">Sue Bennett</a></em>]]></description>
+	  	  <pubDate>Sun, 06 Dec 2009 02:34:57 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>&quot;I love that I can access this while I am listening to you present it. And I can still write down...new comment on the cloud Presentation: Conole Presentation  for the Ascilite Learning Design workshop by Julia Hallas</title>
+	      <link>https://cloudworks.ac.uk/#comment-2550</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2550</guid>
+	      <description><![CDATA[<strong>"I love that I can access this while I am listening to you present it. And I can still write down...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2749">Presentation: Conole Presentation  for the Ascilite Learning Design workshop</a> by <a href="https://cloudworks.ac.uk/user/view/1642" rel="author">Julia Hallas</a></em>]]></description>
+	  	  <pubDate>Sun, 06 Dec 2009 02:19:05 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Conole, G., Brasher, A., Cross, S., Weller, M., Clark, P. and White, J. (2008), Visualising......&quot; reference added to the cloud Presentation: Conole Presentation  for the Ascilite Learning Design workshop by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#reference-238</link>
+	      <guid>https://cloudworks.ac.uk/#reference-238</guid>
+	      <description><![CDATA[<strong>"Conole, G., Brasher, A., Cross, S., Weller, M., Clark, P. and White, J. (2008), Visualising......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2749">Presentation: Conole Presentation  for the Ascilite Learning Design workshop</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sun, 06 Dec 2009 01:16:22 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Conole, G. (2009), ‘Capturing and representing practice’, in A. Tait, M. Vidal, U. Bernath and......&quot; reference added to the cloud Presentation: Conole Presentation  for the Ascilite Learning Design workshop by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#reference-237</link>
+	      <guid>https://cloudworks.ac.uk/#reference-237</guid>
+	      <description><![CDATA[<strong>"Conole, G. (2009), ‘Capturing and representing practice’, in A. Tait, M. Vidal, U. Bernath and......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2749">Presentation: Conole Presentation  for the Ascilite Learning Design workshop</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sun, 06 Dec 2009 01:15:34 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Conole and Culver (2009), Cloudworks: social networking for learning design,  Australian Journal of......&quot; reference added to the cloud Presentation: Conole Presentation  for the Ascilite Learning Design workshop by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#reference-236</link>
+	      <guid>https://cloudworks.ac.uk/#reference-236</guid>
+	      <description><![CDATA[<strong>"Conole and Culver (2009), Cloudworks: social networking for learning design,  Australian Journal of......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2749">Presentation: Conole Presentation  for the Ascilite Learning Design workshop</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sun, 06 Dec 2009 01:15:06 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Conole, G. and Culver, J. (2009), The design of Cloudworks: applying social networking practice to......&quot; reference added to the cloud Presentation: Conole Presentation  for the Ascilite Learning Design workshop by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#reference-235</link>
+	      <guid>https://cloudworks.ac.uk/#reference-235</guid>
+	      <description><![CDATA[<strong>"Conole, G. and Culver, J. (2009), The design of Cloudworks: applying social networking practice to......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2749">Presentation: Conole Presentation  for the Ascilite Learning Design workshop</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sun, 06 Dec 2009 01:14:44 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>Plenary feedback
+When you looked through the six designs, did you understand them, what did you......&quot;new content on Presentation: Bennett and Agostinho: Learning Design Workshop  by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#content-344</link>
+	      <guid>https://cloudworks.ac.uk/#content-344</guid>
+	      <description><![CDATA[<strong>Plenary feedback
+When you looked through the six designs, did you understand them, what did you......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/2752">Presentation: Bennett and Agostinho: Learning Design Workshop </a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sun, 06 Dec 2009 00:51:45 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>OU Learning Design Initiative new link on Presentation: Conole Presentation  for the Ascilite Learning Design workshop added by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#link-2069</link>
+	      <guid>https://cloudworks.ac.uk/#link-2069</guid>
+	      <description><![CDATA[<strong>OU Learning Design Initiative </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2749">Presentation: Conole Presentation  for the Ascilite Learning Design workshop</a> added by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sun, 06 Dec 2009 00:32:08 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;Bennett, S., Agostinho, S., Lockyer, L. and Harper, B. (2009), Learning Design, Special Issue,......&quot; reference added to the cloud Presentation: Bennett and Agostinho: Learning Design Workshop  by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#reference-234</link>
+	      <guid>https://cloudworks.ac.uk/#reference-234</guid>
+	      <description><![CDATA[<strong>"Bennett, S., Agostinho, S., Lockyer, L. and Harper, B. (2009), Learning Design, Special Issue,......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2752">Presentation: Bennett and Agostinho: Learning Design Workshop </a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sun, 06 Dec 2009 00:30:52 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Bennett, S., Agostinho, S., Lockyer, L. and Harper, B. (2009), Learning Design, Special Issue,......&quot; reference added to the cloud Presentation: Bennett and Agostinho: Learning Design Workshop  by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#reference-233</link>
+	      <guid>https://cloudworks.ac.uk/#reference-233</guid>
+	      <description><![CDATA[<strong>"Bennett, S., Agostinho, S., Lockyer, L. and Harper, B. (2009), Learning Design, Special Issue,......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2752">Presentation: Bennett and Agostinho: Learning Design Workshop </a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sun, 06 Dec 2009 00:30:23 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>Special issue of Distance Education on Learning Design new link on Presentation: Bennett and Agostinho: Learning Design Workshop  added by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#link-2068</link>
+	      <guid>https://cloudworks.ac.uk/#link-2068</guid>
+	      <description><![CDATA[<strong>Special issue of Distance Education on Learning Design </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2752">Presentation: Bennett and Agostinho: Learning Design Workshop </a> added by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sun, 06 Dec 2009 00:30:04 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Handbook of Research on Learning Design and Learning Objects new link on Presentation: Bennett and Agostinho: Learning Design Workshop  added by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#link-2067</link>
+	      <guid>https://cloudworks.ac.uk/#link-2067</guid>
+	      <description><![CDATA[<strong>Handbook of Research on Learning Design and Learning Objects </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2752">Presentation: Bennett and Agostinho: Learning Design Workshop </a> added by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sun, 06 Dec 2009 00:29:35 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>AUTC Learning Design project new link on Presentation: Bennett and Agostinho: Learning Design Workshop  added by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#link-2066</link>
+	      <guid>https://cloudworks.ac.uk/#link-2066</guid>
+	      <description><![CDATA[<strong>AUTC Learning Design project </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2752">Presentation: Bennett and Agostinho: Learning Design Workshop </a> added by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sun, 06 Dec 2009 00:29:13 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Sue and Shirley gave a brief introduction to the concept of learning design and the work that they......&quot;new content on Presentation: Bennett and Agostinho: Learning Design Workshop  by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#content-343</link>
+	      <guid>https://cloudworks.ac.uk/#content-343</guid>
+	      <description><![CDATA[<strong>Sue and Shirley gave a brief introduction to the concept of learning design and the work that they......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/2752">Presentation: Bennett and Agostinho: Learning Design Workshop </a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sun, 06 Dec 2009 00:28:29 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud Presentation: Bennett and Agostinho: Learning Design Workshop  by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#embed-163</link>
+	      <guid>https://cloudworks.ac.uk/#embed-163</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2752">Presentation: Bennett and Agostinho: Learning Design Workshop </a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sat, 05 Dec 2009 23:21:07 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Presentation: Bennett and Agostinho: Learning Design Workshop cloud added to the cloudscape Ascilite Learning Design Workshop</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2752">Presentation: Bennett and Agostinho: Learning Design Workshop </a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1938">Ascilite Learning Design Workshop</a></em>]]></description>
+	  	  <pubDate>Sat, 05 Dec 2009 23:20:38 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Activity: Exploring different representationscloud added to the cloudscape Ascilite Learning Design Workshop</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2751">Activity: Exploring different representations</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1938">Ascilite Learning Design Workshop</a></em>]]></description>
+	  	  <pubDate>Sat, 05 Dec 2009 23:16:40 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Presentation: Conole Presentation  for the Ascilite Learning Design workshopcloud added to the cloudscape Ascilite Learning Design Workshop</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2749">Presentation: Conole Presentation  for the Ascilite Learning Design workshop</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1938">Ascilite Learning Design Workshop</a></em>]]></description>
+	  	  <pubDate>Sat, 05 Dec 2009 18:33:04 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud Presentation: Conole Presentation  for the Ascilite Learning Design workshop by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#embed-162</link>
+	      <guid>https://cloudworks.ac.uk/#embed-162</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2749">Presentation: Conole Presentation  for the Ascilite Learning Design workshop</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sat, 05 Dec 2009 18:32:53 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>We have also been using Cmap to describe meso-level designs, i.e. essentially blocks of learning......&quot;new content on Resource: Cmap concept mapping tool by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#content-341</link>
+	      <guid>https://cloudworks.ac.uk/#content-341</guid>
+	      <description><![CDATA[<strong>We have also been using Cmap to describe meso-level designs, i.e. essentially blocks of learning......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/2748">Resource: Cmap concept mapping tool</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sat, 05 Dec 2009 18:12:29 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Resource: Cmap concept mapping toolcloud added to the cloudscape Ascilite Learning Design Workshop</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2748">Resource: Cmap concept mapping tool</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1938">Ascilite Learning Design Workshop</a></em>]]></description>
+	  	  <pubDate>Sat, 05 Dec 2009 18:11:27 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Cmap website new link on Resource: Cmap concept mapping tool added by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#link-2061</link>
+	      <guid>https://cloudworks.ac.uk/#link-2061</guid>
+	      <description><![CDATA[<strong>Cmap website </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2748">Resource: Cmap concept mapping tool</a> added by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sat, 05 Dec 2009 18:10:01 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Good examples of mindmapping in teaching?cloud added to the cloudscape Ascilite Learning Design Workshop</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1938">Ascilite Learning Design Workshop</a></em>]]></description>
+	  	  <pubDate>Sat, 05 Dec 2009 17:55:54 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Resource: Task swim-line representationcloud added to the cloudscape Ascilite Learning Design Workshop</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2484">Resource: Task swim-line representation</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1938">Ascilite Learning Design Workshop</a></em>]]></description>
+	  	  <pubDate>Sat, 05 Dec 2009 17:54:38 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Tool: CompendiumLDcloud added to the cloudscape Ascilite Learning Design Workshop</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/391">Tool: CompendiumLD</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1938">Ascilite Learning Design Workshop</a></em>]]></description>
+	  	  <pubDate>Sat, 05 Dec 2009 17:54:14 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Pedagogy profile/Activity profilecloud added to the cloudscape Ascilite Learning Design Workshop</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2459">Pedagogy profile/Activity profile</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1938">Ascilite Learning Design Workshop</a></em>]]></description>
+	  	  <pubDate>Sat, 05 Dec 2009 17:53:53 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Resource: Five-category course map representationcloud added to the cloudscape Ascilite Learning Design Workshop</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2481">Resource: Five-category course map representation</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1938">Ascilite Learning Design Workshop</a></em>]]></description>
+	  	  <pubDate>Sat, 05 Dec 2009 17:53:20 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>We have been using both CompendiumLD and Cmap.
+
+CompendiumLD is using for describing micro-level......&quot;new content on Good examples of mindmapping in teaching? by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#content-340</link>
+	      <guid>https://cloudworks.ac.uk/#content-340</guid>
+	      <description><![CDATA[<strong>We have been using both CompendiumLD and Cmap.
+
+CompendiumLD is using for describing micro-level......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sat, 05 Dec 2009 17:52:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Activity: Ascilite workshop cloudquest challengecloud added to the cloudscape Ascilite Learning Design Workshop</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2702">Activity: Ascilite workshop cloudquest challenge</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1938">Ascilite Learning Design Workshop</a></em>]]></description>
+	  	  <pubDate>Wed, 25 Nov 2009 13:06:25 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Evaluation: Ascilite workshop evaluation and action plancloud added to the cloudscape Ascilite Learning Design Workshop</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2701">Evaluation: Ascilite workshop evaluation and action plan</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1938">Ascilite Learning Design Workshop</a></em>]]></description>
+	  	  <pubDate>Wed, 25 Nov 2009 13:01:31 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;I found that I couldn&#39;t embed a table in here so my comments are in my TiddlyWiki in a section...new comment on the cloud Pedagogy profile/Activity profile by Mark Pearson</title>
+	      <link>https://cloudworks.ac.uk/#comment-2116</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2116</guid>
+	      <description><![CDATA[<strong>"I found that I couldn't embed a table in here so my comments are in my TiddlyWiki in a section...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2459">Pedagogy profile/Activity profile</a> by <a href="https://cloudworks.ac.uk/user/view/631" rel="author">Mark Pearson</a></em>]]></description>
+	  	  <pubDate>Tue, 03 Nov 2009 15:56:11 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>comapping new link on Good examples of mindmapping in teaching? added by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#link-1601</link>
+	      <guid>https://cloudworks.ac.uk/#link-1601</guid>
+	      <description><![CDATA[<strong>comapping </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> added by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sun, 25 Oct 2009 17:55:38 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Pedegogical profile widget new link on Pedagogy profile/Activity profile added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-1526</link>
+	      <guid>https://cloudworks.ac.uk/#link-1526</guid>
+	      <description><![CDATA[<strong>Pedegogical profile widget </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2459">Pedagogy profile/Activity profile</a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Thu, 22 Oct 2009 10:16:13 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>go.comapping new link on Good examples of mindmapping in teaching? added by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#link-1519</link>
+	      <guid>https://cloudworks.ac.uk/#link-1519</guid>
+	      <description><![CDATA[<strong>go.comapping </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> added by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Wed, 21 Oct 2009 22:19:42 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>The Brain new link on Good examples of mindmapping in teaching? added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-1412</link>
+	      <guid>https://cloudworks.ac.uk/#link-1412</guid>
+	      <description><![CDATA[<strong>The Brain </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 13 Oct 2009 15:08:48 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Task swim-line representation examplenew embedded content added to the cloud Resource: Task swim-line representation by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#embed-58</link>
+	      <guid>https://cloudworks.ac.uk/#embed-58</guid>
+	      <description><![CDATA[<strong>Task swim-line representation example</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2484">Resource: Task swim-line representation</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Mon, 12 Oct 2009 17:57:36 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Course map representation: 3D version new embedded content added to the cloud Resource: Five-category course map representation by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#embed-54</link>
+	      <guid>https://cloudworks.ac.uk/#embed-54</guid>
+	      <description><![CDATA[<strong>Course map representation: 3D version </strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2481">Resource: Five-category course map representation</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Mon, 12 Oct 2009 17:25:46 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Course map representation: 2D version for the KE312 coursenew embedded content added to the cloud Resource: Five-category course map representation by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#embed-53</link>
+	      <guid>https://cloudworks.ac.uk/#embed-53</guid>
+	      <description><![CDATA[<strong>Course map representation: 2D version for the KE312 course</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2481">Resource: Five-category course map representation</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Mon, 12 Oct 2009 17:25:20 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Course map representation: as a tablenew embedded content added to the cloud Resource: Five-category course map representation by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#embed-52</link>
+	      <guid>https://cloudworks.ac.uk/#embed-52</guid>
+	      <description><![CDATA[<strong>Course map representation: as a table</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2481">Resource: Five-category course map representation</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Mon, 12 Oct 2009 17:24:45 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>This is an experimental tool we are developing, we would really welcome feedback on it.......&quot;new content on Pedagogy profile/Activity profile by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#content-155</link>
+	      <guid>https://cloudworks.ac.uk/#content-155</guid>
+	      <description><![CDATA[<strong>This is an experimental tool we are developing, we would really welcome feedback on it......."</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/2459">Pedagogy profile/Activity profile</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sun, 11 Oct 2009 09:30:36 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Screenshot of the pedagogy profile widgetnew embedded content added to the cloud Pedagogy profile/Activity profile by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#embed-46</link>
+	      <guid>https://cloudworks.ac.uk/#embed-46</guid>
+	      <description><![CDATA[<strong>Screenshot of the pedagogy profile widget</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2459">Pedagogy profile/Activity profile</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sun, 11 Oct 2009 09:27:34 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Mindomo new link on Good examples of mindmapping in teaching? added by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#link-1365</link>
+	      <guid>https://cloudworks.ac.uk/#link-1365</guid>
+	      <description><![CDATA[<strong>Mindomo </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> added by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sun, 11 Oct 2009 08:10:51 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;Conole, G. (2007), ‘Describing learning activities: tools and resources to guide practice’ in......&quot; reference added to the cloud Pedagogy profile/Activity profile by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#reference-114</link>
+	      <guid>https://cloudworks.ac.uk/#reference-114</guid>
+	      <description><![CDATA[<strong>"Conole, G. (2007), ‘Describing learning activities: tools and resources to guide practice’ in......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2459">Pedagogy profile/Activity profile</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Fri, 09 Oct 2009 16:49:48 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Conole, G. (2008) ‘Capturing practice: the role of mediating artefacts in learning design’, in......&quot; reference added to the cloud Pedagogy profile/Activity profile by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#reference-113</link>
+	      <guid>https://cloudworks.ac.uk/#reference-113</guid>
+	      <description><![CDATA[<strong>"Conole, G. (2008) ‘Capturing practice: the role of mediating artefacts in learning design’, in......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/2459">Pedagogy profile/Activity profile</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Fri, 09 Oct 2009 16:49:17 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>Open source mindmapping tool new link on Good examples of mindmapping in teaching? added by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#link-1303</link>
+	      <guid>https://cloudworks.ac.uk/#link-1303</guid>
+	      <description><![CDATA[<strong>Open source mindmapping tool </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> added by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Thu, 08 Oct 2009 08:25:36 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;http://www.xmind.net/ open source  mind mapping tool...new comment on the cloud Good examples of mindmapping in teaching? by Andrew Brasher</title>
+	      <link>https://cloudworks.ac.uk/#comment-3206</link>
+	      <guid>https://cloudworks.ac.uk/#comment-3206</guid>
+	      <description><![CDATA[<strong>"http://www.xmind.net/ open source&nbsp; mind mapping tool...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> by <a href="https://cloudworks.ac.uk/user/view/6" rel="author">Andrew Brasher</a></em>]]></description>
+	  	  <pubDate>Thu, 08 Oct 2009 08:23:43 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;yes, when you are trying to acheive(assess) high PG level learning outcomes, it would be easy to...new comment on the cloud Good examples of mindmapping in teaching? by jen harvey</title>
+	      <link>https://cloudworks.ac.uk/#comment-1346</link>
+	      <guid>https://cloudworks.ac.uk/#comment-1346</guid>
+	      <description><![CDATA[<strong>"yes, when you are trying to acheive(assess) high PG level learning outcomes, it would be easy to...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> by <a href="https://cloudworks.ac.uk/user/view/1134" rel="author">jen harvey</a></em>]]></description>
+	  	  <pubDate>Sat, 12 Sep 2009 14:03:24 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Sounds really interesting Jen - would be good to hear more from others about how they have used...new comment on the cloud Good examples of mindmapping in teaching? by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-1342</link>
+	      <guid>https://cloudworks.ac.uk/#comment-1342</guid>
+	      <description><![CDATA[<strong>"Sounds really interesting Jen - would be good to hear more from others about how they have used...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sat, 12 Sep 2009 10:06:41 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;This is all really useful. I&#39;ve now got an extensive range of options from which my students can...new comment on the cloud Good examples of mindmapping in teaching? by jen harvey</title>
+	      <link>https://cloudworks.ac.uk/#comment-1339</link>
+	      <guid>https://cloudworks.ac.uk/#comment-1339</guid>
+	      <description><![CDATA[<strong>"This is all really useful. I've now got an extensive range of options from which my students can...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> by <a href="https://cloudworks.ac.uk/user/view/1134" rel="author">jen harvey</a></em>]]></description>
+	  	  <pubDate>Sat, 12 Sep 2009 09:56:02 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;we will , the summer holidas are over so we will be back in the schools soon. Basically are project...new comment on the cloud Good examples of mindmapping in teaching? by maarten de laat</title>
+	      <link>https://cloudworks.ac.uk/#comment-1292</link>
+	      <guid>https://cloudworks.ac.uk/#comment-1292</guid>
+	      <description><![CDATA[<strong>"we will , the summer holidas are over so we will be back in the schools soon. Basically are project...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> by <a href="https://cloudworks.ac.uk/user/view/1123" rel="author">maarten de laat</a></em>]]></description>
+	  	  <pubDate>Thu, 10 Sep 2009 12:49:41 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Just analysing some data from a recent Olnet workshop we ran and the following quote struck me in...new comment on the cloud Good examples of mindmapping in teaching? by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-1291</link>
+	      <guid>https://cloudworks.ac.uk/#comment-1291</guid>
+	      <description><![CDATA[<strong>"Just analysing some data from a recent Olnet workshop we ran and the following quote struck me in...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Thu, 10 Sep 2009 10:22:08 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Collaborative mindmap tools from Web2Access site new link on Good examples of mindmapping in teaching? added by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#link-790</link>
+	      <guid>https://cloudworks.ac.uk/#link-790</guid>
+	      <description><![CDATA[<strong>Collaborative mindmap tools from Web2Access site </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> added by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Thu, 10 Sep 2009 10:06:22 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Spicy nodes mindmap presentation tool new link on Good examples of mindmapping in teaching? added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-756</link>
+	      <guid>https://cloudworks.ac.uk/#link-756</guid>
+	      <description><![CDATA[<strong>Spicy nodes mindmap presentation tool </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Wed, 09 Sep 2009 12:57:08 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;Sounds really interesting Maartin, Will be interested to hear how you got on in your current study...new comment on the cloud Good examples of mindmapping in teaching? by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-1260</link>
+	      <guid>https://cloudworks.ac.uk/#comment-1260</guid>
+	      <description><![CDATA[<strong>"Sounds really interesting Maartin, Will be interested to hear how you got on in your current study...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Wed, 09 Sep 2009 12:21:04 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Video on the use of the brain (in Dutch) new link on Good examples of mindmapping in teaching? added by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#link-753</link>
+	      <guid>https://cloudworks.ac.uk/#link-753</guid>
+	      <description><![CDATA[<strong>Video on the use of the brain (in Dutch) </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> added by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Wed, 09 Sep 2009 12:19:59 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;thanks for the list grainne. I saw you mentioned the brain. I think it is a great tool because of...new comment on the cloud Good examples of mindmapping in teaching? by maarten de laat</title>
+	      <link>https://cloudworks.ac.uk/#comment-1259</link>
+	      <guid>https://cloudworks.ac.uk/#comment-1259</guid>
+	      <description><![CDATA[<strong>"thanks for the list grainne. I saw you mentioned the brain. I think it is a great tool because of...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> by <a href="https://cloudworks.ac.uk/user/view/1123" rel="author">maarten de laat</a></em>]]></description>
+	  	  <pubDate>Wed, 09 Sep 2009 12:09:57 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Cmap new link on Good examples of mindmapping in teaching? added by Giota Alevizou</title>
+	      <link>https://cloudworks.ac.uk/#link-731</link>
+	      <guid>https://cloudworks.ac.uk/#link-731</guid>
+	      <description><![CDATA[<strong>Cmap </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> added by <a href="https://cloudworks.ac.uk/user/view/1003" rel="author">Giota Alevizou</a></em>]]></description>
+	  	  <pubDate>Tue, 08 Sep 2009 16:33:29 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;Brilliant! thanks for the link to exploratree Mary - hadn&#39;t come across that before, looks really...new comment on the cloud Good examples of mindmapping in teaching? by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-1220</link>
+	      <guid>https://cloudworks.ac.uk/#comment-1220</guid>
+	      <description><![CDATA[<strong>"Brilliant! thanks for the link to exploratree Mary - hadn't come across that before, looks really...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Tue, 08 Sep 2009 09:34:35 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Exploratree website new link on Good examples of mindmapping in teaching? added by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#link-696</link>
+	      <guid>https://cloudworks.ac.uk/#link-696</guid>
+	      <description><![CDATA[<strong>Exploratree website </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> added by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Tue, 08 Sep 2009 09:33:48 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Some useful tools on this site:
+http://www.exploratree.org.uk/......&quot;new content on Good examples of mindmapping in teaching? by merv stapleton</title>
+	      <link>https://cloudworks.ac.uk/#content-12</link>
+	      <guid>https://cloudworks.ac.uk/#content-12</guid>
+	      <description><![CDATA[<strong>Some useful tools on this site:
+http://www.exploratree.org.uk/......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> by <a href="https://cloudworks.ac.uk/user/view/1079" rel="author">merv stapleton</a></em>]]></description>
+	  	  <pubDate>Tue, 08 Sep 2009 09:31:16 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>It seems to me mindmaps, like the ones Simon Smith has produced have a number of uses:
+
+For the......&quot;new content on Good examples of mindmapping in teaching? by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#content-9</link>
+	      <guid>https://cloudworks.ac.uk/#content-9</guid>
+	      <description><![CDATA[<strong>It seems to me mindmaps, like the ones Simon Smith has produced have a number of uses:
+
+For the......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Mon, 07 Sep 2009 12:33:12 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Simon Smith has produced a range of excellent mindmaps as part of the Spanish En Rumbo course. For......&quot;new content on Good examples of mindmapping in teaching? by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#content-7</link>
+	      <guid>https://cloudworks.ac.uk/#content-7</guid>
+	      <description><![CDATA[<strong>Simon Smith has produced a range of excellent mindmaps as part of the Spanish En Rumbo course. For......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Mon, 07 Sep 2009 12:30:47 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>&quot;I&#39;m currently using Freemind to prepare for my Spanish oral exam. It&#39;s intersting to map out the...new comment on the cloud Good examples of mindmapping in teaching? by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-1198</link>
+	      <guid>https://cloudworks.ac.uk/#comment-1198</guid>
+	      <description><![CDATA[<strong>"I'm currently using Freemind to prepare for my Spanish oral exam. It's intersting to map out the...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Mon, 07 Sep 2009 12:26:56 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Giota
+I like freemind too and i like the way you can inport freemind into Mind42 which is good...new comment on the cloud Good examples of mindmapping in teaching? by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-1184</link>
+	      <guid>https://cloudworks.ac.uk/#comment-1184</guid>
+	      <description><![CDATA[<strong>"Hi Giota
+I like freemind too and i like the way you can inport freemind into Mind42 which is good...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Fri, 04 Sep 2009 11:47:50 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>The brain new link on Good examples of mindmapping in teaching? added by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#link-484</link>
+	      <guid>https://cloudworks.ac.uk/#link-484</guid>
+	      <description><![CDATA[<strong>The brain </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> added by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Fri, 04 Sep 2009 11:46:53 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>iMindmap new link on Good examples of mindmapping in teaching? added by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#link-483</link>
+	      <guid>https://cloudworks.ac.uk/#link-483</guid>
+	      <description><![CDATA[<strong>iMindmap </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> added by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Fri, 04 Sep 2009 11:46:29 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Cohere new link on Good examples of mindmapping in teaching? added by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#link-482</link>
+	      <guid>https://cloudworks.ac.uk/#link-482</guid>
+	      <description><![CDATA[<strong>Cohere </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> added by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Fri, 04 Sep 2009 11:45:43 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;I used Freemind in some of my classes as an interactive tool to invite postgrad students make...new comment on the cloud Good examples of mindmapping in teaching? by Giota Alevizou</title>
+	      <link>https://cloudworks.ac.uk/#comment-1183</link>
+	      <guid>https://cloudworks.ac.uk/#comment-1183</guid>
+	      <description><![CDATA[<strong>"I used Freemind in some of my classes as an interactive tool to invite postgrad students make...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> by <a href="https://cloudworks.ac.uk/user/view/1003" rel="author">Giota Alevizou</a></em>]]></description>
+	  	  <pubDate>Fri, 04 Sep 2009 11:45:31 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Prezi new link on Good examples of mindmapping in teaching? added by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#link-481</link>
+	      <guid>https://cloudworks.ac.uk/#link-481</guid>
+	      <description><![CDATA[<strong>Prezi </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> added by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Fri, 04 Sep 2009 11:44:58 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Mindmanager new link on Good examples of mindmapping in teaching? added by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#link-480</link>
+	      <guid>https://cloudworks.ac.uk/#link-480</guid>
+	      <description><![CDATA[<strong>Mindmanager </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2201">Good examples of mindmapping in teaching?</a> added by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Fri, 04 Sep 2009 11:44:28 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+	    </channel>
+</rss>

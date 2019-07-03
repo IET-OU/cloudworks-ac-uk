@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Cloudstream for a&#45;mestrar  </title>
+    <link>https://cloudworks.ac.uk/</link>
+	<description>Cloudstream for a&#45;mestrar  </description>
+	<dc:language>en</dc:language>
+	<dc:creator>cloudworks@open.ac.uk</dc:creator>
+	<dc:rights>Copyright 2019 </dc:rights>
+	<admin:generatorAgent>
+    <atom:link href="https://cloudworks.ac.uk/event/cloudscape_rss/2672" rel="self" type="application/rss+xml" />
+    		    <item>
+	      <title>&quot;I think you have a wonderful idea ! Its&#39; important to learn from each others and discussion was, is...new comment on the cloud Nathalie&#39;s initial dream-project scenario: Intergenerational discussion of &quot;What values for the twenty one century&quot; by sila heuk</title>
+	      <link>https://cloudworks.ac.uk/#comment-11445</link>
+	      <guid>https://cloudworks.ac.uk/#comment-11445</guid>
+	      <description><![CDATA[<strong>"I think you have a wonderful idea ! Its' important to learn from each others and discussion was, is...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7782">Nathalie's initial dream-project scenario: Intergenerational discussion of "What values for the twenty one century"</a> by <a href="https://cloudworks.ac.uk/user/view/9974" rel="author">sila heuk</a></em>]]></description>
+	  	  <pubDate>Fri, 03 Mar 2017 14:26:12 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Nathalie&#39;s initial dream-project scenario: Intergenerational discussion of &quot;What values for the twenty one century&quot;cloud added to the cloudscape a-mestrar   by Nathalie Sylvie Caroline Ferret</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7782">Nathalie's initial dream-project scenario: Intergenerational discussion of "What values for the twenty one century"</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2672">a-mestrar  </a> by <a href="https://cloudworks.ac.uk/user/view/5446" rel="author">Nathalie Sylvie Caroline Ferret</a></em>]]></description>
+	  	  <pubDate>Fri, 25 Jan 2013 12:04:19 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Week 1 (OLDS_MOOC)  - My balance cloud added to the cloudscape a-mestrar   by Carlos Mouta Raposo</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7070">Week 1 (OLDS_MOOC)  - My balance </a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2672">a-mestrar  </a> by <a href="https://cloudworks.ac.uk/user/view/5480" rel="author">Carlos Mouta Raposo</a></em>]]></description>
+	  	  <pubDate>Fri, 11 Jan 2013 22:17:53 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Well! I should call it first days balance instead  first week!
+But the felling is still the......&quot;new content on Week 1 (OLDS_MOOC)  - My balance  by Carlos Mouta Raposo</title>
+	      <link>https://cloudworks.ac.uk/#content-1688</link>
+	      <guid>https://cloudworks.ac.uk/#content-1688</guid>
+	      <description><![CDATA[<strong>Well! I should call it first days balance instead &nbsp;first week!
+But the felling is still the......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/7070">Week 1 (OLDS_MOOC)  - My balance </a> by <a href="https://cloudworks.ac.uk/user/view/5480" rel="author">Carlos Mouta Raposo</a></em>]]></description>
+	  	  <pubDate>Thu, 01 Jan 1970 00:33:32 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+	    </channel>
+</rss>

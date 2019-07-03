@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: #emerg12</title>
+        <link>https://cloudworks.ac.uk/tag/rss/%23emerg12</link>
+        <atom:link href="https://cloudworks.ac.uk/tag/rss/%23emerg12" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds tagged #emerg12</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>Gaspar Amaral - OLDS MOOC 2013 - My dream project: Learning design for Web 3.0 </title>
+              <link>https://cloudworks.ac.uk/cloud/view/7807</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7807</guid>
+              <description><![CDATA[<p>Learning design for Web 3.0, where the university allows the VLE is in range of PLE in preparation for sustainability&nbsp;of citizenship</p>
+<p>The Internet has moved from Web 2.0 to <strong>Web 3.0</strong> and the&nbsp;educational indicators arise from databases that intersect to <strong>enable learning</strong> design within the virtual classroom.</p>]]></description>
+          <pubDate>Fri, 25 Jan 2013 02:21:20 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Vitor Reis: My dream: Learning design project proposal</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7586</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7586</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Fri, 18 Jan 2013 17:14:27 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

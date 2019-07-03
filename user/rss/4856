@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: Michele Drechsler</title>
+        <link>https://cloudworks.ac.uk/user/rss.4856</link>
+        <atom:link href="https://cloudworks.ac.uk/user/rss.4856" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds by Michele Drechsler</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>Michèle Drechsler : My dream : developp a Mooc about learning design with ICT at primary school/</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7647</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7647</guid>
+              <description><![CDATA[<p class="Standard">&nbsp;I am inspector in France for primary schools and involved in ICT for education. I am also Ph.D.&nbsp; I would like to developp Moocs for teachers at primary schools&nbsp;</p>
+<p class="Standard">Objectives :</p>
+<p class="Standard">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop &nbsp;instructional design skills in different fields at primary schools integrating ICT ( mathematics, langage learning, reading, writing &hellip;.)</p>
+<p class="Standard">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop learning environments with ICT for learning, training, create</p>
+<p class="Standard">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create data base of OER and&nbsp; ebooks with OER to develop skills at primary schools.&nbsp;&nbsp;</p>
+<p class="Standard">I would like&nbsp; to collaborate with other and design a participatory culture, contexts and practice for the &nbsp;course on line. &nbsp;For me, il is crucial that "...Teachers use their knowledge of best practices and of their students to create instructional environments and assessments that meet their needs. Great teachers are allowing for voice and choice in performance assessments and projects, as well as games and technology. Teachers view the classroom, whether virtual or physical, as a place for possibilities to engage all students." I agree with this article. ( <a href="http://www.huffingtonpost.com/andrew-k-miller/education-reform_b_2169265.html">http://www.huffingtonpost.com/andrew-k-miller/education-reform_b_2169265.html</a></p>
+<p class="Standard">&nbsp;As a result of completing this MOOC I hope to gain more skills, knowledge and experience of online teaching and training. I'd like to develop this in the context of delivering professional development to teachers at primary schools.</p>
+<div id="ff_peerindex_tooltip">&nbsp;</div>
+<div id="ff_peerindex_tooltip">&nbsp;</div>]]></description>
+          <pubDate>Sun, 20 Jan 2013 13:52:27 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Mooc - Quels outils ?</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8211</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8211</guid>
+              <description><![CDATA[<p>Mooc - Quels outils ?</p>]]></description>
+          <pubDate>Sun, 10 Mar 2013 08:28:56 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

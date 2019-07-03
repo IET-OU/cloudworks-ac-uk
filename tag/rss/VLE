@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: VLE</title>
+        <link>https://cloudworks.ac.uk/tag/rss/VLE</link>
+        <atom:link href="https://cloudworks.ac.uk/tag/rss/VLE" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds tagged VLE</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>SAT: Break Out of the Box! How you can use xAPI to free in-house staff development (Katherine Hinchey)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/11472</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/11472</guid>
+              <description><![CDATA[<h2>Abstract</h2>
+<p>You learn by doing and collaborating, watching videos, accessing just-in-time information from your mobile device, mentoring, and more. Why, then, does the Human Resources department only give you slides to learn from?</p>
+<p>Today&rsquo;s workers and corporations are united in wanting more access to the formal, non-formal, and informal learning needed to support an increasingly skilled workforce (The Education Commission, 2016; Pew Research Center, 2016a and 2016b). However, today&rsquo;s corporations largely store their learning resources in virtual learning environments (VLEs) that have adopted a uniform way of storing content. This uniform way, called SCORM, was incredibly helpful when it was designed nineteen years ago, and it still has an important role to play today. When SCORM was created, computer-based training was relatively new and organisations needed a single way to store and track training. For a time, innovation in elearning stopped at the known, established boundaries of the VLE (Weller, 2014, p. 194).</p>
+<p>Now, a new need has developed: a way to store and track learning when it occurs on mobile devices, or through social and collaborative activities, or offline by reading a book or engaging in stretch assignments, or when participating in simulations or augmented and virtual reality programmes.</p>
+<p>An innovation that meets that need was first released in 2013, and had its last planned update in 2016. It is the Experience API (xAPI). xAPI provides a common format for capturing data from today&rsquo;s distributed learning landscape (Rustici Software, n.d.). With xAPI in place, you can free staff development from the confines of SCORM:</p>
+<ul>
+<li>Rely less on elearning courses designed from slides and more on learning experiences;</li>
+<li>Recognise learning from formal and informal or non-formal activities (Downes, 2015);</li>
+<li>And track not only clicks and views but also correlate learning with performance (Torrance, 2016).</li>
+</ul>
+<p>Managers and other decision-makers within learning departments and organisations are at a critical point. They need a source from which to gain a high-level, jargon-free understanding of the benefits of xAPI, common applications and uses of xAPI to support learners as they access modern and innovative learning opportunities, best practices and lessons learned, and information they should provide to their learning development and learning technology teams to prepare for implementation of xAPI (HT2 Labs, n.d.).</p>
+<p>In my conference presentation, I will discuss and share a workshop created to meet those needs. The workshop helps managers, even those without extensive technical backgrounds, to be prepared to move forward with discussions and decisions about xAPI within their organisation. My presentation will show some of the workshop features and provide attendees with tools they can take with them, for use in their future endeavours.</p>
+<h3>References</h3>
+<p>Downes, A. (2015) '9 Practical Applications of Tin Can API', webinar presented by Rustici Software. 31 March. Available at <a href="https://www.slideshare.net/RusticiSoftware/ nine-applications-of-the-tin-can-api-xapi">https://www.slideshare.net/RusticiSoftware/</a><br /><a href="https://www.slideshare.net/RusticiSoftware/ nine-applications-of-the-tin-can-api-xapi">nine-applications-of-the-tin-can-api-xapi</a> (Accessed 1 November 2017).</p>
+<p>The Education Commission (aka the International Commission on Financing Global Education Opportunity) (2016) <em>The Learning Generation: Investing in education for a changing world</em> [Online]. Available at <a href="http://report.educationcommission.org/downloads/">http://report.educationcommission.org/downloads/</a> (Accessed 18 November 2017).</p>
+<p>HT2 Labs (n.d.) <em>The Learning Technology Manager's Guide to xAPI</em> [Online]. Available at <a href="https://www.ht2labs.com/resources/the-learning-technology-managers-guide-to-the-xapi/">https://www.ht2labs.com/resources/the-learning-technology-managers-guide-to-the-xapi/</a> (Accessed 9 December 2017).</p>
+<p>Pew Research Center (2016a) <em>Lifelong Learning and Technology</em> [Online]. Available at <a href="http://www.pewinternet.org/2016/03/22/lifelong-learning-and-technology/">http://www.pewinternet.org/2016/03/22/lifelong-learning-and-technology/</a> (Accessed 18 November 2017).</p>
+<p>Pew Research Center (2016b) <em>The State of American Jobs: How the shifting economic landscape is reshaping work and society and affecting the way people think about the skills and training they need to get ahead</em> [Online]. Available at <a href="http://www.pewsocialtrends.org/2016/10/06/the-state-of-american-jobs/">http://www.pewsocialtrends.org/2016/10/06/the-state-of-american-jobs/</a> (Accessed 18 November 2017).</p>
+<p>Rustici Software (n.d.) <em>Experience API</em> [Online]. Available at <a href="https://experienceapi.com/">https://experienceapi.com/</a> (Accessed 1 November 2017).</p>
+<p>Torrance, M. (2016) 'The xAPI: What Does an Instructional Designer Need to Know?', presentation given at <em>Learning Solutions Conference &amp; Expo.</em> Orlando, Florida, 16-18 March. Available at <a href="https://www.slideshare.net/torrancelearning/xapi-what-does-an-instructional-designer-need-to-know">https://www.slideshare.net/torrancelearning/xapi-what-does-an-instructional-designer-need-to-know</a> (Accessed 1 November 2017).</p>
+<p>Weller, M. (2014) <em>The Battle for Open: How openness won and why it doesn't feel like victory</em>, London, ubiquity press. Available at <a href="http://www.ubiquitypress.com/ site/books/detail/11/battle-for-open/">http://www.ubiquitypress.com/</a><br /><a href="http://www.ubiquitypress.com/ site/books/detail/11/battle-for-open/">site/books/detail/11/battle-for-open/</a> (Accessed 2 May 2016).</p>]]></description>
+          <pubDate>Thu, 04 Jan 2018 15:37:46 +0000</pubDate>
+            </item>
+                    <item>
+              <title>WED: How can Next Generation Digital Learning Environments fulfil the promise of online education? (Elizabeth Ellis)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/10197</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/10197</guid>
+              <description><![CDATA[<p>This multimedia poster session on the theme of Innovation will ask, &lsquo;How can Next Generation Digital Environments embody and execute the promise of online education?&rsquo; As the higher education sector comes to terms with the idea that there is probably not a single &lsquo;solution&rsquo; to the problems inherent to virtual learning environments (VLEs), the term NGDLE is starting to creep into horizon scanning conversations among learning technologists.</p>
+<p>A product of their time, VLEs are increasingly problematic in a more socially networked and digitally confident world. VLEs can often be passive repositories of learning material and grades, guilty of simply putting the offline online, rather than providing immersive personalised learning environments - teaching spaces with their own methods and approaches taking advantage of what the digital world has to offer students.</p>
+<p>Now that we are in a Teaching Excellence Framework landscape, how should NGDLEs effectively help students succeed in their academic and professional careers? By providing them with personalised learning experiences and the acquisition of lifelong learning skills (HEFCE, 2016)? Should NGDLEs drive behavioural change in our students and our teaching staff? How can we easily identify the user requirements of an NGDLE?</p>
+<p>An ongoing consultation challenge from Jisc poses the question, &lsquo;What should the next generation of digital learning environments do?&rsquo; (Jisc, 2016)</p>
+<p>Online learning continues to be highly emotive, with those who use technology to teach online often being accused of trying to delete or diminish the human element of learning. Particularly with learning analytics becoming increasingly more mainstream, and the conflation of learning analytics with personal data and privacy concerns, educational technology is under scrutiny from the academic and student communities.</p>
+<p>This session will ask:</p>
+<p>1) What are NGDLEs?</p>
+<p>2) What do NGDLEs mean for online education, and what does it require of it?</p>
+<p>3) How can NGDLEs be a vehicle for the best parts of online education: the open web, co-creation, student engagement, technology, and digital capability?</p>
+<p>4) What does student success look like in an NGDLE?</p>
+<p>5) What do NGDLEs signify about innovation in online education?</p>
+<p>Even if there is no single technological leap forward with regards to digital learning environments, NGDLEs could represent a disruptive or incremental innovation in online learning and teaching. As we challenge our students to take more ownership through participative learning, as we encourage our students to become more digitally confident and creative, as we provide our students with the tools for deeper engagement with learning materials and new strategies for immersive learning, and as we continue to help them battle with the ongoing curse and joy of collaborative learning, taking an active stance with regard to the development of future digital learning environments can help improve trust between online learning and teaching evangelists and sceptics, and ultimately improve student attainment, progression and retention.</p>
+<p><em>References</em></p>
+<p>HEFCE. (2016) &lsquo;Teaching Excellence Framework&rsquo; [Online]. Available at http://www.hefce.ac.uk/lt/tef/ (last accessed 5 January 2017)</p>
+<p>Jisc. (2016) &lsquo;What should the next generation of digital learning environments do?&rsquo; [Online]. Available at https://www.jisc.ac.uk/rd/get-involved/what-should-the-next-generation-of-digital-learning-environments-do (last accessed 5 January 2017)</p>]]></description>
+          <pubDate>Mon, 09 Jan 2017 10:02:51 +0000</pubDate>
+            </item>
+                    <item>
+              <title>blog post test</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6262</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6262</guid>
+              <description><![CDATA[<p style="cursor:auto"><!--NO CSS-->This morning we ran a three hour INSET introducing all 82 teachers to Frog. Planning for this session may be read about&nbsp;<a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" title="Frog INSET planning" href="http://daibarnes.info/blog/2012/04/frog-the-first-inset-day-for-all-teachers/" target="_blank">here</a>. &nbsp;The video below shows the training materials developed to showcase Frog at the same time as providing learning guidance.</p>
+<p style="cursor:auto"><!--NO CSS-->The training was a success with many compliments and positive feedback from our excellent staff. Much praise goes to our lead learner Frog Champions (six in total) who led one classroom each. But it wasn&rsquo;t perfect&hellip;</p>
+<p style="cursor:auto"><!--NO CSS--><strong style="cursor:auto"><!--NO CSS-->Images of the resources used (click to enlarge, video at end of post shows more):</strong></p>
+<div id="attachment_1013" style="cursor:auto"><!--NO CSS--><a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" href="http://daibarnes.info/blog/wp-content/uploads/2012/04/Screen-Shot-2012-04-17-at-17.38.09.png"><img style="border-style: initial; font: inherit; vertical-align: baseline; max-width: 95%; height: auto; border-width: initial; width: auto; padding: 0px; margin: 0px;" title="Lesson Plan" src="http://daibarnes.info/blog/wp-content/uploads/2012/04/Screen-Shot-2012-04-17-at-17.38.09-300x157.png" alt="" width="300" height="157" /></a>
+<p style="cursor:auto"><!--NO CSS-->Section of the Frog Lesson Plan</p>
+</div>
+<div id="attachment_1012" style="cursor:auto"><!--NO CSS--><a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" href="http://daibarnes.info/blog/wp-content/uploads/2012/04/Screen-Shot-2012-04-17-at-17.37.13.png"><img style="border-style: initial; font: inherit; vertical-align: baseline; max-width: 95%; height: auto; border-width: initial; width: auto; padding: 0px; margin: 0px;" title="Self-Evaluation and Feedback Form" src="http://daibarnes.info/blog/wp-content/uploads/2012/04/Screen-Shot-2012-04-17-at-17.37.13-300x204.png" alt="" width="300" height="204" /></a>
+<p style="cursor:auto"><!--NO CSS-->Self-Evaluation and Feedback Form</p>
+</div>
+<div id="attachment_1011" style="cursor:auto"><!--NO CSS--><a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" href="http://daibarnes.info/blog/wp-content/uploads/2012/04/Screen-Shot-2012-04-17-at-17.36.45.png"><img style="border-style: initial; font: inherit; vertical-align: baseline; max-width: 95%; height: auto; border-width: initial; width: auto; padding: 0px; margin: 0px;" title="A page of PDF resources" src="http://daibarnes.info/blog/wp-content/uploads/2012/04/Screen-Shot-2012-04-17-at-17.36.45-300x178.png" alt="" width="300" height="178" /></a>
+<p style="cursor:auto"><!--NO CSS-->Training website: A page of PDF resources</p>
+</div>
+<div id="attachment_1010" style="cursor:auto"><!--NO CSS--><a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" href="http://daibarnes.info/blog/wp-content/uploads/2012/04/Screen-Shot-2012-04-17-at-17.36.23.png"><img style="border-style: initial; font: inherit; vertical-align: baseline; max-width: 95%; height: auto; border-width: initial; width: auto; padding: 0px; margin: 0px;" title="Example of video page" src="http://daibarnes.info/blog/wp-content/uploads/2012/04/Screen-Shot-2012-04-17-at-17.36.23-300x152.png" alt="" width="300" height="152" /></a>
+<p style="cursor:auto"><!--NO CSS-->Training website: Example of video page</p>
+</div>
+<p style="cursor:auto"><!--NO CSS--><strong style="cursor:auto"><!--NO CSS-->Successful things to note:</strong></p>
+<ul style="cursor:auto"><!--NO CSS-->
+<li style="cursor:auto"><!--NO CSS-->Videos were very well&nbsp;received;</li>
+<li style="cursor:auto"><!--NO CSS-->Video annotations with arrows and text were important;</li>
+<li style="cursor:auto"><!--NO CSS-->Sorting audio/headphones on all PCs was also important (all learners were silent and focused during training);</li>
+<li style="cursor:auto"><!--NO CSS-->Keep the presentations to whole staff to a minimum &ndash; we did ten minute intro and fifteen minute plenary;</li>
+<li style="cursor:auto"><!--NO CSS-->Differentiation was an absolute must &ndash; ours seemed to work well.</li>
+</ul>
+<div style="cursor:auto"><!--NO CSS--><strong style="cursor:auto"><!--NO CSS-->Things to improve upon:</strong></div>
+<div style="cursor:auto"><!--NO CSS-->
+<ul style="cursor:auto"><!--NO CSS-->
+<li style="cursor:auto"><!--NO CSS-->Some of the resources were ordered incorrectly (d&rsquo;oh!);</li>
+<li style="cursor:auto"><!--NO CSS-->Some learners watched the video then did the activity rather than pausing. Clearer instruction required;</li>
+<li style="cursor:auto"><!--NO CSS-->Some learners like badges (physical ones) and others do not;</li>
+<li style="cursor:auto"><!--NO CSS-->Nearly all learners like mugs and lanyards are popular too;</li>
+<li style="cursor:auto"><!--NO CSS-->Remember to set permissions on folders so learners do not accidentally move them;</li>
+<li style="cursor:auto"><!--NO CSS-->More time; As a school staff we would have benefitted from more time to start creating resources and discussing how Frog will be used.</li>
+</ul>
+</div>
+<p style="cursor:auto"><!--NO CSS-->This is the first Frog INSET we will run. There is a planned dedicated session in September before it is launched with the pupils. Between now and then we will run workshops with staff wanting to achieve their aims for using the platform. But this was a big deal &ndash; first impressions count for a lot and I hope we have made a very positive impression on as many of our staff as we could. This was also my first time using Frog and it showed &ndash; a bit.</p>
+<p style="cursor:auto"><!--NO CSS--><strong style="cursor:auto"><!--NO CSS-->Video:</strong></p>
+<p style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+<p>&nbsp;</p>
+<p style="cursor:auto"><!--NO CSS--><strong style="cursor:auto"><!--NO CSS-->I would like to publicly thank the following who contributed in some way:</strong></p>
+<p style="cursor:auto"><!--NO CSS--><a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" title="Frog on twitter" href="https://twitter.com/#!/frogtrade" target="_blank">@frogtrade</a>&nbsp;support staff (Edd! helped me via the support desk) &ndash; they were great &ndash; when we employed MoodleDo years ago, the relationship I developed after the bills were paid with<a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" title="Tweet him" href="http://twitter.com/moodledan" target="_blank">Dan Humpherson</a>&nbsp;was priceless &ndash; I get the feeling that similar support will happen with Frog (although Dan would fix any thing at any time as fast as he could possibly muster, far beyond the call of duty &ndash; he&rsquo;s now working for the awesome and innovative&nbsp;<a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" title="check it out - it's cool" href="http://www.lovecleanlondon.org/Reports/Home" target="_blank">Love Clean London</a>);</p>
+<p style="cursor:auto"><!--NO CSS--><a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" title="Tweet him" href="http://twitter.com/jennings_daniel" target="_blank">Daniel Jennings</a>&nbsp;who works for Frog;</p>
+<p style="cursor:auto"><!--NO CSS--><a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" title="Tweet him" href="http://twitter.com/psbenson" target="_blank">Paul Benson</a>, a Frog teacher/coordinator &ndash; just like me;</p>
+<p style="cursor:auto"><!--NO CSS--><a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" title="Tweet him" href="http://twitter.com/jamesmichie" target="_blank">James Michie</a>&nbsp;and&nbsp;<a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" title="Tweet him" href="http://twitter.com/learningspy" target="_blank">David Didau</a>&nbsp;for help clearing my head on learning objectives as discussed<a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" title="blogpost on LOs" href="http://daibarnes.info/blog/2012/04/presentation-of-learning-objectives-and-activities/" target="_blank">here</a>;</p>
+<p style="cursor:auto"><!--NO CSS--><a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" title="Tweet him" href="http://twitter.com/pete___lee" target="_blank">Pete Lee</a>, just left a Frog school for a new post but had some great ideas;</p>
+<p style="cursor:auto"><!--NO CSS--><a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" title="Tweet him" href="https://twitter.com/#!/stevemargetts" target="_blank">Steve Margetts</a>, another Frog teacher/coordinator;</p>
+<p style="cursor:auto"><!--NO CSS-->And, Frog Champion who looked over all the materials as fast as a text message could travel,<a style="border-image: initial; font: inherit; vertical-align: baseline; color: #0085cf; text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; padding: 0px; margin: 0px; border: 0px initial initial;" title="not a big tweeter but there nonetheless" href="https://twitter.com/#!/search/users/drdavidbrooks" target="_blank">David Brooks</a>.</p>
+<p style="cursor:auto"><!--NO CSS-->Overall, a good day. Positive. Result. There wasn&rsquo;t enough time to discuss learning, but everyone was a learner for the day and seemed enthused by their new Frog.</p>]]></description>
+          <pubDate>Tue, 24 Apr 2012 18:36:33 +0000</pubDate>
+            </item>
+                    <item>
+              <title>What projects could they lead to? (afternoon session)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5544</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5544</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Tue, 24 May 2011 14:48:10 +0000</pubDate>
+            </item>
+                    <item>
+              <title>A well-designed VLE or LMS can support any kind of online learning activity, so there is no need to use web tools for learning.</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5281</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5281</guid>
+              <description><![CDATA[<p>Recently I participated in two teaching/learning conferences where presentations included a fairly equal mix of LMS/VLE and web 2.0 activities; a fair number included a 'mash up' of both. Stories were told in hallways about institutions requiring the use of the 'official' learning technology, while in some sessions participants were launched straight into the cloud with no visible means of support.</p>
+<p>Technology-enhanced learning and practice is in a volatile state, and everyone seems to have an opinion about the relative merits of an institutional LMS or VLE vs the cloud, with 'mash-ups' of both technologies widespread. Is compromise a real solution, or should we commit to one or the other?</p>
+<p>It has been suggested that a well-designed VLE or LMS can support any kind of online learning activity, so there is no need to use web tools for learning. To what extent do you agree or disagree?</p>]]></description>
+          <pubDate>Tue, 05 Apr 2011 17:57:54 +0000</pubDate>
+            </item>
+                    <item>
+              <title>VLEs are still relevant</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5082</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5082</guid>
+              <description><![CDATA[<p>This JISC article looks  at how VLEs are being used to support curriculum innovation in four of the  recent Transformation Curriculum Delivery through Technology projects, and  discusses why, despite all their shortcomings, VLEs are still are the heart of  curriculum development.</p>]]></description>
+          <pubDate>Fri, 04 Mar 2011 14:52:16 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Moodle Guide for Teachers May 2010</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4946</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4946</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Thu, 06 Jan 2011 14:34:42 +0000</pubDate>
+            </item>
+                    <item>
+              <title>The future of the VLE at the Open University? What would you like it to be?</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4652</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4652</guid>
+              <description><![CDATA[<blockquote dir="ltr">
+<p>Where:&nbsp;<strong>The Hub, Medlar and Juniper Rooms, Walton Hall</strong></p>
+<p>Time: <strong>12th&nbsp;October 2010, 10.00-12.00</strong></p>
+<p>Presenters: <strong>Will Woods (IET), Barbara Poniatowska and Liz Burton-Pye (LIO)</strong></p>
+<p>This event&nbsp;focused on the future visioning work and explained the developments planned within the current &ldquo;Roadmap Acceleration Programme&rdquo; as well as discussing requirements for the future VLE. Participants&nbsp;were asked to speak up on what they want (and really, really don't want) in the next generation OU VLE.&nbsp; They also&nbsp;heard more about the Roadmap Acceleration Programme and future learning systems.&nbsp;See also&nbsp;the <a href="http://podcast.open.ac.uk/oulife/podcast-626" target="_blank">Future of the VLE</a> podcast from David Wilson to learn more about what is being planned.</p>
+<p>Participation took the form of a&nbsp;<a href="http://www.peopleandparticipation.net/display/Methods/World+Cafe" target="_blank">World Caf&eacute;</a>&nbsp;style session. This invited attendees to write on tablecloths at themed table&nbsp;to indicate their support for (or aversion to) particular aspects of key developments around &ldquo;User Generated Content&rdquo;, &ldquo;Personalisation&rdquo;, and &ldquo;Joining up&rdquo; (how we can mix the informal and formal learning environments, including how we join up our OER&rsquo;s with VLE and other repositories). Attendees'&nbsp;ideas and their how they see the various aspects of the OU's future learning system co-existing were&nbsp;a focus for the event.</p>
+<p><strong>This event was recorded and is available to members of staff at the Open University via <a title="Stadium" href="http://stadium.open.ac.uk/webcast-ou/">Stadium</a></strong></p>
+</blockquote>]]></description>
+          <pubDate>Tue, 05 Oct 2010 13:05:35 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Using SharePointLMS</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4582</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4582</guid>
+              <description><![CDATA[<p>SharepointLMS is a learning management system designed to work with Microsoft's SharePoint system. I am a new user as my workplace has changed over from Blackboard VLE. Do you have any tips or good ideas for how to make the most of this system?</p>]]></description>
+          <pubDate>Sat, 18 Sep 2010 21:22:32 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Bob and Sue - Adult Learners returning to Higher Education</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4103</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4103</guid>
+              <description><![CDATA[<p>Meet Bob and Sue to listen to their perspectives as adult learners returning to University to study Technology Enhanced Learning.</p>
+<p>Scroll down to view latest videos:<br /><strong>OpenEd10 held in Barcelona 2-4 November<br />What "Siemens Says" about 21st Century knowledge<br />Transavartarts Boo and Sob<br />Preparing for the NZ Tertiary Writers Network Colloquium<br />The Graduate, Bob and Sue version</strong></p>
+<p>Series 2: <a href="http://cloudworks.ac.uk/cloud/view/4686">Rog, Bob and Sue</a>&nbsp;on ethics</p>]]></description>
+          <pubDate>Mon, 05 Jul 2010 05:25:58 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Case study - A blended learning community supporting the development of employability skills</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3808</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3808</guid>
+              <description><![CDATA[<p>This cloud concerns the presentation I am to make at the Blended Learning Conference in 2010 concerning work we are doing in preparing students for placement and employment, using a range of learning technologies and an online community of supporters.</p>]]></description>
+          <pubDate>Thu, 03 Jun 2010 09:37:09 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Learners&#39; Experience of VLEs</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3788</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3788</guid>
+              <description><![CDATA[<p>Collection of presentations, papers, blog posts, etc. relevant to learner experience of VLEs</p>]]></description>
+          <pubDate>Mon, 01 Nov 2010 14:00:20 +0000</pubDate>
+            </item>
+                    <item>
+              <title>glow research report- the purpose of GLOW</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3732</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3732</guid>
+              <description><![CDATA[<p>My name is Vicki Wallace. I am a Support for Learning Teacher in   Midlothian and I am just coming to the end of the first year of my EdD   with The Open Univeristy. The focus of my research has been to   investigate what teachers think about glow. What is its purpose? Is it   fit for purpose? How are teachers using it.&nbsp; As part of my research I   asked teachers across Scotland to complete a survy in surveymonkey. Well   the report is finally written and I&rsquo;d like to share my results with   you. I am also hoping that once I recover from the last month and the   hectic write up phase that I will be also able to use this blog to help   my research. If you want to read it then follow my link</p>]]></description>
+          <pubDate>Thu, 27 May 2010 15:22:24 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Composing your Learning Environment II</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2620</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2620</guid>
+              <description><![CDATA[<p><em>Led by Wilbert Kraan and Sheila MacNeill</em></p>]]></description>
+          <pubDate>Wed, 11 Nov 2009 13:47:19 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Case study:ILT for the nervous: how an early years section made the journey from the slate to the virtual learning environment</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2501</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2501</guid>
+              <description><![CDATA[<p style="cursor:auto"><!--NO CSS-->This paper is one of a series of 21 from the ALT/QIA Making e-learning work conference held in&nbsp;</p>
+<p style="cursor:auto"><!--NO CSS-->Nottingham on 11 October 2007. Other papers in the series, as well as a compilation of all of&nbsp;</p>
+<p style="cursor:auto"><!--NO CSS-->them, can be accessed in PDF format from http://www.alt.ac.uk/fepc2007.html&nbsp;</p>
+<p style="cursor:auto"><!--NO CSS--><strong>&nbsp;</strong></p>
+<div><strong><br /></strong></div>]]></description>
+          <pubDate>Wed, 14 Oct 2009 09:06:05 +0000</pubDate>
+            </item>
+                    <item>
+              <title>The VLE is Dead</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2162</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2162</guid>
+              <description><![CDATA[<p>ALT-C 2009 Session: This Cloud has been set up to aggregate live blogs, comments, discussion and links for this session.</p>
+<p>&nbsp;</p>
+<div id="oembed-0" class="oembed"><a type="application/x-shockwave-flash" href="embed src=">The VLE is dead... the trailer</a></div>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Thu, 27 Aug 2009 14:07:22 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Head in the cloud, PLEase help me study!</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2155</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2155</guid>
+              <description><![CDATA[<p>ALT-C 2009 Session: This Cloud has been set up to aggregate live blogs, comments, discussion and links for this session.</p>]]></description>
+          <pubDate>Thu, 03 Dec 2009 09:06:32 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Using Moodle</title>
+              <link>https://cloudworks.ac.uk/cloud/view/983</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/983</guid>
+              <description><![CDATA[Sharing good practice of using Moodle
+]]></description>
+          <pubDate>Thu, 26 Feb 2009 20:56:13 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Online teamworking to develop a business case</title>
+              <link>https://cloudworks.ac.uk/cloud/view/294</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/294</guid>
+              <description><![CDATA[As an alternative to a three-day residential school, this course offers an online equivalent in which students not only work on the same group task – developing a business case – but run through a sequence of activities to establish their ability to work as a team in the online environment.
+
+Across an 18 day period, the students first learn to make their thinking explicit through activities such as deciding as a group whether each of a set of statements is true or false. Next they discuss and propose solutions to work-based problems. Only after that do they start work on the business case for an imaginary company – the scenario being designed to be too big for any student to complete on their own, requiring them to divide up the tasks.
+ 
+As a final stage, the students review the business case they have produced, their team processes, and the exercise as a whole.
+
+[Sheila Tyler]
+]]></description>
+          <pubDate>Tue, 29 Jul 2008 07:06:30 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Computer-marked assessment (law)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/275</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/275</guid>
+              <description><![CDATA[<p>This law course had a problem with poor student performance in a compulsory introductory module which was supposed to establish basic factual knowledge and reasoning skill. Student feedback showed that they often did not understand what was expected of them until their assessment.
+<p>
+So the lecturer created a series of online quizzes to provide formative assessment throughout the module. The immediacy of the feedback compensated for its necessary brevity and generic nature, and a study found that those students who took the quizzes did better in all aspects of the final examination, including higher order cognitive skills such as synthesis and evaluation.
+
+[Paul Catley]
+]]></description>
+          <pubDate>Tue, 29 Jul 2008 06:35:37 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Problem-solving in cartoon universities</title>
+              <link>https://cloudworks.ac.uk/cloud/view/271</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/271</guid>
+              <description><![CDATA[Higher order professional skills, such as critical thinking and problem solving, need either a practice environment or a rich scenario for their development, and preferably also a community of fellow professionals.
+
+This postgraduate certificate course for university staff uses multimedia case studies of two fictional universities – ‘Crumpton’ and ‘Mullock’ – featuring realistic scenarios presented in cartoon form. Online communication tools allow learners to discuss the problems raised and recommend solutions, linking into face-to-face classes for those able to attend them.
+
+[Alan Staley]
+]]></description>
+          <pubDate>Mon, 28 Jul 2008 13:19:43 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Self-paced learning with online materials</title>
+              <link>https://cloudworks.ac.uk/cloud/view/270</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/270</guid>
+              <description><![CDATA[Students often progress at different speeds, for example where theoretical concepts are concerned, but contact time with teachers is limited – especially when students are attending college on a day-release basis, as on this course.
+
+Here, the leader of a course on gas services installation and maintenance assembled VLE resources – such as notes and handouts, diagrams, photographs, and videos – to allow students to reinforce difficult concepts at their own pace and then follow them up in class. The VLE also delivers practice assessments and mock exams.
+
+[Brian Keating]]]></description>
+          <pubDate>Mon, 28 Jul 2008 13:18:33 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Hypermedia pedagogy in a history course</title>
+              <link>https://cloudworks.ac.uk/cloud/view/269</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/269</guid>
+              <description><![CDATA[Critical use of sources by professionals usually involves repeated reading and consideration of many possible meanings. Courses which aim to develop this skill should therefore not be assume that students will make only one reading, but rather encourage them to return to sources in different contexts.
+
+This course on Western Civilisation seeks to teach historical skills and understanding through study of discrete topics, rather than systematic knowledge of 350 years of European history. Students given access to hypermedia (eg web-based) resources are found to return to them much more often than those using equivalent printed resources; having the resources “just a click away” makes re-reading easier. However, it’s significant that the assessments are designed so that re-use of resources obviously improves the students’ submission.
+
+[T. Mills Kelly]
+]]></description>
+          <pubDate>Mon, 28 Jul 2008 13:17:25 +0000</pubDate>
+            </item>
+                    <item>
+              <title>A database of primary source material</title>
+              <link>https://cloudworks.ac.uk/cloud/view/264</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/264</guid>
+              <description><![CDATA[Working at dissertation level requires students to be capable of independent study and critical use of primary source material. However, students may need scaffolding to develop these skills, and a collection of primary sources in printed form can be limiting.
+<p>
+This design proposes the creation of an online database of about 200 wide-ranging primary sources. As an assessed activity, students will select one document and use the VLE to write a critical comment on it. They also write a comment on the commentary of another student in their tutor group, and respond to comments on their own commentary. Later, they will use primary sources from the database to answer a set question for their end-of-course assessment.
+
+[Paul Lawrence]
+]]></description>
+          <pubDate>Mon, 28 Jul 2008 13:07:17 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Computer-marked assessment (accounting)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/240</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/240</guid>
+              <description><![CDATA[<strong>When students need to master a large body of knowledge quickly, computer-marked assessment can give them regular, rapid feedback.</strong>
+
+<p>Students of accounting, like many professional disciplines, have to acquire a large body of technical knowledge very quickly and thoroughly. Computer-marked assessment is widely regarded, in both the accounting profession and HE, as the most effective way for students of this subject to obtain regular, quick feedback on their learning.
+<p>
+This course has six interactive computer marked assignments (iCMAs) during the 13 months course: two in each of the three units or blocks. Each iCMA has 100 objective questions, with answers being multiple choice or simple text entry (eg filling in gaps). These iCMAs are formative assessment – for students to identify their own strengths and weaknesses and to allocate time in classroom teaching; summative assessment is by separate assignments and exams.
+
+[Jonathan Winship]
+]]></description>
+          <pubDate>Tue, 17 Jun 2008 11:09:20 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

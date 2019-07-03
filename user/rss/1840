@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: Caroline Roberts</title>
+        <link>https://cloudworks.ac.uk/user/rss.1840</link>
+        <atom:link href="https://cloudworks.ac.uk/user/rss.1840" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds by Caroline Roberts</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>Caroline Roberts Representations</title>
+              <link>https://cloudworks.ac.uk/cloud/view/9068</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/9068</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Thu, 16 Apr 2015 15:21:57 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Caroline Roberts Yoga Design Narrative</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8994</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8994</guid>
+              <description><![CDATA[<p>A hatha yoga class</p>
+<p><strong>Title </strong><em>A yoga class</em></p>
+<p><strong>Narrator&nbsp;</strong></p>
+<p><em>Student participation</em></p>
+<p><strong>Situation</strong></p>
+<p><em>A class of 10 students in a local studio which is warm and comfortable, students of all ages and abilities.&nbsp; Equipment (mats, blocks, water, music) is provided.</em></p>
+<p><em>The instructor has 20 years of experience and is qualified in psychology with a background in dance theatre.</em></p>
+<p><em>Some students have various aches often back problems, the hope is that the yoga exercise will strengthen the muscles without risking any damage.</em></p>
+<p><strong>Task</strong></p>
+<p><em>I was trying to tone my muscles, increase my strength and lose fat.&nbsp; Also, as a beginner I have to learn postures, breathing and the capabilities of my body and potential capabilities.</em></p>
+<p><strong>Actions</strong></p>
+<p><em>Instructor demonstrates postures and then gives each student personal attention so that they can achieve the posture as far as they are capable. The class is mixed ability so each person concentrates on their own practice pushing the edge of their capabilities.&nbsp; This is a non competitive environment.&nbsp; The instructor often provides several options for students to choose from dependent on ability.&nbsp; Instructor provides motivation, obvious enjoyment.</em></p>
+<p><em>Each class concentrates on a particular body area, back, hips etc, the instructor has chosen particular postures and designed a sequence for the class.</em></p>
+<p><strong>Results</strong></p>
+<p><em>Gradually (over months) postures improve, strength increases. The class has given me an awareness of the body and its interconnectedness. Initially, some postures look almost impossible but after much practice they are achievable.&nbsp; Stamina is important, some classes have been extremely challenging but it is up to the student to determine how far to push themselves.</em></p>
+<p><strong>Reflections</strong></p>
+<p><em>More in tune with my body.&nbsp; Stronger and healthier.</em></p>
+<p>&nbsp;</p>
+<p><em>&nbsp;</em></p>]]></description>
+          <pubDate>Thu, 02 Apr 2015 13:50:24 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Caroline Roberts: My Proposal</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6999</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6999</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Fri, 11 Jan 2013 11:56:31 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Carolines Learning Journal</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6911</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6911</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Thu, 10 Jan 2013 18:11:07 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

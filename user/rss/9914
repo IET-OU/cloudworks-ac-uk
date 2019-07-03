@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: Jude Toasland</title>
+        <link>https://cloudworks.ac.uk/user/rss.9914</link>
+        <atom:link href="https://cloudworks.ac.uk/user/rss.9914" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds by Jude Toasland</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>THU: How open is open: exploring the boundaries of openness in setting up a safeguarding learning network (Jude Toasland)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/10185</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/10185</guid>
+              <description><![CDATA[<p>In a culture where Wikipedia is commonly used as a source for information and Twitter leads to consultation with colleagues in the development of projects, open networking and learning is growing across every industry.&nbsp; However, Weller (2014) describes the &lsquo;the central tension of openness&rsquo; (p.15) to outline the strain between the principles of shared learning and development, and the pressures of commercial interest and financial viability. This project explores an additional tension between utilising the benefits of open learning within a safeguarding context and managing issues of confidentiality and risk, and asks the question &ldquo;how open is open?&rdquo;</p>
+<p>Within the sport sector, safeguarding officers are supported by the Child Protection in Sport Unit (CPSU) to make sport a fun and safe community for children and young people. To enhance the knowledge and skills of sport safeguarding officers, the Unit provides training and learning opportunities, as well as making resources available on it&rsquo;s website.&nbsp; In an environment where there are increasing pressure upon time, limited resources and developing technologies, the Unit is now developing more opportunities for learning and sharing in an open space, through webinars and online toolkits.&nbsp; However, this has brought challenges, including ensuring the appropriate use of openly available resources and information and managing resistance by some safeguarding officers around accessing online materials or engaging in safeguarding discussions in an open environment.</p>
+<p>This presentation will describe a consultation with the sector followed by the initial piloting of the sport safeguarding learning network.&nbsp; The consultation was conducted through online surveys and discussions, followed by a presentation to the host organisation.&nbsp; This raised issues of enthusiasm for an opportunity to share and learn, alongside concerns around confidentiality and organisational risk. The question of openness led to interesting discussions and developments in the project's direction and the early signs of the development of an online community of proactice.&nbsp; This has drawn on the work of Wenger et al (2002) around the establishment of an online community of practice and was inspired by the lessons of Salmon (2011) to establish this effectively.&nbsp;</p>
+<p>This presentation will explore the boundaries of openness within a safeguarding learning network and identify recommendations to take this innovative network forward at a pace and with the necessary support to engage the audience effectively.</p>
+<p>References</p>
+<div>Groom, J quoted in Cronin, C (2014) Navigating the Marvellous: Openness in Education</div>
+<div>&nbsp;</div>
+<div>Weller, M 2014 The Battle For Open: How openness won and why it doesn&rsquo;t feel like victory. London: Ubiquity Press. DOI: <a href="http://dx.doi.org/10.5334/bam">http://dx.doi.org/10.5334/bam</a></div>
+<div>&nbsp;</div>
+<div>Wenger, Etienne; McDermott, Richard; Snyder, William M. (2002). Cultivating Communities of Practice Harvard Business Press; 1 edition. ISBN 978-1-57851-330-7.</div>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Fri, 06 Jan 2017 12:16:41 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

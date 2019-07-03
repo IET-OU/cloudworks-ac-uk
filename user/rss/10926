@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: Anita Naoko Pilgrim</title>
+        <link>https://cloudworks.ac.uk/user/rss.10926</link>
+        <atom:link href="https://cloudworks.ac.uk/user/rss.10926" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds by Anita Naoko Pilgrim</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>THU: Learning and Teaching on Asynchronous Forums - Sharing Good Practice (Anita Pilgrim)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/11455</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/11455</guid>
+              <description><![CDATA[<p>The link above is to my Prezi 'poster', advertising my upcoming presentation on ways of sharing good practice about using asynchronous forums to support learning.</p>
+<p>&nbsp;The Prezi has a full transcript provided, and within the text I have written a transcript for a video I embedded.</p>
+<p>I have also uploaded a slideshow of the 'poster' from SlideShare. This is my 'accessible' version - it is less data-heavy than the Prezi (hopefully!)&nbsp;</p>]]></description>
+          <pubDate>Sun, 31 Dec 2017 17:25:00 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

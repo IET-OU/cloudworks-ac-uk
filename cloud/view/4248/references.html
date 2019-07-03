@@ -1,0 +1,554 @@
+<!DOCTYPE html><html  lang="en" ><head>
+
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta charset="UTF-8" />
+
+    <title>Thoughts on using cloudworks for REALISE project website - Cloudworks</title>
+    <link rel="stylesheet" href="https://cloudworks.ac.uk/_design/styles_1_1.css" />
+        <link rel="stylesheet" href="https://cloudworks.ac.uk/themes/cloudworks/styles.css" />
+        <meta name="copyright" content="© 2009-2019 The Open University (IET)." />
+    <meta name="keywords" content="" />
+    <meta name="description" content="Welcome to Cloudworks, a place to share, find and discuss learning and teaching ideas and experiences." />
+    <link rel="shortcut icon" href="https://cloudworks.ac.uk/themes/cloudworks/favicon.ico" />
+    
+    <!--[if IE 6]>
+    <style type="text/css">
+    div#site {width:940px; /* Because IE6 doesn't support max-width */ }
+    div#site-header-content {width:940px;}
+    </style>
+    <![endif]-->
+
+    <script src="https://unpkg.com/jquery@3.4.1/dist/jquery.min.js"></script>
+    </head>
+<body id="clouds" class="block-registration block-login">
+<div id="site-header">
+ 
+<div id="site-header-content">
+        <div id="skip">
+        <a href="#content">Skip navigation</a> </div>
+                <a rel="home" href="https://cloudworks.ac.uk/">
+                <img id="link-home" src="https://cloudworks.ac.uk/themes/cloudworks/cloudworks_logo.gif" alt="Cloudworks home page" />
+                </a>
+                <div id="site-nav">
+            <ul  lang="en" >
+                <li class="home">
+                                            <a href="https://cloudworks.ac.uk/" class="home">Home</a>                                    </li>
+                <li lang="en" class="clouds">
+                                            <a href="https://cloudworks.ac.uk/cloud/cloud_list" class="clouds">Clouds</a>                                    </li>
+                <li lang="en" class="cloudscapes">
+                                            <a href="https://cloudworks.ac.uk/cloudscape/cloudscape_list" class="cloudscapes">Cloudscapes</a>                                    </li>
+                <li class="events">
+                                            <a href="https://cloudworks.ac.uk/events/view" class="events">Events</a>                                    </li>
+                <li class="tags">
+                                            <a href="https://cloudworks.ac.uk/tag" class="tags">Tags</a>                                    
+                </li>
+                                <li class="badges">
+                                            <a href="https://cloudworks.ac.uk/badge/badge_list" class="badges">Badges</a>                                    </li>
+                <li class="support">
+                                            <a href="https://cloudworks.ac.uk/support" class="support" title="Support">Support</a>                                    </li>                  
+              
+            </ul>
+        </div>
+    </div></div>
+
+<div id="site">
+    <div id="site-body">
+        <div id="page">
+        <div id="content">
+                              <p class="warn readonly-message"> The web-site is now in readonly mode. Login and registration are disabled. <small>(28 June 2019)</small></p>
+                                          
+                    <div id="id-gaad-widget"></div>
+        <script type="text/javascript" src="https://cloudworks.ac.uk/_scripts/iframe_strip.js"></script>
+<div class="grid headline">
+    <div class="c1of2">
+        <h1>Thoughts on using cloudworks for REALISE project website</h1>
+        <div class="grid">
+    <ul class="options">
+        
+        
+        
+     
+        
+            <li class="favourite"><a href="https://cloudworks.ac.uk/cloud/favourite/4248">Favourite</a>        </li>
+        
+    <li class="stats"><div class="nolink">2270 views</div></li>
+            <li  class="stats"><a href="https://cloudworks.ac.uk/cloud/favourited/4248">4 favourites</a>        </li>
+        </ul>
+</div>                
+                    <p>Using the open source version of cloudworks for the social aspect of an open innovation project</p>
+        
+                    <div class="box" style="margin:30px 0 10px 0">
+
+                <a href="http://access.ecs.soton.ac.uk/projects/realise"  rel="nofollow">http://access.ecs.soton.ac.uk/projects/realise</a>
+            </div>
+            </div>
+
+    <div class="c2of2">
+        <p class="created-by">
+        <abbr title='Clouds can be anything of relevance to learning and teaching'>Cloud</abbr> created by: </p>
+
+                            <img src="https://cloudworks.ac.uk/image/user_32/3070" class="go2" alt=""/>
+                    <p><a href="https://cloudworks.ac.uk/user/view/3070" class="author rdfa" xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName" rel="cc:attributionURL">Steve Lee</a><br />
+        30 July 2010</p>
+    </div>
+</div>
+
+<div id="region1">
+
+    <div class="user-entry">
+
+        <p><a href="http://access.ecs.soton.ac.uk/projects/realise" rel="nofollow">REALISE</a> is a JISC funded pilot for online open innovation in assitive technology. We are looking at the initial webapp analysis.</p>
+<p>I see Cloudworks strenghts as loose structure using some of the best of social network features, interactions with other place in the cloud and embedding. The key concepts/objects are <a href="http://cloudworks.ac.uk/cloud/view/2554" rel="nofollow">clouds and cloudscapes</a>.&nbsp; Loose structure means we won't be prescribing and so limiting chances for innovation. Is also fully open as required for open innovation. RSS feeds and an <a href="http://cloudworks.ac.uk/uploads/documentation/Cloudworks_API.pdf" rel="nofollow">API</a> (RESTful?) expand usage possibilities.</p>
+<p>The open source version will allow new instamces and OSS Watch are currently advising the team so there will be a good chance of successful open development with the team. It interesting to note tha the team have been open and have bloged designed decision and otther details (seen news link below)</p>
+<p>We could use a W3C Wookie Widget for displaying/setting innovation data fields. These could then be used as required in clouds or we always have on at the head of the cloud. making a widget will allow innovation access in other contexts. Making this [meta]data optional reduces barriers to use.</p>
+<p>Initial thoughts are that one usefull mapping is clouds ==&gt; innovations and cloudscapes ==&gt; uses or areas of need. Q: Do we use these vauge terms or pick more appropriate objects that may restrict uses and interaction.</p>
+<p>Might want to allow log in via other socnets.</p>
+<p>Seems it uses <a href="http://codeigniter.com/" rel="nofollow">codeigniter</a> PHP framework which uses a classic MVC architeture and seems reasonably active as an OSS project.</p>
+<p>I've started a <a href="http://groups.google.com/group/project-realise/browse_thread/thread/7ea4a76dd2fd617" rel="nofollow">dicussion thread on the REALISE group</a>.</p>    </div>
+
+    
+<h2 id="extra-content">Extra content</h2>
+    		<div class="extra-content">
+			<a name="content-768"></a>
+			<p>ooh she said Serendipity. REALISE has it as one of essence keywards</p>
+<p><strong>Connecting   Serendipity  Inspiring</strong></p>
+<p>plus astrap line</p>
+<p><strong>&ldquo;Realising potential through Partnerships</strong><strong>&rdquo;</strong></p>			<div class="posted-by">
+										    <img src="https://cloudworks.ac.uk/image/user_32/3070" alt="" style="float:left;margin-right:5px"/>
+					
+					<p class="date-stamp">
+					<a href="https://cloudworks.ac.uk/user/view/3070">Steve Lee</a>					<br /> 16:29 on 30 July 2010																	(Edited 17:36 on  1 August 2010)
+																									</p>
+			</div>
+
+
+		</div>
+    		<div class="extra-content">
+			<a name="content-770"></a>
+			<ul>
+<li><strong>Cooperative mindset</strong> (as opposed to a competitive mindset)</li>
+<li><strong>Igniting purpose</strong> (so that all participants are fueled by a sense of shared purpose)</li>
+<li><strong>Boundary spanning</strong> (that participants come from a range of different working sets and communities and share their experiences)</li>
+<li><strong>Productive capacity</strong> (that participants have the skills to contribute effectively) </li>
+</ul>
+<p>Lynda Gratton&rsquo;s organisational research - <a href="http://www.lyndagratton.com/" rel="nofollow"><em>Hot Spots</em></a></p>			<div class="posted-by">
+										    <img src="https://cloudworks.ac.uk/image/user_32/3070" alt="" style="float:left;margin-right:5px"/>
+					
+					<p class="date-stamp">
+					<a href="https://cloudworks.ac.uk/user/view/3070">Steve Lee</a>					<br /> 11:55 on 31 July 2010																									</p>
+			</div>
+
+
+		</div>
+    		<div class="extra-content">
+			<a name="content-771"></a>
+			<p>Thought that I'd give you all a heads up on our plans for Cloudworks  development. Do post in the comments below if you have any feedback or  suggestions.</p>
+<p><strong>Short-term </strong></p>
+<ul>
+<li>We've got some graphic design improvements to implement including a  redesign of the home page so that it contains more useful content.</li>
+<li>Better solution for embedding videos and slideshare presentations</li>
+<li>Display a 'cloudstream' of your activity on the site on your user profile</li>
+<li>Allowing you to add tags to yourself, so users will also appear on the page for a specific tag</li>
+<li>Improving the Cloudworks blog section of the site</li>
+<li>Displaying the number of times each cloud has been viewed</li>
+<li>Making new content appear quicker in the search results</li>
+<li>Improving the 'About' section of the site - Rebecca has been doing  some work on this that you should hopefully see the results of soon</li>
+<li>A review of the accessibility of the site </li>
+</ul>
+<p><strong>Medium-term <br /></strong></p>
+<ul>
+<li>Rethink how editting of clouds works - we often have clouds that  people wan to allow other people to edit and we need to consider what  the best way is to allow this</li>
+<li>Thinking more about the relationships between cloudscapes, clouds  and links and making corresponding changes e.g. do we want to allow  people to add 'related clouds' to a cloud?</li>
+<li>Improving the way we handle events so that e.g. we can have a list of upcoming edtech events. </li>
+<li>A reputation/voting system. I'm quite inspired by <a href="http://stackoverflow.com/" rel="nofollow">StackOverflow</a> and <a href="http://news.ycombinator.com/" rel="nofollow">Hacker News</a> here, but this is going to need quite a bit of thought as these sort of this sort of thing is a delicate business. </li>
+<li>&nbsp;A Cloudworks API and widgets. We'd like to make a Cloudworks  bookmarklet, a 'Cloud this!' button that you can put on your websites  and embed code/widgets for e.g. Wordpress blogs.&nbsp;</li>
+<li>Usability Testing</li>
+</ul>
+<p><strong>Longer term <br /></strong></p>
+<ul>
+<li>Further customisability of cloudscapes e.g. being able to reorder the clouds in your cloudscapes </li>
+<li>Visualisation of relationships between clouds and cloudscapes </li>
+<li>Open-sourcing the Cloudworks code and providing a way for people to  host their own version of Cloudworks. We've had quite a lot of people  wanting private spaces in Cloudworks, something that we have made a  decision against as we want to encourage people to share more openly.  However, we'd like to make it possible for people to install their own  version of Cloudworks if they so wish. If you are a developer and  interested in contributing the Cloudworks code (which is based on  CodeIgniter), let me know, as if there are keen people out there, I'll  push this up my priority list!</li>
+<li>I think there's also a very interesting question about how you might  'decentralise' Cloudworks eventually using the formats from the API as a  means to do that. However I think we need more traction and improve how  Cloudworks itself works before we can realistically do anything there. </li>
+</ul>
+<p>As well as all the above, I have a list of bugs and minor  enhancements to the site that I'm steadily working my way through. And  I'm off on holiday next week to give me the energy to do all of this!</p>
+<p><img src="http://cloudworks.ac.uk/uploads/user/32-bluehorse3.jpg" alt="" /> &nbsp; Posted by <a href="http://cloudworks.ac.uk/user/view/1" rel="nofollow">Juliette Culver</a> on 18 September 2009</p>
+<p>&nbsp;</p>			<div class="posted-by">
+										    <img src="https://cloudworks.ac.uk/image/user_32/3070" alt="" style="float:left;margin-right:5px"/>
+					
+					<p class="date-stamp">
+					<a href="https://cloudworks.ac.uk/user/view/3070">Steve Lee</a>					<br /> 16:50 on 31 July 2010																									</p>
+			</div>
+
+
+		</div>
+    		<div class="extra-content">
+			<a name="content-772"></a>
+			<p>This blog post describes the design of the  Cloudworks site. Cloudworks aims to provide a dynamic environment for  finding, sharing and discussing learning and teaching ideas and designs.  A more detailed outline of this work has been submitted as a paper to  Computers and Education.</p>
+<p>A number of design decisions have helped steer  our activities, informed from a mix of evaluation of user perceptions of  each version of the site, alongside an alignment to our underpinning  theoretical perspectives. Key points are summarised here.</p>
+<p><strong>Cloudworks phase one: design</strong></p>
+<p><strong>Design Decision 1.1 Cloud metaphor</strong></p>
+<p>We wanted to avoid the use of technical terms  such as &lsquo;learning design&rsquo; and hence choose to call the core objects of  the site &lsquo;Clouds&rsquo; and the overall site &lsquo;Cloudworks&rsquo;. The notion of  Clouds was intended to indirectly evoke metaphorical images of &lsquo;blue  skies thinking&rsquo;, &lsquo;thinking at an elevated level&rsquo;, &lsquo;visioning and  thinking creatively&rsquo;. The name &lsquo;Cloudworks&rsquo; also works as an acronym for  &lsquo;Collaborative Learning Design at The Open University&rsquo;, although it is  important to stress that we do not see Cloudworks as a specific tool  solely for the OU but as a generic tool for anyone to use.</p>
+<p><strong>Design Decision 1.2 Initial content population of the site</strong></p>
+<p>In order that visitors to the site did not find  an empty site and had examples of the type of content expected on the  site, we made the decision to initially populate the site with some  content. This was done in two ways. Firstly, through trawling existing  sites for good practice &ndash; this included harvesting the 44 case studies  of the use of VLE tools mentioned earlier, appropriation of learning  designs generated by the AUTC Learning Design site  (http://www.learningdesigns.uow.edu.au/) and a selection of examples  from other well known learning object repositories and case studies of  good practice.&nbsp; The criteria for inclusion was that the examples should  present a good spread in terms of pedagogy, subject and tool use and  should provide different types of representations from short textual  narratives through to more complex visual designs, as well as being  representative of the different potential types of Clouds that might be  included in the site. Secondly, once we had a reasonable mix of seeded  Clouds, we ran a series of five &lsquo;Cloudfests&rsquo; with potential users, where  participants were asked to generate Clouds for the site and where they  also critiqued existing Clouds. We used the data from the interviews  with teachers and the 44 case studies of the use of the VLE tools, to  draw out barriers and enablers to finding, discussing and sharing  learning and teaching ideas and used these to help steer the discussing  in the Cloudfests.</p>
+<p><strong>Design Decision 1.3 Include social features</strong></p>
+<p>Analysis of the design interviews with teachers  and of the VLE case studies showed that teachers value the opportunity  to share ideas with others; indeed for many a named contact to get  further information about a particular learning and teaching  intervention was perceived as more useful than finding similar  information via a website. This was particularly true if the teacher  knew the individual and valued their expertise, but was also because  they felt there was then an opportunity to follow up with further  queries if required.</p>
+<p>The importance of socialisation in social  networking is well recognised and is one of the underpinning  philosophies we have adopted for the site, as discussed in Section 11.  As a result, from the early stages of development of the site, each  Cloud was intentionally social, in that others could comment on and add  to it. In the initial stages of development, these social aspects  consisted simply of the ability for users to add comments to Clouds and  these comments then appeared in a linear temporal fashion under the  Cloud. However, our ultimate aim was to build a much richer set of  social functionality, drawing on observation of other successful Web 2.0  social practices, alongside evaluation of users&rsquo; perceptions and use of  Cloudworks.</p>
+<p>We wanted the focus of the site to be around  Clouds and associated discussions, rather than replicating more complex  social networking sites such as Ning or Elgg, where the user can  incorporate multiple Web 2.0 tools for aggregating content and for  communication. We wanted therefore to keep the focus on objects (Clouds)  about learning and teaching. This metaphor of a Cloud as a social  object was a core principle of the site.</p>
+<p><strong>Design Decision 1.4 Tagging within categories</strong></p>
+<p>Instead of allowing completely free tagging we  restricted the use of tags, allowing free tagging within three  categories: pedagogy, tool and discipline.&nbsp; The aim here was to make it  simpler for people to search for particular types of content without  having the constraints of pre-defined vocabularies. We felt these three  categories reflected the intended scope of the site and acted as a  reminder to users of the kinds of things they might either be interested  in looking for or contributing. Again these categories were abstracted  from the teacher interviews and case studies, as these were what  teachers typically used to filter information.</p>
+<p><strong>Design Decision 1.5 Low barrier to entry</strong></p>
+<p>One of the themes at the initial vision workshop  was the tension between a low barrier to entry to encourage users to  generate content verses the desire for high-quality content (the issue  of reputation systems and evidence for quality came up frequently). It  was also clear from the workshop that detailed information about a topic  was often less important than having contact details for a person to  talk to about it&nbsp; (which triangulates with similar comments from the  teacher interviews as discussed earlier). Each Cloud thus consisted of a  short informative title, a two-line description, a more detailed  account and any relevant links.</p>
+<p><strong>Design Decision 1.6 No private content</strong></p>
+<p>Another tension from the initial workshop was  between the website being open and issues such as rights clearance and  student access. Here following the Web 2.0 principle of harnessing  collective intelligence resulted in the decision that, in order to gain  critical mass for the site, all the content should be open and no  private content would be allowed. We felt that in order to capitalise on  Web 2.0 practices the site needed to be open and also that existing  tools behind institutional firewalls (such as password protected forums,  blogs and wikis) already provided adequate mechanisms for sharing and  discussions within distinct groups. Openness allows for serendipity, for  a Cloud created and discussed within one community to be discovered and  re-appropriated in another context. However we also needed a means of  validating users and hence anyone can view content on the site, but to  add content or comment on existing Clouds the user needs to register on  the site.</p>
+<p><strong>Design Decision 1.7 User Profiles</strong></p>
+<p>As discussed earlier, sharing and discussing  experiences is a core facet of teacher practice and hence we recognised  that the information on the site about individuals needed to be  informative, to enable others to gain quickly an overview of that  individual&rsquo;s expertise and interests. Hence the user profiles, in  addition to having user-generated information (such as name, institution  and interests), also included an automatically generated stream of the  clouds that user has created. This helps to differentiate users within  the site; so for example it might be inferred that users with a lot of  Clouds have some degree of authority &ndash; although in the initial stages no  peer reviewing or voting of Clouds or individuals was included, this is  certainly one of the more advance features we are interested in  exploring. The aim is to not only provide a listing of users within the  site, but an indication of their interests and expertise.</p>
+<p><strong>Design Decision 1.8 Cloud types</strong></p>
+<p>The core aim of the site was the intention for  it to be a place to share and discuss learning and teaching designs and  ideas. At an early stage of the conceptualisation of the site it was  decided that these designs/ideas would be described as &lsquo;Clouds&rsquo;. In the  first version of the site there were five types of Clouds:</p>
+<ol>
+<li><em>Clouds</em>: These ranged from short accounts of practice or  simple ideas of teacher practice, through to more detailed design plans &ndash;  which might be in the form of visual design representation such as a  LAMS1 design sequence or a CompendiumLD diagram, or a text-based,  narrative case study or pedagogical pattern (See for example Chatteur,  Carvalho and Dong, 2008; Goodyear 2005).</li>
+<li><em>StormClouds</em>: These were intended to be requests;  articulating an educational problem that someone is seeking help on. For  example a teacher might want to teach introductory statistics across a  range of disciplines and request help on ideas for doing this.  Alternatively a teacher might put in a StormCloud about how to promote  learner-centred approaches to inquiry-based learning to encourage  students to develop their scientific thinking skills.</li>
+<li><em>Resources</em>: These included learning objects, open  educational resources, design templates and case studies, but also  different ideas and approaches to thinking about design, and links to  sites providing information on different tools and how they can be used.</li>
+<li><em>Tools</em>: These included Learning Design tools - that guide  the user through the design process and pedagogy tools &ndash; which  instantiate particular pedagogical approaches.</li>
+<li><em>People and communities:</em> Each user has an associated profile  and any social objects they put in are automatically assigned to them  adding value to their profile and illustrating in a dynamic way the  evolving expertise of the system.</li>
+</ol>
+<p>Initially the site was developed using the  standard Drupal interface. In June 2008 we employed a graphics designer  to give the site a more appropriate look and feel to match the vision  for the site.</p>
+<p>In the initial version of the site there were  five types of Clouds represented along the top. Clicking on &lsquo;Clouds&rsquo;  will bring up a page listing all the Clouds alphabetically. Clicking on  one of these Clouds will open it and provide a more detailed description  and links to further information, along with user-generated tags.  Similarly clicking on Storm Clouds, resource bank or tool bank will  bring up a list of these different types of Clouds. Clicking on people  shows a list of those registered with the site and their associated  profiles. The tagging by pedagogy, subject and tool appears in the tag  clouds on the right hand side &ndash; the larger the font the greater number  of Clouds tagged with that word.</p>
+<p>The five Cloud-types were intended to be useful  both in navigating the site and also as a means of reinforcing the type  of content we envisaged being included. This dual purpose of &lsquo;ease of  navigation&rsquo; through category types and &lsquo;reflection of intent&rsquo; was  similar to our decision to have three categories of tags.</p>
+<p><strong>Cloudworks phase two: design</strong></p>
+<p><strong>Design Decision 2.1 Amalgamate cloud types</strong></p>
+<p>The initial five categories of Clouds were  amalgamated, so that now the sole object in Cloudworks is a &lsquo;Cloud&rsquo;.  This decision was made because it became clear that it was difficult to  categorise clouds into the types suggested. For example, it is not clear  if a site containing a number of designs should be included as a  &lsquo;Resource&rsquo; Cloud or a &lsquo;Design&rsquo; Cloud. Likewise, the distinction between a  tool and a resource was not always clear-cut.&nbsp; Nonetheless, the types  of Clouds which could be included remained the same, i.e. a short  description of a learning and teaching idea, a more detailed learning  designs or case studies of practice, a question or issue a user was  seeking advice on, or information about particular resources or tools  and how they can be used to support learning and teaching.</p>
+<p><strong>Design Decision 2.2. Increase social features</strong></p>
+<p>It was clear that the site was not being used  socially. We were generating the majority of the activity on the site,  either in terms of the creation of new Clouds, or through use of the  site in workshops. As well as retaining the social element of being able  to have a comment around a Cloud, in the revised site, new content and  discussion was made more prominent on the home page, with a list of new  clouds in the centre and new comments on clouds on the left hand side.  The intention was to help make the site appear more dynamic and to  highlight site activity to encourage further activity.</p>
+<p><strong>Design Decision 2.3 Cloudscapes</strong></p>
+<p>A new feature &lsquo;Cloudscapes&rsquo; was introduced to  address the issue of focusing on community engagement. Clouds can be  aggregated into &lsquo;Cloudscapes&rsquo; associated with a particular event,  purpose or interest. Example Cloudscapes include: conferences,  workshops, projects, research interests, types of pedagogy, course  design team spaces, tool development spaces, or course-specific  Cloudscapes. For example:</p>
+<ul>
+<li>Cloudscapes around conferences for aggregating clouds about conference presentations or tools and resources referenced.</li>
+<li>Cloudscapes around workshops where clouds might include workshop resources, tools, or activities.</li>
+<li>Cloudscapes around particular projects or research interests to  enable researchers to share and discuss their ideas and results and as a  mechanism for disseminating to a wider audience.</li>
+<li>Cloudscapes around types of pedagogy, such as problem-based  learning, constructivism, or inquiry-based learning; enabling those with  an interest in the topic to share their learning and teaching ideas and  design and to discuss associated issues.</li>
+<li>Cloudscapes as collaborative spaces for course teams, tool developments or around specific courses.</li>
+</ul>
+<p>Cloudscapes can also be more general, for  example to stimulate debate about a particular teaching approach.&nbsp;  Clouds can be associated with more than one Cloudscape. So, for example,  a Cloud on a research project using Mobile devices to foster  inquiry-based learning might be included in a Cloudscape associated with  a conference, but later might be picked up and added to a Cloudscape  specifically set up to support a community of users interested in mobile  learning research. Any associated comments go with the Cloud, hence  helping to transform dialogue between communities.</p>
+<p><strong>Design Decision 2.4 Following functionality</strong></p>
+<p>As discussed earlier, the ability to comment on  Clouds was seen as the first step to mimicking some of the practices  around the use of other Web 2.0 tools. Another practice, evident in many  social networking sites, is the idea of indicating who you are  connected to &ndash; the concept of connecting to friends and following their  activities is prevalent in many sites such as Facebook, Ning, Elgg,  Linked-In and Twitter. We were particularly interested in the way in  which the microblogging site Twitter (http://twitter.com) has been  appropriated over the last year or so as a lightweight mechanism for  engaging ideas and sharing and were struck by the way in which this  matched our criterion for low barrier to entry of use of the site as  discussed earlier.&nbsp; In Twitter posted messaged (tweets) are constrained  to 140 characters and tend to be a mix of light hearted and professional  comments. Users &ldquo;follow&rdquo; others and can be &ldquo;followed&rdquo;, anyone following  you will see your tweets and vice versa. In the e-learning community we  have seen an uptake of Twitter as a mechanism for providing a community  back chat of discussions around e-learning issues and research. We  wanted to explore how such practices might be replicated in Cloudworks,  as a result a &lsquo;follow&rsquo; feature was added to the site. Users can follow  both people and Cloudscapes. A list of who and what they are following  then appears dynamically on their user profile, helping to enrich the  picture of an individual&rsquo;s interests and expertise discussed earlier.</p>
+<p><strong>Design Decision 2.5 My Cloudstream</strong></p>
+<p>Another feature evident in many web 2.0 sites is  some type of activity stream. This shows activity of relevance to an  individual such as: who has recently connected to whom in your community  network, new posts added, comments made by others etc. To mimic this we  introduced the notion of a &ldquo;Cloudstream&rdquo;. An individual&rsquo;s&nbsp;  &ldquo;Cloudstream&rdquo; includes a temporal listing of any new Clouds a user  creates, as well as Clouds from any individual or Cloudscapes they are  following.</p>
+<p>Overall, evaluation and feedback from these  different events, coupled with the usability report findings, gave a  clear indication of how the site was progressing and further ideas for  improvement. Our conclusion at this point was that the site appeared to  work particularly well to support timed events such as conferences. This  was a surprise and wasn&rsquo;t something we had specifically designed in our  initial scoping of the site.&nbsp; We think that the reason for this is that  at conferences and workshops people are co-located, focussing around a  specific set of activities and have the time and motivation to engage in  discussions with others about emergent issues arises from the event.  The site acted as a useful conduit to channel &ldquo;shared, of-the-moment&rdquo;  dialogue associated with the workshop/conference. In addition, the site  provided a useful mechanism for capturing this shared debate and of  aggregating content related to the event.</p>
+<p><strong>Cloudworks phase three: design</strong></p>
+<p><strong>Design Decision 3.1 Add RSS feeds</strong></p>
+<p>In line with increasing the Web 2.0  functionality associated with the site, RSS feeds are now available for  Clouds, Cloudscapes and people. This enables users to flag only those  aspects of the site they are interested in and means rather than having  to go to the site, the information can be send to them as an RSS feed  and incorporated into their chosen personal digital environment.</p>
+<p><strong>Design Decision 3.2 Integrate streams from Web 2.0 sites</strong></p>
+<p>A common Web 2.0 practice, particularly evident  in the blogosphere, is the ability to integrate dynamic content from  other Web 2.0 sites, often using a &lsquo;cut and paste&rsquo; embed code. Dynamic  Twitter, Flickr and Slideshare streams are now possible for both  individuals and Cloudscapes. In each case an agreed &lsquo;tag&rsquo; is used as a  means of identifying appropriate content for inclusion. For example, if a  conference has an agreed Twitter tag #conf09, use of this on the  conference Cloudscape will dynamically incorporate all the tweets  including that hash-tag.</p>
+<p><strong>Design Decision 3.3 Merge the tag categories</strong></p>
+<p>Evaluation of the earlier versions of the site  and how tags were being used on it, indicated that users were confused  by having three different categories of tag-clouds and in fact were not  finding these distinctions helpful, particularly when creating Clouds  associated with workshops or conferences, where tags associated  specifically with the content of the Cloud and the name of the event  were emerging as more natural tags. As a result the tag-clouds have been  merged so there is no longer a distinction between pedagogy, subject  and tools.</p>
+<p><strong>Design Decision 3.4 Make the home page more visual</strong></p>
+<p>Jelfs highlighted in her usability report that  the homepage was too busy and not very engaging. Analysis of other  feedback indicated that users were not always clear about the scope of  the site and what it contained. As discussed above, the newly added  Cloudscape facility provided a useful means of engaging specific  communities, particularly at workshops and conferences. We wanted to  highlight this and hence featured Cloudscapes were added to the front  page of the site. We felt this offered the dual purpose of highlighting  current, active communities and as a means of illustrating the range of  different types of Cloudscapes that could be created.</p>
+<p><strong>Cloudworks Future Developments</strong></p>
+<p>A second user design was commissioned in April  2009 and a new design based on this was launched in July 2009. As part  of this the site was completely rebuilt in CodeIgniter  (http://codeigniter.com/). The new design provides a much cleaner look  and feel and a simpler, more intuitive navigational structure. Initial  feedback on the new design has been very positive.</p>
+<p>Further enhancing the social aspects of the site  is the key driver for the next stage. The success of the use of the  site for conferences and workshops is encouraging; nonetheless the site  is still not being used in the spontaneous way we envisaged in the  original vision statement. We therefore intend to work with a few  specific communities in-depth, to articulate their needs and evaluate  their use of the site over a number of months. Potential communities to  work with that we have identified so far include a cross-institutional  community interested in e-learning, a group developing and deploying  OER, a pedagogy and research group interested in enquiry-based learning  and a support network for careers work and innovation.&nbsp;&nbsp;&nbsp;</p>
+<p>By adopting a reflective approach and not tying  down the site in terms of tight specifications a number of surprising  patterns of use have emerged. For example, we could not have anticipated  at the start of the project the success the site would have in terms of  acting as a shared live blogging space.</p>
+<p>This post has described a set of design  principles which have shaped our development of the site. We have argued  that these principles have been derived from our original vision for  the site and the associated theoretical perspectives it draws on and  that we have used findings from our evaluation work to progressively  improved the functionality of the site. We will continue to incorporate  further Web 2.0 functionality, trying to pick up the best of social  networking practices and appropriate them within the site.</p>
+<p>Conferences offered time-bounded events where  people are bought together around a shared interest. Cloudworks provides  a simple to use back channel to capture and archive the conference  discussions. Similarly it works well as a mechanism for capturing  discussions during workshops. It is also proving useful as a mechanism  for aggregating and discussing resources for a particular community of  interest. For example a Cloudscape has been set up to support a group of  learners on a language course. We are beginning to explore how the site  can be used to support other types of community, as well as looking at  ways in which such community engagement can be initiated and sustained.</p>
+<p>However the broader vision of a site, where it  acts as a conduit for sharing learning and teaching ideas and designs,  where teachers upload ideas as a matter of course, and as a back channel  drip feeding new innovations, has not yet being achieved and is a much  more ambitious and difficult thing to realise. Barriers to this are  social and cultural as well as technical. Technically we intend to  continue to incorporate and test out Web 2.0 type functionality. We will  continue to run activities and events using the site and intend to set  up further evaluation studies to tease out the social and culture  barriers. We also intend to work with specific &lsquo;champion&rsquo; communities to  explore how the site might be used to meet they needs.&nbsp;</p>
+<p>&nbsp;Posted by <a href="http://cloudworks.ac.uk/user/view/3" rel="nofollow">Gr&aacute;inne Conole</a> on 7 September 2009</p>			<div class="posted-by">
+										    <img src="https://cloudworks.ac.uk/image/user_32/3070" alt="" style="float:left;margin-right:5px"/>
+					
+					<p class="date-stamp">
+					<a href="https://cloudworks.ac.uk/user/view/3070">Steve Lee</a>					<br /> 16:52 on 31 July 2010																									</p>
+			</div>
+
+
+		</div>
+    		<div class="extra-content">
+			<a name="content-773"></a>
+			<ul>
+<li>Open , drawing on web 2.0 practices </li>
+</ul>
+<ul>
+<li>Clouds as core objects &ndash;  social, cummulative, intelligent </li>
+</ul>
+<ul>
+<li>Intentionally both built around  &ldquo;communities&rdquo;/&rsquo;clusters of interest&rdquo; </li>
+</ul>
+<ul>
+<li>Cross-boundary , both filtering/personalisable and serendipitous </li>
+</ul>
+<ul>
+<li>Dynamic and evolving  through use alongside real events as well as virtual ones </li>
+</ul>
+<ul>
+<li>Variety of types of activities and uses, but focus always on  sharing, finding and discussing  educational ideas and designs </li>
+</ul>			<div class="posted-by">
+										    <img src="https://cloudworks.ac.uk/image/user_32/3070" alt="" style="float:left;margin-right:5px"/>
+					
+					<p class="date-stamp">
+					<a href="https://cloudworks.ac.uk/user/view/3070">Steve Lee</a>					<br /> 18:50 on 31 July 2010																									</p>
+			</div>
+
+
+		</div>
+    		<div class="extra-content">
+			<a name="content-774"></a>
+			<p>I had a feeling we agreed at the last meeting that the strap line would be "Realising potential through Partnerships"! &nbsp;and just when I wanted to make this comment beneath your one Steve I find I cannot link the two thoughts or even add a picture to this piece of 'extra content'. &nbsp;Bit of a limitation when we need to keep threads on particular topics together.&nbsp;</p>			<div class="posted-by">
+										    <img src="https://cloudworks.ac.uk/_design//avatar-default-32.jpg" alt="" style="float:left;margin-right:5px"/>
+					
+					<p class="date-stamp">
+					<a href="https://cloudworks.ac.uk/user/view/2291">E,A, Draffan</a>					<br /> 16:22 on  1 August 2010																									</p>
+			</div>
+
+
+		</div>
+    		<div class="extra-content">
+			<a name="content-775"></a>
+			<p>EA you are correct "Realising potential through Partnerships" it is. I copied from the comments on the original meeting notes. I will correct it if I can edit - could you edit my content? That would be useful. It may be better to hav another cloud and I have confused things by having multiple bits on content on 1. However you would then want to relate clouds - pehraps just create a cloudscape.</p>
+<p>As for comments, your are right&nbsp; there is a single discussion at the end and adding comments in other places would be useful - but may lead to clutter. I also felt I wanted properly threaded discussions, but realise some may find these a little confusing.</p>
+<p>Finally yes it's TinyMCE, with the usual accessibility issues. For spelling I use Firefox's built in which is fine for me. it's the same issue of user AT of web page provided? Btw I hooked up with the head of the co that have taken on TinyMCE testing etc at BarcampOxford and got him to disucss accessibility. They may be working on it.</p>
+<p>&nbsp;</p>			<div class="posted-by">
+										    <img src="https://cloudworks.ac.uk/image/user_32/3070" alt="" style="float:left;margin-right:5px"/>
+					
+					<p class="date-stamp">
+					<a href="https://cloudworks.ac.uk/user/view/3070">Steve Lee</a>					<br /> 17:35 on  1 August 2010																	(Edited 17:39 on  1 August 2010)
+																									</p>
+			</div>
+
+
+		</div>
+    
+<p class="add-link"><a href="https://cloudworks.ac.uk/content/add/4248">Add extra content</a></p>
+    
+
+<div id="embeds" class="embed-block">
+<h2>Embedded Content</h2>
+
+<a id="embed-778"></a>
+<div class="embed-wrap em-www-slideshare-net">
+    <h3>Introduction to cloud works</h3>
+  <a id="em-n0" class="em" href="http://www.slideshare.net/grainne/cloudworks-intro"  rel="nofollow">Introduction to cloud works</a>
+<p>   <a href="https://cloudworks.ac.uk/embed/accessible_alternative/778">Accessible Alternative</a><br />
+    <small>added by
+<a href="https://cloudworks.ac.uk/user/view/3070">Steve Lee</a></small>
+
+</p>
+</div>
+<a id="embed-779"></a>
+<div class="embed-wrap em-www-flickr-com">
+    <h3>Example foto</h3>
+  <a id="em-n1" class="em" href="http://www.flickr.com/photos/sylwiapresleyart/4737621831"  rel="nofollow">Example foto</a>
+<p>   <a href="https://cloudworks.ac.uk/embed/accessible_alternative/779">Accessible Alternative</a><br />
+    <small>added by
+<a href="https://cloudworks.ac.uk/user/view/3070">Steve Lee</a></small>
+
+</p>
+</div>
+<a id="embed-780"></a>
+<div class="embed-wrap em-vimeo-com">
+    <h3>Firefox contacts</h3>
+  <a id="em-n2" class="em" href="http://vimeo.com/12092555"  rel="nofollow">Firefox contacts</a>
+<p>  <small>added by
+<a href="https://cloudworks.ac.uk/user/view/3070">Steve Lee</a></small>
+
+</p>
+</div>
+<a id="embed-781"></a>
+<div class="embed-wrap em-en-wikipedia-org">
+    <h3>Open innovation</h3>
+  <a id="em-n3" class="em" href="http://en.wikipedia.org/wiki/Open_innovation"  rel="nofollow">Open innovation</a>
+<p>  <small>added by
+<a href="https://cloudworks.ac.uk/user/view/3070">Steve Lee</a></small>
+
+</p>
+</div>
+
+
+<script src="https://cloudworks.ac.uk/_scripts/jquery.oembed.js"></script>
+<script>
+$(document).ready(function() {
+  $('.embed-block a.em').oembed(null, {"oupodcast":{"theme":"oup-light"},"ispot":{"count":3,"postmessage":1,"style":1},"customProviders":[{"name":"wordpress","type":"rich","urlschemes":["wordpress\\.com","wp\\.me","oerresearchhub\\.org","ouseful\\.info","dougclow\\.org","penbentley\\.com","isharacomix\\.org","openeducationnews\\.org","oerconsortium\\.org","techchrunch\\.com","tekartist\\.org"],"apiendpoint":"https:\/\/public-api.wordpress.com\/oembed\/1.0\/?for=Cloudworks.ac.uk"},{"name":"fileviewer","type":"rich","urlschemes":["sites\\.google\\.com","www\\.lkl\\.ac\\.uk","blogs.cetis.ac.uk"],"apiendpoint":"https:\/\/embed.open.ac.uk\/oembed"},{"name":"scraperwiki","type":"rich","urlschemes":"scraperwiki\\.com","apiendpoint":"https:\/\/views.scraperwiki.com\/run\/scraperwiki_oembed_v1\/"}]});
+});
+</script>
+
+<p class="add-link add-embed"><a href="https://cloudworks.ac.uk/embed/add/4248">Add embedded content</a></p>
+</div>
+
+
+    <div class="grid">
+        <h2>Contribute</h2>
+        <a name="contribute"></a>
+        <ul class="cloudstream-filter">
+            <li>
+                            <a href="https://cloudworks.ac.uk/cloud/view/4248/comments#contribute">Discussion (9)</a>                        </li>
+            <li>
+                            <a href="https://cloudworks.ac.uk/cloud/view/4248/links#contribute">Links (6)</a>                        </li>
+            <li>                            <strong>Academic References (1)</strong>
+            </li>
+        </ul>
+    </div>
+
+    <div class="grid">
+    <ul class="arrows">
+        <li class="cloud-link">Billett, Stephen; Seddon, Terri. "Building community through social partnerships around vocational education and training" Journal of Vocational Education & Training 56.1 (2004). 01 Aug. 2010
+< http://www.informaworld.com/10.1080/13636820400200245 >    <br /><small>added by <a href="https://cloudworks.ac.uk/user/view/2291">E,A, Draffan</a></small>
+                    </li>
+        </ul> 
+
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/cloud/add_reference/4248">Add reference</a></p>
+   
+</div>
+
+</div>
+
+<div id="region2">
+    <div id="search-site">
+    <form id="form-search" action="https://cloudworks.ac.uk/search/result/" method="get">
+      <p>
+        <label for="query">Search</label>
+        <input id="query" name="q" type="search" value="" maxlength="30" />
+        <input id="search-button" type="image" src="https://cloudworks.ac.uk/_design/search-button.gif" alt="Search" />
+      </p>
+        </form>
+</div>
+    <p class="login">
+    <a href="#login" class="link-arrow show">Log in</a> 
+    <a href="https://cloudworks.ac.uk/auth/register">Sign up</a></p>
+
+<div id="login" class="collapsed">
+      <form action="https://cloudworks.ac.uk/auth/login" method="post" id="login-form">        <p><label for="user_name">Username:</label><br />
+     	<input type="text" name="user_name" value="" id="user_name"  />    </p>
+    	<p><label for="password">Password:</label><br />
+        <input type="password" name="password" value="" id="password"  /></p>    
+        <p>
+        <input type="submit" name="submit" id="submit" class="submit" value="Log in" />
+    <a href="https://cloudworks.ac.uk/auth/forgotten_password">Forgotten password</a>    
+    
+    </p>
+    </form></div>
+
+    <h2>Tags</h2>
+    <p class="tags">
+        	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/open+innovation">open innovation</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/open+source">open source</a>
+        </span>
+                 
+        </p>
+
+
+      <p class="add-link"><a href="https://cloudworks.ac.uk/tag/add_tags/cloud/4248">Add a tag</a></p>
+    <div class="box">
+<h2>In Cloudscapes</h2>
+    <ul class="cloudscapes">
+                    <li>
+                <a href="https://cloudworks.ac.uk/cloudscape/view/2159">Stuff to do with REALISE</a>            </li>
+             </ul>
+<p class="add-link"><a href="https://cloudworks.ac.uk/cloudscape/add_cloud/4248">Add to a Cloudscape</a></p>
+</div>
+
+
+
+            
+               
+            
+            <div class="box">
+<h2>Improve this cloud</h2>
+
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/tag/add_tags/cloud/4248">Add a tag</a></p>
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/content/add/4248">Add extra content</a></p>
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/embed/add/4248">Add embedded content</a></p>
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/cloud/add_link/4248">Add link</a></p>
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/cloud/add_reference/4248">Add reference</a></p>
+
+</div>            <h2>Gadgets</h2>
+<!-- Include the Google Friend Connect javascript library. --> 
+<script type="text/javascript" src="http://sociallearn.org/resources/google/friendconnect.js"></script>
+<!-- Display the gadgets added to this specific cloud -->
+            <h3>Example form</h3>
+        <!-- Define the div tag where the gadget will be inserted. --> 
+        <div id="div-gadget-0" style="width:280px; border:1px solid #cccccc;"></div>
+        
+        <!-- Render the gadget into a div. -->
+        <script type="text/javascript">
+        var skin = {};
+        google.friendconnect.container.setNoCache(1);
+        
+        google.friendconnect.container.setParentUrl('/'); 
+        google.friendconnect.container.renderOpenSocialGadget(
+         { id: 'div-gadget-0',
+           url:'http://serv.transfaire.ru/order.xml',
+           site: '07225872397327394267',
+           'view-params': { "userId" : "" ,  "cloudId" : "4248"}
+         },
+          skin);
+        </script>
+                <br />
+                    
+<!-- Display the gadgets the owner of this cloud has added to all their cloud -->
+    </div>
+                   </div>
+                    <div id="site-footer">
+				        <div class="grid">
+				        <p class="left">
+                                        <a href="https://www.open.ac.uk" title="© 2009-2019 The Open University (IET)">©</a> |
+				        <a href="https://cloudworks.ac.uk/about/about">About</a> |
+				        <a href="https://cloudworks.ac.uk/blog/archive">Blog</a> |
+				        <a href="https://cloudworks.ac.uk/about/tandc" class="rdfa" rel="license">Terms and Conditions</a> |
+				        <a href="https://cloudworks.ac.uk/about/privacy">Privacy notice</a> |
+				        				    				                                                <a href="https://github.com/IET-OU/cloudengine"
+                                           ><img src="https://cloudworks.ac.uk//_design/cloudengine-sm.gif" alt="Powered by CloudEngine, open-source social software" />
+                                        </a>
+				          </p>
+				      
+<!-- The language drop-down menu - jump to the top/#skip. -->
+
+<form id="form-lang" action="#skip" method="post">
+<p class="right"><label for="lang_select">
+Preferred language </label>
+<select id="lang_select" name="lang">
+        <option value="el" >Ελληνικά / Greek</option>
+        <option value="en" selected="selected">English</option>
+  </select>
+<button type="submit" >Load</button>
+</p>
+</form>
+				        </div>
+				    </div>
+				</div>
+			</div>
+		</div>
+		
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-5304738-3', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+
+
+    
+<script
+  data-nofollow-count="15"
+  data-rtt=""  data-ga-analytics-id="UA-5304738-3"></script>
+
+
+
+                <script src="https://unpkg.com/gaad-widget@%5E3/dist/gaad-widget.min.js"
+          data-gaad-widget='{"debug":true,"days_before":15,"x_lang":"en","analytics":false}'></script>
+          <script src="https://cloudworks.ac.uk/_scripts/custom.js"></script>
+
+<script> console.warn('rel=nofollow count:', 15) </script>
+	</body>
+</html>

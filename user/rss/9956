@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: Tatevik Zargaryan</title>
+        <link>https://cloudworks.ac.uk/user/rss.9956</link>
+        <atom:link href="https://cloudworks.ac.uk/user/rss.9956" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds by Tatevik Zargaryan</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>Instructional design </title>
+              <link>https://cloudworks.ac.uk/cloud/view/10237</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/10237</guid>
+              <description><![CDATA[<p><strong>Links&nbsp;</strong></p>
+<p>http://www.educatorstechnology.com/2014/02/3-excellent-tools-to-create-interactive.html</p>
+<p>http://www.educatorstechnology.com/2016/03/a-handy-chart-featuring-some-of-best.html</p>
+<p>http://www.educatorstechnology.com/2017/02/6-excellent-tools-for-creating.html</p>
+<p>http://www.educatorstechnology.com/2017/02/16-practical-strategies-to.html</p>
+<p>http://www.educatorstechnology.com/2016/07/a-new-visual-on-blooms-taxonomy-for-web.html</p>
+<p>http://www.educatorstechnology.com/2017/02/70-educational-android-apps-for.html</p>
+<p>http://www.educatorstechnology.com/2017/02/10-excellent-web-tools-for-creating.html</p>
+<p>http://www.educatorstechnology.com/2016/11/new-blooms-digital-taxonomy-poster-for.html</p>
+<p>http://www.olds.ac.uk/mooc-environment/tools-networks-communications</p>]]></description>
+          <pubDate>Wed, 15 Feb 2017 13:19:59 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

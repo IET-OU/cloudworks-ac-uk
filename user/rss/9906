@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: Sarah Adrienne Hughes</title>
+        <link>https://cloudworks.ac.uk/user/rss.9906</link>
+        <atom:link href="https://cloudworks.ac.uk/user/rss.9906" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds by Sarah Adrienne Hughes</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>THURS: The Digital Nurse: experimenting with open sourced multimedia (Sarah Adrienne Hughes)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/10200</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/10200</guid>
+              <description><![CDATA[<p>This presentation will describe how the author developed her own resources, reused open sourced learning artefacts, and her process of experimentation and research of online and networking tools for learning. The project was undertaken through participation in a postgraduate module entitled &lsquo;The Networked Practitioner&rsquo; (The Open University, 2016a). Using a &lsquo;Journey of Innovation&rsquo; (Zita, 2016), the author explored the use of both known and new ways of working with online multimedia and ICT tools and used a reflective diary to record developing ideas. The aim of the project started with the question: &ldquo;How can I engage students in eLearning and provide information, skills and support for the development of future Health eTasks?&nbsp; And is intended to inform the development of curriculum regarding &lsquo;Nursing Informatics&rsquo; (McGonigle and Mastrian, 2012; Barthold et al, 2015; O&rsquo;Connor, 2016).</p>
+<p>Online engagement with curriculum and commitment to eLearning are considered key aspects of successful blended learning (Valentin et al, 2013; Neville et al, 2015): especially as the Nursing and Midwifery Council (NMC) stipulated specific hours of study in PRNP (NMC, 2010) and the importance of making curriculum &lsquo;future proof&rsquo;. This project is intended to underpin new Pre-registration Nursing curriculum to form a three-tier theme of Nursing Informatics to prepare new nurses for 21<sup>st</sup> century nursing.</p>
+<p>Traditional Literature searching identified current issues in relation to Digital Literacy Skills, technical support and motivation for engaging with ICT tools, but failed to offer many solutions. Through the use of other resources, the author suggests that: &lsquo;non-academic&rsquo; sources of evidence can be used to triangulate ideas in a divergent way (Stoker, 2011) to enable nurses to work alongside their technical colleagues; and that current &lsquo;hierarchies of evidence&rsquo; be reviewed in order to meet the ever changing nature of the evidence (Draper, 2016) for technology and healthcare informatics.</p>]]></description>
+          <pubDate>Fri, 13 Jan 2017 18:03:35 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

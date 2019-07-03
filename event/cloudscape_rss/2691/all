@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Cloudstream for Ann Davis OLDS MOOC portfolio</title>
+    <link>https://cloudworks.ac.uk/</link>
+	<description>Cloudstream for Ann Davis OLDS MOOC portfolio</description>
+	<dc:language>en</dc:language>
+	<dc:creator>cloudworks@open.ac.uk</dc:creator>
+	<dc:rights>Copyright 2019 </dc:rights>
+	<admin:generatorAgent>
+    <atom:link href="https://cloudworks.ac.uk/event/cloudscape_rss/2691" rel="self" type="application/rss+xml" />
+    		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#link-5395</link>
+	      <guid>https://cloudworks.ac.uk/#link-5395</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Fri, 01 Apr 2016 05:52:23 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-10715</link>
+	      <guid>https://cloudworks.ac.uk/#comment-10715</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Tue, 09 Feb 2016 08:30:48 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-10714</link>
+	      <guid>https://cloudworks.ac.uk/#comment-10714</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Tue, 09 Feb 2016 08:30:40 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-10713</link>
+	      <guid>https://cloudworks.ac.uk/#comment-10713</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Tue, 09 Feb 2016 08:30:29 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#link-5363</link>
+	      <guid>https://cloudworks.ac.uk/#link-5363</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Tue, 02 Feb 2016 10:59:05 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title></title>
+	      <link>https://cloudworks.ac.uk/#comment-9566</link>
+	      <guid>https://cloudworks.ac.uk/#comment-9566</guid>
+	      <description><![CDATA[]]></description>
+	  	  <pubDate>Sun, 13 Jul 2014 08:12:43 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I appreciate the video for a way to organize collaboration. This is particularly useful when...new comment on the cloud Activity: 30 mins: OULDI Course Features  by Chris Gorman</title>
+	      <link>https://cloudworks.ac.uk/#comment-9042</link>
+	      <guid>https://cloudworks.ac.uk/#comment-9042</guid>
+	      <description><![CDATA[<strong>"I appreciate the video for a way to organize collaboration. This is particularly useful when...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/6652" rel="author">Chris Gorman</a></em>]]></description>
+	  	  <pubDate>Fri, 20 Dec 2013 15:21:37 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Tom,
+Thank goodness there is somebody else who doesn&#39;t know everything about Twitter. This is...new comment on the cloud Ann&#39;s OLDSMOOC narrative by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-8613</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8613</guid>
+	      <description><![CDATA[<strong>"Hi Tom,
+Thank goodness there is somebody else who doesn't know everything about Twitter. This is...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8144">Ann's OLDSMOOC narrative</a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Sun, 10 Mar 2013 10:43:08 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Ann, you wrote: “My biggest challenge was working with the various tools.” As a member...new comment on the cloud Ann&#39;s OLDSMOOC narrative by Tom Reeves</title>
+	      <link>https://cloudworks.ac.uk/#comment-8524</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8524</guid>
+	      <description><![CDATA[<strong>"Ann, you wrote: &ldquo;My biggest challenge was working with the various tools.&rdquo; As a member...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8144">Ann's OLDSMOOC narrative</a> by <a href="https://cloudworks.ac.uk/user/view/5098" rel="author">Tom Reeves</a></em>]]></description>
+	  	  <pubDate>Mon, 04 Mar 2013 02:06:08 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Ann,
+I, too, was amazed at all the OER available.
+You are to be commended for helping others....new comment on the cloud Ann&#39;s OLDSMOOC narrative by Art Oglesby</title>
+	      <link>https://cloudworks.ac.uk/#comment-8508</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8508</guid>
+	      <description><![CDATA[<strong>"Ann,
+I, too, was amazed at all the OER available.
+You are to be commended for helping others....</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8144">Ann's OLDSMOOC narrative</a> by <a href="https://cloudworks.ac.uk/user/view/5560" rel="author">Art Oglesby</a></em>]]></description>
+	  	  <pubDate>Sun, 03 Mar 2013 19:14:01 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Ann&#39;s OLDSMOOC narrativecloud added to the cloudscape Ann Davis OLDS MOOC portfolio by Ann Davis</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/8144">Ann's OLDSMOOC narrative</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2691">Ann Davis OLDS MOOC portfolio</a> by <a href="https://cloudworks.ac.uk/user/view/5927" rel="author">Ann Davis</a></em>]]></description>
+	  	  <pubDate>Sat, 02 Mar 2013 16:20:01 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Yishay,
+As far as Kirkpatrick&#39;s levels, the majority of all courses created have L1 and L2...new comment on the cloud Evaluation Experiences - corporate environment by Ann Davis</title>
+	      <link>https://cloudworks.ac.uk/#comment-8495</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8495</guid>
+	      <description><![CDATA[<strong>"Hi Yishay,
+As far as Kirkpatrick's levels, the majority of all courses created have L1 and L2...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8105">Evaluation Experiences - corporate environment</a> by <a href="https://cloudworks.ac.uk/user/view/5927" rel="author">Ann Davis</a></em>]]></description>
+	  	  <pubDate>Sat, 02 Mar 2013 15:37:34 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Ann,
+Can you share an example of a specific situation where you were involved in evaluation of...new comment on the cloud Evaluation Experiences - corporate environment by Yishay Mor </title>
+	      <link>https://cloudworks.ac.uk/#comment-8453</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8453</guid>
+	      <description><![CDATA[<strong>"Hi Ann,
+Can you share an example of a specific situation where you were involved in evaluation of...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8105">Evaluation Experiences - corporate environment</a> by <a href="https://cloudworks.ac.uk/user/view/99" rel="author">Yishay Mor </a></em>]]></description>
+	  	  <pubDate>Sat, 23 Feb 2013 19:03:48 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Evaluation Targetscloud added to the cloudscape Ann Davis OLDS MOOC portfolio by Ann Davis</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/8106">Evaluation Targets</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2691">Ann Davis OLDS MOOC portfolio</a> by <a href="https://cloudworks.ac.uk/user/view/5927" rel="author">Ann Davis</a></em>]]></description>
+	  	  <pubDate>Sat, 23 Feb 2013 16:23:40 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Evaluation Experiences - corporate environmentcloud added to the cloudscape Ann Davis OLDS MOOC portfolio by Ann Davis</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/8105">Evaluation Experiences - corporate environment</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2691">Ann Davis OLDS MOOC portfolio</a> by <a href="https://cloudworks.ac.uk/user/view/5927" rel="author">Ann Davis</a></em>]]></description>
+	  	  <pubDate>Sat, 23 Feb 2013 15:38:18 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;Thanks for these. Are there any specific resources from these sites that you are interested in?...new comment on the cloud Ann Davis OER Resource List by David White</title>
+	      <link>https://cloudworks.ac.uk/#comment-8396</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8396</guid>
+	      <description><![CDATA[<strong>"Thanks for these. Are there any specific resources from these sites that you are interested in?...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/8068">Ann Davis OER Resource List</a> by <a href="https://cloudworks.ac.uk/user/view/2470" rel="author">David White</a></em>]]></description>
+	  	  <pubDate>Mon, 18 Feb 2013 09:46:01 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Ann Davis OER Resource Listcloud added to the cloudscape Ann Davis OLDS MOOC portfolio by Ann Davis</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/8068">Ann Davis OER Resource List</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2691">Ann Davis OLDS MOOC portfolio</a> by <a href="https://cloudworks.ac.uk/user/view/5927" rel="author">Ann Davis</a></em>]]></description>
+	  	  <pubDate>Sun, 17 Feb 2013 18:13:13 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Prototype OER Modulecloud added to the cloudscape Ann Davis OLDS MOOC portfolio by Ann Davis</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/8069">Prototype OER Module</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2691">Ann Davis OLDS MOOC portfolio</a> by <a href="https://cloudworks.ac.uk/user/view/5927" rel="author">Ann Davis</a></em>]]></description>
+	  	  <pubDate>Sun, 17 Feb 2013 18:12:11 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;Thanks everyone for your comments.  Initially, the activity will be part of the new hire...new comment on the cloud Ann&#39;s Design Principle by Ann Davis</title>
+	      <link>https://cloudworks.ac.uk/#comment-8390</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8390</guid>
+	      <description><![CDATA[<strong>"Thanks everyone for your comments.&nbsp; Initially, the activity will be part of the new hire...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7941">Ann's Design Principle</a> by <a href="https://cloudworks.ac.uk/user/view/5927" rel="author">Ann Davis</a></em>]]></description>
+	  	  <pubDate>Sun, 17 Feb 2013 17:29:06 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I am late as I&#39;ve been otherwise and elsewhere occupied. Just wanted to say that I find these...new comment on the cloud Activity: 30 mins: OULDI Course Features  by Marie Arndt</title>
+	      <link>https://cloudworks.ac.uk/#comment-8293</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8293</guid>
+	      <description><![CDATA[<strong>"I am late as I've been otherwise and elsewhere occupied. Just wanted to say that I find these...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/2174" rel="author">Marie Arndt</a></em>]]></description>
+	  	  <pubDate>Sun, 10 Feb 2013 11:25:13 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I had to explain both authentic and feed forward. There seems to be some overlap between terms eg...new comment on the cloud Activity: 30 mins: OULDI Course Features  by Niall Watts</title>
+	      <link>https://cloudworks.ac.uk/#comment-8274</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8274</guid>
+	      <description><![CDATA[<strong>"I had to explain both authentic and feed forward. There seems to be some overlap between terms eg...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/1174" rel="author">Niall Watts</a></em>]]></description>
+	  	  <pubDate>Thu, 07 Feb 2013 17:01:10 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Thank you for letting us know how you got on using these in the workshop - and thanks for the...new comment on the cloud Activity: 30 mins: OULDI Course Features  by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#comment-8262</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8262</guid>
+	      <description><![CDATA[<strong>"Thank you for letting us know how you got on using these in the workshop - and thanks for the...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Wed, 06 Feb 2013 16:28:22 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I used the Course Features cards on a Design workshop with 11 university librarians this morning.I...new comment on the cloud Activity: 30 mins: OULDI Course Features  by Niall Watts</title>
+	      <link>https://cloudworks.ac.uk/#comment-8259</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8259</guid>
+	      <description><![CDATA[<strong>"I used the Course Features cards on a Design workshop with 11 university librarians this morning.I...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/1174" rel="author">Niall Watts</a></em>]]></description>
+	  	  <pubDate>Wed, 06 Feb 2013 15:29:57 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Steven,
+Thanks. If I understand your comments correctly you are dividing the levels of design...new comment on the cloud Ann&#39;s Design Principle by Briar Jamieson</title>
+	      <link>https://cloudworks.ac.uk/#comment-8253</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8253</guid>
+	      <description><![CDATA[<strong>"Hi Steven,
+Thanks. If I understand your comments correctly you are dividing the levels of design...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7941">Ann's Design Principle</a> by <a href="https://cloudworks.ac.uk/user/view/5868" rel="author">Briar Jamieson</a></em>]]></description>
+	  	  <pubDate>Tue, 05 Feb 2013 18:46:17 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;hi Briar - I like your comments and particualry the one about making the planned activity more...new comment on the cloud Ann&#39;s Design Principle by Steven Warburton</title>
+	      <link>https://cloudworks.ac.uk/#comment-8247</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8247</guid>
+	      <description><![CDATA[<strong>"hi Briar - I like your comments and particualry the one about making the planned activity more...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7941">Ann's Design Principle</a> by <a href="https://cloudworks.ac.uk/user/view/5099" rel="author">Steven Warburton</a></em>]]></description>
+	  	  <pubDate>Tue, 05 Feb 2013 09:43:46 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Ann, 
+Really interesting project, corporate training in a self-directed model.  It sounds like...new comment on the cloud Ann&#39;s Design Principle by Briar Jamieson</title>
+	      <link>https://cloudworks.ac.uk/#comment-8243</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8243</guid>
+	      <description><![CDATA[<strong>"Hi Ann, 
+Really interesting project, corporate training in a self-directed model.  It sounds like...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7941">Ann's Design Principle</a> by <a href="https://cloudworks.ac.uk/user/view/5868" rel="author">Briar Jamieson</a></em>]]></description>
+	  	  <pubDate>Tue, 05 Feb 2013 04:48:36 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;hi Jane, AnnI have used wikis many times and found them variably successful. This has often been...new comment on the cloud Ann&#39;s Design Principle by Steven Warburton</title>
+	      <link>https://cloudworks.ac.uk/#comment-8229</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8229</guid>
+	      <description><![CDATA[<strong>"hi Jane, AnnI have used wikis many times and found them variably successful. This has often been...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7941">Ann's Design Principle</a> by <a href="https://cloudworks.ac.uk/user/view/5099" rel="author">Steven Warburton</a></em>]]></description>
+	  	  <pubDate>Mon, 04 Feb 2013 15:25:52 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I really like using wikis with students to emphasise and make visible the process of working...new comment on the cloud Ann&#39;s Design Principle by Jane Challinor</title>
+	      <link>https://cloudworks.ac.uk/#comment-8222</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8222</guid>
+	      <description><![CDATA[<strong>"I really like using wikis with students to emphasise and make visible the process of working...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7941">Ann's Design Principle</a> by <a href="https://cloudworks.ac.uk/user/view/5433" rel="author">Jane Challinor</a></em>]]></description>
+	  	  <pubDate>Mon, 04 Feb 2013 09:23:57 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Ann&#39;s Design Principlecloud added to the cloudscape Ann Davis OLDS MOOC portfolio by Ann Davis</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7941">Ann's Design Principle</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2691">Ann Davis OLDS MOOC portfolio</a> by <a href="https://cloudworks.ac.uk/user/view/5927" rel="author">Ann Davis</a></em>]]></description>
+	  	  <pubDate>Sun, 03 Feb 2013 23:15:55 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;A few questions on the Course Features cards.
+Are they at the Vision (Conceptualise) or Activities...new comment on the cloud Activity: 30 mins: OULDI Course Features  by Niall Watts</title>
+	      <link>https://cloudworks.ac.uk/#comment-8140</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8140</guid>
+	      <description><![CDATA[<strong>"A few questions on the Course Features cards.
+Are they at the Vision (Conceptualise) or Activities...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/1174" rel="author">Niall Watts</a></em>]]></description>
+	  	  <pubDate>Wed, 30 Jan 2013 17:46:39 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Have downloaded the cards to try out - they look like a useful way to get people engaged with...new comment on the cloud Activity: 30 mins: OULDI Course Features  by Sue Watling</title>
+	      <link>https://cloudworks.ac.uk/#comment-8123</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8123</guid>
+	      <description><![CDATA[<strong>"Have downloaded the cards to try out - they look like a useful way to get people engaged with...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/4427" rel="author">Sue Watling</a></em>]]></description>
+	  	  <pubDate>Wed, 30 Jan 2013 05:15:28 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Niall, 12/16 is a random number - really all that intends to do it get teams thinking about what...new comment on the cloud Activity: 30 mins: OULDI Course Features  by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#comment-8113</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8113</guid>
+	      <description><![CDATA[<strong>"Hi Niall, 12/16 is a random number - really all that intends to do it get teams thinking about what...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Tue, 29 Jan 2013 18:25:40 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I&#39;m planning to use the week 3 tools on a course next week - with real, live colleagues. Scary!
+A...new comment on the cloud Activity: 30 mins: OULDI Course Features  by Niall Watts</title>
+	      <link>https://cloudworks.ac.uk/#comment-8103</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8103</guid>
+	      <description><![CDATA[<strong>"I'm planning to use the week 3 tools on a course next week - with real, live colleagues. Scary!
+A...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/1174" rel="author">Niall Watts</a></em>]]></description>
+	  	  <pubDate>Tue, 29 Jan 2013 15:23:04 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Great fun. Right up my street. Posted a blog here at my mind bursts.  (There will be...new comment on the cloud Activity: 30 mins: OULDI Course Features  by Jonathan Vernon</title>
+	      <link>https://cloudworks.ac.uk/#comment-8089</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8089</guid>
+	      <description><![CDATA[<strong>"Great fun. Right up my street. Posted a blog here at my mind bursts.&nbsp;&nbsp;(There will be...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/5930" rel="author">Jonathan Vernon</a></em>]]></description>
+	  	  <pubDate>Tue, 29 Jan 2013 10:15:25 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi all 
+Up to you how many cards you choose ;-) 
+Re blank ones the idea is that the cards...new comment on the cloud Activity: 30 mins: OULDI Course Features  by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-8079</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8079</guid>
+	      <description><![CDATA[<strong>"Hi all&nbsp;
+Up to you how many cards you choose ;-)&nbsp;
+Re blank ones the idea is that the cards...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Tue, 29 Jan 2013 09:04:45 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Tiffany, Are you accessing via an institution? I wonder if the problem is that they are in pdf...new comment on the cloud Activity: 30 mins: OULDI Course Features  by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#comment-8037</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8037</guid>
+	      <description><![CDATA[<strong>"Hi Tiffany, Are you accessing via an institution? I wonder if the problem is that they are in pdf...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 28 Jan 2013 08:36:09 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I haven&#39;t been able to access the course cards through the link or through the design studio....new comment on the cloud Activity: 30 mins: OULDI Course Features  by Tiffany Crosby</title>
+	      <link>https://cloudworks.ac.uk/#comment-8035</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8035</guid>
+	      <description><![CDATA[<strong>"I haven't been able to access the course cards through the link or through the design studio....</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/5671" rel="author">Tiffany Crosby</a></em>]]></description>
+	  	  <pubDate>Mon, 28 Jan 2013 03:00:16 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Thank you for the video. These activities look really engaging and I can&#39;t wait to try them with my...new comment on the cloud Activity: 30 mins: OULDI Course Features  by Iwona G</title>
+	      <link>https://cloudworks.ac.uk/#comment-8030</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8030</guid>
+	      <description><![CDATA[<strong>"Thank you for the video. These activities look really engaging and I can't wait to try them with my...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/3223" rel="author">Iwona G</a></em>]]></description>
+	  	  <pubDate>Sun, 27 Jan 2013 19:39:37 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;The video says chose &quot;approximately 16 cards&quot;; the text says &quot;a maximum of 12&quot;. Not a big deal, but...new comment on the cloud Activity: 30 mins: OULDI Course Features  by David Jennings</title>
+	      <link>https://cloudworks.ac.uk/#comment-8025</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8025</guid>
+	      <description><![CDATA[<strong>"The video says chose "approximately 16 cards"; the text says "a maximum of 12". Not a big deal, but...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/5785" rel="author">David Jennings</a></em>]]></description>
+	  	  <pubDate>Sun, 27 Jan 2013 16:47:09 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Really great and I can see the cards being SOO helpful - but why do the cards have so  much...new comment on the cloud Activity: 30 mins: OULDI Course Features  by Helen Whitehead</title>
+	      <link>https://cloudworks.ac.uk/#comment-8020</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8020</guid>
+	      <description><![CDATA[<strong>"Really great and I can see the cards being SOO helpful - but why do the cards have so&nbsp; much...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/1799" rel="author">Helen Whitehead</a></em>]]></description>
+	  	  <pubDate>Sun, 27 Jan 2013 12:17:56 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Sounds like a good idea Ann! Alternatively you could set up your own Cloudscape and add relevant...new comment on the cloud Activity: 30 mins: OULDI Course Features  by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-8019</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8019</guid>
+	      <description><![CDATA[<strong>"Sounds like a good idea Ann! Alternatively you could set up your own Cloudscape and add relevant...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sun, 27 Jan 2013 11:53:01 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Yes comparing the Activity Profile created by the teacher with the one created by the studetns is a...new comment on the cloud Activity: 60 minutes: OULDI Activity Profile OER by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-8018</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8018</guid>
+	      <description><![CDATA[<strong>"Yes comparing the Activity Profile created by the teacher with the one created by the studetns is a...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6596">Activity: 60 minutes: OULDI Activity Profile OER</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sun, 27 Jan 2013 11:51:53 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Jonathan, Grainne describes the tools as &#39;pick n mix&#39; - pick just the case studies and tools...new comment on the cloud Activity: 60 minutes: OULDI Activity Profile OER by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#comment-8014</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8014</guid>
+	      <description><![CDATA[<strong>"Hi Jonathan, Grainne describes the tools as 'pick n mix' - pick just the case studies and tools...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6596">Activity: 60 minutes: OULDI Activity Profile OER</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Sun, 27 Jan 2013 08:53:33 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I have seen there are 19 case studies to look at . Just hang on while I go into my time machine and...new comment on the cloud Activity: 60 minutes: OULDI Activity Profile OER by Jonathan Vernon</title>
+	      <link>https://cloudworks.ac.uk/#comment-8008</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8008</guid>
+	      <description><![CDATA[<strong>"I have seen there are 19 case studies to look at . Just hang on while I go into my time machine and...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6596">Activity: 60 minutes: OULDI Activity Profile OER</a> by <a href="https://cloudworks.ac.uk/user/view/5930" rel="author">Jonathan Vernon</a></em>]]></description>
+	  	  <pubDate>Sat, 26 Jan 2013 17:48:50 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I&#39;m on my third viewing of the video and actually would like 4/5 minutes on EACH of the key items...new comment on the cloud Activity: 60 minutes: OULDI Activity Profile OER by Jonathan Vernon</title>
+	      <link>https://cloudworks.ac.uk/#comment-8005</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8005</guid>
+	      <description><![CDATA[<strong>"I'm on my third viewing of the video and actually would like 4/5 minutes on EACH of the key items...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6596">Activity: 60 minutes: OULDI Activity Profile OER</a> by <a href="https://cloudworks.ac.uk/user/view/5930" rel="author">Jonathan Vernon</a></em>]]></description>
+	  	  <pubDate>Sat, 26 Jan 2013 17:04:31 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Glad you like them Ann! Both the Viewpoints and OULDI stuff emerged from the JISC-funded Curriculum...new comment on the cloud Resource: Viewpoints cards: Assessment and Feedback by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-8004</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8004</guid>
+	      <description><![CDATA[<strong>"Glad you like them Ann! Both the Viewpoints and OULDI stuff emerged from the JISC-funded Curriculum...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7215">Resource: Viewpoints cards: Assessment and Feedback</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sat, 26 Jan 2013 15:43:37 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Glad you like them Ann! Both the Viewpoints work and the OULDI stuff emerged out of the JISC-funded...new comment on the cloud Resource: Viewpoints cards: Learner engagement by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-8003</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8003</guid>
+	      <description><![CDATA[<strong>"Glad you like them Ann! Both the Viewpoints work and the OULDI stuff emerged out of the JISC-funded...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7216">Resource: Viewpoints cards: Learner engagement</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sat, 26 Jan 2013 15:40:00 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Activity: 30 mins: OULDI Course Features cloud added to the cloudscape Ann Davis OLDS MOOC portfolio by Ann Davis</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2691">Ann Davis OLDS MOOC portfolio</a> by <a href="https://cloudworks.ac.uk/user/view/5927" rel="author">Ann Davis</a></em>]]></description>
+	  	  <pubDate>Sat, 26 Jan 2013 15:27:17 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Activity: 60 minutes: OULDI Activity Profile OERcloud added to the cloudscape Ann Davis OLDS MOOC portfolio by Ann Davis</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/6596">Activity: 60 minutes: OULDI Activity Profile OER</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2691">Ann Davis OLDS MOOC portfolio</a> by <a href="https://cloudworks.ac.uk/user/view/5927" rel="author">Ann Davis</a></em>]]></description>
+	  	  <pubDate>Sat, 26 Jan 2013 15:26:38 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Resource: Viewpoints cards: Assessment and Feedbackcloud added to the cloudscape Ann Davis OLDS MOOC portfolio by Ann Davis</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7215">Resource: Viewpoints cards: Assessment and Feedback</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2691">Ann Davis OLDS MOOC portfolio</a> by <a href="https://cloudworks.ac.uk/user/view/5927" rel="author">Ann Davis</a></em>]]></description>
+	  	  <pubDate>Sat, 26 Jan 2013 15:25:49 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Resource: Viewpoints cards: Learner engagementcloud added to the cloudscape Ann Davis OLDS MOOC portfolio by Ann Davis</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7216">Resource: Viewpoints cards: Learner engagement</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2691">Ann Davis OLDS MOOC portfolio</a> by <a href="https://cloudworks.ac.uk/user/view/5927" rel="author">Ann Davis</a></em>]]></description>
+	  	  <pubDate>Sat, 26 Jan 2013 15:25:21 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;Nice set of tools when trying to figure out the best way to complete an item!...new comment on the cloud Resource: Viewpoints cards: Learner engagement by Ann Davis</title>
+	      <link>https://cloudworks.ac.uk/#comment-8002</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8002</guid>
+	      <description><![CDATA[<strong>"Nice set of tools when trying to figure out the best way to complete an item!...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7216">Resource: Viewpoints cards: Learner engagement</a> by <a href="https://cloudworks.ac.uk/user/view/5927" rel="author">Ann Davis</a></em>]]></description>
+	  	  <pubDate>Sat, 26 Jan 2013 15:24:29 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I can see using this for my project - where students do many self-discovery tasks during the...new comment on the cloud Resource: Viewpoints cards: Assessment and Feedback by Ann Davis</title>
+	      <link>https://cloudworks.ac.uk/#comment-8001</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8001</guid>
+	      <description><![CDATA[<strong>"I can see using this for my project - where students do&nbsp;many self-discovery tasks during the...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7215">Resource: Viewpoints cards: Assessment and Feedback</a> by <a href="https://cloudworks.ac.uk/user/view/5927" rel="author">Ann Davis</a></em>]]></description>
+	  	  <pubDate>Sat, 26 Jan 2013 15:22:39 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;It&#39;s odd, but initially to me, I saw this as a way to help plan out a full curriculum...new comment on the cloud Activity: 60 minutes: OULDI Activity Profile OER by Ann Davis</title>
+	      <link>https://cloudworks.ac.uk/#comment-8000</link>
+	      <guid>https://cloudworks.ac.uk/#comment-8000</guid>
+	      <description><![CDATA[<strong>"It's odd, but initially to me, I saw this as a way to&nbsp;help plan out&nbsp;a full curriculum...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6596">Activity: 60 minutes: OULDI Activity Profile OER</a> by <a href="https://cloudworks.ac.uk/user/view/5927" rel="author">Ann Davis</a></em>]]></description>
+	  	  <pubDate>Sat, 26 Jan 2013 14:33:52 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Since most of the people that I work with are in different locations, I was trying to think of the...new comment on the cloud Activity: 30 mins: OULDI Course Features  by Ann Davis</title>
+	      <link>https://cloudworks.ac.uk/#comment-7999</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7999</guid>
+	      <description><![CDATA[<strong>"Since most of the people that I work with are in different locations, I was trying to think of the...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/5927" rel="author">Ann Davis</a></em>]]></description>
+	  	  <pubDate>Sat, 26 Jan 2013 14:01:58 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Thanks Kelly! I love these tools deceptively simple and easy to engage with but very powerful!!...new comment on the cloud Activity: 30 mins: OULDI Course Features  by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-7994</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7994</guid>
+	      <description><![CDATA[<strong>"Thanks Kelly! I love these tools deceptively simple and easy to engage with but very powerful!!...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sat, 26 Jan 2013 10:34:10 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Yep agree with Rebecca! :-) The different designs enable you to view the design process from...new comment on the cloud Activity: 60 minutes: OULDI Activity Profile OER by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-7993</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7993</guid>
+	      <description><![CDATA[<strong>"Yep agree with Rebecca! :-) The different designs enable you to view the design process from...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6596">Activity: 60 minutes: OULDI Activity Profile OER</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Sat, 26 Jan 2013 10:32:17 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Really like this simple but complexly-designed approach to design. It takes into account many...new comment on the cloud Activity: 30 mins: OULDI Course Features  by Kelly Edmonds</title>
+	      <link>https://cloudworks.ac.uk/#comment-7977</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7977</guid>
+	      <description><![CDATA[<strong>"Really like this simple but complexly-designed approach to design. It takes into account many...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/4222" rel="author">Kelly Edmonds</a></em>]]></description>
+	  	  <pubDate>Fri, 25 Jan 2013 16:36:17 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Just worked ok for me Helen. Or you can find it in the  JISC design studio - maybe that&#39;s a...new comment on the cloud Activity: 30 mins: OULDI Course Features  by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#comment-7974</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7974</guid>
+	      <description><![CDATA[<strong>"Just worked ok for me Helen. Or you can find it in the&nbsp; JISC design studio - maybe that's a...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Fri, 25 Jan 2013 15:41:26 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Course Map Excel Spread Sheet new link on Activity: 30 mins: OULDI Course Features  added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-5117</link>
+	      <guid>https://cloudworks.ac.uk/#link-5117</guid>
+	      <description><![CDATA[<strong>Course Map Excel Spread Sheet </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Fri, 25 Jan 2013 15:38:02 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Team
+Has the link to pdf cards stopped working? It worked yesterday. Today no go.
+Thanks
+ ...new comment on the cloud Activity: 30 mins: OULDI Course Features  by Helen Crump</title>
+	      <link>https://cloudworks.ac.uk/#comment-7973</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7973</guid>
+	      <description><![CDATA[<strong>"Hi Team
+Has the link to pdf cards stopped working? It worked yesterday. Today no go.
+Thanks
+&nbsp;...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/5465" rel="author">Helen Crump</a></em>]]></description>
+	  	  <pubDate>Fri, 25 Jan 2013 15:29:23 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;@ Tiffany this seems like such a simple activity but in combination with the Course Map dimensions...new comment on the cloud Activity: 30 mins: OULDI Course Features  by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#comment-7958</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7958</guid>
+	      <description><![CDATA[<strong>"@ Tiffany this seems like such a simple activity but in combination with the Course Map dimensions...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Fri, 25 Jan 2013 09:34:13 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Alice - yes I agree with Grainne - this one is better for blocks of study rather than whole...new comment on the cloud Activity: 60 minutes: OULDI Activity Profile OER by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#comment-7957</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7957</guid>
+	      <description><![CDATA[<strong>"Hi Alice - yes I agree with Grainne - this one is better for blocks of study rather than whole...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6596">Activity: 60 minutes: OULDI Activity Profile OER</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Fri, 25 Jan 2013 09:20:04 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Linoit is a nice tool we at Leicester have also usef it for this exercise. Really like the course...new comment on the cloud Activity: 30 mins: OULDI Course Features  by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-7956</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7956</guid>
+	      <description><![CDATA[<strong>"Linoit is a nice tool we at Leicester have also usef it for this exercise. Really like the course...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Fri, 25 Jan 2013 08:47:25 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi some of the tools give an overview of a course - like the course features whereas others work...new comment on the cloud Activity: 60 minutes: OULDI Activity Profile OER by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-7955</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7955</guid>
+	      <description><![CDATA[<strong>"Hi some of the tools give an overview of a course - like the course features whereas others work...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6596">Activity: 60 minutes: OULDI Activity Profile OER</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Fri, 25 Jan 2013 08:45:53 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Rebecca, 
+I enjoyed this video, however this MOOC course is  called &quot; Learning design...new comment on the cloud Activity: 60 minutes: OULDI Activity Profile OER by Alice （Xin） Huang</title>
+	      <link>https://cloudworks.ac.uk/#comment-7947</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7947</guid>
+	      <description><![CDATA[<strong>"Hi Rebecca,&nbsp;
+I enjoyed this video, however this MOOC course is &nbsp;called " Learning design...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/6596">Activity: 60 minutes: OULDI Activity Profile OER</a> by <a href="https://cloudworks.ac.uk/user/view/5833" rel="author">Alice （Xin） Huang</a></em>]]></description>
+	  	  <pubDate>Fri, 25 Jan 2013 00:48:51 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;I like the consistent thought process that this imposes on course design. It&#39;s a very easy way to...new comment on the cloud Activity: 30 mins: OULDI Course Features  by Tiffany Crosby</title>
+	      <link>https://cloudworks.ac.uk/#comment-7946</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7946</guid>
+	      <description><![CDATA[<strong>"I like the consistent thought process that this imposes on course design. It's a very easy way to...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/5671" rel="author">Tiffany Crosby</a></em>]]></description>
+	  	  <pubDate>Fri, 25 Jan 2013 00:20:23 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Rebecca, nice video! really engaging! 
+In this video, you are using the cards for course...new comment on the cloud Activity: 30 mins: OULDI Course Features  by Alice （Xin） Huang</title>
+	      <link>https://cloudworks.ac.uk/#comment-7942</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7942</guid>
+	      <description><![CDATA[<strong>"Hi Rebecca, nice video! really engaging!&nbsp;
+In this video, you are using the cards for course...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/5833" rel="author">Alice （Xin） Huang</a></em>]]></description>
+	  	  <pubDate>Thu, 24 Jan 2013 23:19:40 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Thank! Fixed now :-)...new comment on the cloud Activity: 30 mins: OULDI Course Features  by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#comment-7933</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7933</guid>
+	      <description><![CDATA[<strong>"Thank! Fixed now :-)...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Thu, 24 Jan 2013 19:27:17 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi,
+Sorry, the Excel link  for the course map template doesn&#39;t work :(...new comment on the cloud Activity: 30 mins: OULDI Course Features  by Cristina Neto</title>
+	      <link>https://cloudworks.ac.uk/#comment-7922</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7922</guid>
+	      <description><![CDATA[<strong>"Hi,
+Sorry, the Excel link&nbsp;&nbsp;for the course map template&nbsp;doesn't work :(...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/5439" rel="author">Cristina Neto</a></em>]]></description>
+	  	  <pubDate>Thu, 24 Jan 2013 16:55:52 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Persona for Self-Directed/Exploratory Learningcloud added to the cloudscape Ann Davis OLDS MOOC portfolio by Ann Davis</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7628">Persona for Self-Directed/Exploratory Learning</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2691">Ann Davis OLDS MOOC portfolio</a> by <a href="https://cloudworks.ac.uk/user/view/5927" rel="author">Ann Davis</a></em>]]></description>
+	  	  <pubDate>Sat, 19 Jan 2013 19:38:20 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Scenario for Self-Directed Exploratory Learningcloud added to the cloudscape Ann Davis OLDS MOOC portfolio by Ann Davis</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7625">Scenario for Self-Directed Exploratory Learning</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2691">Ann Davis OLDS MOOC portfolio</a> by <a href="https://cloudworks.ac.uk/user/view/5927" rel="author">Ann Davis</a></em>]]></description>
+	  	  <pubDate>Sat, 19 Jan 2013 19:01:55 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>&quot;Note: I have decided to work on the following project http://cloudworks.ac.uk/cloud/view/7347,...new comment on the cloud Ann Davis: My Dream: Reinforcement of New Hire training by Ann Davis</title>
+	      <link>https://cloudworks.ac.uk/#comment-7564</link>
+	      <guid>https://cloudworks.ac.uk/#comment-7564</guid>
+	      <description><![CDATA[<strong>"Note: I have decided to work on the following project http://cloudworks.ac.uk/cloud/view/7347,...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/7478">Ann Davis: My Dream: Reinforcement of New Hire training</a> by <a href="https://cloudworks.ac.uk/user/view/5927" rel="author">Ann Davis</a></em>]]></description>
+	  	  <pubDate>Sat, 19 Jan 2013 18:12:55 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Ann Davis: My Dream: Reinforcement of New Hire trainingcloud added to the cloudscape Ann Davis OLDS MOOC portfolio by Ann Davis</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7478">Ann Davis: My Dream: Reinforcement of New Hire training</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2691">Ann Davis OLDS MOOC portfolio</a> by <a href="https://cloudworks.ac.uk/user/view/5927" rel="author">Ann Davis</a></em>]]></description>
+	  	  <pubDate>Thu, 17 Jan 2013 01:47:20 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Ann Davis&#39; Learning Journalcloud added to the cloudscape Ann Davis OLDS MOOC portfolio by Ann Davis</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7480">Ann Davis' Learning Journal</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2691">Ann Davis OLDS MOOC portfolio</a> by <a href="https://cloudworks.ac.uk/user/view/5927" rel="author">Ann Davis</a></em>]]></description>
+	  	  <pubDate>Thu, 17 Jan 2013 01:41:42 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Heather Peters - Another Face in the Cloud - Learning Journal (OLDS-MOOC)cloud added to the cloudscape Ann Davis OLDS MOOC portfolio</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/7073">Heather Peters - Another Face in the Cloud - Learning Journal (OLDS-MOOC)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2691">Ann Davis OLDS MOOC portfolio</a></em>]]></description>
+	  	  <pubDate>Mon, 14 Jan 2013 16:46:37 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Introductory video: Activity Profilenew embedded content added to the cloud Activity: 60 minutes: OULDI Activity Profile OER by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#embed-2212</link>
+	      <guid>https://cloudworks.ac.uk/#embed-2212</guid>
+	      <description><![CDATA[<strong>Introductory video: Activity Profile</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/6596">Activity: 60 minutes: OULDI Activity Profile OER</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Fri, 02 Nov 2012 16:06:50 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Activity Profile Excel template new link on Activity: 60 minutes: OULDI Activity Profile OER added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-4921</link>
+	      <guid>https://cloudworks.ac.uk/#link-4921</guid>
+	      <description><![CDATA[<strong>Activity Profile Excel template </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/6596">Activity: 60 minutes: OULDI Activity Profile OER</a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Fri, 02 Nov 2012 15:55:04 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Google doc spreadsheet template new link on Activity: 60 minutes: OULDI Activity Profile OER added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-4920</link>
+	      <guid>https://cloudworks.ac.uk/#link-4920</guid>
+	      <description><![CDATA[<strong>Google doc spreadsheet template </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/6596">Activity: 60 minutes: OULDI Activity Profile OER</a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Fri, 02 Nov 2012 15:54:22 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Course Features Cards for printing (pdf) new link on Activity: 30 mins: OULDI Course Features  added by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#link-4919</link>
+	      <guid>https://cloudworks.ac.uk/#link-4919</guid>
+	      <description><![CDATA[<strong>Course Features Cards for printing (pdf) </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> added by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Fri, 02 Nov 2012 14:34:42 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>Course features activity:  introductory videonew embedded content added to the cloud Activity: 30 mins: OULDI Course Features  by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#embed-2211</link>
+	      <guid>https://cloudworks.ac.uk/#embed-2211</guid>
+	      <description><![CDATA[<strong>Course features activity:  introductory video</strong><br /><em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/5950">Activity: 30 mins: OULDI Course Features </a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Fri, 02 Nov 2012 14:06:47 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>Week 7: Evaluation is one of my personal favorites things to do.  I like to confirm that......&quot;new content on Ann Davis&#39; Learning Journal by Ann Davis</title>
+	      <link>https://cloudworks.ac.uk/#content-2031</link>
+	      <guid>https://cloudworks.ac.uk/#content-2031</guid>
+	      <description><![CDATA[<strong>Week 7: Evaluation is one of my personal favorites things to do.&nbsp; I like to confirm that......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/7480">Ann Davis' Learning Journal</a> by <a href="https://cloudworks.ac.uk/user/view/5927" rel="author">Ann Davis</a></em>]]></description>
+	  	  <pubDate>Thu, 01 Jan 1970 00:33:33 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Week 8
+See my comments here. http://cloudworks.ac.uk/cloud/view/8144......&quot;new content on Ann Davis&#39; Learning Journal by Ann Davis</title>
+	      <link>https://cloudworks.ac.uk/#content-2041</link>
+	      <guid>https://cloudworks.ac.uk/#content-2041</guid>
+	      <description><![CDATA[<strong>Week 8
+See my comments here. http://cloudworks.ac.uk/cloud/view/8144......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/7480">Ann Davis' Learning Journal</a> by <a href="https://cloudworks.ac.uk/user/view/5927" rel="author">Ann Davis</a></em>]]></description>
+	  	  <pubDate>Thu, 01 Jan 1970 00:33:33 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Week One - This is the first MOOC that I have participated in, and other than trying to figure out......&quot;new content on Ann Davis&#39; Learning Journal by Ann Davis</title>
+	      <link>https://cloudworks.ac.uk/#content-1768</link>
+	      <guid>https://cloudworks.ac.uk/#content-1768</guid>
+	      <description><![CDATA[<strong>Week One - This is the first MOOC that I have participated in, and other than trying to figure out......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/7480">Ann Davis' Learning Journal</a> by <a href="https://cloudworks.ac.uk/user/view/5927" rel="author">Ann Davis</a></em>]]></description>
+	  	  <pubDate>Thu, 01 Jan 1970 00:33:33 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Week Two - Got with my group and we all felt we were behind a bit, many having issues trying to get......&quot;new content on Ann Davis&#39; Learning Journal by Ann Davis</title>
+	      <link>https://cloudworks.ac.uk/#content-1840</link>
+	      <guid>https://cloudworks.ac.uk/#content-1840</guid>
+	      <description><![CDATA[<strong>Week Two - Got with my group and we all felt we were behind a bit, many having issues trying to get......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/7480">Ann Davis' Learning Journal</a> by <a href="https://cloudworks.ac.uk/user/view/5927" rel="author">Ann Davis</a></em>]]></description>
+	  	  <pubDate>Thu, 01 Jan 1970 00:33:33 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Week 4: I was actually quite excited about the feedback that I got on my design and glad to know......&quot;new content on Ann Davis&#39; Learning Journal by Ann Davis</title>
+	      <link>https://cloudworks.ac.uk/#content-2015</link>
+	      <guid>https://cloudworks.ac.uk/#content-2015</guid>
+	      <description><![CDATA[<strong>Week 4: I was actually quite excited about the feedback that I got on my design and glad to know......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/7480">Ann Davis' Learning Journal</a> by <a href="https://cloudworks.ac.uk/user/view/5927" rel="author">Ann Davis</a></em>]]></description>
+	  	  <pubDate>Thu, 01 Jan 1970 00:33:33 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Week 5: For the prototype activity, I wasn&#39;t quite sure the best way to handle it.  After......&quot;new content on Ann Davis&#39; Learning Journal by Ann Davis</title>
+	      <link>https://cloudworks.ac.uk/#content-2016</link>
+	      <guid>https://cloudworks.ac.uk/#content-2016</guid>
+	      <description><![CDATA[<strong>Week 5: For the prototype activity, I wasn't quite sure the best way to handle it.&nbsp; After......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/7480">Ann Davis' Learning Journal</a> by <a href="https://cloudworks.ac.uk/user/view/5927" rel="author">Ann Davis</a></em>]]></description>
+	  	  <pubDate>Thu, 01 Jan 1970 00:33:33 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Week 6:  I really enjoyed looking for a variety of open resources.  I think that I was......&quot;new content on Ann Davis&#39; Learning Journal by Ann Davis</title>
+	      <link>https://cloudworks.ac.uk/#content-2017</link>
+	      <guid>https://cloudworks.ac.uk/#content-2017</guid>
+	      <description><![CDATA[<strong>Week 6:&nbsp; I really enjoyed looking for a variety of open resources.&nbsp; I think that I was......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/7480">Ann Davis' Learning Journal</a> by <a href="https://cloudworks.ac.uk/user/view/5927" rel="author">Ann Davis</a></em>]]></description>
+	  	  <pubDate>Thu, 01 Jan 1970 00:33:33 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Week Three:
+So far the items in Activity 2 have been wonderful.  For those who are visual, the......&quot;new content on Ann Davis&#39; Learning Journal by Ann Davis</title>
+	      <link>https://cloudworks.ac.uk/#content-1954</link>
+	      <guid>https://cloudworks.ac.uk/#content-1954</guid>
+	      <description><![CDATA[<strong>Week Three:
+So far the items in Activity 2 have been wonderful.&nbsp; For those who are visual, the......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/7480">Ann Davis' Learning Journal</a> by <a href="https://cloudworks.ac.uk/user/view/5927" rel="author">Ann Davis</a></em>]]></description>
+	  	  <pubDate>Thu, 01 Jan 1970 00:33:33 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Activity instructions
+[From the transcript of the video below]:
+In this activity you will use the ......&quot;new content on Activity: 60 minutes: OULDI Activity Profile OER by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#content-1532</link>
+	      <guid>https://cloudworks.ac.uk/#content-1532</guid>
+	      <description><![CDATA[<strong>Activity instructions
+[From the transcript of the video below]:
+In this activity you will use the ......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/6596">Activity: 60 minutes: OULDI Activity Profile OER</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Thu, 01 Jan 1970 00:33:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+	    </channel>
+</rss>

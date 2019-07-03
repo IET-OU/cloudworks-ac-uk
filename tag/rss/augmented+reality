@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: augmented reality</title>
+        <link>https://cloudworks.ac.uk/tag/rss/augmented+reality</link>
+        <atom:link href="https://cloudworks.ac.uk/tag/rss/augmented+reality" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds tagged augmented reality</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>FRI: Accelerate into another dimension. Produce and troubleshoot metal 3D print (Wendy Taleo)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/11890</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/11890</guid>
+              <description><![CDATA[<p><a title="SPEE3D Printer" href="https://www.flickr.com/photos/93225244@N03/46035331144/in/dateposted-public/" data-flickr-embed="true"><img src="https://farm8.staticflickr.com/7805/46035331144_f37cb30413_b.jpg" alt="SPEE3D Printer" width="240" height="180" /></a></p>
+<h2><a title="Poster Metal 3D Print Overview" href="https://youtu.be/KFbbSrZvpKc" target="_blank"><em><strong>WATCH A 1 MINUTE OVERVIEW</strong></em></a></h2>
+<h2>Abstract</h2>
+<p>A new course has been developed to train operators of the metal 3D printer located on Charles Darwin University Campus in Darwin, Australia. The printer is manufactured by SPEE3D and managed by Advanced Manufacturing Alliance (AMA) (Charles Darwin University, 2018). Students will be required to complete six elements: scan, setup, produce and troubleshoot metal 3D printing according to a National Standard training skill set (training.gov.au, 2018). Troubleshooting is the focus of this presentation.</p>
+<p>The title of this presentation alludes to an acceleration of learning as this printer has been designed to shoot powder at approximately three times the speed of sound. The metal 3D printer requires no heat process to fuse the metal together. Troubleshooting techniques will relate to issues impacting the printing of metal parts. With the use of educational technologies, students can use multiple senses to build a library of problem-solving skills for this unique and complex piece of equipment.</p>
+<p>Three common troubleshooting aspects have been chosen in the first phase of developing the training material. These are calibrating for new&nbsp;stocks of powder, cloud forming and under/overbuilding. It is intended that the training will be available in a blended mode of online and face to face. All outputs need to be compatible with the existing Learning Management System &#40;LMS&#41;. Project outputs will include a range of formats. Interactive videos and quizzes will be created in H5P. A narrative will be introduced to guide students through troubleshooting steps in Padlet. Augmented Reality will be designed for the calibrating aspect of the 3D printer.</p>
+<p>This unique printer works with materials that can be dangerous if mishandled. Training in troubleshooting will ensure that operators have the skills to provide a safe and successful operation. Augmented Reality Troubleshooting (ART) has been known to accelerate and assist in troubleshooting in complex environments (Vinn, 2018). Using AR for training can be the first step in gaining these benefits.</p>
+<p>Using Augmented Reality technology in educational settings can increase motivation and assist with long term memory retention (Leonard &amp; Fitzgerald, 2018). Calibrating is a common troubleshooting activity and has been chosen as best suited to gain benefits from using Augmented Reality. This will allow for the task to be repeated in a safe environment and benefit from memory retention and motivation of the students.</p>
+<p>The underlying theme of inclusion influences all parts of the project and the conference presentation. To encourage students to interact with the learning material, transcripts, audio, visual and alternative formats will be created. Accessibility checks will be taken for the material that is available online.</p>
+<p>This presentation will provide a dynamic snapshot of the learning experience designed to stimulate and focus on technical troubleshooting. Join this session to see how educational technology can add another dimension to learning.</p>
+<p><strong>References</strong></p>
+<p class="EndNoteBibliography">Charles Darwin University. (2018). Advanced Manufacturing Alliance. Retrieved from <a href="https://advancedmanufacturing.cdu.edu.au/">https://advancedmanufacturing.cdu.edu.au/<br /></a></p>
+<p class="EndNoteBibliography">Leonard, S. N., &amp; Fitzgerald, R. N. (2018). Holographic learning: A mixed reality trial of Microsoft HoloLens in an Australian secondary school. <em>2018, 26</em>. doi:10.25304/rlt.v26.2160</p>
+<p class="EndNoteBibliography">training.gov.au. (2018). ICPPRN395 - Set up and produce 3D print. Retrieved from <a href="https://training.gov.au/Training/Details/ICPPRN395">https://training.gov.au/Training/Details/ICPPRN395</a></p>
+<p class="EndNoteBibliography">Vinn, M. (2018, 2 April, 2018). Goggles With a Work Crew Inside. <em>Bloomberg Finance LP, 30</em>.</p>]]></description>
+          <pubDate>Tue, 18 Dec 2018 02:51:40 +0000</pubDate>
+            </item>
+                    <item>
+              <title>SAT: Break Out of the Box! How you can use xAPI to free in-house staff development (Katherine Hinchey)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/11472</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/11472</guid>
+              <description><![CDATA[<h2>Abstract</h2>
+<p>You learn by doing and collaborating, watching videos, accessing just-in-time information from your mobile device, mentoring, and more. Why, then, does the Human Resources department only give you slides to learn from?</p>
+<p>Today&rsquo;s workers and corporations are united in wanting more access to the formal, non-formal, and informal learning needed to support an increasingly skilled workforce (The Education Commission, 2016; Pew Research Center, 2016a and 2016b). However, today&rsquo;s corporations largely store their learning resources in virtual learning environments (VLEs) that have adopted a uniform way of storing content. This uniform way, called SCORM, was incredibly helpful when it was designed nineteen years ago, and it still has an important role to play today. When SCORM was created, computer-based training was relatively new and organisations needed a single way to store and track training. For a time, innovation in elearning stopped at the known, established boundaries of the VLE (Weller, 2014, p. 194).</p>
+<p>Now, a new need has developed: a way to store and track learning when it occurs on mobile devices, or through social and collaborative activities, or offline by reading a book or engaging in stretch assignments, or when participating in simulations or augmented and virtual reality programmes.</p>
+<p>An innovation that meets that need was first released in 2013, and had its last planned update in 2016. It is the Experience API (xAPI). xAPI provides a common format for capturing data from today&rsquo;s distributed learning landscape (Rustici Software, n.d.). With xAPI in place, you can free staff development from the confines of SCORM:</p>
+<ul>
+<li>Rely less on elearning courses designed from slides and more on learning experiences;</li>
+<li>Recognise learning from formal and informal or non-formal activities (Downes, 2015);</li>
+<li>And track not only clicks and views but also correlate learning with performance (Torrance, 2016).</li>
+</ul>
+<p>Managers and other decision-makers within learning departments and organisations are at a critical point. They need a source from which to gain a high-level, jargon-free understanding of the benefits of xAPI, common applications and uses of xAPI to support learners as they access modern and innovative learning opportunities, best practices and lessons learned, and information they should provide to their learning development and learning technology teams to prepare for implementation of xAPI (HT2 Labs, n.d.).</p>
+<p>In my conference presentation, I will discuss and share a workshop created to meet those needs. The workshop helps managers, even those without extensive technical backgrounds, to be prepared to move forward with discussions and decisions about xAPI within their organisation. My presentation will show some of the workshop features and provide attendees with tools they can take with them, for use in their future endeavours.</p>
+<h3>References</h3>
+<p>Downes, A. (2015) '9 Practical Applications of Tin Can API', webinar presented by Rustici Software. 31 March. Available at <a href="https://www.slideshare.net/RusticiSoftware/ nine-applications-of-the-tin-can-api-xapi">https://www.slideshare.net/RusticiSoftware/</a><br /><a href="https://www.slideshare.net/RusticiSoftware/ nine-applications-of-the-tin-can-api-xapi">nine-applications-of-the-tin-can-api-xapi</a> (Accessed 1 November 2017).</p>
+<p>The Education Commission (aka the International Commission on Financing Global Education Opportunity) (2016) <em>The Learning Generation: Investing in education for a changing world</em> [Online]. Available at <a href="http://report.educationcommission.org/downloads/">http://report.educationcommission.org/downloads/</a> (Accessed 18 November 2017).</p>
+<p>HT2 Labs (n.d.) <em>The Learning Technology Manager's Guide to xAPI</em> [Online]. Available at <a href="https://www.ht2labs.com/resources/the-learning-technology-managers-guide-to-the-xapi/">https://www.ht2labs.com/resources/the-learning-technology-managers-guide-to-the-xapi/</a> (Accessed 9 December 2017).</p>
+<p>Pew Research Center (2016a) <em>Lifelong Learning and Technology</em> [Online]. Available at <a href="http://www.pewinternet.org/2016/03/22/lifelong-learning-and-technology/">http://www.pewinternet.org/2016/03/22/lifelong-learning-and-technology/</a> (Accessed 18 November 2017).</p>
+<p>Pew Research Center (2016b) <em>The State of American Jobs: How the shifting economic landscape is reshaping work and society and affecting the way people think about the skills and training they need to get ahead</em> [Online]. Available at <a href="http://www.pewsocialtrends.org/2016/10/06/the-state-of-american-jobs/">http://www.pewsocialtrends.org/2016/10/06/the-state-of-american-jobs/</a> (Accessed 18 November 2017).</p>
+<p>Rustici Software (n.d.) <em>Experience API</em> [Online]. Available at <a href="https://experienceapi.com/">https://experienceapi.com/</a> (Accessed 1 November 2017).</p>
+<p>Torrance, M. (2016) 'The xAPI: What Does an Instructional Designer Need to Know?', presentation given at <em>Learning Solutions Conference &amp; Expo.</em> Orlando, Florida, 16-18 March. Available at <a href="https://www.slideshare.net/torrancelearning/xapi-what-does-an-instructional-designer-need-to-know">https://www.slideshare.net/torrancelearning/xapi-what-does-an-instructional-designer-need-to-know</a> (Accessed 1 November 2017).</p>
+<p>Weller, M. (2014) <em>The Battle for Open: How openness won and why it doesn't feel like victory</em>, London, ubiquity press. Available at <a href="http://www.ubiquitypress.com/ site/books/detail/11/battle-for-open/">http://www.ubiquitypress.com/</a><br /><a href="http://www.ubiquitypress.com/ site/books/detail/11/battle-for-open/">site/books/detail/11/battle-for-open/</a> (Accessed 2 May 2016).</p>]]></description>
+          <pubDate>Fri, 05 Jan 2018 05:56:22 +0000</pubDate>
+            </item>
+                    <item>
+              <title>THU: Integrating Augmented Reality In Learning Thai Vocabulary For Adult Learners In The US Higher Education (Payungsak Kaenchan)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/11449</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/11449</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Fri, 05 Jan 2018 06:29:06 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Jonathan Vernon : A Virtual Companion for Swimming Coaches</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7256</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7256</guid>
+              <description><![CDATA[Poolside with 16 - 40 swimmers you need eyes in the back of your head to monitor each swimmer, keep tabs on a programme, monitor what is going on and take on board and apply a myriad of new techniques and approaches. A Google headset may be the answer - how would it then support the coach who needs to keep his or her eyes on the athletes? What lessons in this testing enivronment could be applied to applied learning for others 'in the field' on an oil rig, in a battle zone, a farm or civil engineering project?]]></description>
+          <pubDate>Wed, 23 Jan 2013 07:27:47 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Bob and Sue - Adult Learners returning to Higher Education</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4103</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4103</guid>
+              <description><![CDATA[<p>Meet Bob and Sue to listen to their perspectives as adult learners returning to University to study Technology Enhanced Learning.</p>
+<p>Scroll down to view latest videos:<br /><strong>OpenEd10 held in Barcelona 2-4 November<br />What "Siemens Says" about 21st Century knowledge<br />Transavartarts Boo and Sob<br />Preparing for the NZ Tertiary Writers Network Colloquium<br />The Graduate, Bob and Sue version</strong></p>
+<p>Series 2: <a href="http://cloudworks.ac.uk/cloud/view/4686">Rog, Bob and Sue</a>&nbsp;on ethics</p>]]></description>
+          <pubDate>Wed, 07 Jul 2010 14:39:37 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Augmented reality, better than the real thing?</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2244</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2244</guid>
+              <description><![CDATA[<p>via @mtrends on twitter</p>
+<p>Introduction:</p>
+<p style="cursor:auto"><!--NO CSS-->Imagine if everything you pointed your phone at &ndash; from people to pets, shops to mountains &ndash; had its own 'bubble' of information. It sounds like science fiction, but augmented reality is already here. Anna Leach reports</p>]]></description>
+          <pubDate>Wed, 09 Sep 2009 08:19:32 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

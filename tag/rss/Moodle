@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: Moodle</title>
+        <link>https://cloudworks.ac.uk/tag/rss/Moodle</link>
+        <atom:link href="https://cloudworks.ac.uk/tag/rss/Moodle" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds tagged Moodle</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>Katie Janota - Design narrative: Documenting students’ achievements for course accreditation</title>
+              <link>https://cloudworks.ac.uk/cloud/view/10345</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/10345</guid>
+              <description><![CDATA[<h2>Narrator</h2>
+<p>I was the learning designer on this project.</p>
+<p>&nbsp;</p>
+<h2>Situation</h2>
+<p>Cranfield University runs a suite of environmental management courses which are accredited. The courses run three times a year with 20 students in each cohort. The course director identified a need for an on-line integrated system to allow them to track students&rsquo; progress and to offer visibility to course sponsors and the accrediting body.</p>
+<p>&nbsp;</p>
+<h2>Task</h2>
+<p>The course director wanted to be able to quickly switch between student profiles, and be able to record formative assessment results during the course, as well as collate and record their results from the end of course exams.</p>
+<p>&nbsp;</p>
+<h2>Actions</h2>
+<p>I created a Moodle page which contained:</p>
+<ul>
+<li>Instructions for the student</li>
+<li>A quiz comprising a selection of essay questions from which the students should choose two, and a bank of multiple choice questions which presents 20 random questions to the students. The pass mark for the quiz is 60%.</li>
+<li>A database which contains an alphabetical list of all the students which is searchable and shows the record of achievement for each student.</li>
+</ul>
+<p>In addition we used Mahara (e-portfolio) to host:</p>
+<ul>
+<li>23 activity sheets for students to complete individually</li>
+<li>a Continuous Professional Development (CPD) log for students to record their CPD hours</li>
+</ul>
+<p><em>&nbsp;</em></p>
+<p>This solution was developed in an agile manner, mocking up pages and responding to course needs. It will continue to evolve and adapt following feedback from the users.</p>
+<p>&nbsp;</p>
+<p>Issues include the fact that the academic has to manually input additional delegate information into the database as well as manually mark the essay questions in the Gradebook and input the results into the database.</p>
+<p>&nbsp;</p>
+<h2>Results</h2>
+<p>The result is a combination of manual and automatic in-puts that allows flexible access for relevant parties, and provides a verifiable record of attendance and results to ensure quality control across the courses.</p>
+<p>&nbsp;</p>
+<p>The next step will be to enable the automatic creation of groups in Mahara when groups are created in Moodle. Ideally, all manual stages of the designed solution would be automated and competency tracking developed alongside the current system, either with Moodle&rsquo;s own Competency Framework module or Mahara Smart Evidence. Finally, badges would be introduced to link with CDP evidence to enable better tracking of the students&rsquo; progress</p>
+<h2>Reflections</h2>
+<p>The transferable insights I gained were how to use the database activity in Moodle and how to create activity sheet templates in Mahara.</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Thu, 30 Mar 2017 11:45:03 +0000</pubDate>
+            </item>
+                    <item>
+              <title>MON:Online international collaboration to analyse childcare practices  (Angela Bonehill)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/10201</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/10201</guid>
+              <description><![CDATA[<p>This presentation aims to demonstrate the impact of a collaboration between two universities. Online International Learning (OIL) projects involve online interactions between students studying at a UK university and other international universities, developing further &lsquo;intercultural and digital skills&rsquo; between students and organisations ( Villar-Onrubia, &nbsp;Rajpal, 2016). A small amount of students get the opportunity to work or travel abroad as part of their studies, interactions through the internet can be a way forward for widening participation with regards to supporting the intercultural interactions.</p>
+<p>The design of this innovative online project was to facilitate a working party of students from Denmark and England to converse and assess the differences of curriculum planning and childcare in the two countries. There is a vast difference in the childcare systems of both countries. This was explored through digital collaboration on a number of platforms.</p>
+<p>What was the motivation? To educate the students on the different curriculums, to enable them to analyse, to evaluate, and to give them knowledge of other practices.&nbsp; We began with UK organisations linked to education, we invited guest speakers, we watched videos of different practices, we read studies and papers, we visited children&rsquo;s centres, forest schools, nurseries, and schools, but the learning was passive, the students were not engaged, the students found it difficult to put this into practice or to contextualise their learning. The teachers were the depositors and the students were the depositories (Freire 1974). How could we change the perspective and practice of these new practitioners? We were beginning to get a vision: to expand cognitive horizons about early childhood studies and research beyond the United Kingdom with an interactive project where other students gave their perspective of curriculum and children&rsquo;s development through online collaboration. The students became the teachers.</p>
+<p>As a group we began to question&hellip;What if we could&nbsp; encourage students to unlearn everything that they have learned about education, to gain a better understanding of natural learning rather than the structured delivery here in the UK? How can we ensure the new practitioner goes out into practice with a new mindset? How can we empower new practitioners to make changes to the existing curriculum but still meet the government frameworks for the county? Why do children not go outside to learn? (Henley 2010)</p>
+<p>Early childhood students in their second-year degree collaborated with their equivalent in Copenhagen studying a contrasting early childhood pedagogy program. This occurred through structured online learning using platforms; &nbsp;a shared Moodle, vlogs and&nbsp; skype.</p>
+<p>The students had regular interactions and developed relationships as well as &nbsp;learning about the child care practices and culture of another country, from the initial feedback students and lecturers, developed an understanding of the democratic and spiritual care that pedagogues &nbsp;provide in Denmark and the importance of the assessments and milestones children are expected to reach as per the Early Years Framework in the UK (Gov.uk 2016).</p>
+<p>The presentation will report on the experience of networking with academics, students and colleagues, it will demonstrate that digital communications will encourage wider collaboration, mobility and changes in practice for the early years sector.</p>]]></description>
+          <pubDate>Thu, 19 Jan 2017 19:59:44 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Anita Houghton - Using the Internet to Learn Internet Communication Techniques.  (H800 March 2016)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/9818</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/9818</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Tue, 29 Mar 2016 09:39:07 +0000</pubDate>
+            </item>
+                    <item>
+              <title>WED: E-feedback - supporting teachers in their use of Turnitin and GradeMark (Lisa Hale)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/9528</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/9528</guid>
+              <description><![CDATA[<p>At my current higher education institution, most student coursework is submitted and marked as a hard copy and findings of a recent in-house survey show that many students do not collect feedback on their summative assessed work. Why is this and what can we do as educators to change this?</p>
+<p>Despite the importance of feedback to learning (Gibbs and Simpson, 2004), learners and tutors complain about feedback. Learners say that they cannot access their feedback easily enough or the feedback process takes too long, and then they are often unable to read their tutor&rsquo;s handwriting, or feel the feedback should be more personalised and specific. The result? They do not collect it. Tutors say that their learners do not engage in the feedback process and complain that their learners do not collect their feedback from them. Tutors also say that it takes a significant amount of time to produce good written feedback.</p>
+<p>Implementing an e-feedback policy could answer some of these issues. Learners can access their feedback at their convenience, read typed comments more easily, benefit from improved feedback through in-text annotations, comments and popup clarifications and advice which can give more specific and directed feedback, and also benefit from the use of audio feedback. Consequently, learners are more likely to access, read, and use their feedback to feed forward to future assignments.&nbsp; For tutors, an e-feedback policy is more efficient without the need to manage a considerable amount of paper. In addition, tutors can benefit from being able to provide quicker and improved feedback through the use of in-text comments and audio tools, which could engage learners more in their feedback and encourage further dialogue about their learning.</p>
+<p>There are positive findings in the literature regarding the use of an innovative tool in Turnitin &ndash; GradeMark (Buckley and Cowap, 2013; Chew and Price, 2010). Turnitin is a software programme which helps learners and tutors to prevent plagiarism and supports best practices for the use and citation of other people&rsquo;s material (Turnitin, 2010). GradeMark enables a tutor to mark work online (through Turnitin) and easily return feedback and marks to their learners. Institutions who are using this software and tool say that learners are more likely to read and reexamine their feedback due to its convenience.</p>
+<p>In order to support tutors working with international students on a pre-sessional English for Academic Purposes course in their implementation of e-feedback, I am developing a series of specific support resources (for example <em>How to</em> guides). These will help me to provide consistent support to these tutors due to the high turnover of staff to meet the demands of, in particular, summer semester courses. Moreover, as these resources will be stored in an open access repository, tutors can return to them when needed. &nbsp;</p>
+<p>In my multimedia conference presentation, I will briefly outline some of the issues surrounding feedback and how the implementation of e-feedback could address these concerns. Then I will show the repository that I have developed and some of the resources that I am creating.&nbsp;</p>]]></description>
+          <pubDate>Thu, 11 Feb 2016 18:43:03 +0000</pubDate>
+            </item>
+                    <item>
+              <title>SAT: How forums and collaborative learning impact on oral proficiency in a foreign language class. (Tommy Ruiz)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/9504</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/9504</guid>
+              <description><![CDATA[<p>Using a class activity and its inclusive online collaborative component (open educational resources (OER), Moodle and its forums) the teacher recorded students who would not regularly speak during class time. This presentation discusses the importance of collaborative learning, digital methods and how students perceive their educational learning through an online community. Focusing primarily on the theme of inclusion, the interpretivist lens allows the teacher to focus on ethnographic data collected to extract key concepts. The presentation concludes by outlining the importance of collaborative learning and its impact on inclusive learning.</p>
+<p>&nbsp;</p>
+<p>This presentation explores:</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How collaborative learning is implemented in a foreign language class.</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How and why it helps oral proficiency.</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To what extent forums compliment collaborative learning in a foreign language class.</p>
+<p>&nbsp;</p>
+<p>While interest in the voice of students and teenagers has grown, concerns for their oral participation in a foreign language class can still be a daunting experience for some (Hewitt and Stephenson, 2012).&nbsp; For those excluded, the teacher needs to implement a safe, positive learning environment where students can feel at ease. Personal growth is mostly achieved whilst connecting, comparing and challenging your peers&rsquo; work. As a result, carefully structured group work or collaborative learning has been promoted at the international school of Kuala-Lumpur (ISKL) for a number of years. When applied to a foreign language class, collaborative learning creates random conversations. It focuses on shared knowledge and clear communication skills between students.&nbsp;</p>
+<p>&nbsp;</p>
+<p>When learning a foreign language, not all students learn at the same pace. Therefore pupils do not have the same learning outcomes. Consequently, a class activity that promotes collaborative learning needs to be tailored for the students&rsquo; individual needs. As a result, critical theory (Curseu and Pluut, 2013) suggests that students should work collaboratively in small groups to fulfil their potential whilst avoiding some of the peer pressure issues. Effective communicators listen, reflect and respect each other&rsquo;s ideas. Students need to take part in conversations to be accepted and thus included in the learning process. Each student should be a creative thinker who can reason critically. They need to defend viewpoints, argue and share experiences. In that context, oral participation is a crucial component towards inclusion.</p>
+<p>&nbsp;</p>
+<p>Placing a similar emphasis on the role of forums, Norvig (2012) views the latter as a platform where communication helps students clarify problems, negotiate meanings, exchange knowledge and share perspectives. Whilst language acquisition is usually linked to input-driven, listening and thus passive learning is as important (Lefkowitz and Hedgcock, 2002). In this context, forums are an extension of the collaborative learning and a reflection tool. Forums allow students to listen to their peers, learn from good examples, engage in critical reasoning and promote a monitored inclusive learning environment.</p>
+<p>&nbsp;</p>
+<p>This presentation will appeal to teachers who are looking for an inclusive approach to enhance an open scholarly practice, as well as those individuals who would like to learn about the forums in a collaborative online learning environment. The presentation will explore an analysis of participant contributions, survey data, and questionnaires to propose a model for collaborative learning in a foreign language class.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>References: </strong></p>
+<p>&nbsp;</p>
+<p>Curseu, P and Pluut, H (2013) Students groups as learning entities: <em>the effect of group diversity and teamwork quality on groups&rsquo; cognitive complexity</em> in: Studies in higher education vol.38, no. 1, February 2013, pp87-103.</p>
+<p><strong>&nbsp;</strong></p>
+<p>Hewitt, E and Stephenson, J (2012) <em>Foreign language anxiety and oral exam performance: a replication of Phillip&rsquo;s MLJ study</em> in: the modern language journal, volume 96, issue 2, pages 170-189, Summer 2012.</p>
+<p>&nbsp;</p>
+<p>Norvig, P (2012) The 100,000-student classroom in: <a href="https://www.ted.com/talks/peter_norvig_the_100_000_student_classroom?language=en">https://www.ted.com/talks/peter_norvig_the_100_000_student_classroom?language=en</a></p>
+<p>&nbsp;</p>
+<p>Lefkowitz, N and Hedgcock, J (2002) <em>Sound barriers: influences of social prestige, peer pressure and teacher (dis) approval on FL oral performance</em> in: Language teaching research 6,3 (2002); pp223-244.</p>]]></description>
+          <pubDate>Wed, 06 Jan 2016 03:15:18 +0000</pubDate>
+            </item>
+                    <item>
+              <title>David Appel’s design narrative: Developing blended learning elements which facilitate group work and peer-feedback</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8963</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8963</guid>
+              <description><![CDATA[<h2 dir="ltr">Narrator</h2>
+<p dir="ltr">My role was to support a teacher in conceptualising, designing, development and implementation of an online learning activity.</p>
+<h2 dir="ltr">Situation</h2>
+<ul>
+<li dir="ltr">
+<p dir="ltr">University of Applied Sciences, Department for Social Work</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Compulsory elective subject in a bachelor curriculum for Social Work.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Students (approx. 40) attending the course into their 3rd or 4th term, having completed several courses covering theoretical and methodical basics of the field.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Students have to deliver a report on a project they have worked on during the course. This is a group work of 3-4 students and delivered at the end of the term.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Previously, a significant proportion of the face-to-face course time has been used for organizing group work, providing instruction and facilitating communication. Peer feedback in the face-to-face environment has proven to be very time-consuming and has often not been leading to satisfactory results</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">LMS: Moodle (Students have worked with Moodle before, but are not necessarily experienced with collaborative elements and practices; teacher is fairly familiar with Moodle)</p>
+</li>
+</ul>
+<h2 dir="ltr">Task</h2>
+<p dir="ltr">I have focused on opportunities to improve efficiency and effectiveness of group collaboration in this course. I decided to use blended learning elements which would allow to guide students towards group work and communication in a virtual environment. I selected administrative, organizational and methodological elements of writing a term paper which could be supported by with online components. The measure of success was a reduction of administrative and organisational efforts by the teacher and administrative staff.</p>
+<p dir="ltr">I also included elements of reflection and evaluation for the students to &nbsp;take an active, participative, and critical role (providing peer-feedback at several stages of the paper writing process). The success factor was a consistent quality in the term papers delivered, not below the quality of previous papers delivered in the standard course format.</p>
+<h2 dir="ltr">Actions</h2>
+<ul>
+<li dir="ltr">
+<p dir="ltr">Together with the teacher in charge I drafted a concept for the course, including goals, key stakeholders, format and sequence of elements included, implementation of a pilot, implementation of the final course, and evaluation by students, teacher, and supportive staff. The result was a common understanding of the goals as well as the actions to be taken and related responsibilities.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">I then developed the main elements and run a pilot with a few selected testers not yet involved in the course design. It turned out that several elements were not sufficiently described or did not work exactly the way they were intended.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">On the basis of the pilot we adapted the course design were necessary and then run the course for an entire term. At the end of the turn we evaluated the results, questioned students, staff and teacher and analysed the overall outcomes.</p>
+</li>
+</ul>
+<h2 dir="ltr">Results</h2>
+<p dir="ltr">The papers delivered were of a consistent quality at about the same level as in the previous version of the course (without blended learning elements). The effort for preparing and developing the course was significant, during the course support and occasional adjustments were necessary which also meant some additional effort for both teacher and supportive staff. However, most of the issues could be resolved for the next term and without the one-time preparational efforts qualitative as well as quantitative objectives could be met.</p>
+<p dir="ltr">A survey conducted among the students showed that most of them appreciated the design of the course, but would have liked to use the space for further collaboration more extensively.</p>
+<h2 dir="ltr">Reflections</h2>
+<p dir="ltr">It is important to create a detailed design of the course - including goals, key stakeholders, elements and sequencing, evaluation, etc. - in order to make sure that all involved parties have the same understanding of the project. However, even with a detailed design there are issues which cannot be anticipated and therefore running a pilot with people who have not been involved previously is crucial to discover any gaps and flaws. At the end, an evaluation can reveal further gaps and issues, but also provide input for further development.</p>
+<p dir="ltr">&nbsp;</p>
+<h3>CompendiumLD Map</h3>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a title="Peer-feedback on term paper concept2 by David Appel, on Flickr" href="https://www.flickr.com/photos/131689978@N02/17016406390"><img src="https://farm6.staticflickr.com/5449/17016406390_896948cd86_b.jpg" alt="Peer-feedback on term paper concept2" width="650" height="728" /></a></p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Sun, 19 Apr 2015 20:46:12 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Emily&#39;s Persona</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8766</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8766</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Mon, 26 May 2014 08:18:43 +0000</pubDate>
+            </item>
+                    <item>
+              <title>&quot;Innovation&quot;</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8761</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8761</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Sat, 24 May 2014 15:25:09 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Moodle launches its first official MOOC with teachers in mind</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8518</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8518</guid>
+              <description><![CDATA[<p>When I heard this news, I'm so exerciting.</p>]]></description>
+          <pubDate>Mon, 02 Dec 2013 13:05:56 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Lisa H: A first meeting with Moodle</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8381</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8381</guid>
+              <description><![CDATA[<h4><strong>Narrator</strong></h4>
+<p><em>I work on a pre-sessional English language and study skills programme at a university.</em></p>
+<h4><strong>Situation</strong></h4>
+<p><em>New students arrive in week 0 (one week before semester starts) and they are given various induction sessions by different members of the programme and University support teams. For this introduction to Moodle session, we use a computer room with enough terminals for one per student. However, I ask the students to sit at a terminal with another student so they can continue to build relationships with the other students. We promote is as a key session, so it is usually well-attended. The session takes place towards the end of the induction week; therefore, many of the students know each other a little. It was a one-hour session. There were 18 students at this particular session.</em></p>
+<h4><em>&nbsp;</em><strong>Task</strong></h4>
+<p><em>This is a general introduction session to the VLE platform (through discussion work and a quiz). It can be very confusing and, although the tutors will refer to it in every lesson, it gives the students who attend the session a bit of a head start for week 1 so they will not be too overwhelmed by lots of new information and be able to concentrate on the content of their course. I have a short evaluation activity at the end of the session which gives me immediate feedback on the session, and, as I am a tutor on the course myself, I can see who is using it by/in &nbsp;week 1 and who needs further support. </em></p>
+<h4><strong>&nbsp;Actions</strong></h4>
+<ol start="1">
+<li><em>Pairwork: Discussion &ndash; what a virtual learning environment is and exchange experiences of. If no experience, what they imagine it is.</em></li>
+<li><em>Whole class: Feedback from pairwork to whiteboard. </em></li>
+<li><em>Whole class: Concept checking of virtual learning environment.</em></li>
+<li><em>Pairwork: Discussion - advantages and expectations of VLE.</em></li>
+<li><em>Whole class: Feedback from pairwork to whiteboard. (Up to this stage: about 20 -30 minutes). This part of the session went well and I think this was because the students knew each other a little better than many students in week 0 and they were happy to discuss together. However, it was clear that one or two students were still a little unsure of what a VLE was, but this may have been due to their low language level. I noted their names to mention to their tutors and academic advisers so that they could monitor and follow up, if necessary.</em></li>
+<li><em>Pairwork: Students log on to Moodle (this took quite a while as it was also the first time they had used their student numbers and passwords to log on to the system). One problem was that a few students had forgotten their details or hadn&rsquo;t been given any. This meant a bit of juggling of students.</em></li>
+<li><em>Pairwork: Moodle quiz &ndash; students work through a quiz of 10 items (the quiz is on the homepage of the course site) which introduces them to some of the key functions and shows them the tools that they will probably use more frequently.</em></li>
+<li><em>Whole class: Feedback &ndash; answers (shown via accessing the answers on the VLE displayed on a projector &ndash; this was to consolidate the process to the students and to show them any shortcuts). There was also an opportunity to ask questions at this stage, which is why I prefer to go through the answers with them rather than let them check individually. (Stages 6-8: about 30 minutes.)</em></li>
+<li><em>Evaluation activity &ndash; Students asked to complete an anonymous evaluation form (smiley faces &ndash; what did you like/not like about the session). The feedback from the session was mostly positive. One student commented that they didn&rsquo;t like working in pairs, another student was unhappy as they were unable to log on, and another student said that they wanted the session to be longer.</em></li>
+</ol>
+<h4><strong>&nbsp;Results</strong></h4>
+<p><em>The students now had a better understanding of a VLE and some experience of using it. They had experience of working in pairs, discussion work, whole class feedback and asking questions. They had formed closer bonds with their potential classmates. I hadn&rsquo;t seen it as an opportunity for cross-cultural work, but during the group feedback stage at the end of their discussion, the students were saying: my partner from xxxxx says that at universities in his country, students don&rsquo;t use computers and technology. &nbsp;For myself, as one of their tutors, I have the opportunity to learn about my students, especially their learning backgrounds and digital skills.</em></p>
+<h4><strong>Reflections</strong></h4>
+<p><em>I was happy with the session. I will look at the quiz before next time and change a few questions (I always do this to keep it up-to-date). I will also make sure that the students are reminded &ndash; at an earlier session &ndash; to bring their log in details.&nbsp;&nbsp;</em></p>]]></description>
+          <pubDate>Mon, 08 Apr 2013 10:57:27 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Sandie Gay - v brief narrative</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8208</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8208</guid>
+              <description><![CDATA[<p><strong>Situation</strong></p>
+<p><em>Where are you coming from? What is the context in which you are working and participating in OLDS MOOC?</em></p>
+<p>&nbsp;</p>
+<p><em>This is an incomplete narrative as I wanted to get something up to show that I have been doing something not just lurking....ther's loads that needs adding but anyway....</em></p>
+<p><em>I am an e-learning consultant and trainer.&nbsp; When I enrolled on the MOOC, I was e-learning facilitator (aka learning technologist) at Staffordshire University, with particular responsibilities for the Faculty of Health Sciences.&nbsp; We have just (two days ago) moved to Birmingham so am no longer working at the University but hope to gain work at a local University as soon as I have time to regroup! </em></p>
+<p><em>My participation in the MOOC has been in the middle of designing and implementing a complete lifestyle change.&nbsp; Now that the kids are all grown up (mentally independent if not fully financially independent!) we decided it was time to have some fun and move to a city into a 2-bed apartment (from a&nbsp; 5-bed house) which we did on Wednesday this week.&nbsp; So, what with the move and work and everything else, I have only been able to dip in and out but have been reading all the emails and surfing (or is it lurking) in the clouds.&nbsp;</em></p>
+<p><strong>Task</strong></p>
+<p><em>What did you hope to achieve? What were your goals in joining OLDS MOOC?&nbsp;</em></p>
+<p><em>I wanted to participate in the OLDSMOOC for experience of a MOOC and to learn about learning design as I can use my learning when facilitating course design in my work.&nbsp; The expectation of technology has always been that it will &lsquo;transform&rsquo; learning and teaching and I want to &lsquo;transform&rsquo; my own ways of thinking about designing courses and here&rsquo;s a thing....as I write this I have a sudden revelation that we have been talking about learning design and not course design which I have realised already has worked in changing the angle at which we were coming at this learning from.</em></p>
+<p>&nbsp;<strong>Actions</strong></p>
+<p><em>What did you do? What were the main events, interactions, practices and activities in which you participated?&nbsp;What were the obstacles - and how did you tackle them?</em></p>
+<p><em>This is a hard one, because the honest answer is not as much as I wanted with the lame excuse of pressures on time but I think I will forgive myself as I was trying to fit in an awful lot of events into a short space of time &ndash; decluttering 12 years worth of accumulated possessions, moving and job-seeking being a few of them.</em></p>
+<p><em>Having got involved in two linked projects from many that were interesting and enticing, the outcome was being involved in one project (sorry Alan) on creating a course on learning design for further education teachers, topslicing through the research and evidence provided in the MOOC.&nbsp; This was simply because I was able to jump on and help build on the work already started by the project members, Elisabetta Lando and Dan McCafferty, further education learning and teaching is an area I have experience and supported some of the other work I was doing at the time.</em></p>
+<p><em>The idea was to create a learning design course in Moodle for FE teachers using only a few of the essential resources, frameworks and models discovered and debated in the MOOC.&nbsp; This was so it was manageable and didn&rsquo;t involve too many forays into the myriad of tools available.&nbsp; </em></p>
+<p><em>&nbsp;</em></p>
+<p><strong>Results</strong></p>
+<p><em>What were the outcomes of your participation? Did you meet your goals? What went well, what didn't? What unexpected outcomes did you notice?</em></p>
+<p><em>The outcome to date is the beginnings of a learning design course based in Moodle for FE teachers following on from a toolkit flowchart created in Lucidchart.com.&nbsp; The flowchart was based on the 7S model of design for experiential learning and then converting this into a course with suggested tasks and activities for individual or group learning using the templates, resources and links discovered in the MOOC.&nbsp; </em></p>
+<p><em>&nbsp;https://www.lucidchart.com/documents/edit/4e55-dbd4-51099474-a8b0-0bff0a005798&nbsp;</em></p>
+<p><em>The deadline for the prototype is May when we will encourage a group of FE teachers to evaluate the design by working through the course.&nbsp; Once it has been tweaked (!) it can be made available (not fully thought out how) as an open course.&nbsp; </em></p>
+<p><strong>Reflections</strong></p>
+<p><em>What did you learn? What advice could you give others?</em></p>
+<p><em>The simple answer here is &lsquo;loads&rsquo; but not as much as I could have if I had given it the time it deserved.&nbsp; </em></p>
+<p><em>Whilst making and giving time is important, don&rsquo;t let it put you off because whatever time you can give to it adds to your learning.&nbsp; </em></p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Fri, 08 Mar 2013 07:03:07 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Participatory Media Teaching and Learning Resources</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8079</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8079</guid>
+              <description><![CDATA[<h2 class="title">Participatory Media Teaching and Learning Resources</h2>
+<p>Open Educational Resources (OER) are learning modules that are available for reuse. By standing upon the shoulders of giants, we can reach further than if we attempt to reinvent our own learning modules.</p>
+<p><a title="Howard Rheingold web site" href="http://rheingold.com/">Howard Rheingold</a> has created&nbsp;<strong><a title="Participatory Media Teaching and Learning Resources" href="http://socialmediaclassroom.com/community/wiki/participatory-media-teaching-and-learning-resources">Participatory Media Teaching and Learning Resources</a></strong> with a&nbsp;<strong><a title="cc by-nc 3.0 US license" href="http://creativecommons.org/licenses/by-nc/3.0/us/">CC BY-NC 3.0 US</a>&nbsp;</strong>license which I will be reusing.</p>
+<p>I am creating a <strong>personal learning environment</strong> (PLE). I am inviting others to join with me to experience <strong>participatory learning</strong> as demonstrated by Howard Rheingold. I will also encourage participants to read this <strong><a title="Peeragogy Handbook" href="http://peeragogy.org/">Peeragogy Handbook</a></strong>. Mozilla is currently drafting a <strong><a title="Mozilla white paper on web literacies" href="https://wiki.mozilla.org/Learning/WebLiteracyStandard/Legacy/WebLiteraciesWhitePaper">White Paper on Web Literacies</a></strong>, too.</p>
+<p>I got a deal on hosting at BlueHost recently ($3.50/mo) and purchased the domain <strong><a title="digital literacy web site" href="http://dglt.org/">dgtl.org</a> </strong>for about $10/yr. I am using WordPress as a content management system and for blogging and have also installed forum, wiki, and Moodle software within this website. So for less than $5/mo I am able to provide a playground where I intend to learn by doing - hopefully along with others.&nbsp;</p>
+<h2>&nbsp;</h2>]]></description>
+          <pubDate>Mon, 18 Feb 2013 16:27:57 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Moodle Training: seek and deploy (Helen Whitehead oldsmooc-w6)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8057</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8057</guid>
+              <description><![CDATA[<p>For one of my projects we've gone straight to our University's open educational resouyrces repository because we knew they were there!</p>
+<p>To give myself a little more of a challenge I thought I'd carry on with one of my other current design challenges, the Moving on with Moodle training course which I prototyped last week.</p>
+<p>I used Xpert.nottingham.ac.uk first (which is for searching OER), and then Jorum, which is an actual repository.&nbsp; There I found a lot more basic resources, but also a couple which might come in handy for advanced Moodle training:</p>
+<ul>
+<li><a href="http://dspace.jorum.ac.uk/xmlui/handle/123456789/16026">Moodle Quiz training</a> (from LSE)&nbsp; <a title="Licence" rel="prettyPhoto" href="http://dspace.jorum.ac.uk/xmlui/bitstream/handle/123456789/16026/license_url?sequence=11?iframe=true&width=75%&height=75%">Attribution-Share Alike 2.0 UK: England &amp; Wales</a>&nbsp; (Although it mentions both 2.5 amnd 3.0 licence versions in the text of the item)</li>
+<li><a href="http://dspace.jorum.ac.uk/xmlui/handle/123456789/16272">How to add questions to a Quiz activity</a> from York St John&nbsp; Licence <a title="Licence" rel="prettyPhoto" href="http://dspace.jorum.ac.uk/xmlui/bitstream/handle/123456789/16219/license_url?sequence=2?iframe=true&width=75%&height=75%">Attribution-Noncommercial-Share Alike 2.0 UK: England &amp; Wales</a></li>
+<li><a href="http://dspace.jorum.ac.uk/xmlui/handle/123456789/16220">Moving Question banks&nbsp;&nbsp; </a>licence: <a title="Licence" rel="prettyPhoto" href="http://dspace.jorum.ac.uk/xmlui/bitstream/handle/123456789/16272/license_url?sequence=2?iframe=true&width=75%&height=75%">Attribution-Noncommercial-Share Alike 2.0 UK: England &amp; Wales</a></li>
+</ul>
+<p>All of these allow amendment.</p>
+<p>Also looking into how to make my own publicly available Moodle training materials and helpsheets available as OERs.</p>]]></description>
+          <pubDate>Sat, 16 Feb 2013 08:11:38 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Prototyping - Helen Whitehead&#39;s Moodle Grades course - OLDSMOOC week 5</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8000</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8000</guid>
+              <description><![CDATA[<p><strong>Prototyping Moving on with Moodle (an advanced Moodle course for staff)</strong></p>
+<p><strong><em>The introduction to all this is in my <a href="http://cloudworks.ac.uk/cloud/view/6861">OLDSMOOC Learning Journal</a></em><br /></strong></p>
+<p>I am prototyping by producing a more or less complete working version of one of the activities. If this works OK I&rsquo;ll rewrite the whole course in this way. I&rsquo;m prototyping my live demo using Jing to create a sceencast. &nbsp;&nbsp;[Note: Is this really a prototype?]</p>
+<p><strong>Set goal</strong> &ndash; to understand how Grades work in Moodle</p>
+<p><strong>Describe task</strong>: view Grader report, change number of rows, add two marks, create a grade item, export the gradebook and re-import.</p>
+<p><strong>Tool </strong>&ndash; Moodle training course space</p>
+<p><strong>Data collection</strong></p>
+<ul>
+<li>Observe how users interact with the instructions, take notes of actions, timings and talk</li>
+<li>Refer back to any interesting moments &ndash; especially any in which they vary from the designed activity - and ask what they were thinking at that moment or why they took that action.</li>
+</ul>
+<p>The activity is to understand how Grades work in Moodle</p>
+<p>Elements required in prototype:</p>
+<ul>
+<li>Moodle course space with Grades pre-set up</li>
+<li>Demo + Instructions to do some tasks within Moodle&rsquo;s Grades.</li>
+</ul>]]></description>
+          <pubDate>Sun, 10 Feb 2013 15:47:11 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Introduce myself Patricia Gándara from Buenos Aires, Argentina</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7517</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7517</guid>
+              <description><![CDATA[<p>I am in Buenos Aires, Argentina, is summer, and its our vacation time. I decided to participate in this mooc 2012 as I am very interesting in new projects and develop better designs that include more and more students.</p>
+<p>I am working in the Universidad de Buenos Aires, in the distance program UBA XXI as the research coordinator.</p>]]></description>
+          <pubDate>Thu, 17 Jan 2013 13:03:28 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Presentation: Isabelle Martin-Fernandes</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7310</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7310</guid>
+              <description><![CDATA[<p>Hello!</p>
+<p>My name is Isabelle Martin-Fernandes. Now I live in Portugal and I teach French and Spanish for Portuguese Students in <em>Estoril Higher Institute for Tourism and Hotel Studies.</em></p>
+<p>I have a master's degree in pedagogy of elearning . My thesis was on content analysis in the discussion forum on Moodle platform. The greatest interest was to see the level of deepening students' learning indoors LMS. My conclusion would open doors to see what is happening outside the LMS suspecting another space where learning.</p>
+<p>Now, I&rsquo;m a PhD student at Universidade Aberta (Distance Education and E-learning), Open University of Lisbon, Portugal.</p>
+<p>I'm interesting in measuring quantitative and qualitive learning outside the LMS. As a member of an institution of higher education, I know that we have to find a compromise LMS-Social network for our students.</p>
+<p>I am responsible for the development of pedagogical platform moodle for training teachers in the use of the platform and helpdesk.</p>
+<p>As a teacher, my interests are teaching foreign languages, French and Spanish to Portuguese students and &nbsp;development of self-learning Resource Centre with support.</p>
+<p>As a fanatic, I created chocolates online course and a Spanish module level (A1) for foreigners. I'm interested in building more courses related to gastronomy.<br /> I'm developing a project online guide for tourists in Lisbon.</p>
+<p>I'm speaking French, Spanish and Portuguese and I apologize for butchering the language across the channel. J</p>
+<p>Regards,</p>
+<p>Isabelle</p>]]></description>
+          <pubDate>Mon, 14 Jan 2013 12:25:35 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Sustainability Cloud</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7306</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7306</guid>
+              <description><![CDATA[<p>This project consists of a Massive Open Course on Sustainability. The dream is to draw in diverse stakeholders - e.g. campaigners, companies, universities, schools, etc. - from around the world, to create a huge forum for education, discussion &amp; campaigning (using Moodle). A MOOC is perfect for global discussion of global issues, breaking down barriers between demographic groups, nations and stakeholders - and breaking down barriers between education, campaigning and environmental action. Please share your thoughts and join up. &nbsp;How can we increase interest through social media?Jeff Waistell, Senior Lecturer, Faculty of Business, Oxford Brookes University</p>]]></description>
+          <pubDate>Mon, 14 Jan 2013 11:51:25 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Developing a Sustainability MOOC</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7301</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7301</guid>
+              <description><![CDATA[<p>This project consists is of a Massive Open Course on Sustainability. The dream is to draw in diverse stakeholders - e.g. campaigners, companies, universities, schools, etc. - from around the world, to create a huge forum for education, discussion &amp; campaigning (using Moodle). A MOOC is perfect for global discussion of global issues, breaking down barriers between demographic groups, nations and stakeholders - and breaking down barriers between education, campaigning and environmental action. Please share your thoughts and join up. &nbsp;How can we increase interest through social media?Jeff Waistell, Senior Lecturer, Faculty of Business, Oxford Brookes University</p>]]></description>
+          <pubDate>Mon, 14 Jan 2013 11:17:26 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Please comment on my narratives - here in &#39;Jeff Waistell&#39;s Learning Journal&#39;</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7298</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7298</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Mon, 14 Jan 2013 10:31:53 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Derek Chirnside::My dream::Automated formative assessment for Pre health course</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7182</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7182</guid>
+              <description><![CDATA[<p>This is a fairly routine type of activity.&nbsp; For a totally online course (actually the onramp to a longer face-face course)</p>
+<p><strong>Context: </strong>Ski patrol Pre Hospital Emergency care course.</p>
+<p><strong>Tools:</strong> I have access to Moodle with a few question addons (the drag and drop types from the OU: https://moodle.org/plugins/browse.php?list=category&amp;id=29<br />Trying to avoid complext tools so tutors can actually tweak questions/add/reuse questions etc.</p>
+<p><strong>Challenges:</strong></p>
+<ol>
+<li>my first problem has to do with the level of questions.&nbsp; I know we can create matching, drag and drop, multichoice type questions quite easily.&nbsp; However short answers are a problem: there is no built in manually marked short answer type in Moodle, nor any add-ons that I know about.</li>
+<li>Next, what can be done to create automated higher order questions?</li>
+<li>Thirdly, I've had difficulty getting good images.&nbsp; I've tried various places, and have a few more leads to follow up.&nbsp; eg: given this scenario, what would you do first, and to have video/image as well as text/audio.</li>
+</ol>
+<p>A very small niche market: there are not many ski patrol schools around.</p>
+<p>How to package this to it runs nicely.</p>
+<p>-Derek</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Sun, 13 Jan 2013 04:04:51 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Bill Steele&#39;s My Dream: Learning Proposal - Provision of an examplar Moodle online Staff development module covering Turnitin</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7171</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7171</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Sun, 13 Jan 2013 15:25:34 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Roger Handyside: Blended Learning Units for pre-University courses</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7049</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7049</guid>
+              <description><![CDATA[<p><strong>Context:&nbsp; </strong>Converting existing traditional F2F school A level teaching with blended learning units (16-19). Geography and biology.&nbsp; Collaborating with staff in EDB research project. &nbsp;Some resistance to changing practice. &nbsp;Diverse range of students, classes of 15 - 25. &nbsp;High stakes exam, teachers &amp; students wary of change that might divert attention from outcomes.</p>
+<p><strong>Change:</strong>&nbsp; Active use of the school VLE (Moodle 2.3) students engaged with independent work, including collaborative and individual work. &nbsp;Students given opportunities for guided further study. &nbsp;Transition to HE eased by less &lsquo;spoon feeding&rsquo;, more independent work and student self confidence.</p>
+<p><strong>Approach:</strong>&nbsp; Moodle 2.3 is the school VLE, technical support, though ICT heavily filtered. &nbsp;Aim is to create scaffolded constructivist opportunities using Moodle tools. &nbsp;Creation of learning sequences (ped. patterns) represented by Compendium/LSDE for sharing with other teachers. &nbsp;Blended learning model using best of F2F and online opportunities. &nbsp;Consideration of Community of Inquiry, cognitive load and examples of relevant good practice from HE.</p>]]></description>
+          <pubDate>Fri, 11 Jan 2013 19:04:26 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Elisabetta Lando: How to use the  learning design parameters in an F.E context </title>
+              <link>https://cloudworks.ac.uk/cloud/view/7029</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7029</guid>
+              <description><![CDATA[<p>&nbsp;Create a &nbsp;course for practitioners in the post 16 sector.</p>
+<p>&nbsp;A working model that is relevant to curriculum areas in the F.E sector- innovative yet at the same time deals &nbsp;with &nbsp;the changing landscape and &nbsp;demands within the sector such as changes to funding, intake of 14 -19 year old learners and so on.&nbsp;</p>]]></description>
+          <pubDate>Fri, 11 Jan 2013 15:52:09 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Irmgard&#39;s project - Virtual Family consolidation</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7028</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7028</guid>
+              <description><![CDATA[<p>Virtual Family - online learning environment for nurses (adult, mental health, children's, learning disability nursing)</p>
+<p>Case studies representing health problems in a coherent way - interprofessional learning</p>
+<p>VLE: Moodle</p>
+<p>Tools: Moodle tools, Articulate Storyline, Prezi</p>
+<p>Material gathered from different nursing fields, for each case study the focus is on a different family member</p>
+<p>Problems:</p>
+<p>
+<ul>
+<li>How to make the environment coherent despite using different tools,</li>
+<li>How to establish achievement of learning outcomes,</li>
+<li>How to find/create simple yet pleasing artwork to represent the family,</li>
+<li>How to engage learners</li>
+</ul>
+</p>]]></description>
+          <pubDate>Fri, 11 Jan 2013 15:49:32 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Jeff Waistell dreams of a Massive Open Course on Sustainability, for education, discussion &amp; campaigning, drawing in diverse stakeholders from around the world</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6907</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6907</guid>
+              <description><![CDATA[<p><em>Hi all, I know many will share this dream so I hope you might like to join me in this project of a&nbsp;Massive Open Course on Sustainability. The dream is to draw in diverse stakeholders - e.g. campaigners, companies, universities, schools, etc. - from around the world, to create a huge forum for education, discussion &amp; campaigning (using Moodle). A MOOC is perfect for global discussion of global issues, breaking down barriers between demographic groups, nations and stakeholders - and breaking down barriers between education, campaigning and environmental action. Please share your thoughts and join up. &nbsp;How can we increase interest through social media?Jeff Waistell, Senior Lecturer, Faculty of Business, Oxford Brookes University</em></p>]]></description>
+          <pubDate>Thu, 10 Jan 2013 17:27:22 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Jeff Waistell is dreaming of a &#39;Managing Change &amp; Innovation&#39; project proposal</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6906</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6906</guid>
+              <description><![CDATA[<p>Hi there, I am a senior lecturer at Oxford Brookes University Faculty of Management, UK, and a module leader for our course on Managing Organisational Innovation and Change, which I am converting to a more fully online course design, using Moodle. How might the course design encourage a learning process characterised by these subjects of change and innovation? I hope you can join me in this project. and/or share your experience. Best regards, Jeff</p>]]></description>
+          <pubDate>Thu, 10 Jan 2013 17:22:24 +0000</pubDate>
+            </item>
+                    <item>
+              <title>1st Moodle Research Conference</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6289</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6289</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Thu, 03 May 2012 06:47:11 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Moodle 2 for Teaching 4-9 Year Olds Beginner&#39;s Guide book</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5830</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5830</guid>
+              <description><![CDATA[<p><img style="display:block; margin:0 auto;" title="#moodle4-9 book" src="http://bit.ly/amzn-moodle4-9-book-image-300px" alt="#moodle4-9 book" /></p>
+<p>&nbsp;</p>
+<p>Moodle is a virtual learning environment that is being used in more  and more schools worldwide. It is ideal for teaching a younger age group  as interactive lessons enable children to learn quicker and with  greater ease.</p>
+<p>Moodle 2 for Teaching 4-9 Year Olds Beginner's Guide will help you to  adapt your existing lesson plans to online Moodle courses and will give  you ideas to create new activities, quizzes, and puzzles to make the  learning process fun and interactive for young children.</p>]]></description>
+          <pubDate>Wed, 12 Oct 2011 10:49:37 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Notes from the 2011 UK Moodle Moot</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5338</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5338</guid>
+              <description><![CDATA[<p>&nbsp;</p>
+<p>Session 1:&nbsp;</p>
+<h3><a href="http://cloudworks.ac.uk/user/view/3">Grainne Conole</a></h3>
+<ul>
+<li>New digital literacy skills needed for learners and teachers</li>
+<li>Stressing the importance of creativity and openness</li>
+<li>New forms of sharing, communicating and collaborating - ability to network and be part of the shared intelligence</li>
+</ul>
+<p><a href="http://www.youtube.com/watch?v=NLlGopyXT_g">The Machine is Using Us</a></p>
+<p>There is a role for formal courses and structures and standard assessments. But teachers ought to challenge themselves to at least try one or two different apporoaches to learning. This session looked at some examples of each.</p>
+<p>E-training - drill and practice, interactive tutorials and revision resources</p>
+<p>Inquiry-based learning - prominent in the sciences</p>
+<p>Resource based learning - open education resources, podcasts, iTunes U, Le Mill, iSpot</p>
+<p>Situated learning, virtual exhibitions</p>
+<p>Role-based learning</p>
+<p>Reflective learning - e.g. blogs and e-portfolios, wikis, cohort blogs, collaborative, Twitter for just-in-time learning and for an extended teacher community. Using web 2.0 to connect beyond the course</p>
+<p>Personalised learning - open courses for people to participate</p>
+<p>Social networks to share, discuss and describe - Facebook teaching groups. Twitter as an extended community of practice</p>
+<p>A learning environment needs to be flexible, We still have the barrier of 'old practices'</p>
+<p>Cloud Works is the social media application for teachers developed by the Open University.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Tue, 19 Apr 2011 08:56:03 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Moodle Guide for Teachers May 2010</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4946</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4946</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Thu, 06 Jan 2011 14:34:42 +0000</pubDate>
+            </item>
+                    <item>
+              <title>LAMS - Moodle &quot;Deep&quot; tools integration</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4178</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4178</guid>
+              <description><![CDATA[<p>It is possible for Moodle tools to be used in LAMS authoring and run-time, so you can create a sequence entirely made up of Moodle tools, and can even use quiz&nbsp; scores from a Moodle quiz in branching decisions in LAMS. This sequence of Moodle tools can then be added to a Moodle course page as a URL link. The website shows four animations illustrating different aspects of this integration.</p>]]></description>
+          <pubDate>Fri, 16 Jul 2010 14:28:24 +0000</pubDate>
+            </item>
+                    <item>
+              <title>ed-media </title>
+              <link>https://cloudworks.ac.uk/cloud/view/4133</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4133</guid>
+              <description><![CDATA[<h1>Welcome to ed-media</h1>
+<p>This cloud provides the information about new development , technology and innovation in education. New issues in ed-media will be discussed. A list of useful links is gathered.</p>]]></description>
+          <pubDate>Fri, 05 Nov 2010 18:48:06 +0000</pubDate>
+            </item>
+                    <item>
+              <title>HEART 16</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3873</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3873</guid>
+              <description><![CDATA[<iframe src="http://caddev.auckland.ac.nz/heart/heart16.html" width="650" height="900">
+  <p>Your browser does not support iframes.  Please go to: <a href="http://caddev.auckland.ac.nz/heart/heart16.html">http://caddev.auckland.ac.nz/heart/heart16.html</a></p>
+</iframe>
+]]></description>
+          <pubDate>Thu, 22 Jul 2010 03:57:42 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Learners&#39; Experience of VLEs</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3788</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3788</guid>
+              <description><![CDATA[<p>Collection of presentations, papers, blog posts, etc. relevant to learner experience of VLEs</p>]]></description>
+          <pubDate>Tue, 01 Jun 2010 07:59:16 +0000</pubDate>
+            </item>
+                    <item>
+              <title>HELLO: Higher education lifelong learning [Lucy Stone]</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3473</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3473</guid>
+              <description><![CDATA[<p><strong>HELLO: Higher education lifelong learning</strong></p>
+<p>Lucy Stone, Leicester College</p>
+<p>PDF</p>
+<p>&nbsp;From Members' Corner at ELESIG Symposium: Digital Futures: 21 Jan 2010, iLab, Innovation Works, University of Reading</p>
+<p style="cursor:auto"><!--NO CSS-->&nbsp;The HELLO Project is a JISC funded project in the Lifelong Learning and Workforce Development strand.</p>
+<p>Leicester College has over 60 HE courses delivered across a variety of Curriculum Areas.&nbsp; Learners are full-time, part-time, work based and distance.&nbsp;</p>
+<p>The HELLO project has two elements to it:</p>
+<p><strong>Element One:</strong> Development of a student led network to enable them to collaborate and forge friendships and social groups, replacing lost physical social space.&nbsp; Within the network, there will be participation from employers and industry experts, who, we hope will get involved with discussions, advertise work placements and provide industry updates.&nbsp; Links will be made with other HE Institutions to offer advice on appropriate courses post Foundation Degree.</p>
+<p><strong>Element Two:</strong> Development of course level resources Including use of an E-Tutorial, block texting services, online formative and summative feedback and forum discussions.</p>
+<p><a href="http://api.ning.com/files/AknUp3jHeeunNfMm2Wq1*pl2f2NMUrWgyLG3oBK6Eh-TmFd1EgGn1bObiMH08CLTUUPT5Rp1xy9Ut8afGLbW4U7bvM9JFxJB/ELESIGPresentation_stone_210110.pdf">ELESIG Presentation_stone_210110.pdf</a></p>
+<p>Added to ELESIG Ning, January 2010</p>
+<p>[Must be a member of ELESIG to view:<strong> </strong><strong><a href="http://elesig.ning.com/main/authorization/signUp" target="_blank">Join us</a></strong>]</p>]]></description>
+          <pubDate>Tue, 27 Apr 2010 14:55:52 +0000</pubDate>
+            </item>
+                    <item>
+              <title>International blended learning class - Foreign students wanted for online interviews</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3372</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3372</guid>
+              <description><![CDATA[<p><strong>Sociology of Education Intercultural</strong></p>
+<p>International blended learning class<br /><em></em></p>
+<p><em>Course concept</em><br />Our teaching project &ldquo;Sociology of Education Intercultural&rdquo; is a blended<br />learning class that leads undergraduate students to intercultural learning experience and<br />encourages them to study abroad.<br />The blended learning class is embedded in moodle, an international accepted virtual learning environment with learning modules and multiple-choice tests. To communicate with international partners we use a virtual classroom and Skype.</p>
+<p>This summer term our students will do their own qualitative research project. They will interview foreign students via Skype about conditions of study and living. The interview outcomes results will be analysed and presented on their own ePortfolios (Mahara).</p>
+<p><em>Opportunity to join us</em><br />We&rsquo;re looking for students who would like to be interviewed via Skype. Our students will ask them how they feel as a student in their country. What do they challenge, what do they like and what they would like to change. The interviews will take place as soon as possible until your term ends. It will be in English and last max. one hour. The installation of Skype is for free and very easy (www.skype.org) and allows the students to use a webcam and a headset. You and your students are very welcome to join us and will be informed about our outcomes.</p>
+<p>Sounds interesting? Any questions? Please let me know: kirberg@phil-fak.uni-duesseldorf.de.</p>
+<p><em>Biography</em><br />Anja Kirberg is a scientific assistant at the Heinrich-Heine-University Duesseldorf, Germany. Being a member of the department of educational research and management headed by Prof. Dr. Heiner Barz she is responsible for international relations. As one of her scientific activities, she has been organising and teaching the blended learning Class &ldquo;Sociology Of Education International&rdquo; since September 2008. She has a Magister Artium (Master) in adult education and modern history. Her major interests are international comparative studies in further and higher education as well as the sustainability of eLearning.</p>
+<p>The added link is a conference article of her blended learning teaching project.</p>
+<p><em>Contact</em><br />Anja Kirberg<br />Department of Educational Research and Educational Management<br />School of Education<br />Heinrich-Heine-University D&uuml;sseldorf<br />Building 23.03.01.84<br />Universit&auml;tsstr. 1, 40225 D&uuml;sseldorf<br />Germany<br />phone +49 211-81-12859<br />mail kirberg@phil-fak.uni-duesseldorf.de<br />Skype just_call_me_anne</p>]]></description>
+          <pubDate>Wed, 14 Apr 2010 10:59:14 +0000</pubDate>
+            </item>
+                    <item>
+              <title>SLOODLE: Connecting VLE tools with emergent teaching practice in Second Life  </title>
+              <link>https://cloudworks.ac.uk/cloud/view/3257</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3257</guid>
+              <description><![CDATA[<p>From&nbsp;British Journal of Educational Technology, 2009.&nbsp;Introduction to SLOODLE.</p>
+<div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->British Journal of Educational Technology</div>
+</div>]]></description>
+          <pubDate>Sun, 12 Sep 2010 22:24:01 +0000</pubDate>
+            </item>
+                    <item>
+              <title>From Multi-User Virtual Environment to 3D Virtual Learning Environment </title>
+              <link>https://cloudworks.ac.uk/cloud/view/3241</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3241</guid>
+              <description><![CDATA[<p>From ALT-J, 2008. Looks at the development of SLOODLE.</p>]]></description>
+          <pubDate>Sun, 12 Sep 2010 22:24:26 +0000</pubDate>
+            </item>
+                    <item>
+              <title>OpenLearn 3 Years On: Milestones &amp; Future Outlook</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2805</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2805</guid>
+              <description><![CDATA[<p>The event celebrated the OpenLearn current successes and highlighted recent and future developments. Thank you to all who attended and for the positive response to the project.</p>
+<p>If you have any questions, you can use the <a href="http://crassus.open.ac.uk/askthecommunity/">Ask the Community</a> page (internal) or post on <a href="http://twitter.com/openlearn">Twitter</a> using the <a href="http://twitter.com/#search?q=#ou_ol">#ou_ol</a> hash tag.</p>
+<p><strong>Lecture now available on <a href="http://stadium.open.ac.uk/stadia/preview.php?s=1&whichevent=1460">Stadium</a></strong></p>
+<p><strong>Presentations (click title to view on SlideShare)<br /></strong></p>
+<p><a href="http://www.slideshare.net/openlearn/mcandrew-olnet-openlearn-20100119"><strong>OLnet presentation by Patrick McAndrew, Associate Director (Learning &amp; Teaching):</strong></a></p>
+<p>Research conducted into open learning networks through OLnet, a collaboration between the Open University and Carnegie-Mellon University.</p>
+<p><a href="http://www.slideshare.net/openlearn/openlearn-to-score"><strong>SCORE presentation by Chris Pegler, Academic Director for SCORE:</strong></a></p>
+<p>The university&rsquo;s national role in the open content field as a support centre to other institutions.</p>
+<p><a href="http://www.slideshare.net/openlearn/openlearn-the-hub-for-open-media-at-the-open-university"><strong>Open Learn presentation by Laura Dewis, Managing Editor, OpenLearn:</strong></a></p>
+<p>Preview of the latest developments of the OpenLearn website and plans for the future.</p>
+<p><strong>Sessions</strong></p>
+<p>There were two sessions preceding the presentations which covered:<strong><br /></strong></p>
+<p>&bull;   Preview of new OpenLearn website developments</p>
+<p>&bull;   Walkthrough of OpenLearn LearningSpace website</p>
+<p>These were over-subscribed and we plan to run more in the near future. If you would like to attend, please email <a href="mailto:l.j.beaman@open.ac.uk?subject=OpenLearn Sessions">l.j.beaman@open.ac.uk</a></p>]]></description>
+          <pubDate>Mon, 18 Jan 2010 10:07:05 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Cloudworks as a Social Networking System?</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2608</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2608</guid>
+              <description><![CDATA[<div>
+<div>
+<h1>Using Cloudworks to establish a community of academic discourse</h1>
+<h2>Background</h2>
+We've been engaging in a process of reflection about directions in the curriculum at Earlham College. But the way in which this has happened mirrors the fragmented nature of discourse on campus. So that although we are a small Liberal Arts College and everyone knows just about everyone else nevertheless there's no universal forum where one can get an overview of the sum total of what's been discussed. There is a 'curriculum visioning' committee (CVC) which oversees gathering of views, opinions, facts, etc and which initiates conversations about these curricular issues. Such conversations happen in disparate venues:<br /><ol>
+<li> Individual face to face. These are likely to be superficial in nature.</li>
+<li> Group conversations. These are meetings sponsored by CVC to draw out points of view expressed verbally by faculty.</li>
+<li> On-line discussion fora in a Moodle course</li>
+<li> Exchanges of messages on the 'Faculty' email list.</li>
+</ol>The first two are not of interest right now; rather, what intrigues me is why the computer mediated discussions are just not taking off. Despite some of the CVC making reference to the Moodle discussion fora, and despite my manually enroling all the teaching faculty into the Curriculum Visioning course to make it easy to find and participate the take up has been feeble. Indeed, more heat was generated by a comment from the President on the faculty email list which garnered several hot responses. However, this conversation about academic rigour is now effectively lost to the community since the email postings can only be retrieved by time consuming exploration and excavation of the mailing list archives. So, why is it so difficult to get faculty engaged in a debate online (to date only 12 postings total)? I don't think it's the way that the Moodle course has been set up. On the contrary, there's a single forum which is well labeled, top level postings have been seeded with leading questions and any faculty member of the course can create a new topic (but only two have). I'm thinking that perhaps it has to do with the nature of Moodle and the discussion forum, and faculty perceptions of these. Which is why software like Cloudworks could be more effective in establishing communities of academic discourse in general. But I'm getting ahead of myself.</div>
+<div><br />
+<h2>Why Moodle (or other LMS system) doesn't work well</h2>
+This has to do with both Faculty perceptions of Moodle and the way in which it works. At Earlham we use our Moodle system for a variety of functions. Student clubs, campus committees, divisional groups, workshops, library workers, etc, all have 'courses' on the single institutional Moodle. But all these entities have an implicit and obvious focus. So, why does Moodle not work very well in empowering this kind of campus wide conversation?<br /> 
+<ul>
+<li> Generally faculty view a Moodle 'course' as being a place where Teachers teach Students. This is a place where there are definite 'roles' (both explicit and implicit) which seem to engender an inner conflict with the idea of peer communication</li>
+<li> The Moodle 'course' is a vertical silo. You have to log in to Moodle and then 'enrol' into the course. There's no openness. While this is necessary for class work it's a brake against open discourse.</li>
+<li> The "effort for entry"
+<div style="cursor:auto"><!--NO CSS-->
+<blockquote>Here's what you have to do in order to post in a course Forum :<br /><ol>
+<li> Given that you have just logged in and are at your MyMoodle page you need to find the right course (<em>think</em>) and open it.</li>
+<li> Find the discussion forum in the Outline:   
+<ul>
+<li> Read through preamble (or skip)</li>
+<li> Distinguish forum link from others on the basis of it's icon</li>
+<li> Confirm by reading the title which not only describes the forum but tells you what to do : "CLICK HERE to View the Curricular Visioning Forum and add your comments."</li>
+</ul>
+</li>
+<li> What was it I wanted to write?</li>
+<li> Decide whether the topic you want to write about is already there.<ol>
+<li> If yes:   
+<ul>
+<li> Open discussion topic</li>
+<li> read through all postings</li>
+<li> Reply</li>
+</ul>
+</li>
+<li> If no :   
+<ul>
+<li> Click [Add new discussion topic]</li>
+</ul>
+</li>
+</ol></li>
+</ol><br /></blockquote>
+</div>
+into the Moodle course and then into the discussion forum is not repaid by the richness of the resulting environment.</li>
+<li> At the end of the day, you really have to be familiar with the <em>modus operandi</em> of online discussion forums to feel comfortable in the environment and empowered to make postings and comments.</li>
+</ul>
+<h2>Cloudworks as a vehicle for academic discourse</h2>
+So how might Cloudworks work better in this and other similar situations, if it were available as Open Source (please?) ?<br /><ol>
+<li> It's not Moodle or other LMS / VLE / Course Management system. That is, it's not focused around a 'management' or 'course' paradigm.</li>
+<li> It's relatively easy to get a handle on what a 'cloud' is meant to be about.</li>
+<li> The open nature makes it easy to cross reference and cross fertilise. It does not have the feel of a silo. All users are peers; there are no 'roles' as such.</li>
+<li> Is it another discussion forum? Kind of yes, but then again no.   
+<ul>
+<li> The richness of the environment encourages both thoughtful responses and constructive interactions. Just the line "Improve this cloud:" where you can add more content to the original thesis, add a link, tags or reference makes you want to add quality to the cloud.</li>
+<li> Moreover, the whole form, context and presentation of the conversation as a 'cloud' makes one desire only to add substantive content.</li>
+<li> And the rich surrounding environment empowers and encourages thoughtful constructive interaction</li>
+</ul>
+</li>
+</ol><br />So, in the context of the presenting problem, a Cloudworks , dare I say it, social networking system, could operate as follows:<br /> 
+<ul>
+<li> The site would have to be readily accessible from all the College's portals (web site, theheart, Moodle, etc)</li>
+<li> Authentication and automatic account creation via LDAP.</li>
+<li> Earlham community member gets URL to Curricular Discussion Cloud or searches or logs in and is presented with a list containing said cloud.</li>
+<li> Having logged in she/he can then add point of view to the Cloud. Students are treated as peers in this process. Links and references make it more useful.</li>
+<li> Other Clouds are created addressing different aspects and these are all collected into a Cloudscape.</li>
+<li> a buzz is created around the whole process and people think of it as cool</li>
+</ul>
+</div>
+</div><p>Contact details: markp@earlham.edu</p>]]></description>
+          <pubDate>Wed, 04 Nov 2009 21:24:36 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Moodle and Cloudworks</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2574</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2574</guid>
+              <description><![CDATA[<p>Sorry if you came here thinking it was an answer.&nbsp; It isn't yet!</p>
+<p>I started this cloud to discuss what an integration should look like and how Moodle can help to work on it.</p>
+<p>I guess the simplest integration would be to treat this site as a big repository of clouds/cloudscapes/tags/people, and create a Moodle repository plugin that basically does what the search box here does, until you get to a page you want, and then that URL is passed back to the 'url' activity in Moodle, so that cloudworks pages can be easily added into Moodle courses.</p>
+<p>That's probably not enough, I'm guessing.&nbsp; What else can we do?&nbsp; What else would people want?</p><p>Contact details: here</p>]]></description>
+          <pubDate>Mon, 26 Oct 2009 14:12:24 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Learning Collaboration between organizations and institutions</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2535</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2535</guid>
+              <description><![CDATA[<p>Exploring the benefits/difficulties of collaboration between different organizational cultures.</p><p>Contact details: bmurray@optbc.org</p>]]></description>
+          <pubDate>Tue, 20 Oct 2009 16:51:25 +0000</pubDate>
+            </item>
+                    <item>
+              <title>The VLE is Dead</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2162</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2162</guid>
+              <description><![CDATA[<p>ALT-C 2009 Session: This Cloud has been set up to aggregate live blogs, comments, discussion and links for this session.</p>
+<p>&nbsp;</p>
+<div id="oembed-0" class="oembed"><a type="application/x-shockwave-flash" href="embed src=">The VLE is dead... the trailer</a></div>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Thu, 27 Aug 2009 14:07:22 +0000</pubDate>
+            </item>
+                    <item>
+              <title>The Question Creation Activity module for Moodle: Student generated quiz questions as a method of enhancing learner autonomy and</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2106</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2106</guid>
+              <description><![CDATA[ALT-C 2009 Session: This Cloud has been set up to aggregate live blogs, comments, discussion and links for this session.]]></description>
+          <pubDate>Wed, 26 Aug 2009 14:54:59 +0000</pubDate>
+            </item>
+                    <item>
+              <title>ESL for Adult Education</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1059</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1059</guid>
+              <description><![CDATA[I feel that children learn best. If one can continue to learn as a child would learn, in a fun manner, then it is easier to become involved in your own adult education. I also believe that Jung was correct in his discription of learning style called &quot;disequal librium&quot; and the more information that you can take in at a time, helps promote learning and understanding ..]]></description>
+          <pubDate>Mon, 02 Mar 2009 13:17:21 +0000</pubDate>
+            </item>
+                    <item>
+              <title>From Multi-User Virtual Environment to 3D Virtual Learning Environment</title>
+              <link>https://cloudworks.ac.uk/cloud/view/738</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/738</guid>
+              <description><![CDATA[<p>
+This paper discusses immersive virtual worlds (IVWs) and in particular the use of Sloodle, an integration of Moodle with Second Life. 
+</p>
+<p>
+&nbsp;
+</p>
+<p>
+<b>Background</b> 
+</p>
+<p>
+&nbsp;
+</p>
+<ul>
+	<li>Provides a very brief history of online multi-user virtual worlds</li>
+	<li>Cites work about the support IVW for e-learning </li>
+	<li>Discusses the River City Project and Quest Atlantis on the Active Worlds platform. </li>
+	<li>The former addes a guide, notebook, map and tools to the space for studnets. Cites work by Laurillard about the use of built-in guides and notebooks for structure notetaking to support the use of CD-ROM e-learning resources. Not much information is given about Quest Atlantis. </li>
+</ul>
+<p>
+&nbsp;
+</p>
+<p>
+<b>Sloodle</b> 
+</p>
+<ul>
+	<li>The main part of the paper is about Sloodle an integration of Second Life with Moodle.</li>
+	<li>Originally conceived as 3D 'Virtual Classroom' to allow access to a Moodle course in 3D form.  </li>
+	<li>Discussion about the technical architecture and issues. </li>
+	<li>Further extensions to Sloodle since e.g. Sloodle toolbar and new Moodle assignment type and associated SL object </li>
+	<li>Some features aimed at supporting class and learning management (e.g. recording attendance), others at supporting the learning process itself (e.g. availablity of chat sessions for review)</li>
+	<li>Used online survey to help gauge demand and refine Sloodle requirements. Also got feedback from online project meetings and online forums. </li>
+	<li>More detailed online survey about requirements in late 2007 - 155 people completed. </li>
+	<li>Following survey work on Sloodle collaborative whiteboard began </li>
+	<li>Formal pilot in first few months of 2008 with dedicated course at Sloodle.org. Discussion of early feedback. </li>
+	<li>Used for Korean students learning English - linked students to those in another country. Significant advantage was ability for student to review discussions later</li>
+	<li>Response indicates real demand </li>
+	<li>Issue of permissions in Moodle - how do these translate to a public space?</li>
+	<li>Integration rather than discrete and separate tools worthwhile</li>
+</ul>
+<p>Contact details: ALT-J, Volume 16, Issue 3 September 2008 , pages 139 - 150 </p>]]></description>
+          <pubDate>Fri, 16 Jan 2009 16:54:11 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Using a Wiki in L1 Reading and Writing Lessons</title>
+              <link>https://cloudworks.ac.uk/cloud/view/592</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/592</guid>
+              <description><![CDATA[<p>The idea is to combine the use of wikis with teaching reading and writing based on the</p>
+<p>work of David Rose (Systemic Functional Linguistics) in Sydney who teaches reading in</p>
+<p>writing in a very intense collaborative way.</p>
+<p>He starts with the context of a text which students should know before they start reading.</p>
+<p>From there you can go down to the meaning of the text, the paragraph and sentence.</p>
+<p>From here you can look at single phrases and words and how the spelling is.</p>
+<p>These words can be used to write own sentences first collaboratively and then individually.</p>
+<p></p>
+<p></p>
+<p>I'm using wikis (within moodle) in L1 lessons because:</p>
+<ul>
+    <li><span style="display: none;" id="1228514434669S">&nbsp;</span>you can use the combination wiki/beamer just like the blackboard but the produced texts are later available over the internet, they can be&nbsp; changed or reused</li>
+    <li>if you are working in a room with a beamer you can produce and revise texts jointly to teach students writing</li>
+    <li>students like it to write in the wiki visible for all because no one can see their handwriting</li>
+    <li>students are more active to improve the visible text because it's easy to change</li>
+    <li>you can easily produce pages for each student on which students write their own texts</li>
+    <li>student texts can easily be shown for all to discuss them with the class</li>
+    <li>students can write texts or read the texts produced during the lesson at home</li>
+    <li>student texts or parts of them can easily be put together to a larger texts</li>
+    <li></li>
+    <li></li>
+</ul>
+<p></p>]]></description>
+          <pubDate>Fri, 05 Dec 2008 22:06:24 +0000</pubDate>
+            </item>
+                    <item>
+              <title>A flexible model for LMS course design</title>
+              <link>https://cloudworks.ac.uk/cloud/view/528</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/528</guid>
+              <description><![CDATA[<p><a href="http://2.bp.blogspot.com/_M_8lz7Hrfdg/STTMx0uUUhI/AAAAAAAACio/juBtVqIth1M/s1600-h/Flexible+template+for+LMS+course+design_sml.jpg"><img id="BLOGGER_PHOTO_ID_5275066219896263186" style="margin: 0px auto 10px; display: block; text-align: right; cursor: pointer; width: 142px; height: 200px;" src="http://2.bp.blogspot.com/_M_8lz7Hrfdg/STTMx0uUUhI/AAAAAAAACio/juBtVqIth1M/s200/Flexible+template+for+LMS+course+design_sml.jpg" alt="" /></a><br /> Recently I have been working with a number of faculty at Unitec NZ to develop courses in the LMSs we have (Moodle and Blackboard). Alongside the adaptation of existing courses and activities, often staff will be at a loss as to what they really want to include in an LMS course.<br /> <br /> It was suggested that faculty, alongside considerations of how they will adapt specific activities using <a href="http://efest2008collaboratingbydesign.pbwiki.com/">the ICTELT model and framework</a>, draw up a mindmap that identifies the main functionality and design of the LMS course they wish to use. However, some faculty found this a challenge, so I have developed the following <a href="http://www.mindomo.com/view.htm?m=2bd537cb41c349508eb65e01fc3bbf4c">mindmap 'model'</a>. It is flexible and users of it are encouraged to change it to suit their purposes. You will need to go to the Mindomo site where the map is hosted to view it properly.<br /> <br /> Although the central starting point of the mindmap is labelled "course" it could just as easily be a Community of Practice, a department, or a support unit that wishes to improve their communication. Users, therfore, should change or omit any of the elements that are irrelevant to them.<br /> <br /> Any feedback that you might have on what I have missed out, or suggestions for improvement would be very much appreciated.</p>]]></description>
+          <pubDate>Tue, 02 Dec 2008 06:02:03 +0000</pubDate>
+            </item>
+                    <item>
+              <title>CCK08</title>
+              <link>https://cloudworks.ac.uk/cloud/view/494</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/494</guid>
+              <description><![CDATA[<p>Any comments about the recent CCK08 course? It seems to fit with the spirit and practice of sharing learning designs and I'd be interested in the views of others- even if it means relinking to your blogs posts.</p>
+<p>This could all get very self referential......</p>
+<p>See http://ltc.umanitoba.ca/wiki/Connectivism for more details.</p>
+<p>"Delivered in partnership with: Extended Education and Learning Technologies Centre, University of Manitoba</p>
+<p>Course Code: 98813- 08-01</p>
+<p>Course Description: Connectivism and Connective Knowledge is a twelve week course that will explore the concepts of connectivism and connective knowledge and explore their application as a framework for theories of teaching and learning. It will outline a connectivist understanding of educational systems of the future. This course will help participants make sense of the transformative impact of technology in teaching and learning over the last decade. The voices calling for reform do so from many perspectives, with some suggesting 'new learners' require different learning models, others suggesting reform is needed due to globalization and increased competition, and still others suggesting technology is the salvation for the shortfalls evident in the system today. While each of these views tell us about the need for change, they overlook the primary reasons why change is required.</p>
+<p>Programs: For credit in Certificate in Adult and Continuing Education and Certificate in Emerging Technologies for Learning (certificate will be available January, 2009.</p>
+<p>Date: September 8, 2008 - November 30, 2008</p>
+<p>Technologies Used: Through out this "course" participants will use a variety of technologies. For example, participants will use blogs, Second Life, Page Flakes, attend UStream sessions, attend Elluminate sessions, participate in discussions in Moodle forums, and so on. Additional technologies will be introduced as is required to attend to concerns or opportunities arising over the next 12 weeks.</p>
+<p>Facilitators: George Siemens and Stephen Downes will co-facilitate this innovative and timely course."</p>]]></description>
+          <pubDate>Mon, 01 Dec 2008 09:00:14 +0000</pubDate>
+            </item>
+                    <item>
+              <title>How to create a brilliant online course</title>
+              <link>https://cloudworks.ac.uk/cloud/view/479</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/479</guid>
+              <description><![CDATA[As an experiment Martin Dougiamas and I are creating an online moodle course 'How to create a brilliant online course'. We are populating it to begin with resources and tools developed as part of ouldi.open.ac.uk. The plan is to invite the moodle community and others to co-create and evolve the course and use it as a basis for others to develop their own variants for use in their own context. If your interested in being involved or what more information contact me g.conole@open.ac.uk]]></description>
+          <pubDate>Sun, 30 Nov 2008 21:38:52 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Moodle</title>
+              <link>https://cloudworks.ac.uk/cloud/view/426</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/426</guid>
+              <description><![CDATA[Moodle is a course management system (CMS) - a free, Open Source software package designed using sound pedagogical principles, to help educators create effective online learning communities. You can download and use it on any computer you have handy (including webhosts), yet it can scale from a single-teacher site to a University with 200,000 students.]]></description>
+          <pubDate>Wed, 26 Nov 2008 04:00:42 +0000</pubDate>
+            </item>
+                    <item>
+              <title>OU e-learning case studies</title>
+              <link>https://cloudworks.ac.uk/cloud/view/66</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/66</guid>
+              <description><![CDATA[<p>Over 40 interviews with course chairs were carried out in 2007 to generate case studies of how the Moodle VLE tools are being used in OU courses.</p>
+<p>[Only available to OU staff]</p>]]></description>
+          <pubDate>Thu, 12 Nov 2009 16:01:27 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

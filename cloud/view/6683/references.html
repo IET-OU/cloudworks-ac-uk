@@ -1,0 +1,317 @@
+<!DOCTYPE html><html  lang="en" ><head>
+
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta charset="UTF-8" />
+
+    <title>OU media player project (blog) - Cloudworks</title>
+    <link rel="stylesheet" href="https://cloudworks.ac.uk/_design/styles_1_1.css" />
+        <link rel="stylesheet" href="https://cloudworks.ac.uk/themes/cloudworks/styles.css" />
+        <meta name="copyright" content="© 2009-2019 The Open University (IET)." />
+    <meta name="keywords" content="" />
+    <meta name="description" content="Welcome to Cloudworks, a place to share, find and discuss learning and teaching ideas and experiences." />
+    <link rel="shortcut icon" href="https://cloudworks.ac.uk/themes/cloudworks/favicon.ico" />
+    
+    <!--[if IE 6]>
+    <style type="text/css">
+    div#site {width:940px; /* Because IE6 doesn't support max-width */ }
+    div#site-header-content {width:940px;}
+    </style>
+    <![endif]-->
+
+    <script src="https://unpkg.com/jquery@3.4.1/dist/jquery.min.js"></script>
+    </head>
+<body id="clouds" class="block-registration block-login">
+<div id="site-header">
+ 
+<div id="site-header-content">
+        <div id="skip">
+        <a href="#content">Skip navigation</a> </div>
+                <a rel="home" href="https://cloudworks.ac.uk/">
+                <img id="link-home" src="https://cloudworks.ac.uk/themes/cloudworks/cloudworks_logo.gif" alt="Cloudworks home page" />
+                </a>
+                <div id="site-nav">
+            <ul  lang="en" >
+                <li class="home">
+                                            <a href="https://cloudworks.ac.uk/" class="home">Home</a>                                    </li>
+                <li lang="en" class="clouds">
+                                            <a href="https://cloudworks.ac.uk/cloud/cloud_list" class="clouds">Clouds</a>                                    </li>
+                <li lang="en" class="cloudscapes">
+                                            <a href="https://cloudworks.ac.uk/cloudscape/cloudscape_list" class="cloudscapes">Cloudscapes</a>                                    </li>
+                <li class="events">
+                                            <a href="https://cloudworks.ac.uk/events/view" class="events">Events</a>                                    </li>
+                <li class="tags">
+                                            <a href="https://cloudworks.ac.uk/tag" class="tags">Tags</a>                                    
+                </li>
+                                <li class="badges">
+                                            <a href="https://cloudworks.ac.uk/badge/badge_list" class="badges">Badges</a>                                    </li>
+                <li class="support">
+                                            <a href="https://cloudworks.ac.uk/support" class="support" title="Support">Support</a>                                    </li>                  
+              
+            </ul>
+        </div>
+    </div></div>
+
+<div id="site">
+    <div id="site-body">
+        <div id="page">
+        <div id="content">
+                              <p class="warn readonly-message"> The web-site is now in readonly mode. Login and registration are disabled. <small>(28 June 2019)</small></p>
+                                          
+                    <div id="id-gaad-widget"></div>
+        <script type="text/javascript" src="https://cloudworks.ac.uk/_scripts/iframe_strip.js"></script>
+<div class="grid headline">
+    <div class="c1of2">
+        <h1>OU media player project (blog)</h1>
+        <div class="grid">
+    <ul class="options">
+        
+        
+        
+     
+        
+            <li class="favourite"><a href="https://cloudworks.ac.uk/cloud/favourite/6683">Favourite</a>        </li>
+        
+    <li class="stats"><div class="nolink">1054 views</div></li>
+        </ul>
+</div>                
+                    <p>Originally posted - 7 February 2011 | http://freear.org.uk/content/ou-media-player-project</p>
+        
+                    <div class="box" style="margin:30px 0 10px 0">
+
+                <a href="http://mediaplayer.open.edu"  rel="nofollow">http://mediaplayer.open.edu</a>
+            </div>
+            </div>
+
+    <div class="c2of2">
+        <p class="created-by">
+        <abbr title='Clouds can be anything of relevance to learning and teaching'>Cloud</abbr> created by: </p>
+
+                            <img src="https://cloudworks.ac.uk/image/user_32/1040" class="go2" alt=""/>
+                    <p><a href="https://cloudworks.ac.uk/user/view/1040" class="author rdfa" xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName" rel="cc:attributionURL">Nick Freear</a><br />
+         4 December 2012</p>
+    </div>
+</div>
+
+<div id="region1">
+
+    <div class="user-entry">
+
+        <p>Tony <a href="http://blog.ouseful.info/2011/02/06/the-most-accessible-media-player-on-the-web/" rel="nofollow">Hirst has just blogged</a> about the Office for Disability Issues new accessible media player AKA the "Most Accessible Media Player on the Web". Both he and <a href="http://technocrapy.wordpress.com/2011/02/06/are-waterfalls-agile/" rel="nofollow">Will Woods</a> have alluded to work that The Open University is undertaking. I thought I'd fill in the gaps.</p>
+<p>The OU is at the start of a 6 month development to create a multimedia player that (we hope):</p>
+<ol>
+<li>Will be an "attractive" player that the average designer/ blogger would be happy to use on their site. </li>
+<li>Can be used in a variety of contexts - our Moodle-based virtual learning environment, OpenLearn, OU-Drupal sites, blogs, Cloudworks... </li>
+<li>Will deliver content mostly from the OU podcast site in the contexts mentioned above. </li>
+<li>Will be accessible to users with disabilities - both in terms of control, and display of alternatives like transcripts and captions. </li>
+<li>Usable on a variety of devices, including mobiles and tablets. </li>
+<li>Will be delivered in a maintainable way. </li>
+</ol>
+<p>Taking points 1 and 2 together, my personal mantra is "<em>If its accessible, but not attractive then we haven't succeeded</em>". So we are talking unobtrusive accessibility.</p>
+<p>Taking the final point regarding delivery. The main method for embedding the player, will be using a REST-ful web service, based on the <a href="http://oembed.com/" rel="nofollow">oEmbed specification</a>. This service is available for many providers, including YouTube, Flickr, Slideshare, Vimeo... See the <a href="http://oohembed.com/" rel="nofollow">oohEmbed</a> and <a href="http://api.embed.ly/" rel="nofollow">Embedly</a> sites. This will be transparent to the end-user and the author of content. An author on a Wordpress blog will merely type something like:</p>
+<pre> [embed] <a href="http://podcast.open.ac.uk/pod/mst209-fun-of-the-fair#079b8e506c" rel="nofollow">http://podcast.open.ac.uk/pod/mst209-fun-of-the-fair#079b8e506c</a> [/embed]
+</pre>
+<p>The blog software will handle the rest. oEmbed is used or consumed by various software/sites, including <a href="http://codex.wordpress.org/Embeds" rel="nofollow">Wordpress 2.9 onwards</a>, the <a href="http://twitter.com/#!/noradio/status/24790949420" rel="nofollow">new Twitter</a>, Ars Technica, StatusNet, and our own Cloudworks/ <a title="Cloudworks open-sourced" href="http://getcloudengine.org//wiki/oEmbed" rel="nofollow">CloudEngine</a>. Many multimedia providers can be plugged in with little effort, a great benefit, so authors will be able to embed from YouTube, Flickr and OU-podcast in the same way. The promotion of a service-based approach does not preclude bloggers from using conventional embed codes/snippets.</p>
+<p>The player itself will probably be Flash-based on desktops, and will fallback to HTML5 for tablets and mobiles. This is dictated by the encoding infrastructure on the podcast site, and the current state of the various video and audio codecs.</p>
+<p>The controls/ buttons for the player will be HTML and Javascript-based, not Flash-based. This follows examples like Chris Heilmann's <a href="http://icant.co.uk/easy-youtube/?http://youtube.com/watch?v=uBdwM7oQivk" rel="nofollow">Easy YouTube player</a>, and builds on my own <a href="http://maltwiki.org/" rel="nofollow">MALT Wiki prototype</a> (MALT Wiki is used by Cloudworks, and is oEmbed-based).</p>
+<p>We will be using third-party Flash and Javascript components where possible, and implementing the player and web service.</p>
+<p>As to the evaluations that we have done. Back in March 2009, I evaluated players including YouTube, Easy YouTube, jwPlayer, NCAM's ccPlayer and Flowplayer. See <a href="http://slideshare.net/nfreear/malt-wiki-techshare2009/18" rel="nofollow">slide 18 of this presentation</a> and <a href="http://spreadsheets.google.com/pub?key=0AgJMkdi3MO4HdFNDdElzUUhMejAzaWZoMFJ0emw3a0E&hl=en_GB&single=true&gid=1&output=html" rel="nofollow">this spreadsheet</a>. I tested with screen readers (JAWS, and <a href="http://nvda-project.org/" rel="nofollow">NVDA</a>), and also compared APIs for the players (how "scriptable" they were), licenses and so on.</p>
+<p>As part of the current player project I wrote a design brief with screen shots of various existing players outside and inside the OU. This included YouTube, EasyYouTube and the <a href="http://www.officefordisability.gov.uk/inclusive-communications/channels/odi-accessible-media-player.php" rel="nofollow">ODI media player</a> - a late addition. It was not an evaluation per se. It instead presented what was out there - we may want to use some features, we may not.</p>
+<p>In the current project plan, we have built in accessibility testing, using expert evaluation. And we hope to do testing with real users too, using the <a href="http://jennielee.open.ac.uk/labs/" rel="nofollow">Jennie Lee laboratories</a>.</p>
+<p>I'll conclude by saying that we hope the player will be accessible and will meet the needs of authors/ bloggers and end users. I don't think we will claim to be "the most accessible player on the Web". After all that sets you up for a world of criticism!</p>
+<p>Feedback and ideas are as ever welcome.</p>    </div>
+
+    
+<h2 id="extra-content">Extra content</h2>
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/content/add/6683">Add extra content</a></p>
+    
+
+<div id="embeds" class="embed-block">
+<h2>Embedded Content</h2>
+
+<p class="add-link add-embed"><a href="https://cloudworks.ac.uk/embed/add/6683">Add embedded content</a></p>
+</div>
+
+
+    <div class="grid">
+        <h2>Contribute</h2>
+        <a name="contribute"></a>
+        <ul class="cloudstream-filter">
+            <li>
+                            <a href="https://cloudworks.ac.uk/cloud/view/6683/comments#contribute">Discussion (0)</a>                        </li>
+            <li>
+                            <a href="https://cloudworks.ac.uk/cloud/view/6683/links#contribute">Links (3)</a>                        </li>
+            <li>                            <strong>Academic References (0)</strong>
+            </li>
+        </ul>
+    </div>
+
+    <div class="grid">
+
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/cloud/add_reference/6683">Add reference</a></p>
+   
+</div>
+
+</div>
+
+<div id="region2">
+    <div id="search-site">
+    <form id="form-search" action="https://cloudworks.ac.uk/search/result/" method="get">
+      <p>
+        <label for="query">Search</label>
+        <input id="query" name="q" type="search" value="" maxlength="30" />
+        <input id="search-button" type="image" src="https://cloudworks.ac.uk/_design/search-button.gif" alt="Search" />
+      </p>
+        </form>
+</div>
+    <p class="login">
+    <a href="#login" class="link-arrow show">Log in</a> 
+    <a href="https://cloudworks.ac.uk/auth/register">Sign up</a></p>
+
+<div id="login" class="collapsed">
+      <form action="https://cloudworks.ac.uk/auth/login" method="post" id="login-form">        <p><label for="user_name">Username:</label><br />
+     	<input type="text" name="user_name" value="" id="user_name"  />    </p>
+    	<p><label for="password">Password:</label><br />
+        <input type="password" name="password" value="" id="password"  /></p>    
+        <p>
+        <input type="submit" name="submit" id="submit" class="submit" value="Log in" />
+    <a href="https://cloudworks.ac.uk/auth/forgotten_password">Forgotten password</a>    
+    
+    </p>
+    </form></div>
+
+    <h2>Tags</h2>
+    <p class="tags">
+        	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/accessibility">accessibility</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/Blog">Blog</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/Flash">Flash</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/HTML5">HTML5</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/maltwiki">maltwiki</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/multimedia">multimedia</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/oembed">oembed</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/ou">ou</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/ouplayer">ouplayer</a>
+        </span>
+        &nbsp;         
+    	
+       <span style="white-space: nowrap;"> <a href="https://cloudworks.ac.uk/tag/view/video">video</a>
+        </span>
+                 
+        </p>
+
+
+      <p class="add-link"><a href="https://cloudworks.ac.uk/tag/add_tags/cloud/6683">Add a tag</a></p>
+    <div class="box">
+<h2>In Cloudscapes</h2>
+    <ul class="cloudscapes">
+                    <li>
+                <a href="https://cloudworks.ac.uk/cloudscape/view/2913">OU Media Player</a>            </li>
+             </ul>
+<p class="add-link"><a href="https://cloudworks.ac.uk/cloudscape/add_cloud/6683">Add to a Cloudscape</a></p>
+</div>
+
+
+
+            
+               
+            
+            <div class="box">
+<h2>Improve this cloud</h2>
+
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/tag/add_tags/cloud/6683">Add a tag</a></p>
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/content/add/6683">Add extra content</a></p>
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/embed/add/6683">Add embedded content</a></p>
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/cloud/add_link/6683">Add link</a></p>
+
+<p class="add-link"><a href="https://cloudworks.ac.uk/cloud/add_reference/6683">Add reference</a></p>
+
+</div>                </div>
+                   </div>
+                    <div id="site-footer">
+				        <div class="grid">
+				        <p class="left">
+                                        <a href="https://www.open.ac.uk" title="© 2009-2019 The Open University (IET)">©</a> |
+				        <a href="https://cloudworks.ac.uk/about/about">About</a> |
+				        <a href="https://cloudworks.ac.uk/blog/archive">Blog</a> |
+				        <a href="https://cloudworks.ac.uk/about/tandc" class="rdfa" rel="license">Terms and Conditions</a> |
+				        <a href="https://cloudworks.ac.uk/about/privacy">Privacy notice</a> |
+				        				    				                                                <a href="https://github.com/IET-OU/cloudengine"
+                                           ><img src="https://cloudworks.ac.uk//_design/cloudengine-sm.gif" alt="Powered by CloudEngine, open-source social software" />
+                                        </a>
+				          </p>
+				      
+<!-- The language drop-down menu - jump to the top/#skip. -->
+
+<form id="form-lang" action="#skip" method="post">
+<p class="right"><label for="lang_select">
+Preferred language </label>
+<select id="lang_select" name="lang">
+        <option value="el" >Ελληνικά / Greek</option>
+        <option value="en" selected="selected">English</option>
+  </select>
+<button type="submit" >Load</button>
+</p>
+</form>
+				        </div>
+				    </div>
+				</div>
+			</div>
+		</div>
+		
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-5304738-3', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+
+
+    
+<script
+  data-nofollow-count="17"
+  data-rtt=""  data-ga-analytics-id="UA-5304738-3"></script>
+
+
+
+                <script src="https://unpkg.com/gaad-widget@%5E3/dist/gaad-widget.min.js"
+          data-gaad-widget='{"debug":true,"days_before":15,"x_lang":"en","analytics":false}'></script>
+          <script src="https://cloudworks.ac.uk/_scripts/custom.js"></script>
+
+<script> console.warn('rel=nofollow count:', 17) </script>
+	</body>
+</html>

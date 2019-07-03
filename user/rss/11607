@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: Andrew Augustine</title>
+        <link>https://cloudworks.ac.uk/user/rss.11607</link>
+        <atom:link href="https://cloudworks.ac.uk/user/rss.11607" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds by Andrew Augustine</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>Mon: Open Textbook Implementation: A Caribbean Experience (Andrew Augustine)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/11978</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/11978</guid>
+              <description><![CDATA[<p><br />Open textbook implementation: A Caribbean experience.<br />Research has shown that some of the major barriers to open textbook implementation are sustainability and policy implementation. The case explores the achievements challenges and barriers to the implementation of open textbooks within the Caribbean region with special reference to Grenada as one of the first Caribbean countries to begin the foray into open textbook implementation. The case stimulates discussion in areas of communication strategy, ownership, perceptions of quality and also looks at the politics within the region in terms of continuity of policy directions in the wider Caribbean context and within the narrower perspective of implementation of open textbooks for small island states. It also includes ideas for a more in-depth discussion of issues relating to sustainability and the models which should be adapted for charting a future for open textbook implementation in the region. <br />Many great projects have not made sufficient progress due to hurdles encountered in implementation. This has direct implication in the Caribbean where there have been many initiatives to overcome barriers to implementation. There have been several free laptop per child programs as well as national textbook programs in existence in a few Caribbean states which have proven to be high-cost ventures. In several cases, school books are provided to all students for free. With the rising cost of books, additions to the curriculum and increases in the student population, these programs are rapidly becoming unsustainable. The solution would be an open textbook program. However, there have been some issues with implementation at various stages. This case study serves as not only an investigation, which is researched based on the issues but also looks at alternatives and recommendations for moving the process forward.<br />It provides a view of implementation against the background of the unsustainability of free school book programs and the large sums invested by Caribbean governments which can be divested into the development and implementation of open textbooks.<br />The case is built on information from the Commonwealth of Learning (COL) as well as documented information received from Ministries of Education within the Caribbean. This is augmented by other online sources and direct discussions held with persons who participated in various open textbook initiatives including regional workshops.</p>]]></description>
+          <pubDate>Thu, 24 Jan 2019 01:17:36 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

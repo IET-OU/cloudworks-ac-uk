@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: Dr Carol Waites</title>
+        <link>https://cloudworks.ac.uk/user/rss.8021</link>
+        <atom:link href="https://cloudworks.ac.uk/user/rss.8021" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds by Dr Carol Waites</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>MON:  Writing tips for report writers globally by means of a blended learning approach (Carol Waites)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/9516</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/9516</guid>
+              <description><![CDATA[<div>
+<p>This project consists of a weekly emailed writing tip by subscription, which links back to a website with the writing tip topics further developed on it.&nbsp; It is an open project suitable for any report writer globally.&nbsp;</p>
+</div>
+<h2>Rationale</h2>
+<p>Many United Nations staff members write reports daily and require support in their often solitary task.&nbsp; For 12 years I have been the only trainer in Geneva to support these writers and my services are in too high a demand to meet the needs. With technology and more limited resources, United Nations trainers are now asked by the General Assembly to design courses online or in blended solutions accessible to staff members globally.&nbsp; We should be more inclusive and efficient in our course offerings, combine our efforts across the duty stations and achieve this by 2017. &nbsp;&nbsp;</p>
+<h2>The project</h2>
+<p>To bridge the gap, I have designed a website and email service with a weekly writing tip to whet writers&rsquo; appetites.&nbsp; This website and email subscription will also serve as a way to make contact with those in the field, to help old students and new ones alike and to broaden my reach to any writer.&nbsp;&nbsp; My theme is inclusion of staff globally, taking care to include those with disabilities too.&nbsp; &nbsp;&nbsp;</p>
+<p>This presentation describes the project and the steps taken to bring it to fruition.&nbsp; It presents the challenges I encountered, and my efforts to make my website and service accessible to all.&nbsp;</p>
+<p>Ensuring accessibility is the greatest challenge of all, as accessing technology in emerging countries will present difficulties.&nbsp; I will need to be flexible and creative to find solutions when faced with unexpected difficulties with clients located globally.&nbsp;</p>
+<h2>The website</h2>
+<p class="zn-bodyparagraph">For the website, I selected weebly.com.&nbsp; It is accessible on computers, mobile and smart phones, and a tablet.&nbsp; This is important as many UN peacekeepers are located in Africa, which has some of the lowest fixed-broadband subscription rates in the world, and where mobile phones prevail and smart phones are entering the market. &nbsp;It also seems to support the features of accessibility for people with various disabilities.&nbsp;</p>
+<h2>Selecting content</h2>
+<p class="zn-bodyparagraph">First, I am basing my decision on what content to display by consulting the results of a needs survey I conducted.&nbsp; It will also inform my decision on how to display the content.&nbsp;</p>
+<p class="zn-bodyparagraph">I will turn my manuals into webpages, using html instead of pdf.&nbsp; According to feedback, I should make the weekly tips short in order to entice busy people into signing up. They will have a link to the website, which can give more information for those interested.&nbsp;</p>
+<h2>Needs analysis and evaluation</h2>
+<p class="zn-bodyparagraph">As a networked practitioner, I carried out a needs survey and solicited feedback and informed my future clients through Twitter, Yammer, Unite Connections, my Facebook, a Facebook writers&rsquo; group, and through email mailings to old students, current students and to focal points in the United Nations.&nbsp; Any unexpected opportunities or challenges that arose as a result of my extensive networking will also be reported on.</p>
+<p class="zn-bodyparagraph">Keywords:&nbsp; report writing, tips, email subscription, resources, United Nations, training, writing skills, website design, accessibility, inclusion, technology, mobile phones, emerging countries.</p>]]></description>
+          <pubDate>Fri, 08 Jan 2016 08:48:53 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

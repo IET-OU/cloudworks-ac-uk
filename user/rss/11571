@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: Rachel Adams</title>
+        <link>https://cloudworks.ac.uk/user/rss.11571</link>
+        <atom:link href="https://cloudworks.ac.uk/user/rss.11571" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds by Rachel Adams</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>SAT: Learning Beyond Language (Rachel Adams)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/11906</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/11906</guid>
+              <description><![CDATA[<p>In 2017, more than 3.5 million Emergency Department attendances in England were considered unnecessary and could have been managed in the community (<a href="https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/innovative-uses-of-data/demand-on-healthcare/unnecessary-a-and-e-attendances">digital.nhs.uk</a>). This puts tremendous pressure on the National Health Service, as well as being disruptive and upsetting for patients and their families.</p>
+<p>One of the ways the NHS is seeking to tackle this situation is by increasing the availability and resilience of community-led healthcare. Keeping an unwell patient in their home environment, where it is appropriate to do so, has obvious benefits for the health service. However, it also reduces distress for the patients and their families as hospitals can be unfamiliar and confusing places. This in turn can have physiological and psychological benefits that improve patient care.</p>
+<p>For the decision to manage an unwell patient in their home to be made, a healthcare professional must ensure that the patient or their carer knows how to evaluate the progression of the illness and how to respond in the case of deterioration. While face-to-face/telephone-based contact is essential in beginning this healthcare education journey, the amount of time a healthcare provider can personally give is limited. This needs to be supplemented by resources that can be left with or are accessible to the patient/carer to ensure comprehension and retention of information. Typically, this is done by the provision of written materials that explain the condition and any actions that need to be taken.</p>
+<p>While this may be sufficient in the majority of cases, UK Census data shows that in some urban areas up to 12% of households do not count English as their main language (<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/language/articles/languageinenglandandwales/2013-03-04">ons.gov.uk</a>), and 16.4% of adults in England have &lsquo;very poor literacy skills&rsquo; (<a href="https://literacytrust.org.uk/parents-and-families/adult-literacy/">literacytrust.org</a>). This leaves a significant proportion of people disadvantaged and will inevitably contribute to unnecessary hospital attendances and admissions. A move towards visually augmented resources would reduce the reliance on language-based resources and increase the accessibility of health education. In turn, this will help reduce pressure on the NHS and ensure the best outcome for sick and vulnerable patients.</p>
+<p>&nbsp;This presentation will first address the generic questions:</p>
+<ul>
+<li>What is visually augmented learning?</li>
+<li>Why is it important?</li>
+<li>Does it work?</li>
+</ul>
+<p>It will then move on to consider what visually augmented resources for use in the community might look like and consider how open practice between clinical staff and developers, drawing on work done by the wider educational community, is essential for their successful creation and implementation. It will also briefly consider the transferability of this approach and its relevance and impact on other aspects of accessibility.</p>
+<p><strong>References</strong></p>
+<p>National Literacy Trust (2017) &lsquo;Adult literacy&rsquo; [Online]. Available at <a href="https://literacytrust.org.uk/parents-and-families/adult-literacy/">https://literacytrust.org.uk/parents-and-families/adult-literacy/</a> (last accessed 8 February 2019).</p>
+<p>NHS Digital (2018) &lsquo;Unnecessary A and E attendances&rsquo; [Online]. Available at <a href="https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/innovative-uses-of-data/demand-on-healthcare/unnecessary-a-and-e-attendances">https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/innovative-uses-of-data/demand-on-healthcare/unnecessary-a-and-e-attendances</a> (last accessed 13 January 2019).</p>
+<p>Office of National Statistics [ONS] (2013) &lsquo;Language in England and Wales: 2011&rsquo; [Online]. Available at <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/language/articles/languageinenglandandwales/2013-03-04">https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/language/articles/languageinenglandandwales/2013-03-04</a> (last accessed 17 January 2019).</p>]]></description>
+          <pubDate>Mon, 31 Dec 2018 20:03:23 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

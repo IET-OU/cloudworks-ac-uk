@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: collaboration</title>
+        <link>https://cloudworks.ac.uk/tag/rss/collaboration</link>
+        <atom:link href="https://cloudworks.ac.uk/tag/rss/collaboration" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds tagged collaboration</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>SAT: Break Out of the Box! How you can use xAPI to free in-house staff development (Katherine Hinchey)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/11472</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/11472</guid>
+              <description><![CDATA[<h2>Abstract</h2>
+<p>You learn by doing and collaborating, watching videos, accessing just-in-time information from your mobile device, mentoring, and more. Why, then, does the Human Resources department only give you slides to learn from?</p>
+<p>Today&rsquo;s workers and corporations are united in wanting more access to the formal, non-formal, and informal learning needed to support an increasingly skilled workforce (The Education Commission, 2016; Pew Research Center, 2016a and 2016b). However, today&rsquo;s corporations largely store their learning resources in virtual learning environments (VLEs) that have adopted a uniform way of storing content. This uniform way, called SCORM, was incredibly helpful when it was designed nineteen years ago, and it still has an important role to play today. When SCORM was created, computer-based training was relatively new and organisations needed a single way to store and track training. For a time, innovation in elearning stopped at the known, established boundaries of the VLE (Weller, 2014, p. 194).</p>
+<p>Now, a new need has developed: a way to store and track learning when it occurs on mobile devices, or through social and collaborative activities, or offline by reading a book or engaging in stretch assignments, or when participating in simulations or augmented and virtual reality programmes.</p>
+<p>An innovation that meets that need was first released in 2013, and had its last planned update in 2016. It is the Experience API (xAPI). xAPI provides a common format for capturing data from today&rsquo;s distributed learning landscape (Rustici Software, n.d.). With xAPI in place, you can free staff development from the confines of SCORM:</p>
+<ul>
+<li>Rely less on elearning courses designed from slides and more on learning experiences;</li>
+<li>Recognise learning from formal and informal or non-formal activities (Downes, 2015);</li>
+<li>And track not only clicks and views but also correlate learning with performance (Torrance, 2016).</li>
+</ul>
+<p>Managers and other decision-makers within learning departments and organisations are at a critical point. They need a source from which to gain a high-level, jargon-free understanding of the benefits of xAPI, common applications and uses of xAPI to support learners as they access modern and innovative learning opportunities, best practices and lessons learned, and information they should provide to their learning development and learning technology teams to prepare for implementation of xAPI (HT2 Labs, n.d.).</p>
+<p>In my conference presentation, I will discuss and share a workshop created to meet those needs. The workshop helps managers, even those without extensive technical backgrounds, to be prepared to move forward with discussions and decisions about xAPI within their organisation. My presentation will show some of the workshop features and provide attendees with tools they can take with them, for use in their future endeavours.</p>
+<h3>References</h3>
+<p>Downes, A. (2015) '9 Practical Applications of Tin Can API', webinar presented by Rustici Software. 31 March. Available at <a href="https://www.slideshare.net/RusticiSoftware/ nine-applications-of-the-tin-can-api-xapi">https://www.slideshare.net/RusticiSoftware/</a><br /><a href="https://www.slideshare.net/RusticiSoftware/ nine-applications-of-the-tin-can-api-xapi">nine-applications-of-the-tin-can-api-xapi</a> (Accessed 1 November 2017).</p>
+<p>The Education Commission (aka the International Commission on Financing Global Education Opportunity) (2016) <em>The Learning Generation: Investing in education for a changing world</em> [Online]. Available at <a href="http://report.educationcommission.org/downloads/">http://report.educationcommission.org/downloads/</a> (Accessed 18 November 2017).</p>
+<p>HT2 Labs (n.d.) <em>The Learning Technology Manager's Guide to xAPI</em> [Online]. Available at <a href="https://www.ht2labs.com/resources/the-learning-technology-managers-guide-to-the-xapi/">https://www.ht2labs.com/resources/the-learning-technology-managers-guide-to-the-xapi/</a> (Accessed 9 December 2017).</p>
+<p>Pew Research Center (2016a) <em>Lifelong Learning and Technology</em> [Online]. Available at <a href="http://www.pewinternet.org/2016/03/22/lifelong-learning-and-technology/">http://www.pewinternet.org/2016/03/22/lifelong-learning-and-technology/</a> (Accessed 18 November 2017).</p>
+<p>Pew Research Center (2016b) <em>The State of American Jobs: How the shifting economic landscape is reshaping work and society and affecting the way people think about the skills and training they need to get ahead</em> [Online]. Available at <a href="http://www.pewsocialtrends.org/2016/10/06/the-state-of-american-jobs/">http://www.pewsocialtrends.org/2016/10/06/the-state-of-american-jobs/</a> (Accessed 18 November 2017).</p>
+<p>Rustici Software (n.d.) <em>Experience API</em> [Online]. Available at <a href="https://experienceapi.com/">https://experienceapi.com/</a> (Accessed 1 November 2017).</p>
+<p>Torrance, M. (2016) 'The xAPI: What Does an Instructional Designer Need to Know?', presentation given at <em>Learning Solutions Conference &amp; Expo.</em> Orlando, Florida, 16-18 March. Available at <a href="https://www.slideshare.net/torrancelearning/xapi-what-does-an-instructional-designer-need-to-know">https://www.slideshare.net/torrancelearning/xapi-what-does-an-instructional-designer-need-to-know</a> (Accessed 1 November 2017).</p>
+<p>Weller, M. (2014) <em>The Battle for Open: How openness won and why it doesn't feel like victory</em>, London, ubiquity press. Available at <a href="http://www.ubiquitypress.com/ site/books/detail/11/battle-for-open/">http://www.ubiquitypress.com/</a><br /><a href="http://www.ubiquitypress.com/ site/books/detail/11/battle-for-open/">site/books/detail/11/battle-for-open/</a> (Accessed 2 May 2016).</p>]]></description>
+          <pubDate>Thu, 04 Jan 2018 15:41:05 +0000</pubDate>
+            </item>
+                    <item>
+              <title>MON:Online international collaboration to analyse childcare practices  (Angela Bonehill)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/10201</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/10201</guid>
+              <description><![CDATA[<p>This presentation aims to demonstrate the impact of a collaboration between two universities. Online International Learning (OIL) projects involve online interactions between students studying at a UK university and other international universities, developing further &lsquo;intercultural and digital skills&rsquo; between students and organisations ( Villar-Onrubia, &nbsp;Rajpal, 2016). A small amount of students get the opportunity to work or travel abroad as part of their studies, interactions through the internet can be a way forward for widening participation with regards to supporting the intercultural interactions.</p>
+<p>The design of this innovative online project was to facilitate a working party of students from Denmark and England to converse and assess the differences of curriculum planning and childcare in the two countries. There is a vast difference in the childcare systems of both countries. This was explored through digital collaboration on a number of platforms.</p>
+<p>What was the motivation? To educate the students on the different curriculums, to enable them to analyse, to evaluate, and to give them knowledge of other practices.&nbsp; We began with UK organisations linked to education, we invited guest speakers, we watched videos of different practices, we read studies and papers, we visited children&rsquo;s centres, forest schools, nurseries, and schools, but the learning was passive, the students were not engaged, the students found it difficult to put this into practice or to contextualise their learning. The teachers were the depositors and the students were the depositories (Freire 1974). How could we change the perspective and practice of these new practitioners? We were beginning to get a vision: to expand cognitive horizons about early childhood studies and research beyond the United Kingdom with an interactive project where other students gave their perspective of curriculum and children&rsquo;s development through online collaboration. The students became the teachers.</p>
+<p>As a group we began to question&hellip;What if we could&nbsp; encourage students to unlearn everything that they have learned about education, to gain a better understanding of natural learning rather than the structured delivery here in the UK? How can we ensure the new practitioner goes out into practice with a new mindset? How can we empower new practitioners to make changes to the existing curriculum but still meet the government frameworks for the county? Why do children not go outside to learn? (Henley 2010)</p>
+<p>Early childhood students in their second-year degree collaborated with their equivalent in Copenhagen studying a contrasting early childhood pedagogy program. This occurred through structured online learning using platforms; &nbsp;a shared Moodle, vlogs and&nbsp; skype.</p>
+<p>The students had regular interactions and developed relationships as well as &nbsp;learning about the child care practices and culture of another country, from the initial feedback students and lecturers, developed an understanding of the democratic and spiritual care that pedagogues &nbsp;provide in Denmark and the importance of the assessments and milestones children are expected to reach as per the Early Years Framework in the UK (Gov.uk 2016).</p>
+<p>The presentation will report on the experience of networking with academics, students and colleagues, it will demonstrate that digital communications will encourage wider collaboration, mobility and changes in practice for the early years sector.</p>]]></description>
+          <pubDate>Thu, 19 Jan 2017 19:59:44 +0000</pubDate>
+            </item>
+                    <item>
+              <title>WED: The Fiction of Open Online Collaboration; they want to share, don’t they? (Jim Fanning)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/10178</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/10178</guid>
+              <description><![CDATA[<p>The conference paper presents a critical discussion of the issues surrounding implementation and development of a voluntary online professional learning community that is set within the context of the Scottish Attainment Challenge (Education Scotland, 2016). It involves teachers who are working on initiatives that have received central government funding to improve attainment. The educators in the community include civil servants, local authority education officers, senior teachers and teachers who were working directly with learners.</p>
+<p>The conference paper will make use of a range of project materials and information. This will include government publications that illustrate how online collaboration is supported at a policy level in Scottish education. Yammer is the application in which the community has been built and it is hosted on Glow, the Scottish national intranet for education (Scottish Government, 2016). How the functions of a Yammer group support collaboration will be described, along with the ways in which Gilly Salmon&rsquo;s 5-Step model of e-learning was adapted to promote educator engagement in it (Salmon, 2011).</p>
+<p>Influenced by Wenger&rsquo;s work on communities of practice (Wenger, 2007), a framework was developed that defined collaboration as being &lsquo;surface&rsquo; or &lsquo;deep&rsquo; and what each of those elements looked like. That framework has been used to map teacher input in the online community and evaluate the nature and openness of collaboration and how the implementation process, based on Salmon&rsquo;s adapted model, influences this.</p>
+<p>In 2015 the Scottish government facilitated a range of stakeholder consultation events for the design of a national digital learning and teaching strategy (Scottish Government, 2015). The consultation provided a range of evidence around teacher cultures and the barriers and enablers to change in the system. That evidence, along with an online poll designed for the purposes of the project, and conversations with a range of educators, has been used to describe the cultural context in which the online community operates.</p>
+<p>Whilst each of the educators involved in this project brought with them a range of experiences, knowledge, and expectations of collaboration in an online community, a marked feature of the project has been the reluctance of school based staff to be the &lsquo;first&rsquo; to contribute in comparison to local authority and central government colleagues. A philosophical belief in collaboration and openness has not been matched by practice within the community. There was much evidence of co-operation rather than collaboration and where collaboration took place, it tended to be in a face to face setting built on contacts that had been made through the community.</p>
+<p>Understanding the synthesis between implementation strategies and teacher cultures in these online communities is important in terms of evaluating the effectiveness of the Glow based communities. More widely, the development of Web 2.0 has been built around collaboration tools and services that promote sharing and openness. There are numerous examples of these being harnessed for social, political and economic purposes. The reasons why they have yet to become widely embedded in mainstream education may be better understood through this project.</p>
+<p class="EndNoteBibliography">References</p>
+<p class="EndNoteBibliography">EDUCATION SCOTLAND. 2016. <em>The Scottish Attainment Challenge </em>[Online]. Glasgow: Education Scotland. Available: <a href="https://education.gov.scot/improvement/Pages/sac1tosac11scottishattainmentchallenge.aspx">https://education.gov.scot/improvement/Pages/sac1tosac11scottishattainmentchallenge.aspx</a> [Accessed 5th November 2016].</p>
+<p class="EndNoteBibliography">SALMON, G. 2011. <em>E-Moderating, </em>London, Routledge.</p>
+<p class="EndNoteBibliography">SCOTTISH GOVERNMENT. 2015. <em>Consultation on the development of a Digital Learning and Teaching Strategy for Scotland </em>[Online]. Edinburgh: Scottish Government. Available: <a href="https://consult.scotland.gov.uk/learning-directorate/digital-learning/">https://consult.scotland.gov.uk/learning-directorate/digital-learning/</a> [Accessed 16th December 2016].</p>
+<p class="EndNoteBibliography">SCOTTISH GOVERNMENT. 2016. <em>Glow Programme </em>[Online]. Edinburgh: Scottish Government. Available: <a href="http://www.gov.scot/Topics/Education/Schools/ICTinLearning/Glow">http://www.gov.scot/Topics/Education/Schools/ICTinLearning/Glow</a> [Accessed 14th December 2016].</p>
+<p class="EndNoteBibliography">WENGER, E. 2007. <em>Communities of Practice: a brief introduction </em>[Online]. Available: <a href="http://wenger-trayner.com/introduction-to-communities-of-practice/">http://wenger-trayner.com/introduction-to-communities-of-practice/</a>&nbsp; [Accessed 19th December 2016].</p>]]></description>
+          <pubDate>Sat, 24 Dec 2016 12:45:21 +0000</pubDate>
+            </item>
+                    <item>
+              <title>ARTiFactor&#39;s final reflections (oldsmooc 13)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8230</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8230</guid>
+              <description><![CDATA[<h3>Passionate Participatory Making</h3>
+<p style="cursor:auto"><!--NO CSS-->My dream is <strong>to help create</strong> a MOOC that will <strong>enable world wide</strong>&nbsp;<strong>Digital Literacy.</strong></p>
+<ul>
+<li>I envision a&nbsp;<strong style="cursor:auto"><!--NO CSS-->map of learning activities</strong>&nbsp;for raising ones&nbsp;<strong style="cursor:auto"><!--NO CSS-->digital literacy</strong>&nbsp;<strong>competencies</strong>.</li>
+<li>Learners could jump in at any time, anywhere on the map,&nbsp;and find guidance to master that particular skill set.&nbsp;</li>
+<li>The map would be dynamic, continually being improved and expanded, much like in wikipedia.</li>
+</ul>
+<p>What I was proposing was a &nbsp;"<strong>project based</strong>" "<strong>connectivist</strong>" creation of a <strong>learning space</strong> "<strong>that&nbsp;that if properly designed could scale to&nbsp;world changing proportions</strong>".</p>
+<h3>Teacher Presence</h3>
+<p>The <strong>daily summaries</strong> by&nbsp;Yishay, Peter and Simon were very important to me. By <strong>pointing</strong> and <strong>naming</strong> participants contributions we were validated and motivated and inspired. Some MOOCs even enlist "<strong>skilled others</strong>" to demonstrate disired levels of performance. <strong>We learn by watching and mimicking.</strong></p>
+<h3><strong>Making with Peers</strong></h3>
+<p>I agree with OLDSMOOC's learning design,&nbsp;<strong>creating personally meaningful projects, together with like minded peers. </strong>Too bad I have yet to enlist any collaborative peers ("I am not a quitter" though, lol). I will try to design my learning space so as to insure everyone has a supportive partner and that every creative work gets acknowlegment/feedback.</p>
+<h3>Navigation and Site Map</h3>
+<p>Although the OLDSMOOC website had detailed descriptions of what to do during the nine weeks many participants seemed disoriented (or even lost, especially in the clouds). I addressed this by offering a <strong><a title="navigation" href="http://cloudworks.ac.uk/cloud/view/7655">navigation tool/discussion cloud</a>. </strong>The daily summaries were helpful here, too, by pointing to what might otherwise have been missed.</p>
+<p>I think in my learning design, I will have <strong>a place where frustrated participants can yell "Help</strong>, throw me a lifeline".</p>
+<h3>Wikis, Forums, Blogging, Badges, and Portfolios</h3>
+<p>I, too, will design in the creation of these forms of digital artifacts (and identity).</p>
+<h3>Networking</h3>
+<p>By reading reflections and following links pointed to by like minded participants I have learned first hand how <strong>networking</strong> continually provides me with <strong>new, relevant resouces</strong>, &nbsp;many of which are <strong>still evolving</strong>. I will be using <strong>Mozilla's Open Badges</strong> and still have to go back and mine the <strong>OER repositories</strong>. I will continue to do my part by <strong><a title="digital literacies resources" href="http://cloudworks.ac.uk/cloud/view/8079">sharing resources</a></strong>.</p>
+<h3>Partipatory Learning</h3>
+<p>I want to especially thank those participants who took time to communicate with me. I realise how this has impacted me. I intend to similarly reach out and participate within the many newly discovered networks that have opened up to me during this course.&nbsp;</p>
+<p>Arthur Oglesby</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Sun, 17 Mar 2013 20:02:20 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Jonathan Vernon: My OLDS MOOC Narrative - Four short stories, then retiring to the sidelines</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8160</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8160</guid>
+              <description><![CDATA[<h1 dir="ltr">Summary</h1>
+<p dir="ltr">I am use to problem solving techniques having used them in corporate communications and training for some 25 years. The contrast between higher education and learning and development always fascinates me - they are so different. Simply put the L&amp;D drive is usually to deliver more for less and to measure and justify the spend. It has to work and shown to work, saving money and improving results on previous approaches, so typically reducing and eliminating the cost of travel, overnights and being away from work. There will be a budget, schedule and brief. There will be a team of participants, a key player at the client end with their colleagues, support and their own line manager/director. The agency team will in all likelihood involve six or more people: project manager, learning design, subject matter expert, writer, designer, programme and an assortment of graphics designers, visualizers and testers. This seems to be in sharp contrast where those in education have no budget, no time and little support and in the old model of the lone teacher and their class have to come up with everything on their own, plan and create in their own time and often have systems and kit foistered on them.</p>
+<p>At the beginning of the week I looked at the time allocated to the OLDS MOOC by the OLDS MOOC team and quickly learnt to DOUBLE the time that would be required. And in the two most busy weeks I had working on Personas and Design I spent 12-16 hours on the reading, the activities themselves and maintaining contact with a fledgling group. This kind of commitment became unsustainable as I needed increasingly to commit this time to other projects.</p>
+<p dir="ltr">I wonder if young people should start work part time at 14 as they did 100 years ago, and do so with a close, online support. They will increasingly benefit from sophisticated learning systems and catalogues and be able to apply what they learn.</p>
+<h1 dir="ltr">Context</h1>
+<p dir="ltr">What were the conditions and constraints in which your design experiment was situated?</p>
+<p dir="ltr">Online, for me this mean STANDING at the dining room table. This is my office. After some Horizon programme on health I now stand all day. Works for me, in fact I find I am more alert and have had no back or no strain since &hellip; though the ball of my left foot doesn&rsquo;t like it and I&rsquo;ve worn through the slippers my daughter bought me for my birthday. This is context for me. The dog watches me all day expecting to me taken for a work. The &lsquo;footfall&rsquo; is such morning and later afternoon that I am disturbed by family members at meal time. Come to think of it, I prepare these meals so that&rsquo;s another period of disruption to me day. 4 x 3 hours across the day is how I try to operate. That is before breakfast, after breakfast, after lunch and after dinner.</p>
+<p dir="ltr">I don&rsquo;t recommend it. In the past I have walked up the road or driven a few miles to an office. In future I would hope at least to have an office &lsquo;down the garden&rsquo;.</p>
+<p dir="ltr">This context has the potential to be highly disrupted as the ebb and flow of family life runs through the house - teenage children at, or not at school and my wife who also works from home even more stressed when she has no work than when she does. When she has work lucky her enters her study and is only ever seen at meal times &hellip; and perhaps if either she wakes me late at night, or I wake her early in the morning.</p>
+<p dir="ltr">This is the context. I could relate this to years in various production and agency offices working on linear then, as we quaintly called it &lsquo;non-linear&rsquo; interactive training. More recently experience of the 9 to 5 has been blissful as a team of 8 on a project in an office of 50 or so hunker down collectively to the task in hand. In this context an e-learning project, like producing TV and video (and film) where I have experience, runs almost like clockwork. I say almost because occasionally there is an overnighter or weekend panic. &nbsp;I have a dream context it would be the new Google-plex, especially with the opportunity to camp out on the roof if you&rsquo;ve got a deadline and would prefer to hang out around the office.</p>
+<h2 dir="ltr">Material</h2>
+<p dir="ltr">What are the spatial characteristics of the settings? What tools and resources are available to protagonists?</p>
+<p dir="ltr">See above. Kit is one desktop, two laptops and an iPad.</p>
+<p dir="ltr">A scanner and digital camera.</p>
+<p dir="ltr">Art materials. A print on the wall is taken down in the morning and replaced with a white board. I resist the guitar, TV and piano.</p>
+<p dir="ltr">Though there is a game of chess in permanent suspended animation between my son and I. The greater distractions are the ability and desire to read niche books and download papers before I add a fullstop to the end of a sentence</p>
+<p dir="ltr">This is my office. I don&rsquo;t know what others tools and constraints others have.</p>
+<p dir="ltr">Cloudscape is the VLE, it the blog, is our social network and ought to be our singular means of communication. We are all used to and happy with other platforms. To be this comfortable online we have learnt to make our favourite tools sing. I feel as if I have spent over a decade learning the flute, guitar and piano to play in an orchestra and have been told to drop these to play an accordion in a brass band.</p>
+<h2 dir="ltr">Social</h2>
+<p dir="ltr">Who are the protagonists, what are the relationships between them, and what are the social and institutional configurations in which they operate?</p>
+<p dir="ltr">I am used to working online. In 1999 I was in touch with a writers group through my blog that ran &lsquo;til 2004. Our office was a cloud somewhere above the North Atlantic that shifted as other members moved in turn to Japan, then South America, Scotland &hellip; then back to North America. Even in an office I work online, typically using a wiki like collaborative e-learning design/build platform. This is genius. Each project may have between 5 minimum and 8 people on it - more where assistance is required or the deadline gets close - which are also points where around the office people start to gather to meet and those working from home come in. I&rsquo;ve done this too as a postgrad student - I forget which MAODE module but six of eight gelled on a two work collaborative project between New Zealand, Thailand, Germany and the UK. In the OLD MOOC one, then two then occasionally, perhaps three of us worked on the same project. It was touch and go and after five weeks it fizzled because the &lsquo;team leader&rsquo; as it were who had been instrumental in galvinising a couple of us to join in felt they could no longer do it. Perhaps she&rsquo;d got the answers she needed. I do rather think that a couple of meetings and a solution was in place &hellip; find the right person to ask how? and you take their response on faith and you are done without having to plan the construction of the Empire State Building. Designing a one hour e-learning intro to multimedia is vastly different to designing a 60 credit MBA module on creative problem solving. I don&rsquo;t even think they compare if we were to use the metaphor of architecture (Christopher Alexander, 1970). One was a few bricks to make an outdoor BBQ, while the other is a self-build six bedroom house. (with indoor swimming pool).</p>
+<p dir="ltr">I have written screenplays and TV &hellip; no more credits than a short on Channel 4. I hear &lsquo;protagonist&rsquo; and I need the antagonist and an entire family of other characters. Narrative is driven by conflict. This is where the metaphor or structure is weak - there should be no conflict where there is collaboration.</p>
+<p dir="ltr">If there were to be an &lsquo;antagonist&rsquo; then it would be Cloudworks. It has a character of its own which I&rsquo;m afraid I would described as doomed - rather like the Titanic. There was conflict in this narrative and it was always with the platform. Importantly the other characters, the players were the extraordinary array of character actors, the big name e-learning academics who have been schedule in for a star turn each week. They are players in this performance &hellip; as they led each week, and happily shared thoughts with us directly. Indeed, contact with the gliteratti of e-learning who for an MAODE student have been largely noticeable by their absence during the last three years - figure heads while moderator/facilitator tutors with very varied interest guide the students through &hellip; but I&rsquo;m wandering onto a different stage.</p>
+<p dir="ltr">As players, these e-learning top guns, perhaps with a vested and professional and academic interest in how the MOOC plays out have been exception - all educators who, escaping the restrictions of distance and online learning, would surely enjoy and gain from &lsquo;teaching&rsquo; by giving lectures from time to time, but more importantly sitting down with students in tutorials too. I think the loop into cyberspace with e-learning is coming home and that the desire by students and tutors alike will be to have more face to face, online and in person. I cannot help but KNOW that had those of us in our MOOC group who could have said, let&rsquo;s all meet in person in such and such a place that that meeting would have bound us as a team to the end of the MOOC. This is why meetings still happen.</p>
+<p dir="ltr"><strong>The constraints are (negative drivers):</strong></p>
+<ul>
+<li>Working online</li>
+<li>Working with strangers</li>
+<li>Working without pay</li>
+<li>Working without the likelihood of the project being realised</li>
+<li>The unlikeliness of meeting face-to-face</li>
+<li>Cloudworks - Why send us to Mars when there are familiar landscapes where we could work?</li>
+<li>Time (each participant runs to a different schedule and agenda).</li>
+</ul>
+<p dir="ltr"><strong>Positive drivers:</strong></p>
+<ul>
+<li>When meet someone with a common goal</li>
+<li>Leadership from a project that others wish to follow</li>
+<li>Using a variety of tools with which we are familiar to communicate</li>
+<li>The comprehensive nature of the OLDS MOOC</li>
+<li>The liveliness and commitment of the OLDS MOOC team</li>
+<li>Time (it is my own, but other commitments jostle for attention)</li>
+</ul>
+<h2 dir="ltr">Intentional</h2>
+<p dir="ltr">What are the protagonists beliefs, desires and intentions, which shape the problem space?</p>
+<p dir="ltr">This &lsquo;space&rsquo; does exist where there is a fixed landscape, even one that is online via a blog, a common social group or website. This &lsquo;problem space&rsquo; where the protagonists meet has to have a sense of space and place. In Cloudworks, and this is my second effort to work in it, the reflection of real-life hubs and nodes simply do no exist. I still find it impossible to log directly into my own cloud, let alone find those of the groups I took an interest in or get back to the base camp. In our group we rapidly debunked to email and Google docs. I&rsquo;ve done this on other platforms too - in a student group where Elluminate had failed twice, or the tutor was clueless at how to operate that construction from the mind of Professor Brainstorm, we debunked successful and repeatedly to Google Hangouts - the ultimate bond being a &lsquo;pyjamma party&rsquo; which reminded me that none of us wanted to do any of &lsquo;this&rsquo; unless it was fun. .</p>
+<h2 dir="ltr">Force Map</h2>
+<p><img src="https://lh4.googleusercontent.com/fx3oTWyy8GIBB77-qqgzz1v2IFnG3_xwux_E5O3c9RA_wDKYiyEx5Nbxp6heWUDYH6UxV0put5SoaWsuW6OU-5V6251p0iPHYvsblfXQXBrMRcD-AVIa4VLbRw" alt="" width="348px;" height="522px;" /></p>
+<p dir="ltr"><strong>This may pre-empted the MOOC by a week but expresses three things in relation to team work</strong></p>
+<ol>
+<li>top down hierarchical</li>
+<li>democratic</li>
+<li>everyone pitches in</li>
+</ol>
+<p dir="ltr">For me this might illustrate working on a programme of work or curriculum for a school ten years ago, working on a creative project in the last five years where everyone has direct contact with each other and finally, online collaboration where not only can you be inside each other&rsquo;s heads and beds (see Google Hangout above), but there can be, for good or bad, other interlopers and powers getting involved.</p>
+<p dir="ltr">This could also be drawn up in a series of Activity Theory plans &hellip; not just from first to third generation, but in the final episode in which an activity system, like icicles in spring, melts.</p>
+<h1 dir="ltr">Challenge</h1>
+<p>In advertising and corporate communications we might create a campaign to launch a new beer in a country, launch a new range of cars, or run a Government health awareness campaign over three years and it is reduce to A SINGLE PAGE OF A4. <strong>The most important question is:</strong></p>
+<ul>
+<li>What is the problem?</li>
+</ul>
+<p>If there isn&rsquo;t a problem there can be no answer, no advert, no campaign. The same applies to academic research - the proper research question has to be to address a problem. If there isn&rsquo;t a problem then the enterprise is already a shopping trolley with a missing wheel. This applies to EVERY training video, every interactive DVD, or web-based learning project I have been involved with. It there isn&rsquo;t a problem to fix then the learning is unnecessary. If you cannot express it as a problem, then stop.</p>
+<p dir="ltr"><strong>The advertising brief continues:</strong></p>
+<ul>
+<li>Who are you speaking to?</li>
+<li>What do you want to say?</li>
+<li>How do you want them to respond to this message?</li>
+<li>Is there anything else we need to know.</li>
+</ul>
+<p dir="ltr">And all of this must be researched and worked on until it can be kept to a SINGLE SHEET OF A4. i.e. a sentence or two in response to each of these questions.</p>
+<p dir="ltr">I apply this to running a 12 week series of classes in Primary School, a day long workshop on revision techniques, a 9 month squad swimming programme, an hour long e-learning module, an 8 minute short film, a poster campaign for the local sailing club, teaching 3,000+ swimming teachers how to fix breaststroke &hellip;</p>
+<h1 dir="ltr">Theoretical / Pedagogical Framework</h1>
+<p dir="ltr">See above.</p>
+<h1 dir="ltr">Actions</h1>
+<p>I proposed a &lsquo;design&rsquo; that has worked dozens of times before - a weekend workshop with no need to do anything online. Indeed, having been made to think it through that was the conclusion. I keep an OLDS Mooc journal.</p>
+<h2 dir="ltr">Obstacles</h2>
+<p dir="ltr">Two, maybe three &hellip; or was it four complete strangers, all busy full time elsewhere, most of us new to this game, trying to commit to something were increasingly we felt lost. From beginning to end I had no idea whether there were 10 people, maybe 25 people or just 3 doing the MOOC. If there were a 1000 then I never had any sense of this, not a stream of tweets and messages, not long lists of names. None of it. In sharp contrast the last two MOOCs I have taken an interest in I felt as if from day one there were 10,000 people sharing the same Ferry<a href="http://www.youtube.com/watch?v=wNC5iLNguRQ"> energizing</a> in and out by transporter</p>
+<h1 dir="ltr">Results</h1>
+<p>To work online is to complement meeting face-to-face. Projects I join or initiate in the real world might begin online, become a conversation and relationship but then develop and embed by meeting. If it is a speculative, even an unpaid project (I&rsquo;ve done a number of these), then people get the measure of each other and are far, far more likely to commit to the end.</p>
+<ul>
+<li>Roles are established</li>
+<li>Motives are understood</li>
+<li>Diaries are compared</li>
+<li>Problems identified and resolved</li>
+</ul>
+<p>This can be done online but needs at least a Skype or Google hangout level of interaction. There is a reason and value to seeing a person&rsquo;s face. There is a reason why the face is so expressive - it is a vital form of comprehension, communication and connection.</p>
+<p dir="ltr"><strong>A three person team became two, then none.</strong></p>
+<p dir="ltr">Despite expressing interest in four other projects NOT ONE of these people came back in any shape or form to express an interest in my contributing to their effort. I pitched in some ideas, was ignored &hellip; so in turn ignored them.</p>
+<h1 dir="ltr">Reflections</h1>
+<p>I keep a learning journal. No longer a person diary, but a record of everything I do that relates to work and personal development - which for me is learning, with a significant nod to learning online and e-learning / e-coaching. <img src="https://lh3.googleusercontent.com/SXghPePe0oSddFAGAgjwelMg7eJas5Mwer_vCaUM_QQSjJf3uNtwRZu_noJAzqzjvRLgUT0bAegNVG1BXbUzC0bBBmyIPGun5xZ_S-HY5QFJeg3m3SkyWlaT" alt="" width="601px;" height="212px;" /></p>
+<p dir="ltr">These posts happen to be in <a href="http://learn.open.ac.uk/mod/oublog/search.php?user=635984&query=olds+mooc">my Open University Student blog</a> as the OLDS MOOC complements the postgraduate courses I have done over the last three years to complete the Masters in Open &amp; Distance Education.</p>
+<p dir="ltr">I was able to being the OLDS MOOC with a clear diary - this became busier after week 5 and as the only group that I had joined that showed traction faded away it became less easier to justify staying onboard. I do however follow the activity, read through the weekly activities and dip into some knowing that in my own time, or should the course be repeated, that I will re-join in order to do the subsequent weeks.</p>
+<p dir="ltr">As a &lsquo;narrative&rsquo; I would prefer to write three or four short stories. There is a narrative to specific busy weeks, particularly my/our love hate relationship with Cloudworks, &nbsp;&lsquo;Personas&rsquo; where I was able to consolidate knowledge of the extensive use and development of Personas at the Open University Business School, extending my interest in design based research, bringing my knowledge and understanding and practical application of Activity Theory into focus, using <a href="http://learn.open.ac.uk/mod/oublog/viewpost.php?post=135543">Activity Cards,</a> which was the highlight of the my time on the OLDS MOOC, bringing a pack of cards into the real world, to shuffle, pick through and then lay out on the kitchen table and share - this would be an invaluable activity to use with colleagues in &nbsp;workshop. And formulation of my own conception of Learning Activities, which I reduced to THREE, from Grainne Conole&rsquo;s Seven and named them <a href="http://learn.open.ac.uk/mod/oublog/viewpost.php?post=136081">&lsquo;The Good, the Bad and the Ugly&rsquo;. </a>&nbsp;Working in corporate Learning &amp; Development e-learning modules run for 45 minutes to an hour, they don&rsquo;t require the kind of thinking that is required and justified by a 30 or 60 point module in tertiary education where the OLDS MOOC is squarely aimed..</p>]]></description>
+          <pubDate>Mon, 04 Mar 2013 07:35:04 +0000</pubDate>
+            </item>
+                    <item>
+              <title>OLD MOOC WK 3 Activity 2 Course Cards</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7835</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7835</guid>
+              <description><![CDATA[<p>Getting off the computer and into an activity, ideally a collaborative one, is always productive.</p>
+<p>A carefully moderated workshop can reveal the unexpected, more importantly it is an informed way to prioritise issues and to use a the combined expertise of a variety of people. From the OU Course B822 Creative Innovation and Change I learnt the value of constructing a team of people to address a problem - from different backgrounds, with different responsibilities and outlooks, even someone to rock the boat. No one person&rsquo;s voice is allowed to override the views of others. Such a group would achieve a lot with this OULDI pack. Though game-like it is a valid and valuable tool.<br /><br /><strong>Working alone there were a number of hurdles to overcome:</strong><br /><br />A black and white printer.<br />The sheets were printed off then painted. Not liking the look of the purple these cards all become yellow.<br />Ideally they would all be spray-glued to backing card to make them more robust - at least so that they don&rsquo;t curl up at the edges.<br />On the first sweep I got the 38 number of cards down to 26. This was gradually reduced in 2s and 3s until there were the requisite 16.</p>
+<p><strong>The 16x16 spreadsheet is a Google Doc that I can share. This is the outcome:</strong></p>
+<p><em>(I took the orange to be red, and didn't like the purple I mixed with the box of old watercolour paints I dug out to make my set of cards).</em></p>
+<p><img src="https://lh6.googleusercontent.com/SzY2qkukvOUZYC81zJ8YveanDvbK6fLhAg_vUBfMpRmZtJyNl5gmw_dNIsT5w2O51GE3Rt3up-xZDtSi0oDRBb-gZadExPeUQVL-xod5esYSQ2WVeu9Y" alt="" width="198" height="344" /><br /><br /><em><strong>Fig.1. Used a pairs table the 16 cards were ranked</strong></em><br /><br />Using a paired-sets in a table I was able to rank these 16 - clearly the exercise of discussing these with colleagues would have been extremely useful and the process of deliberation brought up issues of budget, resources and time-scale, and even refined the project as it is conceived and visualised as a certain number of activities.</p>
+<p><br /><img src="https://lh5.googleusercontent.com/FIQJ3LBYkVkiWRpt04tXtNA6IXEBHXSJQGtXvURcmr-SddKvuQjFxO72Ad-KEbAZPkaotmGddECjdGIrtXQraSP1U3JZGbyzYXAF0q7zYw2RYHma2PJb" alt="" width="409px;" height="628px;" /><br /><br /><em><strong>Fig. 2. In rank order a diamond was created with the chosen cards.</strong></em></p>
+<ol>
+<li dir="ltr">Problem Based</li>
+<li dir="ltr">Applied Concepts</li>
+<li dir="ltr">Mentoring in work-place</li>
+<li dir="ltr">Collaborative</li>
+<li dir="ltr">Scaffolded learning</li>
+<li dir="ltr">Practice based</li>
+<li dir="ltr">Student generated content</li>
+<li dir="ltr">Day Schools</li>
+<li dir="ltr">Blended approach</li>
+<li dir="ltr">Authentic resources</li>
+<li dir="ltr">Practice placement</li>
+<li dir="ltr">Professional community</li>
+<li dir="ltr">Portfolio or eportfolio</li>
+<li dir="ltr">Peer-support</li>
+<li dir="ltr">Active discovert</li>
+<li dir="ltr">Step by step instruction</li>
+</ol>
+<p><strong>Choose a maximum of 12 cards from the pack which define the key features of your course or module.</strong></p>
+<div dir="ltr">
+<table><colgroup><col width="213" /><col width="249" /></colgroup>
+<tbody>
+<tr>
+<td>Step by step instructions</td>
+<td><strong>Guidance and Support</strong></td>
+</tr>
+<tr>
+<td>Scaffolded learning</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Mentoring in the workplace</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Applied concepts</td>
+<td><strong>Content and Experience</strong></td>
+</tr>
+<tr>
+<td>Authentic resources</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Problem-based</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Practice-based</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Collaborative</td>
+<td><strong>Communication and Collaboration</strong></td>
+</tr>
+<tr>
+<td>Practice placement</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Day schools</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Student generated content</td>
+<td><strong>Reflection and Demonstration</strong></td>
+</tr>
+<tr>
+<td>Portfolio or e-portfolio</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>In terms of the module DIY Mutlimedia I become very aware of the value of learning alongside an expert, of being with skilled practioners even - and very much the need to have a project brief to work to. So very much a hands on learning experience with authentic tools to create a real object or digital asset, or activity. This would also take the learners away from the computer screen, even out of the classroom into a design studio or agency. In fact the 'Online' card didn't make it into the 16. Even though this is to develop skills in use of digital multimedia tools I felt I was organising a workshop for potters, painters and tapestry weavers i.e. there is a highly practical element to it and there's nothing better than having a live guide at your shoulder ... and if there has to be a compromise then it would be live or 'as live' instruction over the Internet.</p>
+<p>&nbsp;</p>
+</div>]]></description>
+          <pubDate>Fri, 25 Jan 2013 17:58:42 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Week Two Summary Contextualisation (Sue Watling DIY Multimedia)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7769</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7769</guid>
+              <description><![CDATA[<p>Less about DIY Multimedia and more reflections on the contextualisation of OLD</p>
+<p>Learning and isolation are poor partners. Focus on the learner context enhances the process of OLD through revealing motivations as well as potential barriers. Context can reveal attention hot spots e.g. ease of access to materials, availability of support, the loneliness of the long distance online learner, guidance on specific design criteria e.g. the variety of activities, collaboration with peers and tutors, interaction with content, formative and diagnostic assessment opportunities etc. Context assists the designer make appropriate choices, in particular providing mechanisms for customising learning to suit individual preference e.g. providing information in alternative formats. All this runs in parallel to theoretical approaches to LD for example constructive alignment (Biggs and Tang, 2011).</p>
+<p>Scenarios,&nbsp;<a href="http://www.interaction-design.org/encyclopedia/personas.html" target="_blank">Personas</a>&nbsp;and&nbsp;<a href="http://www.ld-grid.org/resources/representations-and-languages/force-map" target="_blank">Force Maps</a>&nbsp;are useful approaches to OLD. Context can be presented in textual formats but also displayed through mind mapping or diagrams where a visual approach can offer an effective overview of key issues. Constructing context encourages sharing practice; drawing on own experiences and incorporating those of colleagues to bring key issues together. Doing this online rather than round a table can in itself reveal areas of online learning design which need attention.</p>
+<p>For my own practice inclusion is a key concern. Without attention to access, the application of theory to practice becomes diluted. Effective OLD takes into account the diversity of ways people access learning resources and opportunities, this is particularly important where there are no face to face clues or opportunities for discussion. Identifying potential barriers to access and participation are key to retention and success.</p>
+<p>In the future I will be looking to building a collection of contrasting scenarios for future reference and experiment with alternative ways of presenting these e.g. diagrammatically.</p>
+<p>Biggs, J. and Tang, C. (2011)&nbsp;<em>Teaching for Quality Learning at University</em>. 4<sup>th</sup>&nbsp;ed. OUP</p>
+<p>Join the Google DIY Multimedia Group at&nbsp;<a href="https://groups.google.com/forum/?fromgroups=#!forum/olds-mooc-diy-multimedia " target="_blank">https://groups.google.com/forum/?fromgroups=#!forum/olds-mooc-diy-multimedia&nbsp;</a></p>]]></description>
+          <pubDate>Thu, 24 Jan 2013 10:22:12 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Art&#39;s Hearth</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7704</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7704</guid>
+              <description><![CDATA[<h2>A gathering place where we can warm each other</h2>
+<h2>by sharing our personal fires.</h2>
+<p>&nbsp;<strong><a title="JulianaR71 twitter" href="https://twitter.com/JulianaR71">@JulianaR71</a>&nbsp;'s </strong>blog post,&nbsp;<a title="gathering place" href="http://jraffaghelli.wordpress.com/2013/01/22/content-and-metaphors-from-the-agora/">CONTENT AND METAPHORS. FROM THE AGOR&Agrave;.</a>&nbsp;inspired this cloud.</p>
+<p>Comment below if wish to <strong>add your fire</strong> to this <strong>hearth</strong>.</p>]]></description>
+          <pubDate>Tue, 22 Jan 2013 16:19:38 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Jonathan Vernon&#39;s Mind Bursts - his OLDS MOOC Learning Journal</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7551</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7551</guid>
+              <description><![CDATA[<p>I'm always loath to start a blog or learning journal away from the platforms I've used for the last five years - Wordpress since 2007 (www.mymindbursts.com) 1500+ entries and as an OU postrgraduate student on the OU Student Blogging Platform since February 2010 (1000+ entries) ... and before this in Diaryland.com since 1999 1.5m words. I believe in the format, I've kept a diary for long enough. I rather like the idea of being able instead to blab into a webcam like Jack Sully in Avatar. I guess I could talk to Siri on the iPad but then it still has to be edited and posted somewhere ... here if it is to be shared (which is the whole point).</p>
+<p>My experience with learning online for the last three years (Masters in Open and Distance Education) is that when at this level someone says it'll take 'x hours' in the week I double the number before I decide if I can make the time - this takes care of needing to familiarise myself with the landscape. I can take 'x hours' and multiply by 4 if there is new software involved, even longer to the point of giving up if it isn't immediately obvious, intuitive and FUN. A fellow MOOCER pointed me towards Pearltrees and I feel in love. But then again, I take both a professional interest and have the boyish curiosity that makes me click on everything anyway. So we'll see.</p>
+<p>I've skipped in and out of week 1 trying to follow the instructions but feeling like one in a thousand playing a game of treasure hunt. Or, like one of several hundred on the first evening of an OU Residential School. With an added difficulty here - all Holiday Inn's look the same, but the platforms here are not. Even Cloudworks, which I tried during an MAODE module, looks as unfamiliar as it did 18 months ago. I couldn't get it then ... though I played ball, wrote and posted, but got no interaction. It felt like I was being sent into the jungle to list the flora and collect insects and meet fellow travellers but what I found as a desert full of chimeras.&nbsp;</p>]]></description>
+          <pubDate>Thu, 17 Jan 2013 22:02:10 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Lesley&#39;s learning journey, 14th January 2013 (2)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7328</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7328</guid>
+              <description><![CDATA[<p>I'm very confused by the teaming up activity. The instructions tell us to team up and to link a project team cloud to the teams cloudscape. So far, so clear. Find a team. One member creates a project team cloud (is this a study group?) and links it to the teams cloudscape while other team members link it to their own cloudscapes. Easy.</p>
+<p>But that's not what's happened. Dreambazaar clouds are appearing in the teams cloudscape. But if one project team needs to negotiate the contents of a project based on a range of different 'dreams', how can they do so in a single 'dream' cloud?</p>
+<p>Maybe we need clearer instructions and a worked example; this seems to me a very clear illustration of the need for such clarity - different people can interpret the same instruction in so many different ways!</p>
+<p>And then I'm uncomfortable about this 'teaming up' notion. It reminds me of being at school and being terrified I'd be the one who's left out of the teams. Now, I don't care, I'm quite happy to go my own way, but a few years ago I know it would have bothered me a lot and probably damaged my self-esteem enormously if nobody had found my 'dream' interesting or asked me to join their team... This feels to me like an aspect of MOOC that is really quite dangerous and one that needs to be taken into consideration when designing any sort of collaboration, regardless of number of participants. How to solve it is an interesting issue; with small numbers, the facilitator can easily observe and make suggestions if someone appears to be being overlooked. With larger numbers, massive numbers even, that's not really viable. So, what to do? Rely on others' good nature? Hmmmm...</p>
+<p>Perhaps I'm just cynical, but it seems to me it isn't just children who indulge in ignoring , overlooking or just plain bullying (deliberately or inadvertently) others. Admittedly, I've seen no evidence of any of those behaviours here, but MOOC does appear to harbour that potential.</p>
+<p>So, my question for the day is whether MOOC can support the individual, whether that individual is an individual by accident (overlooking, ignoring) or design (chooses to be that way)?</p>]]></description>
+          <pubDate>Mon, 14 Jan 2013 14:49:54 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Lesley&#39;s learning journey, 14th January 2013</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7313</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7313</guid>
+              <description><![CDATA[<p>The more I look at this MOOC, the more I think it really is a multi-user, hybrid PLE/VLE, particularly when the organisers use terms like, 'semi-structured' &nbsp;and 'project-based' in relation to the activities within the environment. And the more I think that, the more I realise that I've been running something similar to this for years, but on a much, much smaller basis. &nbsp;Who knew?!</p>
+<p>In what form, you may ask? Well, <a title="EuroCALL 2009" href="https://sites.google.com/site/virtualeurocall2009/" target="_blank">virtual conference strands</a> using a mixture of synchronous and asynchronous tools (discussion lists, audiographics, text chat, wiki, blog, live blog, social networking etc.), and, more recently, I've been desiging learnng activities using a range of tools (streamed and recorded events with remote audience participation, audiographics, discussion list, wiki and collaborative blog) to ensure inclusivity. While many rush towards the synchronous solution, this can be difficult for geographically widespread participants living in different timezones and/or for those who don't have the technology to participate in audio or video-conferencing; the mixture increases access, though I'm still working on improving accessibility.</p>
+<p>Why am I pondering on this? Well, because we've been reminded of the importance of posting to the 'right' place, and, as Yishay said, if that doesn't happen, the whole thing can turn into, 'a huge pile of spaghetti'.</p>
+<p>This got me thinking: how do we avoid the spaghetti? Is it possible to predict where participants may become confused? If my experience is anything to go by, once you've done something like this a few times, it really is possible to make such predictions and to head 'em off at the pass (even though some people always do something totally unexpected, but you can't cater for the unexpected!) Certainly, I'm very used to people asking, 'But what's the point of using ?' and the next time I run my 'hybrid' or 'inclusive' acivity, I'm going to provide:</p>
+<ul>
+<li>a (clickable) map of the environment (something to download, something for the website)</li>
+<li>an 'instruction manual' (rather than including separate instructions for each tool and an outline of the (very loosely structured) activity)</li>
+</ul>
+<div>I think I'd have found both of these items useful for OLDS-MOOC as that would have given me an anchor point (well, a couple of anchor points, but who's counting?) and some navigation aids.</div>
+<div>However, I think there's something more profound than simply not using the tools as necessarily intended and I'd be interested to follow this one up further; we all have our own preferred tools, particularly for communication. For example, I happen to like synchronous text (MOO in fact because you can do more than just 'chat'). If I could have a chat facility within Cloudworks, that's all I'd need - the social networking aspect would serve the asynchronous and the text chat the synchronous. A presence indicator would also be useful.. Others might prefer a different constellation of tools. I do wonder how much we can specify what people do and where they do it when using a MOOC? &nbsp;Once you start making those specifications, doesn't it begin to turn into a VLE that doesn't depend on a bespoke system?</div>
+<div></div>
+<div>Off to ponder the pedagogy of hybrid environments further.</div>]]></description>
+          <pubDate>Mon, 14 Jan 2013 12:27:10 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Doug Gilbert:  My dream--Create a MOOC on re-thinking faculty research</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7180</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7180</guid>
+              <description><![CDATA[<p>Beginning in May 2013 a group of business school academics will be asked to participate in a MOOC to re-think faculy scholarship and research. &nbsp;Much of what is done today is seen as overly theoretical and irrelevant to practice. &nbsp;What can be done? &nbsp;Should the model be changed? &nbsp;</p>
+<p>In this MOOC I want to design the MOOC for the Caucus.</p>]]></description>
+          <pubDate>Sun, 13 Jan 2013 03:49:09 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Lesley&#39;s learning journey,  12th January 2012</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7133</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7133</guid>
+              <description><![CDATA[<p>MOOCs are big in many senses. Given that I firmly believe that it's important to have experience of any learning tool before designing materials that include these tools, I saw OLDS-MOOC as a good opportunity to find out more about MOOCs and, maybe, about how they work and why they're different from a multi-user PLE (personal learning environment).&nbsp;</p>
+<p>How's it been so far? Frustrating. I've spent a lot of time trying to find things, find out about things, find out why I need to find out about things. From what I've read, both here and elsewhere, this is not an uncommon experience with MOOC, or, indeed with any learning technology. Structured VLEs have the same effect; I've lost count of the number of times students have asked me whether they should post to a forum, a blog, a wiki or make a pod/vodcast. And that's when the structure is fairly rigid! Well, it's going to be an adventure. I hope I'm not gong to have to switch off the laptop/tablet and take long walks thinking lovely thoughts too often.</p>
+<p>So, my learning objectives (or maybe &nbsp;mean 'outcomes') for this week:</p>
+<ol>
+<li><strong>Find my way round the MOOC. </strong>It's an amorphous mass/mess at present. I'd like some navigation aids. Something as simple as a graphical representation of the MOOC on OLDS-MOOC homepage would be <strong>really</strong>&nbsp;helpful. My sense of direction is good, but I have to be shown the way the first time I go somewhere, even if I never need any help again.</li>
+<li><strong>Begin to work out what MOOCs allow that other technologies don't</strong>. It feels very much like a multi-user PLE at the moment and the question that's hovering right now is, 'Is that it? Is that all there is to it?' Maybe it is. But I'd like to know.</li>
+<li><strong>Identify a project that I actually want to design</strong>. The problem I have with being told to think of my dream project now is much the same as I had in 1992 when I took the MSc in IT and Learning at Lancaster University. For the Open Learning module, we were told we could do whatever we wished, using whichever medium we wished. A large, youngish man at the back of the room said, 'Oh aye? I'll be embroidering a quilt then.' That's comes to mind every time I'm given the 'freedom' to choose. Again, I'd l ike a bit more structure at the moment; I'm not saying that there's nothing I want to do, but I really want more time to find out about others' interests before committing myself to anything. What if it turns out that I violently disagree with their approach? Well, that's the thing about collaboration, isn't it? Compromise... Or is it?</li>
+<li><strong>Spend some time thinking about collaboration</strong>. How collaborative is collaboration? Is it really likely to lead to more innovation than comes about working alone? I wonder. Too early to consider whether I've made any progress on that. We'll see.</li>
+</ol>
+<div>So, the first weekend sees me asking more questions than defining learning objectives for myself. Maybe my learning objective for this week is to define questions I want to consider over the lifetime of OLDS-MOOC.&nbsp;</div>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Sat, 12 Jan 2013 17:10:14 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Learning &amp; Understanding </title>
+              <link>https://cloudworks.ac.uk/cloud/view/7087</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7087</guid>
+              <description><![CDATA[<p>My interest is in learning and understanding and if it is possible to achieve this in education at an institutional level? Is it possible to teach groups as effectively as individuals? I&nbsp; didn't do well in school yet love learning while understanding that being a self-directed learner is not the norm. To model education after courses in the style of the many cMOOCs I've been involved in is not applicable to the students I encounter every day at the community college where I work as an asssistant ID.</p>
+<p>How do we nurture the independence, self-confidence and "voice" necessary for more people to participate equally in education and life?</p>
+<p>With a history in art education and working in the building trades, learning design intrigues me. Can we design in a manner that need not be supported by simulations and metaphore but from that distributed intelligence base that thradespeople and artists seem connected to? Is there a language that speaks to the body as well as the brain that can be conveyed somehow electronically in online learning design? How do we describe "understanding" and "literacy" in a way that is accessable to everyone?</p>
+<p>As a starting point I offer this segment that speaks of the difference between experimental science and psychoanalysis:</p>
+<blockquote>
+<p style="cursor:auto"><!--NO CSS--><em>Experimental science deals with large classes of individuals, that is, individuals who are more or less indistinguishable, or whose differences can be washed out in statistical analysis without destroying what made them interesting to study in the first place.</em></p>
+<p style="cursor:auto"><!--NO CSS--><em>Psychoanalysis does not deal with large classes of individuals, but with singal individuals whose differences may not be washed out without major loss of significance.</em></p>
+<p style="cursor:auto"><!--NO CSS--><em>Dealing with large classes of individuals permits scientists to produce a body of theory with highly specific predictive value that can, to a considerable degree, eliminate the need for direct and detailed investigation of individual cases.</em></p>
+<p style="cursor:auto"><!--NO CSS--><em>Dealing with single individuals does not permit psychoanalysts to make theoretical generalizations of the type that may be substituted for direct experience.</em></p>
+<p style="cursor:auto"><!--NO CSS--><em>Experimental science conducts its investigations by relying on an established body of experimentally derived theoretical knowledge.</em></p>
+<p style="cursor:auto"><!--NO CSS--><em>Psychoanalysis does not rely for its investigations on an established body of knowledge, but investigates unique cases using a technique of creative exploration.</em></p>
+<p style="cursor:auto"><!--NO CSS--><em>Expertise in experimental science is associated with knowledge of a body of theory.</em></p>
+<p style="cursor:auto"><!--NO CSS--><em>Expertise in psychoanalysis consists of the capacity to work in ignorance of theory&mdash;to see what is looking at without theoretical preconceptions.</em></p>
+<p style="cursor:auto"><!--NO CSS--><em>From: &ldquo;Building Out into the Dark - Theory and Observation in Science and Psychoanalysis&rdquo; Robert Caper 2009 Routledge</em></p>
+</blockquote>]]></description>
+          <pubDate>Sun, 13 Jan 2013 20:34:14 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Helen Crump: Design Project:: Digital Me -Understanding Digital Literacies</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7057</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7057</guid>
+              <description><![CDATA[<p><strong>My situation </strong></p>
+<p>I&rsquo;m an adult literacy tutor and I live on the West Coast of Ireland (originally from Nottingham) . I'm also a very recent graduate of St. Angela's College, Sligo where I completed an M.A. awarded by NUI Galway in Technology, Learning, Innovation and Change.<br /> <br /> I&rsquo;m interested in digital literacies and social learning, which ideally I'd like to teach online in a Higher Education or professional development context. For that reason, I'm developing my skills and knowledge in relation to online pedagogy and instructional design (which I&rsquo;m going to refer to as learning design from now on).<br /> <br /> <strong>My learning design project</strong><br /> <br /> I&rsquo;m already developing my course through participation in <a href="http://pedagogyfirst.org/wppf12/">Pedagogy First </a>&nbsp;,which is a small MOOC like programme led by volunteers of Mira Costa College, San Diego, which focuses on online pedagogical skills. <br /> <br /> However, within OLDSMOOC I&rsquo;d like to develop some learning design skills so as to help me develop my course as effectively as possible. <br /> <br /> I have been blogging about my progress on the course so far: <a href="http://learningcreep.wordpress.com/">http://learningcreep.wordpress.com/</a></p>]]></description>
+          <pubDate>Fri, 11 Jan 2013 20:23:19 +0000</pubDate>
+            </item>
+                    <item>
+              <title>ARTiFactor: My Dream: a Digital Literacy MOOC</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6942</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6942</guid>
+              <description><![CDATA[<p>My dream is to help create a MOOC that will enable world wide <strong>Digital Literacy.</strong></p>
+<p>I envision a <strong>map of learning activities</strong> for raising ones <strong>digital literacy</strong> competencies. Learners could jump in at any time, anywhere on the map,&nbsp;and find guidance to master that particular skill set.&nbsp;</p>
+<p>The map would be dynamic, continually being improved and expanded, much like in wikipedia.</p>
+<h2><strong>Structure</strong></h2>
+<p style="cursor:auto"><!--NO CSS--><strong><a title="digital literacy" href="http://en.wikipedia.org/wiki/Digital_literacy">Digital Literacy</a></strong> includes an enormous range of competencies.</p>
+<p style="cursor:auto"><!--NO CSS--><strong>Mapping</strong> out the ever growing skill sets could perhaps be structured as a massive <strong>outline</strong> with collapsing/expanding branches (or a <strong>MindMap</strong>)</p>
+<p style="cursor:auto"><!--NO CSS--><strong><a title="Multi-level Marketing" href="http://en.wikipedia.org/wiki/Multi-level_marketing#Setup">Multi-level Marketing</a></strong> techniques - newbies would sign up and be given a number of tokens/coins. They would offer to pay a coach/mentor/teacher coins &nbsp;in order to master a particular competency. Eventually they would advance into the mentor-coach role and pay their former mentor coach for back-up or support.</p>]]></description>
+          <pubDate>Thu, 10 Jan 2013 23:01:29 +0000</pubDate>
+            </item>
+                    <item>
+              <title>My OLDSMOOC life </title>
+              <link>https://cloudworks.ac.uk/cloud/view/6781</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6781</guid>
+              <description><![CDATA[<p>Juliana Raffaghelli OLDS-MOOC learning journal</p>]]></description>
+          <pubDate>Thu, 24 Jan 2013 00:10:42 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Innovate, Collaborate, Engage: Creating a User Driven Approach to the Development of Open Educational Resources (Will Engle, David Kohler)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6562</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6562</guid>
+              <description><![CDATA[<p>The University of British Columbia supports an institutional wiki that serves as collaborative authoring space. The UBC Wiki is used as an open knowledge repository, a collection of university training materials and documentation, and a rapidly growing set of course materials and open educational resources. One such resource is the Math Exam Resources (MER) wiki, a community project started in March 2012 by graduate students at the UBC Math Department to provide an open and free educational resources to undergraduate students. The MER wiki was developed using an innovative approach that allowed for mass collaboration, rapid development, student engagement, and robust reuse. What makes a healthy environment that supports user inovation in the&nbsp; development of such open educational content? Meet Will and David; a wiki administrator and an educator, who will share their perspectives on their collaboration and its results. Through this dialogue, they will&nbsp;<br style="padding: 0px; margin: 0px; color: #000000; font-family: 'Helvetica Neue', 'Lucida Grande', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 22.399999618530273px;" />explore how resource architecture and adaptable systems are important&nbsp; for the creation of effective open education material. They will close the session with some best practices, daydreaming, and their vision for what's possible next.</p>]]></description>
+          <pubDate>Tue, 16 Oct 2012 17:39:33 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Share Everywhere: A multi-project collaboration to make it easy to create and share content with legs (Katherine Fletcher, Marvin Reimer)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6552</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6552</guid>
+              <description><![CDATA[<p>The OERPub team is making it easy to create and edit OER and expanding the options for publishing and sharing content. Last year we created an importer that takes content from Word, Google Docs, and blogs and makes it remixable by unifying the formats. We then used simple software hooks to publish the content to repositories like Connexions.<br style="padding: 0px; margin: 0px; color: #000000; font-family: 'Helvetica Neue', 'Lucida Grande', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 22.399999618530273px;" /><br style="padding: 0px; margin: 0px; color: #000000; font-family: 'Helvetica Neue', 'Lucida Grande', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 22.399999618530273px;" />This year are adding an easy-to-use, open source document editor so that authors can create content from scratch or edit the content they imported. We are incorporating research-driven principles so that authors used to Word and Google Docs can still create beautiful remixable content. Rather than asking authors to learn complicated markup, we are using authors&rsquo; natural actions to provide just-in-time semantic choices and convenient templates for editing.&nbsp;&nbsp;<br style="padding: 0px; margin: 0px; color: #000000; font-family: 'Helvetica Neue', 'Lucida Grande', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 22.399999618530273px;" /><br style="padding: 0px; margin: 0px; color: #000000; font-family: 'Helvetica Neue', 'Lucida Grande', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 22.399999618530273px;" />We are expanding the options for sharing OER (while still keeping it remixable) by making it possible to publish to institutional repositories like DSpace as well as other projects that provide structured publishing like Connexions, Siyavula, Booktype and Open University. The underlying editor is built collaboratively and intended for use by many projects.<br style="padding: 0px; margin: 0px; color: #000000; font-family: 'Helvetica Neue', 'Lucida Grande', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 22.399999618530273px;" /><br style="padding: 0px; margin: 0px; color: #000000; font-family: 'Helvetica Neue', 'Lucida Grande', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 22.399999618530273px;" />In this presentation we will unveil our new collaboratively created open-source editor for OER and show how it can be used to create, edit, and publish content to OER libraries. We will highlight the research principles that were used to guide the editing experience and also show how other projects have participated with us and how new projects can get involved and incorporate the editor and adapt it for their content. The talk will be mostly non-technical focusing on the how and why, with pointers to the technical meat for reference.</p>]]></description>
+          <pubDate>Tue, 16 Oct 2012 16:27:51 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Tool: OU Annotate</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6213</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6213</guid>
+              <description><![CDATA[<p>I was in a meeting today of The Open University's accessibility practitioner's group. Louise Olney, a project manager in Learning and Teaching Solutions kindly came to talk to us about OU Annotate, and in particular the work that is being done to improve it's accessibility.</p>
+<p>"OU Annotate enables you add your own annotations to web pages.  You can create an annotation for an entire web page, like a bookmark, or you can select and highlight specific text.  You can add comments and tags to your annotations and, if you wish, share them with others."</p>
+<p>OU Annotate is I think somewhat similar to <a href="http://cloudworks.ac.uk/cloud/view/5294">Snip.ly</a> and <a href="http://cloudworks.ac.uk/cloud/view/2465">Diigo</a> (though as I haven't used either of these, I could be wrong!)</p>
+<p>Open University students and staff can install the <a href="http://students.open.ac.uk/annotate/">OU Annotate bookmarklet and view the manager via StudentHome</a>. And you may also like to <a href="http://screencast.com/t/eh4Cu7GY">view the lead developer, Jenny Gray's screencast</a>, and <a href="http://openlearn.open.ac.uk/mod/oublog/view.php?user=60&tag=ouannotate">Jenny's blog posts</a>.</p>
+<p>I've given the OU Annotate bookmarklet a try, and so far it looks impressive. I'm particularly happy to see the functionality to export annotations in various formats, including to Google Docs - intriguing. I would also welcome the option to publish an RSS/Atom feed of my personal annotations. I'm a fairly heavy Delicious user. If it was possible to make annotations world readable (probably a big ask), or if anyone who self-registers for a <a href="https://msds.open.ac.uk/SAMSWebSelfRegistrationNet/SAMSDefault/SAMS006_Default.aspx">free Open University account</a> could use OU Annotate I'd consider switching.</p>
+<p>Personally, I think that OU Annotate would be a great marketing tool for the OU.</p>]]></description>
+          <pubDate>Wed, 04 Apr 2012 20:55:50 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Presentation: OLNET</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5447</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5447</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Tue, 24 May 2011 10:42:30 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Liveblogging</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5321</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5321</guid>
+              <description><![CDATA[<p>&lsquo;Digital scholars&rsquo; are increasingly making use of Web 2.0 tools to support resource gathering, collaboration and reflection (Ferguson, Clough, &amp; Hosein, 2007, 2010; Pearce, Weller, Scanlon, &amp; Kinsley, 2010). At conferences, seminars and presentations, individual note-taking is increasingly complemented and supplemented by live blogging. This can be seen as part of the shift away from traditional academic practices that emphasise individual possessive intelligence, individuated authorship, stability and fixity (Walker, 2006).</p>
+<p>A liveblog consists of a series of contemporaneous notes of an event arranged chronologically and shared online by an individual author in order to support learning. Although liveblogs take their name from the blogs in which they originated, they can now be found on other social network sites, such as Cloudworks, and may appear as a synchronous stream of notes by the same author on microblogging sites such as Twitter. They are not transcripts or edited highlights but personal accounts, written for an interested audience, reflecting a personal understanding of an event or presentation.</p>
+<p>This paper examines this new academic practice, and its implications for learning. It investigates the perceived benefits and disbenefits for the live blogger, for their audience and for the presenters and organisers of events that are live blogged. To do this, it draws on reflective accounts by four live bloggers, who have experience both of informal live blogging, and of live blogging conferences and presentations in an invited capacity.</p>
+<p>For the live blogger, this practice offers an effective use of time, a set of easily locatable notes that can make it easier to focus on and remember a presentation. For presenters and organisers it can enhance an event by capturing questions, indicating audience response and adding to understanding of what is said. For the wider audience, it gives a flavour of an event, capturing elements and responses that are not available from an online set of PowerPoint slides. Balanced against these benefits are the problems: bloggers writing rather than reflecting, speakers wary of instant online critique, and audiences irritated by ill-structured notes and noisy typing.</p>
+<p>By identifying the ways in which liveblogging can be used to support learning and to enhance presentations, this paper aims to set out guidelines for good practice in liveblogging.</p>
+<p><strong>References</strong></p>
+<p>Ferguson, R., Clough, G., &amp; Hosein, A. (2007). Postgraduate blogs: beyond the ordinary research journal. In S. Wheeler &amp; N. Whitton (Eds.), <em>Proceedings of the 14th Association for Learning Technology Conference (ALT-C 2007) Beyond Control: Learning Technology for the Social Network Generation</em> (pp. 179-189).</p>
+<p>Ferguson, R., Clough, G., &amp; Hosein, A. (2010). <em>Shifting themes, shifting roles: the development of research blogs.</em> Paper presented at the 'Into Something Rich and Strange' - Making Sense of the Sea-Change. The 17th Association for Learning Technology Conference (ALT-C 2010) Held 7-9 September 2010, University of Nottingham, England, UK.</p>
+<p>Pearce, N., Weller, M., Scanlon, E., &amp; Kinsley, S. (2010). Digital Scholarship Considered: How New Technologies Could Transform Academic Work. <em>In Education, 16</em>(1).</p>
+<p>Walker, J. (2006). Blogging from inside the ivory tower. In A. Bruns &amp; J. Jacobs (Eds.), <em>Uses of blogs</em> (pp. 127-139). New York: Peter Lang.</p>]]></description>
+          <pubDate>Mon, 11 Apr 2011 07:36:29 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Bob and Sue - Adult Learners returning to Higher Education</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4103</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4103</guid>
+              <description><![CDATA[<p>Meet Bob and Sue to listen to their perspectives as adult learners returning to University to study Technology Enhanced Learning.</p>
+<p>Scroll down to view latest videos:<br /><strong>OpenEd10 held in Barcelona 2-4 November<br />What "Siemens Says" about 21st Century knowledge<br />Transavartarts Boo and Sob<br />Preparing for the NZ Tertiary Writers Network Colloquium<br />The Graduate, Bob and Sue version</strong></p>
+<p>Series 2: <a href="http://cloudworks.ac.uk/cloud/view/4686">Rog, Bob and Sue</a>&nbsp;on ethics</p>]]></description>
+          <pubDate>Mon, 05 Jul 2010 05:25:58 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Collaborative Tools</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4020</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4020</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Tue, 22 Jun 2010 11:01:29 +0000</pubDate>
+            </item>
+                    <item>
+              <title>ODET 2010: Dan Prager - bCisive Online</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3961</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3961</guid>
+              <description><![CDATA[<p><a href="/cloud/www.bcisiveonline.com">bCisive Online</a> is a web-based decision-making and collaboration tool from <a href="/cloud/www.austhink.com">Austhink Software</a>. &nbsp;&nbsp;It &nbsp;follows on from our previous commercial forays into desk-top-based visual mapping software:&nbsp;the business-oriented&nbsp;<a href="/cloud/bcisive.austhink.com">bCisive desktop</a>, and before that the argument-mapping-based&nbsp;<a href="/cloud/rationale.austhink.com">Rationale</a>. &nbsp;</p>
+<p>In developing&nbsp;bCisive Online we aimed to make visual thinking and deliberation both simpler and more team-oriented. &nbsp;Probably the most striking innovation is a form of <a href="http://bcisiveonline.blogspot.com/2010/02/real-time-collaboration-overview.html">real-time collaboration</a>. &nbsp;Multiple participants can collaboratively edit a map: remotely manipulated boxes fly around in near real-time, echoing multiplayer online games, while "control" (the ability to edit) is passed around in a disciplined fashion.</p>
+<p>In this talk I would like to explain the motivation for introducing real-time collaboration, and its design and realisation in bCisive Online.</p>]]></description>
+          <pubDate>Wed, 16 Jun 2010 05:51:49 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Issues and techniques for collaborative music making on multi-touch surfaces</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3784</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3784</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Tue, 08 Jun 2010 14:52:07 +0000</pubDate>
+            </item>
+                    <item>
+              <title>The CERD Model: Three possible approaches to designing collaborative educational digital libraries</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3699</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3699</guid>
+              <description><![CDATA[<p>Presentation by Pauline Ngimwa at CALRG annual conference 2010.</p>
+<p>Academics and librarians often work in 'silos' when it comes to design and usage of digital libraries. This results in development of digital libraries which are not always aligned to the pedagogical needs of the learner, therefore failing to utilise the full potential of digital technologies. New initiatives in the design of digital libraries have highlighte the benefits of having end-users involved in the design and development process. Such benefits include user-centred resources that directly address the needs of users. However, bringing academics and learners (end-users) and librarians together to collaborate in the design process of digital libraries is complex because of their varying needs, contexts and backgrounds.</p>]]></description>
+          <pubDate>Mon, 24 May 2010 08:59:52 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Creating a research community</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3410</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3410</guid>
+              <description><![CDATA[<p>What is a research community? How do we build one? Why do some research communities flourish, while others fail to develop?</p>
+<p>This cloud has been set up to support a discussion forum at The Open University on 14 May, 2010 - but the discussion doesn't need to end there.</p>
+<p>This is an opportunity to share good practice - to discuss what works and what doesn't - and whether this changes depending on your discipline or context.</p>]]></description>
+          <pubDate>Tue, 20 Apr 2010 17:46:54 +0000</pubDate>
+            </item>
+                    <item>
+              <title>LexDis Participatory Podcasts</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3359</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3359</guid>
+              <description><![CDATA[<p><strong>LexDis Participatory Podcasts</strong></p>
+<p>Mike Wald, E.A. Draffan and Russell Newman, University of Southampton</p>
+<p>Video &amp; blog posts</p>
+<p>This project was funded by an ELESIG Small Grant.</p>
+<p>This project aims to support researchers of the learner experience to offer participatory research methodologies to disabled students where the learner voice can be raised to offer successful collaboration to ensure a more equitable teaching and learning environment. A series of interviews will be conducted to capture opinions and expertise about participatory research and shared as podcasts.</p>
+<p><strong>Resources</strong></p>
+<ul>
+<li><a href="http://elesig.ning.com/video/mind-mapping-participation-3">What makes participatory projects a success?</a>&nbsp; Video from Ellen Lessner &amp; E.A. Draffan,</li>
+<li><a href="http://elesig.ning.com/profiles/blogs/the-participation-journey">The Participation Journey - Part One - Ellen's three key points.</a></li>
+<li><a href="http://elesig.ning.com/profiles/blogs/the-participation-journey-1">The Participation Journey - Part Two - Jane's discussion about Empowerment</a></li>
+<li><a href="http://elesig.ning.com/profiles/blogs/the-participation-journey-2">The Participation Journey - Part Three - Gemma's discussion about technology trials, participation and ownership.</a></li>
+<li><a href="http://elesig.ning.com/profiles/blogs/the-participation-journey-3">The Participation Journey - Part Four - Sarah's discussion about participation as a student.</a></li>
+</ul>
+<p>Added to the ELESIG NIng site: Feb 2010</p>
+<p>[Must be a member of ELESIG to view:<strong> <a href="http://elesig.ning.com/main/authorization/signUp" target="_blank">Join us</a></strong>]</p>]]></description>
+          <pubDate>Mon, 12 Apr 2010 11:17:25 +0000</pubDate>
+            </item>
+                    <item>
+              <title>The SocialLearn Project (KMi seminar)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3145</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3145</guid>
+              <description><![CDATA[<p>Presenter:&nbsp;Dr Simon Buckingham Shum<br /> Title:&nbsp;The SocialLearn Project<br /> Date: Thursday 18 March 2010<br /> Time: 11:30am<br /> Location: KMi Podium</p>
+<div>SocialLearn is exploring the potential of the social web for learning and sensemaking (both academic, and in the workplace) with specific interest in how different OU communities might benefit (e.g. students, staff, researchers, alumni). In this session, we'll give an update on some of the project's thinking and prototyping.</div>
+<div></div>
+<div>
+<div>This will be a work-in-progress update, in which Simon will be inviting input on what KMi research/technologies could plug into SocialLearn, eg<br /> 
+<ul>
+<li>Natural language parsing to improve user profiling</li>
+<li> Analytics and recommendation engines</li>
+<li> Merging social graphs from the cloud</li>
+<li> Ontologies relevant to learning/academic research</li>
+<li> Relevant widgets/gadgets for learners/researchers</li>
+</ul>
+</div>
+</div>]]></description>
+          <pubDate>Tue, 16 Mar 2010 11:26:04 +0000</pubDate>
+            </item>
+                    <item>
+              <title>SocialLearn session: OU&#39;s Learning &amp; Tech Conf. 2010</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3122</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3122</guid>
+              <description><![CDATA[<p><strong>[<a href="http://projects.kmi.open.ac.uk/sociallearn/SocialLearn-Talk-OU2010.mov" target="_blank">Replay SocialLearn presentation</a>]</strong></p>
+<p><strong>Welcome</strong> to our cloud for this conference session :-)&nbsp;from the&nbsp;SocialLearn team: Simon Buckingham Shum, Rebecca Ferguson, Mark Glaister, Thanh Le&nbsp;</p>
+<p>SocialLearn (part of the portfolio under Denise Kirkpatrick, Pro-Vice Chancellor for Learning &amp; Teaching Quality) is designing a social learning space which can integrate existing tools in the OU and the cloud, to support learning.&nbsp;Our immediate target groups are the hundreds of thousands of users in the Open University&rsquo;s online communities, with a specific focus in the coming year on professional development and e-scholarship/research.</p>
+<p style="cursor:auto"><!--NO CSS-->SocialLearn&nbsp;<a href="http://sociallearn.org">beta site</a>&nbsp;|&nbsp;<a href="http://www.open.ac.uk/blogs/sociallearn">blog</a>&nbsp;| <a href="http://twitter.com/sociallearn">twitter</a> | <a href="http://www.slideshare.net/SocialLearn">slideshare</a></p>
+<p>Post your comments here... or to make up for the absence of f-f discussion, feel free to call me (Simon) during the conference after this session on 01908 655723 or Skype on sbskmi</p>]]></description>
+          <pubDate>Sun, 14 Mar 2010 10:48:30 +0000</pubDate>
+            </item>
+                    <item>
+              <title>What is a Design Atelier? </title>
+              <link>https://cloudworks.ac.uk/cloud/view/2715</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2715</guid>
+              <description><![CDATA[<p>Prompted by an interesting discussion at a JISC Cluster Meeting I have created this cloud to explore further what a Design Atelier actually is?&nbsp;<br /><br /><strong>Background<br /></strong>The <a href="http://www.jisc.ac.uk/whatwedo/programmes/elearning/curriculumdelivery/atelierd.aspx">ATELIER-D</a> project takes as its starting point the centuries-old methods of learning and teaching in the studio of a master artist or craftsperson. The project brings the spirit of the atelier into the 21st century. It develops the notion of the &lsquo;virtual design studio&rsquo; using ICTs to create powerful learning and teaching environments.</p>
+<p>&nbsp;In his keynote presentation at the OpenLearn conference&nbsp;30-31st October 2007 at The Open University (OU), John Seeley Brown used the term &lsquo;atelier&rsquo; to characterise an emerging form of learning and teaching based on social networks, a distinct participatory approach by learners and teachers and pedagogy rooted in practice. Seeley Brown drew on his experience in architecture education but many in the parent domain of design education will recognise the well-established and powerful approach offered by the atelier (see link below).<br /><br />As part of the JISC funded ATELIER-D project the OU are researching how a virtual atelier can be created using the latest Web 2.0 tools that support a wide range of distance learning designs students.<br /><strong><br />This cloud<br /></strong>This cloud seeks to promote discussion about what you think a Design Atelier is?</p>
+<ul>
+<li>What are the key attributes that make up a Design Atelier?&nbsp;&nbsp;</li>
+<li>What makes it so special?</li>
+<li>Is the nature of the physical space important?&nbsp; Should it be large and open or small&nbsp; and private?</li>
+<li>What type of teaching methods should be used?</li>
+<li>How can communication be used to support learning?&nbsp;</li>
+</ul>
+<p>This link&nbsp;below takes&nbsp;you to a short video clip to prompt the discussion. <br />Your thoughts and views are most welcome.</p>]]></description>
+          <pubDate>Fri, 27 Nov 2009 17:41:28 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Workshop: Cloud 1: Key issues and strategies for designing learning resources and activities </title>
+              <link>https://cloudworks.ac.uk/cloud/view/2633</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2633</guid>
+              <description><![CDATA[<div>
+<ul>
+<li>Think of a resource or a learning activity you have created</li>
+<li>Describe its inherent design</li>
+<li>Share with the person next to you</li>
+<li>Summarise your discussions face to face and/or within this cloud </li>
+<li>Share with the wider group</li>
+</ul>
+</div>]]></description>
+          <pubDate>Thu, 12 Nov 2009 23:27:47 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Activity: Making a design more collaborative using CSCL collaboratitve pedagogical patterns</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2526</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2526</guid>
+              <description><![CDATA[<p>This activity aims to help you make a resource or learning activity more collaborative in nature. It uses the CSCL collaborative pepedagogical patterns language developed at the University of Valladolid by Hern&aacute;ndez-Leo et al. The Appendix attached as a link to this cloud include ten collaborative pedagogical patterns - such as the Jigsaw, Brainstorm and Think-Pair_Share patterns.</p>
+<ul>
+<li>Choose a resource or learnig activity</li>
+<li>Reflect on how it might be improved (you may want to consider representing the design visually in something like CompendiumLD)</li>
+<li>Explore the CSCL collaboraive patterns and use these as a basis for making the resource or activity more collaborative</li>
+</ul>]]></description>
+          <pubDate>Mon, 19 Oct 2009 22:30:56 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Google Wave</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2511</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2511</guid>
+              <description><![CDATA[<p>Google has recently released "Wave" to testers around the World.&nbsp; It's a new way to communicate and collaborate with others, and no doubt has great potential for teaching and learning.&nbsp; It combines some of the functionality of email, instant messaging and wikis with real-time collaborative editing.</p>]]></description>
+          <pubDate>Fri, 16 Oct 2009 09:21:11 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Tool: Diigo</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2465</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2465</guid>
+              <description><![CDATA[<p>Via Twitter @<strong><a title="Jil Wright" href="http://twitter.com/ITJil">ITJil</a></strong> Technology &amp; Education Box of Tricks</p>
+<p>From the website:</p>
+<h3>Research <em>Annotate, Archive, Organize</em></h3>
+<ul>
+<li id="fBookmark"><strong>Online bookmark:</strong> Organize by tags or lists; Access from anywhere, anytime!</li>
+<li id="fLibrary"><strong>Archive:</strong> Do not just bookmark! Archive pages forever! Make them searchable too!</li>
+<li id="fAnnotate">
+<p><strong>Annotate:</strong> Do not just archive! Highlight! Add sticky notes too!</p>
+</li>
+</ul>
+<h3>Share <em>Build Personal Learning Network</em></h3>
+<ul>
+<li>Share your annotated pages with your followers on Diigo or elsewhere.</li>
+<li>Get a stream of interesting content by following others you like.</li>
+<li>Interact with others on content of interest.</li>
+</ul>
+<h3>Collaborate <em>Create a Group Knowledge Repository</em></h3>
+<ul>
+<li>Create a private or public group for your company, class, and teams.</li>
+<li>Share findings to the group -- make it the second brain for your team!</li>
+<li>Interact on the web pages in-situ or in the group</li>
+</ul>]]></description>
+          <pubDate>Sun, 11 Oct 2009 08:27:30 +0000</pubDate>
+            </item>
+                    <item>
+              <title>The Amanda project</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2435</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2435</guid>
+              <description><![CDATA[<p>Via Twitter <strong><a title="etalbert" href="http://twitter.com/etalbert">etalbert</a></strong> RT @<a href="http://twitter.com/heyjudeonline">heyjudeonline</a> The Amanda Project: .. chance to work collaboratively in multimedia fiction series.</p>]]></description>
+          <pubDate>Thu, 08 Oct 2009 08:22:39 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Educational Simulations</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2327</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2327</guid>
+              <description><![CDATA[<p>Six weeks ago I started my PhD research on how to optimize the learning effects of using computer simulations in an educational setting. My first month of literature research can be found at <a href="http://bit.ly/edusims">http://bit.ly/edusims</a>, a preliminary categorization of variables that come into play is shown at <a href="http://bit.ly/prezivars">http://bit.ly/prezivars</a> and I've posted a first attempt to select variables I&rsquo;d like to focus on at <a href="http://bit.ly/bubblvars">http://bit.ly/bubblvars</a>. Looking forward to your comments.</p><p>Contact details: http://www.linkedin.com/in/nicorutten</p>]]></description>
+          <pubDate>Sat, 19 Sep 2009 10:10:16 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Activity: 10 mins Sharing designs</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1811</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1811</guid>
+              <description><![CDATA[<p>Use this space to describe and share your representations and outputs of the discussion from the <a href="/node/1800">Think-Pair-Share exercise</a>. If you have links to the resource or anymore information that would be helpful. Also feel free to add diagrams.</p>]]></description>
+          <pubDate>Tue, 30 Jun 2009 09:31:28 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Activity: 20 mins Deconstructing the design of an OER</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1802</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1802</guid>
+              <description><![CDATA[<ul>
+<li>Explore the follow <a href="/">OER of part of the K113 course </a></li>
+<li>Try to represent one (out of the first two) extracts in CompendiumLD </li>
+<li>
+<h3>&nbsp;</h3>
+<p>How do the designs compare to   <a class="external text" title="http://labspace.open.ac.uk/blocks/compendium/browsemaps.php?context=15&id=3584" rel="nofollow" href="http://labspace.open.ac.uk/blocks/compendium/browsemaps.php?context=15&id=3584">those created by Perry Williams</a>&nbsp;?</p>
+</li>
+<li>
+<p>Each group now revisits one (out of two) extract of K113 and looks at how patterns can be used to make it more collaborative.</p>
+</li>
+<li>
+<p>Share your thoughts and feedback here</p>
+</li>
+<li>
+<p>One person from each group goes with their design to the next group and  explains it.</p>
+</li>
+</ul>]]></description>
+          <pubDate>Tue, 30 Jun 2009 07:22:50 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Activity: 25 mins The power of visualisation</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1801</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1801</guid>
+              <description><![CDATA[<p>Look at <a href="http://titan.tel.uva.es/wikis/yannis/images/0/06/H808_cld_representation.pdf">this representation</a> of part of&nbsp; a course</p>
+<ul>
+<li>In groups explore the H808 design</li>
+<li>Does this give you a good overview of what is it the students are doing?</li>
+<li>How much time does each task take?</li>
+<li>Have the learning outcomes been met?</li>
+<li>Summarise your discussions here</li>
+</ul>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Tue, 30 Jun 2009 07:17:58 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Activity: 20 mins Strategies for design </title>
+              <link>https://cloudworks.ac.uk/cloud/view/1800</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1800</guid>
+              <description><![CDATA[<ul>
+<li>Think of a resource or a learning activity you have created</li>
+<li>Describe its inherent design</li>
+<li>Share with the person next to you</li>
+<li>Summarise your discussions in this cloud </li>
+<li>Share with the wider group</li>
+</ul>]]></description>
+          <pubDate>Mon, 19 Oct 2009 22:17:56 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Learning to collaborate – collaborating to learn</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1619</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1619</guid>
+              <description><![CDATA[<!--StartFragment--><p class="MsoNormal"><span style="font-weight: bold" class="Apple-style-span">Leverhulme project –children’s computer-based problem solving</span></p><ul>					<li>Are two heads better	than one?</li>			<li>Impact of gender and	ability pairing?</li>			<li>Features of dialogue	associated with learning outcomes?</li>			<li>Interested in talk and	joint activity</li></ul><p class="MsoNormal"><span><span style="font-weight: bold" class="Apple-style-span">Spoken language andnew technology project</span></span></p><ul>					<li>Observed primary	school kids talking when they worked together in small groups at the computer	in computer settings</li>			<li>Over 50 hours of	recording, analysis showed that a lot of the talk was not effective</li></ul><p class="MsoNormal"><span><span style="font-weight: bold" class="Apple-style-span">Exploratory talk</span></span></p><ul>					<li>Is talk in which the	tentative expression and evaluation of ideas are collective enterprises</li>			<li>Is talk in which partners	engage critically but constructively with each other’s ideas</li>			<li>Relevant info is	offered for joint consideration</li>			<li>Proposal may e challenged	and counter-challenge</li></ul><p class="MsoNormal"><span><span class="Apple-style-span" style="cursor:auto"><!--NO CSS-->Thinking together</span></span></p><ul>			<li>Use of exploratory talk to help students work more effectively in small groups</li>		<li>Series of talk-based lessons to enable this; kids develop a set of ground rules and shared respect and responsibility</li></ul><div style="cursor:auto"><!--NO CSS--> </div><div style="cursor:auto"><!--NO CSS--> </div><div style="cursor:auto"><!--NO CSS-->Simple technologies can be used to great effect, if the use is pedagogically informed. </div><p> </p><!--EndFragment-->]]></description>
+          <pubDate>Mon, 18 May 2009 09:27:22 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Research projects in maths</title>
+              <link>https://cloudworks.ac.uk/cloud/view/222</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/222</guid>
+              <description><![CDATA[With maths, as with many subjects, doing it is very different from studying it.
+
+This advanced maths course engaged students’ interest and gave them an experience of actual mathematical practice through a semester-long research project.
+
+On Day 1 of the course, students were given a list of 17 questions, intended as potential starting points for projects, and based on their preferences were assigned to groups of three. Supporting scaffolding included: instructions and assessment criteria for their final paper, a sample project paper, and their delivery of a weekly project report to encourage them to ask questions which would move them forward.
+
+The case portfolio includes sample course materials and extracts from the lecturer’s journal.
+
+[Curtis Bennett]]]></description>
+          <pubDate>Mon, 16 Jun 2008 15:39:22 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Discussing assessment tasks</title>
+              <link>https://cloudworks.ac.uk/cloud/view/174</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/174</guid>
+              <description><![CDATA[How specific should you be with an assessment task? On the one hand, students need to understand what you want them to do and how they will be marked. On the other, trying to specify everything is (1) laborious and (2) discouraging of students’ creativity and imagination.
+
+Sonia Bartoluzzi and Peter Goodyear suggest that the solution is to have a discussion topic for each assessment task, where students can request further clarification if they need it (and everyone can see the tutor’s response) or negotiate their own adaptations or customisations.
+
+By not pre-empting students’ concerns, you can encourage them to engage with the task at a deeper level.
+
+Follow the link for the full discussion in the TELL Pattern Book, pp. 27-28.
+]]></description>
+          <pubDate>Fri, 02 May 2008 13:39:35 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Using wikis for developing meeting agendas</title>
+              <link>https://cloudworks.ac.uk/cloud/view/158</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/158</guid>
+              <description><![CDATA[Rather than send out a call for agenda items for a meeting (via email or other communication tool) use a wiki to collaboartively build agendas.
+
+[Rodger Graham]]]></description>
+          <pubDate>Sun, 27 Apr 2008 20:52:13 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Alex&#39;s &quot;cloudlet&quot;</title>
+              <link>https://cloudworks.ac.uk/cloud/view/121</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/121</guid>
+              <description><![CDATA[just some stuff....]]></description>
+          <pubDate>Fri, 18 Apr 2008 10:35:10 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Portfolios for professional development</title>
+              <link>https://cloudworks.ac.uk/cloud/view/90</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/90</guid>
+              <description><![CDATA[Nurses and allied health professionals increasingly are required to keep portfolios to provide evidence of professional development. 
+
+In this course, they are introduced to electronic portfolio-keeping on the university system. 
+
+This enables them to add graphics or other digital records to their learning journal, and to share their completed portfolio templates with other students, to find out about each other’s practice, and with tutors, to get comment and feedback.
+
+An assessment requires them to use their ePortfolio to create a CV, thus matching their evidence of skills to the needs of the workplace.
+
+[Anthea Willson (formerly Anthea Harris)]
+]]></description>
+          <pubDate>Thu, 17 Apr 2008 11:31:24 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Investigating multiple strategies</title>
+              <link>https://cloudworks.ac.uk/cloud/view/77</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/77</guid>
+              <description><![CDATA[If you want teachers to learn about different strategies for assessing pupils and you start by presenting the strategies one after the other, they may end up with little idea of when to apply each one. 
+
+This team instead gave groups students a realistic problem: for example, parents at their school are complaining about the stress caused by repeated maths tests, and the Head of Maths has asked the students to come up with a new plan for maths assessment in the school. 
+
+Each group then investigated a range of 22 assessment strategies through multimedia resources, including for each strategy video of real classroom use, sample pupil work, and comments from teachers and experts.
+
+They then presented their findings, in role as a new teacher in the school, with the rest of the class taking the role of other members of staff, parents, or others as appropriate.
+
+The collaborative element was important to encourage students to articulate and defend their growing understanding of assessment issues.
+
+[Anthony Herrington, Len Sparrow, Jan Herrington, Ron Oliver]
+]]></description>
+          <pubDate>Tue, 15 Apr 2008 09:41:41 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Contested knowledge</title>
+              <link>https://cloudworks.ac.uk/cloud/view/34</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/34</guid>
+              <description><![CDATA[<p>The management of natural resources in north Australia is controversial, partly because of conflict between the dominant universalising western scientific tradition and local indigenous (Aboriginal) knowledge systems. A concept such as ‘Wilderness’ is highly contested.
+<p>
+Teachers wanted students to develop an understanding of the contingent nature of all knowledge systems and for them to participate actively in the negotiation and construction of knowledge, challenging the privileged voice of the teacher.
+<p>
+Students used a scaffold of four central questions (neutrally not privileging any of the perspectives) to explore and critique literature. They worked on both a major topic, on which they had to produce a website, and a minor topic – which was the major topic for another student, whom they had to help by contributing resources, references, and points to consider. Both their own major topic website and their minor topic contributions to other students’ work were assessed. Students also contributed to a dynamic glossary and bibliography.
+<p>Barbara White, Greg Williams, Michael Christie]]></description>
+          <pubDate>Thu, 27 Mar 2008 10:38:34 +0000</pubDate>
+            </item>
+                    <item>
+              <title>The AUTC Learning Design Project on ICT-based learning designs</title>
+              <link>https://cloudworks.ac.uk/cloud/view/14</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/14</guid>
+              <description><![CDATA[<img src="/files/autc.jpg" width="341" height="316" />
+<b>A rich set of examples of learning designs for role play, collaboration, concept development, problem-based learning, case studies</b>
+<p>
+You can use the web site resources to develop high quality learning experiences for students by:
+</p>
+<p>
+1. exploring a range of proven learning designs, with exemplar aspects and full instructions on how to implement the designs (exemplars)
+</p>
+<p>
+2. examining a set of generic learning designs to apply in your knowledge domain (guides)
+</p>
+<p>
+3. making use of a set of tools for supporting learners (tools)
+</p>
+<p>
+4. reviewing the principles for design of high quality learning experiences (the project)
+</p>
+]]></description>
+          <pubDate>Fri, 14 Mar 2008 16:59:42 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

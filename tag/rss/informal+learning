@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: informal learning</title>
+        <link>https://cloudworks.ac.uk/tag/rss/informal+learning</link>
+        <atom:link href="https://cloudworks.ac.uk/tag/rss/informal+learning" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds tagged informal learning</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>SAT: Break Out of the Box! How you can use xAPI to free in-house staff development (Katherine Hinchey)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/11472</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/11472</guid>
+              <description><![CDATA[<h2>Abstract</h2>
+<p>You learn by doing and collaborating, watching videos, accessing just-in-time information from your mobile device, mentoring, and more. Why, then, does the Human Resources department only give you slides to learn from?</p>
+<p>Today&rsquo;s workers and corporations are united in wanting more access to the formal, non-formal, and informal learning needed to support an increasingly skilled workforce (The Education Commission, 2016; Pew Research Center, 2016a and 2016b). However, today&rsquo;s corporations largely store their learning resources in virtual learning environments (VLEs) that have adopted a uniform way of storing content. This uniform way, called SCORM, was incredibly helpful when it was designed nineteen years ago, and it still has an important role to play today. When SCORM was created, computer-based training was relatively new and organisations needed a single way to store and track training. For a time, innovation in elearning stopped at the known, established boundaries of the VLE (Weller, 2014, p. 194).</p>
+<p>Now, a new need has developed: a way to store and track learning when it occurs on mobile devices, or through social and collaborative activities, or offline by reading a book or engaging in stretch assignments, or when participating in simulations or augmented and virtual reality programmes.</p>
+<p>An innovation that meets that need was first released in 2013, and had its last planned update in 2016. It is the Experience API (xAPI). xAPI provides a common format for capturing data from today&rsquo;s distributed learning landscape (Rustici Software, n.d.). With xAPI in place, you can free staff development from the confines of SCORM:</p>
+<ul>
+<li>Rely less on elearning courses designed from slides and more on learning experiences;</li>
+<li>Recognise learning from formal and informal or non-formal activities (Downes, 2015);</li>
+<li>And track not only clicks and views but also correlate learning with performance (Torrance, 2016).</li>
+</ul>
+<p>Managers and other decision-makers within learning departments and organisations are at a critical point. They need a source from which to gain a high-level, jargon-free understanding of the benefits of xAPI, common applications and uses of xAPI to support learners as they access modern and innovative learning opportunities, best practices and lessons learned, and information they should provide to their learning development and learning technology teams to prepare for implementation of xAPI (HT2 Labs, n.d.).</p>
+<p>In my conference presentation, I will discuss and share a workshop created to meet those needs. The workshop helps managers, even those without extensive technical backgrounds, to be prepared to move forward with discussions and decisions about xAPI within their organisation. My presentation will show some of the workshop features and provide attendees with tools they can take with them, for use in their future endeavours.</p>
+<h3>References</h3>
+<p>Downes, A. (2015) '9 Practical Applications of Tin Can API', webinar presented by Rustici Software. 31 March. Available at <a href="https://www.slideshare.net/RusticiSoftware/ nine-applications-of-the-tin-can-api-xapi">https://www.slideshare.net/RusticiSoftware/</a><br /><a href="https://www.slideshare.net/RusticiSoftware/ nine-applications-of-the-tin-can-api-xapi">nine-applications-of-the-tin-can-api-xapi</a> (Accessed 1 November 2017).</p>
+<p>The Education Commission (aka the International Commission on Financing Global Education Opportunity) (2016) <em>The Learning Generation: Investing in education for a changing world</em> [Online]. Available at <a href="http://report.educationcommission.org/downloads/">http://report.educationcommission.org/downloads/</a> (Accessed 18 November 2017).</p>
+<p>HT2 Labs (n.d.) <em>The Learning Technology Manager's Guide to xAPI</em> [Online]. Available at <a href="https://www.ht2labs.com/resources/the-learning-technology-managers-guide-to-the-xapi/">https://www.ht2labs.com/resources/the-learning-technology-managers-guide-to-the-xapi/</a> (Accessed 9 December 2017).</p>
+<p>Pew Research Center (2016a) <em>Lifelong Learning and Technology</em> [Online]. Available at <a href="http://www.pewinternet.org/2016/03/22/lifelong-learning-and-technology/">http://www.pewinternet.org/2016/03/22/lifelong-learning-and-technology/</a> (Accessed 18 November 2017).</p>
+<p>Pew Research Center (2016b) <em>The State of American Jobs: How the shifting economic landscape is reshaping work and society and affecting the way people think about the skills and training they need to get ahead</em> [Online]. Available at <a href="http://www.pewsocialtrends.org/2016/10/06/the-state-of-american-jobs/">http://www.pewsocialtrends.org/2016/10/06/the-state-of-american-jobs/</a> (Accessed 18 November 2017).</p>
+<p>Rustici Software (n.d.) <em>Experience API</em> [Online]. Available at <a href="https://experienceapi.com/">https://experienceapi.com/</a> (Accessed 1 November 2017).</p>
+<p>Torrance, M. (2016) 'The xAPI: What Does an Instructional Designer Need to Know?', presentation given at <em>Learning Solutions Conference &amp; Expo.</em> Orlando, Florida, 16-18 March. Available at <a href="https://www.slideshare.net/torrancelearning/xapi-what-does-an-instructional-designer-need-to-know">https://www.slideshare.net/torrancelearning/xapi-what-does-an-instructional-designer-need-to-know</a> (Accessed 1 November 2017).</p>
+<p>Weller, M. (2014) <em>The Battle for Open: How openness won and why it doesn't feel like victory</em>, London, ubiquity press. Available at <a href="http://www.ubiquitypress.com/ site/books/detail/11/battle-for-open/">http://www.ubiquitypress.com/</a><br /><a href="http://www.ubiquitypress.com/ site/books/detail/11/battle-for-open/">site/books/detail/11/battle-for-open/</a> (Accessed 2 May 2016).</p>]]></description>
+          <pubDate>Thu, 04 Jan 2018 15:39:49 +0000</pubDate>
+            </item>
+                    <item>
+              <title>SAT: (Keynote) A reflection on learning gains through the engagement with informal learning opportunities in social media spaces (Sue Beckingham)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/11447</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/11447</guid>
+              <description><![CDATA[<p>Over the last 5-6 years I have developed a valued &nbsp;international learning network, through engaging in conversations and informal learning opportunities with other educators&nbsp;<em>within&nbsp;</em>social media spaces. &nbsp;In my presentation I will share both the anticipated and the unexpected learning gains I have experienced; and how this form of open learning has impacted on my career.</p>]]></description>
+          <pubDate>Fri, 05 Jan 2018 06:14:28 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Creativity, Flow and Learning in Online Games</title>
+              <link>https://cloudworks.ac.uk/cloud/view/10494</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/10494</guid>
+              <description><![CDATA[<p><a href="http://cloudworks.ac.uk/low (Csikszentmihalyi, 1975) has been recognized as a beneficial outcome of playing games and a possible facilitator for learning. Flow experienced in a social context may have a greater effect on learning and creativity than Flow experienced alone. While creativity has been investigated in other domains such as music, there is a dearth of literature examining how creativity is instantiated in online games, how it relates to flow and how it may benefit learning. Through expounding the relationships between creativity, flow and learning from an evaluation of relevant literature, this presentation aims to identify areas for further research." target="_blank">Johanna Hall</a></p>
+<p>Flow (Csikszentmihalyi, 1975) has been recognized as a beneficial outcome of playing games and a possible facilitator for learning. Flow experienced in a social context may have a greater effect on learning and creativity than Flow experienced alone. While creativity has been investigated in other domains such as music, there is a dearth of literature examining how creativity is instantiated in online games, how it relates to flow and how it may benefit learning. Through expounding the relationships between creativity, flow and learning from an evaluation of relevant literature, this presentation aims to identify areas for further research.</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Mon, 15 May 2017 09:33:02 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Design Narrative: Reflecting on a personal experience/Grade six presentation.</title>
+              <link>https://cloudworks.ac.uk/cloud/view/10364</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/10364</guid>
+              <description><![CDATA[<p><strong>Design Narrative.</strong></p>
+<p><strong>Title: </strong><strong>&nbsp;<em>Grade Six Presentation</em></strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Narrator</strong></p>
+<p>I was asked to do a presentation to Grade Six students from several primary schools. This was a unique situation, since the schools were in different islands of the Organization of Eastern Caribbean States (OECS). This request came from the branch of Eastern Caribbean Bank (ECCB) in Grenada.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Situation</strong></p>
+<p>The classes from the various schools were adopted by the branches of the bank in each of those islands, to provide support for their learning needs outside of the classroom. The aim was to motivate the students while enhancing their learning. The branch of the Eastern Caribbean Bank which is located in St. Georges Grenada was responsible for facilitating my presentation. The medium to be used was video conferencing technology. The theme for my presentation was &ldquo;Emerging careers within the Caribbean based on trends in technology&rdquo;.</p>
+<p>This was going to be my first opportunity to use this type of technology to share and facilitate a discussion for learning. I had done many presentations island wide to students. However, those presentations related to available scholarships and career planning, which was within my responsibility as a Human Resource Development professional. They also were specifically for students who were planning to study at the tertiary level, since it was my main area of job focus.</p>
+<p>This presentation was different. It involved younger students in a setting which was different than I was used to. Additionally, my presentation was one of several which was supposed to take place on the day, capping of all the other presentations. This was a learning opportunity for the students and also a great learning opportunity for me, since I had not experiences the use of this type of technology outside of participating in Skype meetings.</p>
+<p>The location for my presentation was the large boardroom of the bank. The thirty plus students were going to be seated there. The setting was going to be similar for the other six islands.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Task</strong></p>
+<p>My aim was to provide and facilitate a discussion of the varying careers in order to allow the students to engage in further discussion. It was also to engage them in looking beyond the present careers and to demonstrate that even though some of the same careers we have today may exist, that they would have morphed into something different based on the use of technology.</p>
+<p>In order for this to happen, the presentation was to be interactive as possible, since all classes were expected to participate during the discussions.</p>
+<p>The questions that I wanted to answer at the end of the presentation in order to gauge success was first, did they participate through questions or contributions?&nbsp; Second, did they engage by asking follow-up questions? Third, were my examples clear and useful?&nbsp; Fourth, how comfortable were the students in discussing with me through the use of this medium.</p>
+<p><strong><em>&nbsp;</em></strong></p>
+<p><strong>Actions</strong></p>
+<p>In preparing for this presentation, I engaged in further research which was outside of the normal research for my previous presentations. My research was focused not solely on the material to be discussed, since I had a lot of material which was relevant and which could be used, but more so on delivery, since I was dealing with an audience, which I was not familiar with.&nbsp; First, I had a discussion with a grade six teacher as a resource person. Then, I started putting my material together. This included pictures which demonstrated the various careers which I had targeted. These were chosen to create the greatest contrast in order to peak their interest and curiosity. Finally, I finally prepared the PowerPoint slides for my presentation.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Results</strong></p>
+<p>I was now sufficiently armed. Laptop in hand I went to the branch, ready at the appointed time to deliver the presentation. Only to realize, that the other presenters had gone way above their time limits. I now had to wait. The students were becoming restless and it was now approaching their normal lunch /break period.</p>
+<p>I sat through two presentations before the students went off to lunch, observing their behavior as it related to the technology and its use. I was learning some dos and don&rsquo;ts in the process. I then began to modify my PowerPoint presentation, changing some of the text and eliminating some of the slides and was now even more equipped to deliver to those students after they had finished their lunch.</p>
+<p>The outcome was as expected. Most of the students were engaged. By this point, they were past the stage of being curios about the technology, since it was also new to them. I was also very comfortable with the use of the technology. This was because I had the opportunity to learn informally about the technology while waiting, and was able to modify the design of my presentation, due to that opportunity. The question and answer period after the presentation was the most telling. Many questions were asked during the discussion. The split screens made it possible for all the students to see each other and to see me. I was able to ask questions and receive answers in real time from students from the six different countries. It also demonstrated to the students in a true practical sense how technology can transform a career such as teaching.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Reflections</strong></p>
+<p>It was a great experience for me. It demonstrated the importance of having a deeper appreciation of technology in as a tool for learning. It brought to the fore even more, that teachers and individual should attain to a certain expertise in the understanding the use of technology for delivery of learning, in order to be effective. I had an advantage, which some of those who presented before me probably did not. I had the benefit of learning from observing and therefore adapted the design of my presentation based upon what I observed. Had I been the first presenter I would have been in their situation and not be in tune with the new medium. Without this benefit, the degree of success might have been compromised.</p>]]></description>
+          <pubDate>Sun, 02 Apr 2017 17:42:41 +0000</pubDate>
+            </item>
+                    <item>
+              <title>MON: What do Distance Students Learn in Social Media Study Groups? (P.Seaward)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8856</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8856</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Wed, 10 Dec 2014 15:52:37 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Briar Jamieson: Measuring Outcomes/Learning Gains in Open Access Language Learning Environments </title>
+              <link>https://cloudworks.ac.uk/cloud/view/7365</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7365</guid>
+              <description><![CDATA[<div>
+<h2 dir="ltr">My Dream</h2>
+<strong><strong>I have come to the OLDSMOOC to understand how 21st Century learning designers are expressing and measuring learning outcomes in open educational environments.  My hope is to immerse myself in the OLDSMOOC activities and learn from participant experts/explorers by observing/questioning decisions about activities and the indicators/measures/assessment of learning gains.<br /><br />It is my dream to find ways to better express, collect, measure, report the learning gains of self-directed language learners registered with my publicly funded organization.  <br /><br />My situation (context)</strong></strong>
+<div dir="ltr">
+<table><colgroup><col width="351" /><col width="273" /></colgroup>
+<tbody>
+<tr>
+<td>Overview:<br />
+<ul>
+<li dir="ltr">not-for-profit organization, providing language learning resources/support to Self-directed learners, 1600 registered learners, 300-350 active every month; w/2.5 FTE instructors</li>
+<li dir="ltr">funding received from government to provide language learning supports/resources to newcomers</li>
+<li dir="ltr">access to learning resources at no cost to learners everything online</li>
+<li dir="ltr">activities for learners include: drop-in online classes, access to modules from Literacy to Intermediate, additional lessons, assignments, tests, community discussion board, 4 week courses, weekly tips, learners encouraged to develop Personal Language Learning Environments, access to an</li>
+<li dir="ltr">most of these activities are self-assessed, answer keys, community discussion, journal reflections</li>
+<li dir="ltr">instructors feedback on baseline assessments, guide to further resources, deliver synchronous classes, weekly tips, moderate discussion board and feedback on journal reflections</li>
+<li dir="ltr">learners can pick and choose the content and activities they want to engage in; there is no requirement to complete</li>
+<li dir="ltr">work completed within an LMS</li>
+<li dir="ltr">learners have access to a learning portfolio within the LMS to show evidence of work but not a requirement</li>
+</ul>
+</td>
+<td>Example<br /><br />Learner: focus on writing, completes only writing activities, receives feedback on writing and then leaves. We have examples of writing improvement, but each learner is different in their gain, collection is time consuming. Sometimes a testimonial comes; or feedback on survey (10% returns).<br /><br />Learner: focus on listening, uses links from Twitter, wiki, etc. doesn’t login to LMS for 3 months.  Gets a reminder call, and they have been completing activities on recommended resources.  We have no data on language gains.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<strong><strong><br /><br /></strong></strong>
+<h4 dir="ltr">The change I would like to see (challenge)</h4>
+<table><colgroup><col width="348" /><col width="276" /></colgroup>
+<tbody>
+<tr>
+<td>Challenge:<br />
+<ul>
+<li dir="ltr">Funders, understandably, want ‘proof’ of learning gains, reliable/valid measures of project impact on clients.</li>
+<li dir="ltr">Our organization reports primarily on learner activity (number of hits, logins, hours in LMS, number of calls, journal reflections...) as measures of activity or impact.  Learning gains are reported in learner testimonials or feedback surveys that are ‘only’ self-reflections of learning.</li>
+</ul>
+Achieve:<br />
+<ul>
+<li dir="ltr">As I move through this OLDSMOOC, I would like to understand how designers are assessing learners in open environments.</li>
+<li dir="ltr">I would like to have more examples/ ways to collect data on learner achievement.</li>
+<li dir="ltr">I would also like to be directed to articles, books, research on assessment of SDL</li>
+</ul>
+</td>
+<td>Example<br /><br />I have a list of new assessment activities for self-directed learners.<br /><br />I have a bibliography of literature/research reflecting the good, bad and ugly of SDL learning gains.<br /><br />I have innovative ideas to change the current learning options provided to learners to better meet their learning needs and at the same time the needs of funders!  (True dream?)</td>
+</tr>
+</tbody>
+</table>
+<strong><strong><br /><br /></strong></strong>
+<h2 dir="ltr">How you might go about bringing that change</h2>
+<div dir="ltr">
+<table><colgroup><col width="346" /><col width="278" /></colgroup>
+<tbody>
+<tr>
+<td>Tackle the problem:<br />
+<ul>
+<li dir="ltr">What do I do/know: reflect on current assessment practices (strengths/weaknesses)</li>
+<li dir="ltr">What does group know: ask for feedback on current assessment; ask for new ideas; observe/question assessment choices in other projects.</li>
+<li dir="ltr">Literature review (maybe not that extensive at this point but something to inform assessment choices...)</li>
+</ul>
+</td>
+<td>Example<br /><br />Community circle/cloudscape of assessment activities, models, approaches <br /><br />Wiki of literature</td>
+</tr>
+</tbody>
+</table>
+</div>
+<strong><br /><br /></strong></div>]]></description>
+          <pubDate>Tue, 15 Jan 2013 04:44:54 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Annette Dalsgaard Vilain: Peer-to-peer learning and evaluation in an online course</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7163</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7163</guid>
+              <description><![CDATA[<p>Tags: Peer-to-peer learning, peer-to-peer evaluation, informal learning, collaboration, knowledge sharing</p>
+<p>Context</p>
+<p>I'm going to design an online course for 500+ participants where the participants are lecturers and senior lectures at a University of Applied Science. The online course is planned for 10 weeks with weekly activities.&nbsp;The aim of the online course is to learn the participants to design learning design integrating ICT to bachelor students. The learning 'platform' is going to be disigned form open and dynamic technoligies and social media.</p>
+<p>The participants are going to read or watch course materials as articles, blog posts and videos and they are going to take part in online discussions with fellow learners and the facilitators/ teachers of the course.The participants create during the course a learning design for his/hers own teaching/lecturing.</p>
+<p>Challenge</p>
+<p>The particiapants are going to collaborate with felleow learners in smaller groups during the course. The participants are going to make critical reflections and give feedback on each others work through peer-to-peer learning and they are going to evaluate each other each during the course in peer-to-peer evaluation.</p>
+<p>Change</p>
+<p>I'm very inspired from Grainne Conole's 7C's Learning Design approach. My approach to learning is social contructionstic with a focus on collaboration, knowledge &nbsp;creation, know ledge sharing and peer-to-peer learning.&nbsp;</p>
+<p>I hope in the OLD MOOC to learn more about and get experience with peer-to-peer learning and peer-to-peer evaluation with fellow learners.</p>]]></description>
+          <pubDate>Sat, 12 Jan 2013 21:37:02 +0000</pubDate>
+            </item>
+                    <item>
+              <title>New FP7 IP Work-based Learning Project: Learning Layers</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6498</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6498</guid>
+              <description><![CDATA[<div>
+<p>BRILLE&rsquo;s Professor John Cook is part of a successful submission to the EC&rsquo;s FP7 for an Integrating Project (IP) called Learning Layers.&nbsp; The project looks at how informal learning in the workplace can be supported by new technologies like mobile phone and tablet apps. Together with 20 partners from across Europe the project scales up support for informal workplace learning in regional clusters of small and medium sized enterprises. We will trial these innovations in two sectors that have been particularly hesitant to take up learning technologies: health care in the North East of England and building and construction in North Germany. The challenge is one of how to embed support and learning in meaningful working practices and to redesign work environments to support learning. For example, when a problem is encountered at work or when you are given a task to achieve, our system will scaffold you and your group as you &lsquo;seek out a solution&rsquo; by putting you in contact with other people and relevant resources. One focus of the project is supporting workplace practices in SMEs that unlock peer production and hence scaffold learning in networks of SMEs. For example, we see learning materials being generated through the work process and then shared though networks of individuals and organisations as important. However, most importantly for BRILLE&rsquo;s contribution will be the scaffolding of interactions with networks people. In the course of this project we hope to reshape both workplace design and designs for learning in networks.</p>
+<p>Project Summary:</p>
+<ul>
+<li>Top ranked on 14.5 out of 15</li>
+<li>Scaling up Lifelong Learning using TEL (Technology Enhanced Learning) in large clusters of Small to Medium Enterprises in the Health Professions and building industry</li>
+<li>John Cook leads workpackage &lsquo;Networked Scaffolding &ndash; Interacting with People&rsquo;</li>
+<li>&pound;0.5 million for BRILLE/UWE</li>
+</ul>
+Kick-off November 2012
+<p style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+<p style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+</div>]]></description>
+          <pubDate>Thu, 27 Sep 2012 09:26:40 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Assessing informal learning: a case study using historical audio guides</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6367</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6367</guid>
+              <description><![CDATA[<p>This paper presents the findings from a study that investigated how geolocated audio could be used to provide opportunities for public learning of history.&nbsp; The project, utilising mobile media and informal learning, was a collaboration between academic and community-based historians interested in enhancing public understanding of selected aspects of the history of Nottingham.&nbsp;&nbsp; It was concerned with supporting the enhancement of historical literacy, historical &lsquo;empathy&rsquo;, and participants&rsquo; abilities to draw informed conclusions about contested historical subject matter.&nbsp; The historical subject matter was the 1831 Reform Riots in Nottingham, around which a local community history group designed a guided &lsquo;history walk&rsquo;.&nbsp; The project supported a realisation of this walk and also gathered participant responses from both a &lsquo;people-led&rsquo; walk and an alternative &lsquo;technology-led&rsquo; version of the walk, where a media experience was delivered to participants through handheld devices that triggered the playing of audio files with information contained from different historical sources at specific locations of relevance to the Reform Riots around the city of Nottingham.&nbsp; Responses were recorded via a combination of methods: by questionnaires filled in immediately after each walk, researcher observations, and debriefing sessions of selected participants.</p>
+<p>The audio tours were designed to enable public learning of historical events, through three interdependent aspects (see Figure 1 below):</p>
+<ol>
+<li>Attaining historical literacy (i.e. learning basic facts about the Reform Riot: what happened in the period of the riot?)</li>
+<li>Experiencing &lsquo;empathy&rsquo; with historical subjects (i.e. what was this period and these events like for different people?)</li>
+<li>Developing historical interpretation skills (i.e. responding to and evaluating accounts from a variety of perspectives: how were these events and their causes viewed from differing and/or conflicting perspectives?)</li>
+</ol>
+<p>These three aspects &ndash; or objectives &ndash; are thought to be hierarchical, where the first objective (historical literacy) must be gained before the second one (historical empathy) can be achieved.&nbsp; Historical interpretation, the third objective, can only be achieved once participants have experienced historical empathy.</p>
+<p>This conference presentation will examine the extent to which participants in both walks showed evidence of having achieved these objectives, the value of having done so, and also suggests how the objectives can be used in the design process of authoring similar experiences to enable informal learning to occur.</p>]]></description>
+          <pubDate>Tue, 19 Jun 2012 09:46:33 +0000</pubDate>
+            </item>
+                    <item>
+              <title>RadioActive: Informal Learning and Employability through Internet Radio and Social Media</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6360</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6360</guid>
+              <description><![CDATA[<p>This research and development project is a new approach to conceptualising, designing and developing social media for informal learning within &lsquo;lived communities&rsquo;.&nbsp; It embodies the key pedagogical ideas of Paulo Freire and his notion of transformational (or emancipatory) learning through lived experience.&nbsp; These are applied to promote <em>the engagement, informal learning and employability of disenfranchised young people through internet radio and social media.</em> The project is also inspired by musical revolutions as varied as the birth of blues, punk, hip-hop and acid-house, and what Orson Welles called &lsquo;the confidence ignorance&rsquo;.&nbsp; Exploring rich and varied personal and community identities, and promoting their articulation, expression and positive transformation, are pivotal to RadioActive. It embodies a new approach to social media design - that is conceived as an intervention in existing digital and mixed-reality cultures. The fundamental idea is to catalyse, organise and legitimise the digital practices, content production and critical and creative potential of disenfranchised young people to provide a new and original community voice. This voice will combine the intimacy, relevance and &lsquo;touchability&rsquo; of local radio with the crowd sourcing power of social media. Critical and creative cultural development, embracing the underground and challenging the status quo through the expression of lived experience are all at play.</p>
+<p>&nbsp;&ldquo;<em>It&rsquo;s like a jungle sometimes it makes me wonder how I keep from going under</em>&rdquo; (Grandmaster Flash and the Furious Five, 1982).</p>
+<p>This talk will:&nbsp; describe the rationale and pedagogical approach to design; the methodology for developing the RadioActive platform; our experiences and insights from a pilot project and a larger project (funded by Nominet Trust); and the broader implications for this and similar projects, when we consider the reality of designing learning for &lsquo;lived&rsquo; communities cultures.</p>]]></description>
+          <pubDate>Tue, 19 Jun 2012 09:33:27 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Digital games: Motivation, engagement and informal learning</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6355</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6355</guid>
+              <description><![CDATA[<p>Alongside the increasing popularity of digital games there is still much to be understood about the relationships between motivation, engagement and informal learning within this context.&nbsp; This talk considers the findings of the author&rsquo;s PhD research in terms of how and what people learn from their gaming involvement.</p>
+<p>The research included a conceptual analysis of motivation and engagement (reconceptualised as forms of micro and macro level involvement respectively) and three linked studies.&nbsp; In the first study, 30 players were interviewed via email about their gaming experiences.&nbsp; The resulting set of learning categories and themes drew attention to learning on a game, skill and personal level; arising from micro-level gameplay and macro-level interaction with wider communities and resources.&nbsp; The second investigation consisted of eight case studies that examined how involvement and learning come together in practice.&nbsp; Participants were observed in the lab during two gameplay sessions and kept gaming diaries over a three week period.&nbsp; Game-play was analysed with respect to breakdowns and breakthroughs while the previous categories and themes were also applied to the data. The findings suggested a relationship between macro involvement and player identity and so a third survey study (with 232 respondents) was conducted to further investigate the issue and establish the prevalence of different gaming activities on a wider scale.</p>
+<p>The talk presents the learning categories developed and introduces the Gaming Involvement and Informal Learning framework in order discuss: (1) the range of learning experienced as a result of micro and macro involvement and (2) the importance of player identity; where the more strongly someone identifies as a gamer, the more likely they are to learn from their gaming experiences.</p>]]></description>
+          <pubDate>Tue, 19 Jun 2012 09:14:33 +0000</pubDate>
+            </item>
+                    <item>
+              <title>iSpot: A Growing Informal Learning Community</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6354</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6354</guid>
+              <description><![CDATA[<p>iSpot is a website designed to support learning about nature through sharing observations of wildlife.&nbsp; These observations serve as shared social objects, supporting focused discussion and learning.&nbsp; Users upload a photograph, with a location and a description of what they've seen.&nbsp; They and other users can then comment on the observation, and add an identification of the species observed using iSpot's tools to support scientific names.&nbsp; Users can 'Agree' with an identification, which works in interface terms rather like a Facebook 'Like'. However, not all agreements are weighted equally: an identified expert's agreement counts for much more than a new user's.&nbsp; Agreements also increase the score of the person who made the identification, again weighted by the score of the person making the agreement.&nbsp; The scoring is represented in simplified terms next to each user's name, along with 'badges' for members of relevant nature groups.&nbsp; This reputation system was designed to support and encourage learning by providing feedback to learners (a proxy form of assessment), and making expertise of users visible.</p>
+<p>The site was launched in Summer 2009, and has grown considerably since then.&nbsp; Over 18,000 users have posted over 100,000 observations; more than 125,000 identifications have received more than 400,000 agreements.&nbsp; The site was linked to an OU short science course, S159 <em>Neighbourhood Nature</em>. The assessment included contributions to iSpot and a multiple-choice online exam.</p>
+<p>This approach to learning activity - a large-scale open online system to support learning, with assessment requiring little or no individual academic input &ndash; is attracting significant policy interest at the moment.&nbsp; With recent developments and announcements such as MITx, Coursera, Udacity and edX., iSpot offers a long-standing case study to provide some grounding for the hype.</p>
+<p>&nbsp;So what's been going on? Has anyone learned anything?</p>
+<p>This presentation will:</p>
+<ul>
+<li>outline      iSpot and its growth to date, </li>
+<li>present      some analysis of the activity on the site &ndash;in quantitative and qualitative      terms, and what that might mean for learning, and </li>
+<li>discuss      future directions for the iSpot project, for research in to iSpot itself,      and for understanding and developing large-scale online open courses.</li>
+</ul>]]></description>
+          <pubDate>Tue, 19 Jun 2012 09:10:38 +0000</pubDate>
+            </item>
+                    <item>
+              <title>What projects could they lead to? (afternoon session)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5544</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5544</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Tue, 24 May 2011 14:48:10 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Presentation: xDelia</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5456</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5456</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Tue, 24 May 2011 09:20:50 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Symposium: Design Perspectives for Learning with Social Media: Reconciling  Informal and Formal Learning through Web 2.0? </title>
+              <link>https://cloudworks.ac.uk/cloud/view/4091</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4091</guid>
+              <description><![CDATA[<h4><strong>Andrew Ravenscroft, &nbsp;Steven Warburton, &nbsp;Stylianos Hatzipanagos,</strong><strong>and Gr&aacute;inne Conole&nbsp;</strong></h4>
+<p>&nbsp;</p>
+<p><strong>Abstract</strong>:</p>
+<p>Although the widespread use of social media reflects how Web 2.0 technologies have become embedded in our lives, there are still significant challenges in harnessing these and their related practices for learning. One expectation is that they will provide the means to reconcile informal and formal learning to allow for a more seamless transition between meaningful activity inside and outside of educational institutions or the workplace. But how do we support such processes or progressions? The approach adopted in this symposium is to see <em>design</em>, or <em>learning design</em>, as the key paradigm to address this challenge. But designing for this constantly evolving technological landscape creates new problems and complexities. This symposium will present different approaches to design from experts who specialise in the field of social software for learning, and who are concerned with both bridging informal and formal learning and questioning what we consider to be legitimate learning.&nbsp;</p>
+<p><strong>Questions</strong></p>
+<ul>
+<li>Will design really make a difference to practice?   
+<ul>
+<li>Role of theory?   
+<ul>
+<li>Tensions with practice?</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>What are your own experiences of using social media for learning-teaching?</li>
+<li>What social media tools do you use in your practice?</li>
+</ul>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Sun, 21 Aug 2011 04:11:16 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Open Learning: General information</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2974</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2974</guid>
+              <description><![CDATA[<p style="cursor:auto"><!--NO CSS--><strong>For this session you need to log into Elluminate here:</strong></p>
+<p style="cursor:auto"><!--NO CSS--><strong><a style="font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline; color: #005488; padding: 0px; margin: 0px; border: 0px initial initial;" href="https://sas.elluminate.com/m.jnlp?sid=cpp1&password=M.694D972D3E96B7AC0FA57F5D1D56A2" target="_blank">https://sas.elluminate.com/m.jnlp?sid=cpp1&amp;password=M.694D972D3E96B7AC0FA57F5D1D56A2</a><br /></strong></p>
+<ul style="cursor:auto"><!--NO CSS-->
+<li style="cursor:auto"><!--NO CSS-->1.30 - 2.30 OU presentations:<br /><a style="font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline; color: #003399; padding: 0px; margin: 0px; border: 0px initial initial;" href="http://www.open.ac.uk/blogs/sociallearn/">SocialLearn&nbsp;</a>(Simon Buckingham Shum)<br /><a style="font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline; color: #003399; padding: 0px; margin: 0px; border: 0px initial initial;" href="http://openlearn.open.ac.uk/">OpenLearn</a>&nbsp;(Laura Dewis)<br /><a style="font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline; color: #003399; padding: 0px; margin: 0px; border: 0px initial initial;" href="http://olnet.org/">OLNet</a>&nbsp;(Patrick McAndrew)</li>
+<li style="cursor:auto"><!--NO CSS-->2.30 - 3.15&nbsp; Moderated discussion</li>
+<li style="cursor:auto"><!--NO CSS-->3.15 - 4.30 External speaker -&nbsp;<a style="font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline; color: #003399; padding: 0px; margin: 0px; border: 0px initial initial;" href="http://www.elearnspace.org/blog/">George Siemens</a>&nbsp;(Athabasca)</li>
+</ul>
+<p>Issues that might be discussed include:</p>
+<p>
+<ul>
+<li>How might learners function in the future?</li>
+<li>What is the relationship between formal and informal learning?</li>
+<li>What pedagogy is appropriate for a networked world?</li>
+</ul>
+</p>
+<ul style="cursor:auto"><!--NO CSS-->
+</ul>]]></description>
+          <pubDate>Mon, 14 Jun 2010 14:02:23 +0000</pubDate>
+            </item>
+                    <item>
+              <title>children&#39;s use of social media</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2770</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2770</guid>
+              <description><![CDATA[<p>Watch this space!</p>]]></description>
+          <pubDate>Wed, 09 Dec 2009 00:02:07 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Mobile Informal Learning by Dirk Burner &amp; Christian Glahn</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2732</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2732</guid>
+              <description><![CDATA[<p>Mobile Contextualised Informal Learning:</p>
+<ul>
+<li>Supports learners&rsquo; physical mobility</li>
+<li>Transitions between contexts</li>
+<li>Detecting, linking and constructing contexts</li>
+</ul>
+<p>Taking a perspective on informal learning that includes incidental informal learning</p>
+<p>Present prototypes for location based and augmented reaslity browsers for learning. Showing a page of what looks like google map.&nbsp; Building on two existing apps for android and iPhone. One is ALOQA and the other is LAYAR.</p>
+<p>MACE &ndash; Metadata for Architectural Contents in Europe.</p>
+<p>http://portal.mace-project.eu/</p>
+<p>Browsing for content via visual version on mobile phone.</p>
+<p>Next picture shows somebody holding up a phone displaying an augmented reality game called locatory. Andriod phone with game that builds upon existing framework GamaRay (open source).</p>
+<p>Also looking at how users can add content: Mobile content injection : Context Blogger which allows users to inject additional content.</p>
+<ul>
+<li>TEAM.SPOD: Mobile Groups connectivity &ndash; Interface for android and iPhone. Runs in browser that allows people to connect into services of a group such as social networking groups to see what is happening in the group. Content browser and topic browser.</li>
+<li>TEAM.CLOUD: Social Peer Information &ndash; To give a quick impression of what is going on. Touch-screen interface</li>
+<li>TEAM.SPACE: Social web</li>
+<li>RESCOPE &ndash; Constructing contexts. Takes social bookmarking tags as it&rsquo;s display. Looks like aa tagcloud. Uses colours to indicate tags that are most recently used to allow people to see how focus in bookmarking is changing over time.</li>
+<li>COFINDER &ndash; still at mockup level. Prototype.</li>
+</ul>]]></description>
+          <pubDate>Wed, 02 Dec 2009 10:24:50 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Library School - Professionalisering voor Nederlandse bibliothecarissen</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2553</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2553</guid>
+              <description><![CDATA[<p><img src="http://celstec.org/system/files/image/news/LibrarySchoolKlein.jpg" alt="" width="200" height="110" /></p>
+<p>Students, staff and on-line learning network of the Library School are all set now to start exploring the Library School learning pathway in Umbria next week. The Library School is a new school, founded by Association of Public Libraries (VOB) in collaboration with CELSTEC, for librarians who work in a managerial position in a public library and who want to become an innovator in their profession.</p>
+<p><strong>Introduction meeting</strong><br /> On September 7th the selected quartermasters and front runners of the Library School met for the first time in Utrecht. They were informed on the setup of the Library School Pilot. This pilot will end in January 2010. Part of the meeting was a videoconferencing with programme coordinators of several OU-faculties in Heerlen who gave a short presentation.</p>
+<p><strong>Learning network<br /> </strong>In the weekend of September 20th the <a href="http://vob.ou.nl/" target="_blank">on-line learning network of Library School</a>, tailor made by CELSTEC, was opened. In this network organizers and participants meet, exchange information, collaborate and discuss.</p>
+<p><strong>Learning activity<br /> </strong>On September 25th the first learning activity of Library School will get started. A group of about 15 quartermasters and coaches leave for Umbria. There they will actively participate in the further design of the Library School. The Association of Public Libraries (VOB) organized the programme in collaboration with CELSTEC and Inspirationworks. The programme is shaped in a &lsquo;Cammino&rsquo;. This means literally &lsquo;journey&rsquo; or &lsquo;road&rsquo; as a metaphore of the road that the quartermasters have to go to create the Library School.</p>
+<p><strong>End goal<br /> </strong>The final destination of the road is the innovation of library work. The public library sector needs to develop the attituted and competences for permanent, high quality innovation &aacute;nd therefor Libraries need &lsquo;new librarians&rsquo;. The Library School combines the two needs and chooses an approach that combines learning, working and innovating.</p>
+<p>Part of the programme in Umbri&euml; will be taken care of by CELSTEC&rsquo;s Marlies Bitter en Steven Verjans.</p>
+<p>More on the Library School (in Dutch) on the <a href="http://www.debibliotheken.nl/content.jsp?objectid=23008" target="_blank">VOB-site</a>. <br /> Or download the <a href="http://www.debibliotheken.nl/dsc?c=getobject&s=obj&!sessionid=15!f8xG1jif5WxRDe8Ga59bs5Wz8Z!no7t!8nhbdoWMdxXGwuyBPegM35UuUCWRV&objectid=23594&!dsname=VobExtern" target="_blank">brochure in Dutch&nbsp;</a>(pdf) or the <a href="http://celstec.org/system/files/PDF ENG Library School.pdf" target="_blank">brochure in English</a> (pdf).</p><p>Contact details: Steven Verjans</p>]]></description>
+          <pubDate>Thu, 22 Oct 2009 09:03:57 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Measuring what people know</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1365</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1365</guid>
+              <description><![CDATA[<p>
+Is human capital accounting
+theoretically possible and practically feasible? Economists estimate
+human capital on the basis of years of schooling or formal educational
+attainment levels regardless of actual productive capacity. Financial
+accounting and reporting ignore even these crude measures, leaving
+human capital off the balance sheet for want of rules or conventions. A
+review of innovative policies in OECD countries shows that progress has
+already been made in moving beyond the poor information provided by
+standardized educational certification. Spurred by the emerging
+&quot;knowledge economy&quot;, government policy makers, human resource managers,
+financial accountants and educators are developing methods for
+systematically evaluating and recording knowledge assets acquired
+through experience, education and training. This book explains why it
+is possible, in terms of economic theory, and feasible, from the
+perspective of accounting practices, to implement new human capital
+information and decision-making systems.
+</p>
+<hr color="#dddddd" noshade="noshade" size="1" width="100%" />
+]]></description>
+          <pubDate>Wed, 01 Apr 2009 07:54:12 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Future scenarios for schools</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1363</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1363</guid>
+              <description><![CDATA[<p>
+This report outlines 4 potential scenarios for the future of schooling. Extract from the introduction:
+</p>
+<blockquote>
+	<p>
+	However, as we argue in this publication, there is good reason to think that the first part of the <br />
+	21st century could see radical changes in the socio-economic landscape. If this is the case, can schools <br />
+	retain such a central, durable, institutional role? Should they? Under what conditions could today’s <br />
+	schools play the same roles as in the past? Can the school evolve along with the changing socio- <br />
+	economic context, and if so, how? Would schools act as a brake or an accelerator of desired changes?
+	</p>
+	<p>
+	<br />
+	In this publication, we address these questions and set out a number of possible futures for schools <br />
+	and schooling systems. Our goal is not to generate a single ‘preferred future’, or to offer any kind of <br />
+	prediction, but to contribute to the ongoing debate about future schools by helping to extend the time <br />
+	horizons within which that debate occurs, and by identifying the possible implications of strategic <br />
+	choices that school leaders, policy-makers and others could make in the coming decade. 
+	</p>
+</blockquote>
+]]></description>
+          <pubDate>Wed, 01 Apr 2009 07:43:01 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Case studies on new learning communities</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1343</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1343</guid>
+              <description><![CDATA[<p>
+<b>Case studies on new learning communities emerging results from field analysis</b><br />
+Claudio Dondo and Stefania Aceto
+</p>
+<p>
+<b>Main interest of the study<br />
+</b>To investigate the innovation emerging in 12 online communities in pedagogical and organisational terms 
+</p>
+<p>
+<b>Methodology<br />
+</b>Desk research – indentify and select communities, content analyses and interactional analysis<br />
+Field research – interviews and survey
+</p>
+<p>
+<b>12 communities<br />
+</b>eTwinning, <br />
+CEDDET, <br />
+TappedIn, <br />
+RezEd, <br />
+Microbiilogy forum, <br />
+Englishforums, <br />
+TuDiabetes, <br />
+Bookscrossing, <br />
+Gay,tv, <br />
+muxlim, <br />
+experience project, <br />
+II Centiere
+</p>
+<p>
+<b>Mircobiology Forum<br />
+</b>
+</p>
+<ul>
+	<li>Space for microbiologists to share their practice and keep up to date in the field</li>
+	<li>Learning happens informally and unintentionally and by peer exchange</li>
+	<li>Access to debate and context that members could not access elsewhere</li>
+	<li>Benchmarking of ideas and practices</li>
+	<li>Professional development is coupled with increased self esteem as main outcomes of community participation</li>
+	<li>15 years history, 88 countries</li>
+	<li>Highly acknowledged in the field with negative effect that some companies are reducing their training budget and encouraging their employees to participate in the community instead</li>
+	<li>Professional community funded by corporate sponsors but independent</li>
+</ul>
+<p>
+“The community has also given me the opportunity to demonstrate my own capabilities to my colleagues”
+</p>
+<p>
+‘[Being a member] improve my credibility as a researcher internationally and improved my general personality to be an open-minded person”
+</p>
+<p>
+“{being a member] reinforce my technical decisions, get a handle on common or best practices”
+</p>
+<p>
+Members join to upgrade professionally and take advantage of a very activity community where peer support is key to success<br />
+<br />
+<b>CEDDET<br />
+</b>
+</p>
+<ul>
+	<li>Formal and informal learning happening</li>
+	<li>Community addresses the professional upgrade needs of a closed group of PA experts and practitioners in LA/Spain</li>
+	<li>Learning happens through the sharing of theoretical knowledge and through practice emerging among the participants</li>
+	<li>Quite a structured community</li>
+	<li>Closed expert network</li>
+	<li>Cross-cultural collaborative exchange</li>
+	<li>Community started from the suggestion of the participants to online courses who wanted to keep in touch and keep on discussing relevant topics</li>
+	<li>Community fosters cultural awareness and expression</li>
+	<li>Good example of a community where learning is explicit aim</li>
+	<li>Community started with social aims but then evolved into a learning community</li>
+</ul>
+<p>
+<b>II Cantiere<br />
+</b>
+</p>
+<ul>
+	<li>Aim is to propose and experiment a collaborative approach which finds a concrete output in the development and production of videos on free software use. This is a production orientated community born</li>
+	<li>Learning happens in the very process of sharing and confronting</li>
+	<li>Practical knowledge</li>
+	<li>Practical application of innovative theories</li>
+	<li>Creativity</li>
+	<li>Digital skills improvement</li>
+	<li>Knowledge co-construction</li>
+	<li>Spontaneous self-regulation</li>
+	<li>Potentiality of the collaborative approach</li>
+	<li>Constructive positive fruitful atmosphere</li>
+	<li>General satisfaction of all participants</li>
+	<li>Strong cooperative spirit</li>
+	<li>Flexibility and openness to different viewpoints approaches and ideas</li>
+	<li>Reciprocal respect among participants</li>
+	<li>It is a production driven and self organised community with no explicit learning aims</li>
+	<li>Despite the fact that the community doesn’t have an explicit educational aim, its outputs are educational</li>
+</ul>
+<p>
+<b>Gay.tv<br />
+</b>
+</p>
+<ul>
+	<li>Share experience and information, meet people and socialise</li>
+	<li>Informal, incidental learning</li>
+	<li>Knowledge and experiences sharing</li>
+	<li>Practical knowledge (learning to live homosexually in a positive way)</li>
+	<li>Centralised discussion spurs on gay life topics to raise awareness</li>
+	<li>Community with social network features</li>
+	<li>Strong awareness raising role</li>
+	<li>Members’ sense of belonging</li>
+	<li>Active positive model for LGBT people</li>
+	<li>Majority of lurkers</li>
+</ul>
+<p>
+<b>Rezed<br />
+</b>
+</p>
+<ul>
+	<li>Expert community to explore the features and potential of virtual worlds for learning</li>
+	<li>Newcomers are guided to get to know the community</li>
+	<li>Learning happens by knowledge and practice sharing and by interaction</li>
+	<li>Lurking is not considered negatively rather a way of learning how the community works</li>
+	<li>Expert community exploring the potential of virtual worlds for learning.</li>
+	<li>Focus on theory and practice related to virtual worlds</li>
+	<li>Discussion launched by community animators are tracked those launched by members are not</li>
+	<li>Open community – to real people and avators</li>
+	<li>Marketing strategy but word of mouth important</li>
+	<li>Community used as a platform to start new partnerships and develop one’s network</li>
+	<li>Learning happens informally and unintentionally</li>
+	<li>Members join because they want to be part of a community that does something important and want to learn through participation and for networking and partnership search</li>
+</ul>
+<p>
+<b>EnglishForums<br />
+</b>
+</p>
+<ul>
+	<li>Help people learn English</li>
+	<li>Principle of QandQ</li>
+	<li>Learning is an explicit aim of the community</li>
+	<li>Spills over from the main activity – learning the language  are: learn hw to teach the language, learn how to find information, learning how to use ICT, develop social skills, develop critical thinking</li>
+	<li>Three learning outcomes are mainly developed passively</li>
+	<li>Culture of the community – policy on loose roles, policy on good manner of discussion trust the people you trust</li>
+	<li>Military organisation with a hippie attitude – moderators, administrators and trusted users</li>
+	<li>Most members are lurkers</li>
+	<li>Plan to award qualifications for the different levels of language proficiency</li>
+	<li>Learning  happens mainly by making questions and receiving answers on various issues</li>
+	<li>Community plans to provide formal learning certificates</li>
+	<li>Born as a community for students it has now evolved to help teachers teach better</li>
+	<li>Significant unintentional learning happens in terms of social and critical skills</li>
+	<li>Members join to learn English and benefit from total flexibility couple with the development of the culture of discussion and making new friends</li>
+</ul>
+<p>
+&nbsp;
+</p>
+]]></description>
+          <pubDate>Tue, 31 Mar 2009 12:29:25 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Livemocha online language learning community space</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1330</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1330</guid>
+              <description><![CDATA[<p>
+<a href="http://www.livemocha.com/ ">Livemocha</a> is an interesting web 2.0-based site which aims to connect language learning with native speakers internationally. Language learning is an obvious candidate for harnessing the power of web 2.0 practices given the centrality of communication as part of the learning process.  
+</p>
+<p>
+The site is desribed as follows: 
+</p>
+<p>
+<b>Social Language Learning</b> - Online 
+</p>
+<ul class="orange_bullet">
+	<li>Learn at your own pace with fun online language lessons</li>
+	<li>Connect with foreign language partners around the world </li>
+</ul>
+<p>
+&nbsp;
+</p>
+]]></description>
+          <pubDate>Tue, 31 Mar 2009 08:52:05 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Emergence of new online spaces and communities</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1329</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1329</guid>
+              <description><![CDATA[<p>
+A summary of the IPTS report on Pedagogical innovations in new ICT-facilitated learning communities (see overview cloud http://cloudworks.ac.uk/node/1326)
+</p>
+<p>
+<br />
+<b>Context and motivations for the study<br />
+</b>Need for qualified workers<br />
+Need for new skills for new jobs<br />
+Lifelong learning and mobility<br />
+Equity and active participation<br />
+Quality and efficiency<br />
+Creativity, innovation and entrepreneurship<br />
+Lack of transformative impact through ICT in educational systems, although potential exists.
+</p>
+<p>
+<b>Emergence of social computing <br />
+</b>Wide take up<br />
+Intensive usage<br />
+Not only young people!<br />
+Not only for leisure
+</p>
+<p>
+Good example for language learning – livemocha ‘a powerful opportunity for people around the world to connect with language partners’
+</p>
+<p>
+<b>Questions<br />
+</b>
+</p>
+<ol>
+	<li>Can these emerging online spaces and communities provide learning that is relevant and useful?</li>
+	<li>What can education and training systems learn from them?</li>
+	<li>How could online communities benefit from lifelong learning and competitiveness in Europe?</li>
+	<li>What are the risks and challenges?</li>
+	<li>What should and could policies do?</li>
+	<li>Online  community?</li>
+</ol>
+<p>
+Preece (2000) an online community consists of 1. People who interact socially, 2. A share purpose that provides a reasons for the community, 2. Policies that guide people’s interactions, 4. Computers systems to support and mediate social interaction and facilitate a sense of togetherness
+</p>
+<p>
+In networked online spaces collective actions also follow from individual activities possibly without shared purpose or sense of togetherness. Also these collective can contribute worth exploring – need for articulating the difference to community.
+</p>
+<p>
+<b>Drivers for participation <br />
+</b>1.    Socialising – world of warcract, social networking, YouTube<br />
+2.    Production – FLOSS, wikipedia<br />
+3.    Organisation – Workplace community, HE online course<br />
+4.    Topic – TuDiabetes, Inter VproC, LiveMocha
+</p>
+<p>
+Online platforms and facilities can enable different levels of communities to emerge
+</p>
+<p>
+Often communities accommodation several aspects – especially organisation-based vs. horizontal typically had others drivers as well.
+</p>
+<p>
+<b>Socialisation<br />
+</b>
+</p>
+<ol>
+	<li>Examples – media sharing spaces, blogosphere, online social networks, entertainment</li>
+	<li>Motivation (from OCLC, 2008) – young people its fun, older people its useful</li>
+	<li>Activities (Pew/Internet 2006; OCLC, 2008) – creative expression, share and document knowledge and experiences, manage connections, resources, life</li>
+	<li>Individual’s learning – express and build identity, reflect on one’s life when comparing with others (Park et al. 2008)</li>
+</ol>
+<p>
+<b>Joint production, goal, task<br />
+</b>
+</p>
+<ol>
+	<li>Examples – collaborative joint product development, open soure software development, crowd sourcng for a joint task, collaborative resources repository, social knowledge management systems</li>
+	<li>Motivation – usefulness for oneself, external requirement, intrinsic interest</li>
+	<li>Activiites – collaborative work according to community work model, create concrete products as outputs of work</li>
+	<li>Individual learning – learn to work with others, negotiate, collaborate, observe the practices of others, learn from it</li>
+</ol>
+<p>
+<b>Joint interest, situation expertise<br />
+</b>
+</p>
+<ol>
+	<li>Examples – tool-based knowledge sharing, profession based communities, topic based support, personal health, well being, communtities for context and culture</li>
+	<li>Motivation – connection and sharing with others and similar situations, need for personal support</li>
+	<li>Activities – asking and giving advice, reading and following</li>
+	<li>Individual learning – receiving quick and targeted personal guidance when needed, finding and participating in knowledge development for the area</li>
+</ol>
+<p>
+<br />
+<b>Organisation based<br />
+</b>
+</p>
+<ol>
+	<li>Examples – community model within courses, integrating institutional environment with other resources, lifelong communities set up at institutions, informal workplace communities</li>
+	<li>Motivation – requirement, usefulness, avoiding isolation feeling supported</li>
+	<li>Activities – striving towards given goals, sharing resources, informal advice and support</li>
+	<li>Learning – learn workplace culture to be part of a team, find and create ways for carrying out tasks, change the practices of the organisation</li>
+</ol>
+<p>
+<b>Conclusion<br />
+</b>Online spaces are increasing their importance in people’s lives<br />
+Not all online spaces are communities, but they still can support learning
+</p>
+<p>
+Through online communities people can find out, follow and participate much more than was possible before
+</p>
+<p>
+Approaching communities through the member motivations and supported activities (production, topic, socialisation) could help in finding and developing online places and communities for learning
+</p>
+<p>
+Communities within organisations vs horizontal communities can both have specific important features
+</p>
+<p>
+What should and could be the goals and means in educational institutions
+</p>
+<ol>
+	<li>To develop internal communities (learners, teachers)?</li>
+	<li>To develop participation in external online spaces and communities?</li>
+	<li>To develop horizontal communities?</li>
+	<li>To differentiate between communities/online spaces they support?</li>
+</ol>
+<p>
+&nbsp;
+</p>
+]]></description>
+          <pubDate>Tue, 31 Mar 2009 08:46:32 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Pedagogical innovations in new ICT-facilitated learning communities</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1326</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1326</guid>
+              <description><![CDATA[<p>
+A website for this <a href="http://ipts.jrc.ec.europa.eu/">IPTS</a> review is available <a href="http://is.jrc.ec.europa.eu/pages/EAP/LearnCo.html">here</a> with the draft report and an overview presentation on the work to date. 
+</p>
+<p>
+The aim of this study is to review and assess the new social and pedagogical approaches to learning that are emerging in new ICT-facilitated learning communities.  In addition to formal education, such communities are increasingly emerging in informal and non-formal lifelong learning environments where learning is happening in a freely organised manner, bring together learners, experts, and other parties.  This study aims to examine these new learning communities in order to find innovative pedagogical and organisational practices that support lifelong learning in different settings and foster innovations in the interaction of teachers, learners and organisations. <br />
+<br />
+Description: Through desk research, in-depth case studies and expert workshops, the study aims to:<br />
+<br />
+</p>
+<ul>
+	<li>Provide an overview and understanding of new learning communities that are characterised as socially and pedagogically innovative and identify what is the innovative dimension;</li>
+	<li>Provide an overview and analysis of novel learning and teaching approaches and strategies based on active learning approaches in the communities (such as creative problem solving, discovery, learning by doing, experiential learning, critical thinking and creativity);</li>
+	<li>Investigate the specific role and contribution of ICT in developing and enabling new collaboration models bridging various learning settings (formal, non-formal and informal);</li>
+	<li>Analyse the relationship between ICT, learning and innovation in view of organisational changes in the delivery of learning;</li>
+	<li>Propose avenues for further research and policy-making.</li>
+</ul>
+]]></description>
+          <pubDate>Tue, 31 Mar 2009 08:09:38 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Informal learning on the history of maths</title>
+              <link>https://cloudworks.ac.uk/cloud/view/293</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/293</guid>
+              <description><![CDATA[<p>
+<strong>A subject-based information resource, allowing engagement in many ways, at many levels, can be a powerful engine for informal learning.</strong>
+</p>
+<p>
+&nbsp;
+</p>
+<p>
+The MacTutor History of Mathematics Archive is much used by maths students (and staff) for reference, browsing, following up personal interests, and as a resource for project work. A name index and a topic index lead to articles on individual mathematicians or mathematical subjects; there is also an index of “famous curves”. Cross-referencing spark unplanned lines of enquiry, as do fun features such as “mathematicians of the day” (born or died on the day of access), lists of quotations, and honours and features commemorating mathematicians. [John O’Connor, Edmund Robertson] 
+</p>
+]]></description>
+          <pubDate>Tue, 29 Jul 2008 07:05:25 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Basic skills training in a football club</title>
+              <link>https://cloudworks.ac.uk/cloud/view/92</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/92</guid>
+              <description><![CDATA[Newcastle United Football Club’s premises includes a purpose-built learning centre, servicing over 1000 learners a week, attracted by the powerful draw of the football club.
+
+In an informal, relaxed and inclusive atmosphere, learners select activities from an extensive range of programmes in literacy, numeracy and ICT, setting their own learning goals with the guidance of centre staff.
+
+Self-directed online study, including interactive tutorials and simulations, helps everyone progress at their own pace.
+
+[Phil McBride]]]></description>
+          <pubDate>Thu, 17 Apr 2008 11:39:28 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

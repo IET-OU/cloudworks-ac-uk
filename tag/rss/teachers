@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: teachers</title>
+        <link>https://cloudworks.ac.uk/tag/rss/teachers</link>
+        <atom:link href="https://cloudworks.ac.uk/tag/rss/teachers" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds tagged teachers</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>WED: Designing accessible courses - a reflection on the use of UDL and OERs to create an open education course (Danny Ball)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/10192</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/10192</guid>
+              <description><![CDATA[<p>Since 1974, disabled students in England have been able to apply for non-repayable grants, known as &lsquo;Disabled Students&rsquo; Allowances (DSAs)&rsquo;, to assist with the additional costs incurred whilst completing higher education study (Willetts, 2014). Such grants provided allowances for specialised equipment, non-medical assistance such as note takers and specialised tutors, books and consumables, as well as travel allowances (Disability Rights UK, 2015). In addition to the support provided by DSAs, the introduction of the Equality Act 2010 placed a legal duty on businesses and education providers to take positive steps, referred to as &lsquo;reasonable adjustments&rsquo;, to remove barriers faced by people, due to their disability (Citizens Advice, n.d.). This includes making changes to the ways things are done e.g. provision, criterion or practice; physical features of buildings such as entrances and exits; as well as the provision of extra aids or services such as: induction hearing loops, providing information in alternative formats etc. (Citizens Advice, n.d.).</p>
+<p>Despite the reasonable adjustments implemented by higher education institutions (HEIs), the costs of the DSA provision have risen sharply from &pound;101.3m in 2009-10 to &pound;145.8m in 2012-13, an increase of 44% (Weale, 2015). In 2014, the Minister for Universities and Science announced a series of changes to modernise the existing system to &lsquo;rebalance&rsquo; responsibilities for student support. Thus, ensuring that the limited public funding is available to those most in need, and provides the support they require (Willetts, 2014). The changes are designed to move away from a system of individualised support funded by DSAs, to one where HEIs play a greater role in supporting all students, regardless of whether they have a disability or not.</p>
+<p>With these changes coming into force from September 2016, HEIs within England have been required to review and, if required, revise their current student support arrangements to ensure they are prepared for these changes and can support learners effectively (McNaught, 2016). Whilst there are many small and simple changes academic staff can take to improve the accessibility of their teaching such as: providing information ahead of sessions, creating learning materials which meet accessibility guidelines and encouraging students to record teaching sessions etc. (Canterbury Christ Church University, n.d.), this does not resolve the underlying issues. As McNaught (2016) summarises &lsquo;[t]eaching and learning pedagogies, practices and technologies can inadvertently create barriers for students with disabilities&rsquo;, to overcome these a different approach is required.</p>
+<p>To address some of the challenges raised by these recent changes and the need for HEIs to make anticipatory, rather than reactive changes, this conference presentation will provide an overview and demonstration of a short online course being developed by the author. Built using the Canvas open education platform, this short course aimed at academics working within UK HEIs, will provide a more in-depth overview of the changes to disabled student support, whilst also introducing delegates to two educational frameworks; Universal Design for Learning (UDL) and Inclusive Curriculum. Building on research undertaken by Marquis et al. (2016), this course will utilise a flipped learning pedagogy; whereby the learning materials are placed online and classroom sessions are used to enable deeper exploration and discussion of the topics raised (The Higher Education Academy, n.d.). The work-in-progress can be viewed at:&nbsp;<a href="https://canvas.instructure.com/courses/1112741" target="_blank">https://canvas.instructure.com/courses/1112741</a></p>
+<p><strong>References:</strong></p>
+<p>Canterbury Christ Church University (n.d.) <em>Changes to Disabled Students&rsquo; Allowances</em> [Online]. Available at <a href="http://www.canterbury.ac.uk/learning-and-teaching-enhancement/academic-professional-development/changes-to-disabled-student-allowance.aspx" target="_blank">http://www.canterbury.ac.uk/learning-and-teaching-enhancement/academic-professional-development/changes-to-disabled-student-allowance.aspx</a> (Accessed 1 January 2017).</p>
+<p>Citizens Advice (n.d.) <em>Duty to make reasonable adjustments for disabled people</em> [Online]. Available at <a href="https://www.citizensadvice.org.uk/discrimination/what-are-the-different-types-of-discrimination/duty-to-make-reasonable-adjustments-for-disabled-people/" target="_blank">https://www.citizensadvice.org.uk/discrimination/what-are-the-different-types-of-discrimination/duty-to-make-reasonable-adjustments-for-disabled-people/</a> (Accessed 2 January 2017).</p>
+<p>Disability Rights UK (2015) <em>Applying for Disabled Students&rsquo; Allowances (DSAs)</em> [Online]. Available at http://www.disabilityrightsuk.org/applying-disabled-students&rsquo;-allowances-dsas (Accessed 3 December 2016).</p>
+<p>Marquis, E., Jung, B., Fudge Schormans, A., Lukmanji, S., Wilton, R. and Baptiste, S. (2016) &lsquo;Developing inclusive educators: enhancing the accessibility of teaching and learning in higher education&rsquo;, <em>International Journal for Academic Development</em>, Routledge, vol. 21, no. 4, pp. 337&ndash;349 [Online]. Available at <a href="http://dx.doi.org/10.1080/1360144X.2016.1181071" target="_blank">http://dx.doi.org/10.1080/1360144X.2016.1181071</a> (Accessed 21 December 2016).</p>
+<p>McNaught, A. (2016) &lsquo;Minimising pain, maximising gain: top tips for supporting learners affected by DSA changes&rsquo;, <em>JISC Blog</em>, 19 February [Blog]. Available at <a href="https://www.jisc.ac.uk/blog/minimising-pain-maximising-gain-top-tips-for-supporting-learners-affected-by-dsa-changes-19-feb" target="_blank">https://www.jisc.ac.uk/blog/minimising-pain-maximising-gain-top-tips-for-supporting-learners-affected-by-dsa-changes-19-feb</a> (Accessed 4 December 2016).</p>
+<p>Scope UK (n.d.) <em>What is the social model of disability?</em> [Online]. Available at <a href="http://www.scope.org.uk/about-us/our-brand/social-model-of-disability" target="_blank">http://www.scope.org.uk/about-us/our-brand/social-model-of-disability</a> (Accessed 2 January 2017).</p>
+<p>The Higher Education Academy (n.d.) <em>Flipped learning</em> [Online]. Available at <a href="https://www.heacademy.ac.uk/enhancement/starter-tools/flipped-learning-0" target="_blank">https://www.heacademy.ac.uk/enhancement/starter-tools/flipped-learning-0</a> (Accessed 23 December 2016).</p>
+<p>University of Leicester (n.d.) <em>The social and medical model of disability</em> [Online]. Available at <a href="http://www2.le.ac.uk/offices/accessability/staff/accessabilitytutors/information-for-accessability-tutors/the-social-and-medical-model-of-disability" target="_blank">http://www2.le.ac.uk/offices/accessability/staff/accessabilitytutors/information-for-accessability-tutors/the-social-and-medical-model-of-disability</a> (Accessed 2 January 2017).</p>
+<p>Weale, S. (2015) <em>Government to cut funding for disabled university students</em> [Online]. Available at <a href="https://www.theguardian.com/education/2015/dec/02/government-to-cut-funding-disabled-university-students-jo-johnson" target="_blank">https://www.theguardian.com/education/2015/dec/02/government-to-cut-funding-disabled-university-students-jo-johnson</a> (Accessed 2 January 2017).</p>
+<p>Willetts, D. (2014) <em>Higher education: student support: changes to Disabled Students&rsquo; Allowances (DSA)</em> [Online]. Available at <a href="https://www.gov.uk/government/speeches/higher-education-student-support-changes-to-disabled-students-allowances-dsa" target="_blank">https://www.gov.uk/government/speeches/higher-education-student-support-changes-to-disabled-students-allowances-dsa</a> (Accessed 2 January 2017).</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Sun, 08 Jan 2017 13:51:33 +0000</pubDate>
+            </item>
+                    <item>
+              <title>The b-live Foundation</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5538</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5538</guid>
+              <description><![CDATA[<p>I recently came across this organisation based in Bedford and discovered they have a truly innoavtive approach to reaching into schools and working effectively with young people, parents, teachers and employers. The numbers of young people using the service is impressive i.e. over 230,000. Much of this engagement is achieved through The Foundation&rsquo;s state-of-the art website, b-live.com, which provides impartial, engaging and high-quality careers IAG (information and guidance).&nbsp;</p>
+<p>Great&nbsp;to find The b-live Foundation has joined the Institute of Career Guidance and&nbsp; works to a code of ethical practice (sometimes&nbsp;overlooked by social enterprises).</p>
+<p>Through the site, young people can access personalised careers and learning information, use a CV generator, apply for jobs and apprenticeships &ndash; all specifically created to help young people make informed career decisions and support their transition from education into employment whatever their background.</p>
+<p>The b-live has recently been approached by the Cabinet Office to undertake surveys with young people, parents and teachers over a three-four year period designed to find out more about their views of careers education and guidance and the world of work. They plan to launch a new research facility very shortly that will help illuminate the realities of indivduals' views and experiences of 21st century education and employment.</p>
+<p>This an exciting initiative which clearly bridges the gap between&nbsp;education and employer opportunities. Each time I ask a question about the work of this organsiation, I learn more and more - &nbsp;it's very clear that listening to YOUNG PEOPLE&nbsp; and&nbsp;CONNECTING THEM TO THE WORLD OF WORK&nbsp;is what really drives this organisation.</p>]]></description>
+          <pubDate>Thu, 19 May 2011 09:08:18 +0000</pubDate>
+            </item>
+                    <item>
+              <title>WordStash Flash Card Learning Tool with Dictionary</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5438</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5438</guid>
+              <description><![CDATA[<pre id="cx-desc-text" style="cursor:auto"><!--NO CSS-->WordStash allows you to create interactive flashcards and helps you learn with engaging quizzes and games.  The site is built on a dictionary, so it will add synonyms, audio pronunciation, contextual twitter examples, and contextual sentence examples from real news sources to your flashcards accordingly.  Other features include: choose your own theme, create, copy, and share lists, over 200,000 English words and phrases, and a learning mode that calculates the optimal time to study.  </pre>]]></description>
+          <pubDate>Tue, 10 May 2011 04:26:13 +0000</pubDate>
+            </item>
+                    <item>
+              <title>The future of technology in education</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5379</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5379</guid>
+              <description><![CDATA[<p>See <a href="http://www.westminsterforumprojects.co.uk/forums/event.php?eid=307">our website</a> for more about the event and how to book on.</p>
+<p><strong>Guest of Honour: Stephen Crowne, former Chief Executive, Becta</strong></p>
+<p>This seminar will bring together key policymakers with  stakeholders to consider the future role of technology in education.   Discussion will focus on the direction of government policy following  the closure of Becta, and will explore new procurement models as schools  become increasingly autonomous. The role of technology providers, the  integration of new and existing technologies into the classroom, the  potential use of technology as an assessment tool and schools' need to  ensure value for money will all be considered. The seminar will also  look at the skills required for employers, particularly those involved  in the growing digital economy, and how the curriculum can cater for  these needs.<br /><br />We are delighted that <strong>Stephen Crowne</strong>, former Chief Executive, Becta has agreed to deliver a keynote address at this seminar.<br /><br />At this early stage <strong>Andrew Goff</strong>, Director, Interactive Learning eXperience; <strong>Andy Palmer</strong>, Head of Skills, BT; <strong>Professor Simon Peyton-Jones</strong>, Principal Researcher, Microsoft Research and Chair, UK Computing at School Working Group and <strong>Ian Potter</strong>,  Chair, Maths and Computing Headteacher Steering Group, Specialist  Schools and Academies Trust and Headteacher, Bay House School, Hampshire  have also kindly agreed to speak. <br /><br /><strong>Lord Knight of Weymouth</strong>,  former Minister of State for Schools and Learners has kindly agreed to  chair the first half of this seminar. Further senior participants are  being approached.</p>
+<p>This seminar is <strong>CPD certified</strong>.</p>]]></description>
+          <pubDate>Wed, 27 Apr 2011 10:12:33 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Technology and teachers</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5216</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5216</guid>
+              <description><![CDATA[<p>An ongoing list of links to interesting things from the world of teaching:</p>
+<p><a href="http://www.hepg.org/hel/article/495">List of Top 10 Web Tools for Teachers</a> (Harvard Education Letter)</p>]]></description>
+          <pubDate>Fri, 25 Mar 2011 08:29:28 +0000</pubDate>
+            </item>
+                    <item>
+              <title>GoAnimate 4 Schools</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5149</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5149</guid>
+              <description><![CDATA[<p>GoAnimate is now available in an educational version. There's a gallery of sample lesson plans divided by discipline, and lots of practical user information. The popular tool is now offering free registrations for teachers.</p>]]></description>
+          <pubDate>Tue, 15 Mar 2011 11:55:52 +0000</pubDate>
+            </item>
+                    <item>
+              <title>&quot;We are all learners and teachers.&quot; Is technology blurring the boundary between the two?</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4152</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4152</guid>
+              <description><![CDATA[<p>Does the form of collaborative learning that takes place with Web 2.0 resources now tend towards a blurring of the boundary between teachers and learners?&nbsp; On the Open University H800 Technology Enhanced Learning course we have been asked to consider whether learners now have ownership of technology enhanced learning.&nbsp;&nbsp; Does this question imply a hierarchy and suggestion of "them and us" which no longer applies?&nbsp; Do learners learn as much from their peers as from staff, and do staff learn as much from students as from their peers?&nbsp; Are there situations where a rigid division between the two still applies?&nbsp; Discuss these and other relevant&nbsp;issues, and post resources relevant to the debate here.</p>]]></description>
+          <pubDate>Wed, 14 Jul 2010 13:14:14 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Accessibility in Web design for teachers</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2822</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2822</guid>
+              <description><![CDATA[<p>Tweeted by @e_Paul M</p>]]></description>
+          <pubDate>Fri, 15 Jan 2010 13:38:21 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Tech-sites for teachers</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2401</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2401</guid>
+              <description><![CDATA[<p>via <strong><a title="Jil Wright" href="http://twitter.com/ITJil">ITJil</a></strong> RT @<a href="http://twitter.com/sywtt">sywtt</a>: 25 Free Apps And Websites For Tech-Loving Teachers</p>]]></description>
+          <pubDate>Sat, 03 Oct 2009 12:34:39 +0000</pubDate>
+            </item>
+                    <item>
+              <title>HippoCampus and Open Educational Resources</title>
+              <link>https://cloudworks.ac.uk/cloud/view/918</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/918</guid>
+              <description><![CDATA[Generally, there are two targets for OERs- one for students, and one for teachers.<br />
+HippoCampus focuses on high school and community college.<br />
+<br />
+There are basic necessities for an OER- it must be curricular, complete, of a high quality, easy to use, and a teaching tool.<br />
+<br />
+Essentially, it must be as simple and effective as opening a text book.<br />
+<br />
+NROC is unique in that it fuses content for high school and higher education; it has complete foundations for entire courses, and can be made flexible to the needs of the teacher.<br />
+<br />
+Quality is of a very high concern- expectations are high for both students and teachers using this content.<br />
+<br />
+When introduced to the state of Oregon, the content was met with widespread acceptance.<br />
+<br />
+Flexibility can be brought to the teacher, district, or state- this makes the high quality content easier to use, no matter what the needs may be.<br />
+<br />
+One of the first steps in integrating content with the repository is completeness of the curriculum- no holes left for teachers to fill in themselves.<br />
+<br />
+This will phase out the need for textbooks, such as was done for history courses in Oregon.<br />
+<br />
+Overall, there has been great success with both students and teachers alike.<br />
+<br />
+ Unfortunately, the biggest hurtle is sustainability- how can content that is given away for free continue to be updated?<br />
+<br />
+ The answer is administrators, teachers, and users coming together to support the OER.<br />
+<br />
+The variety of ways to customize and utilize HippoCampus include customized sites and accessibility options (such as from an iPod).<br />
+<br />
+The pacing can also be tailored for the needs of anyone- mildly autistic, ADHD, or students who simply need more time with the content.<br />
+<br />
+This content can be adapted for pencil and paper use- exercises are embedded in the content itself, and parts can be utilized in presentations as the teacher sees fit.<br />
+<br />
+OER success is measured by usage, so the ultimate goal is expanding the amount of usage.<br />
+<br />
+<br />
+ <br />
+<br />
+ <br />
+<br />
+]]></description>
+          <pubDate>Fri, 20 Feb 2009 19:03:00 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Cloudstream for CETIS Conference 2009</title>
+    <link>https://cloudworks.ac.uk/</link>
+	<description>Cloudstream for CETIS Conference 2009</description>
+	<dc:language>en</dc:language>
+	<dc:creator>cloudworks@open.ac.uk</dc:creator>
+	<dc:rights>Copyright 2019 </dc:rights>
+	<admin:generatorAgent>
+    <atom:link href="https://cloudworks.ac.uk/event/cloudscape_rss/1920" rel="self" type="application/rss+xml" />
+    		    <item>
+	      <title>Apache Wookie new link on Composing your Learning Environment II added by Nick Freear</title>
+	      <link>https://cloudworks.ac.uk/#link-1823</link>
+	      <guid>https://cloudworks.ac.uk/#link-1823</guid>
+	      <description><![CDATA[<strong>Apache Wookie </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2620">Composing your Learning Environment II</a> added by <a href="https://cloudworks.ac.uk/user/view/1040" rel="author">Nick Freear</a></em>]]></description>
+	  	  <pubDate>Sun, 15 Nov 2009 01:44:07 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>new link on University API added by Juliette Culver</title>
+	      <link>https://cloudworks.ac.uk/#link-1809</link>
+	      <guid>https://cloudworks.ac.uk/#link-1809</guid>
+	      <description><![CDATA[<em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2612">University API</a> added by <a href="https://cloudworks.ac.uk/user/view/1" rel="author">Juliette Culver</a></em>]]></description>
+	  	  <pubDate>Thu, 12 Nov 2009 15:04:40 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>new link on University API added by Juliette Culver</title>
+	      <link>https://cloudworks.ac.uk/#link-1808</link>
+	      <guid>https://cloudworks.ac.uk/#link-1808</guid>
+	      <description><![CDATA[<em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2612">University API</a> added by <a href="https://cloudworks.ac.uk/user/view/1" rel="author">Juliette Culver</a></em>]]></description>
+	  	  <pubDate>Thu, 12 Nov 2009 15:04:19 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>&quot;Thanks for doing Nick - was sorry to have missed this session, so nice to get an overview of what...new comment on the cloud Composing your Learning Environment II by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-2255</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2255</guid>
+	      <description><![CDATA[<strong>"Thanks for doing Nick - was sorry to have missed this session, so nice to get an overview of what...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2620">Composing your Learning Environment II</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Wed, 11 Nov 2009 15:29:43 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Thanks for doing Nick - was sorry to have missed this session, so nice to get an overview of what...new comment on the cloud Composing your Learning Environment II by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-2254</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2254</guid>
+	      <description><![CDATA[<strong>"Thanks for doing Nick - was sorry to have missed this session, so nice to get an overview of what...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2620">Composing your Learning Environment II</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Wed, 11 Nov 2009 15:29:42 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Woa... So, first there was a review of some models for VLEs/ PLEs - some mentions of IMS common......&quot;new content on Composing your Learning Environment II by Nick Freear</title>
+	      <link>https://cloudworks.ac.uk/#content-287</link>
+	      <guid>https://cloudworks.ac.uk/#content-287</guid>
+	      <description><![CDATA[<strong>Woa... So, first there was a review of some models for VLEs/ PLEs - some mentions of IMS common......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/2620">Composing your Learning Environment II</a> by <a href="https://cloudworks.ac.uk/user/view/1040" rel="author">Nick Freear</a></em>]]></description>
+	  	  <pubDate>Wed, 11 Nov 2009 10:33:23 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title> 
+Three areas - we must transform university management
+
+Research - knwoedlge creation     ......&quot;new content on Keynote by Oleg Liber by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#content-285</link>
+	      <guid>https://cloudworks.ac.uk/#content-285</guid>
+	      <description><![CDATA[<strong>&nbsp;
+Three areas - we must transform university management
+
+Research - knwoedlge creation     ......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/2611">Keynote by Oleg Liber</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Tue, 10 Nov 2009 17:06:50 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>&quot;Thanks Myles!...new comment on the cloud Keynote  by Chris Cobb by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-2248</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2248</guid>
+	      <description><![CDATA[<strong>"Thanks Myles!...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2610">Keynote  by Chris Cobb</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Tue, 10 Nov 2009 11:18:42 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>
+The old ways work – why change? New models of technology based co-working have no......&quot;new content on Keynote by Oleg Liber by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#content-284</link>
+	      <guid>https://cloudworks.ac.uk/#content-284</guid>
+	      <description><![CDATA[<strong>
+The old ways work &ndash; why change? New models of technology based co-working have no......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/2611">Keynote by Oleg Liber</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Tue, 10 Nov 2009 11:16:33 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Oleg Liber &quot;Transition&quot;
+
+Over 70% internet use - one quater uploaded content to share. Other......&quot;new content on Keynote by Oleg Liber by Nick Freear</title>
+	      <link>https://cloudworks.ac.uk/#content-283</link>
+	      <guid>https://cloudworks.ac.uk/#content-283</guid>
+	      <description><![CDATA[<strong>Oleg Liber "Transition"
+
+Over 70% internet use - one quater uploaded content to share. Other......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/2611">Keynote by Oleg Liber</a> by <a href="https://cloudworks.ac.uk/user/view/1040" rel="author">Nick Freear</a></em>]]></description>
+	  	  <pubDate>Tue, 10 Nov 2009 11:16:08 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title> Oleg Liber – Transition
+
+What to reflect on where we are now?
+The state of the......&quot;new content on Keynote by Oleg Liber by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#content-282</link>
+	      <guid>https://cloudworks.ac.uk/#content-282</guid>
+	      <description><![CDATA[<strong>&nbsp;Oleg Liber &ndash; Transition
+
+What to reflect on where we are now?
+The state of the......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/2611">Keynote by Oleg Liber</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Tue, 10 Nov 2009 11:09:58 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>&quot;Chris also contributed to HE Case Studies in EA, also on the JISC site and an easy Google. That...new comment on the cloud Keynote  by Chris Cobb by Myles Danson</title>
+	      <link>https://cloudworks.ac.uk/#comment-2247</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2247</guid>
+	      <description><![CDATA[<strong>"Chris also contributed to HE Case Studies in EA, also on the JISC site and an easy Google. That...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2610">Keynote  by Chris Cobb</a> by <a href="https://cloudworks.ac.uk/user/view/1460" rel="author">Myles Danson</a></em>]]></description>
+	  	  <pubDate>Tue, 10 Nov 2009 11:07:02 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;An intro to EA added as a link from the work Chris alluded to...new comment on the cloud Keynote  by Chris Cobb by Myles Danson</title>
+	      <link>https://cloudworks.ac.uk/#comment-2246</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2246</guid>
+	      <description><![CDATA[<strong>"An intro to EA added as a link from the work Chris alluded to...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2610">Keynote  by Chris Cobb</a> by <a href="https://cloudworks.ac.uk/user/view/1460" rel="author">Myles Danson</a></em>]]></description>
+	  	  <pubDate>Tue, 10 Nov 2009 11:04:57 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Hi Paul
+Yes I agree the tertiary education system is much much more complex. I have worked in four...new comment on the cloud Keynote  by Chris Cobb by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#comment-2245</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2245</guid>
+	      <description><![CDATA[<strong>"Hi Paul
+Yes I agree the tertiary education system is much much more complex. I have worked in four...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2610">Keynote  by Chris Cobb</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Tue, 10 Nov 2009 11:03:57 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>An Introduction to Enterprise Architectures new link on Keynote  by Chris Cobb added by Myles Danson</title>
+	      <link>https://cloudworks.ac.uk/#link-1791</link>
+	      <guid>https://cloudworks.ac.uk/#link-1791</guid>
+	      <description><![CDATA[<strong>An Introduction to Enterprise Architectures </strong><br /><em>new link on <a href="https://cloudworks.ac.uk/cloud/view/2610">Keynote  by Chris Cobb</a> added by <a href="https://cloudworks.ac.uk/user/view/1460" rel="author">Myles Danson</a></em>]]></description>
+	  	  <pubDate>Tue, 10 Nov 2009 11:03:11 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-link">link</category>
+	    </item>
+		    <item>
+	      <title>One of the great ironies for those of us in HE ICT is that in coming years ding the best possible......&quot;new content on Keynote  by Chris Cobb by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#content-281</link>
+	      <guid>https://cloudworks.ac.uk/#content-281</guid>
+	      <description><![CDATA[<strong>One of the great ironies for those of us in HE ICT is that in coming years ding the best possible......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/2610">Keynote  by Chris Cobb</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Tue, 10 Nov 2009 10:57:00 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Darrow: History repeats itself and thats one of the things thats wrong with history!......&quot;new content on Keynote  by Chris Cobb by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#content-280</link>
+	      <guid>https://cloudworks.ac.uk/#content-280</guid>
+	      <description><![CDATA[<strong>Darrow: History repeats itself and thats one of the things thats wrong with history!......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/2610">Keynote  by Chris Cobb</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Tue, 10 Nov 2009 10:52:45 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>&quot;Higher Education is not the NHS. Can&#39;t streamline things in same way....new comment on the cloud Keynote  by Chris Cobb by Paul Anderson</title>
+	      <link>https://cloudworks.ac.uk/#comment-2244</link>
+	      <guid>https://cloudworks.ac.uk/#comment-2244</guid>
+	      <description><![CDATA[<strong>"Higher Education is not the NHS. Can't streamline things in same way....</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/2610">Keynote  by Chris Cobb</a> by <a href="https://cloudworks.ac.uk/user/view/1462" rel="author">Paul Anderson</a></em>]]></description>
+	  	  <pubDate>Tue, 10 Nov 2009 10:48:13 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title> 
+Going to start looking to different types of suppliers, smaller suppliers, who are......&quot;new content on Keynote  by Chris Cobb by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#content-278</link>
+	      <guid>https://cloudworks.ac.uk/#content-278</guid>
+	      <description><![CDATA[<strong>&nbsp;
+Going to start looking to different types of suppliers, smaller suppliers, who are......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/2610">Keynote  by Chris Cobb</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Tue, 10 Nov 2009 10:47:40 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>
+Huge state of flux and change, big financial cut backs, 5-20% cut backs on back of the global......&quot;new content on Keynote  by Chris Cobb by Gráinne Conole</title>
+	      <link>https://cloudworks.ac.uk/#content-277</link>
+	      <guid>https://cloudworks.ac.uk/#content-277</guid>
+	      <description><![CDATA[<strong>
+Huge state of flux and change, big financial cut backs, 5-20% cut backs on back of the global......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/2610">Keynote  by Chris Cobb</a> by <a href="https://cloudworks.ac.uk/user/view/3" rel="author">Gráinne Conole</a></em>]]></description>
+	  	  <pubDate>Tue, 10 Nov 2009 10:41:56 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Chris Cobb, Pro Vice Chancellor at Roehampton University, London, talking about......&quot;new content on Keynote  by Chris Cobb by Nick Freear</title>
+	      <link>https://cloudworks.ac.uk/#content-276</link>
+	      <guid>https://cloudworks.ac.uk/#content-276</guid>
+	      <description><![CDATA[<strong>Chris Cobb, Pro Vice Chancellor at Roehampton University, London, talking about......"</strong><br /><em>new content on <a href="https://cloudworks.ac.uk/cloud/view/2610">Keynote  by Chris Cobb</a> by <a href="https://cloudworks.ac.uk/user/view/1040" rel="author">Nick Freear</a></em>]]></description>
+	  	  <pubDate>Tue, 10 Nov 2009 10:40:59 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-content">content</category>
+	    </item>
+		    <item>
+	      <title>Keynote by Bill Thompsoncloud added to the cloudscape CETIS Conference 2009</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2623">Keynote by Bill Thompson</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1920">CETIS Conference 2009</a></em>]]></description>
+	  	  <pubDate>Thu, 05 Nov 2009 15:39:55 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Plenary, Presentations and Feedback cloud added to the cloudscape CETIS Conference 2009</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2622">Plenary, Presentations and Feedback </a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1920">CETIS Conference 2009</a></em>]]></description>
+	  	  <pubDate>Thu, 05 Nov 2009 15:39:16 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title> The problem with modelling or modelling problemscloud added to the cloudscape CETIS Conference 2009</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2621"> The problem with modelling or modelling problems</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1920">CETIS Conference 2009</a></em>]]></description>
+	  	  <pubDate>Thu, 05 Nov 2009 15:38:42 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Composing your Learning Environment IIcloud added to the cloudscape CETIS Conference 2009</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2620">Composing your Learning Environment II</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1920">CETIS Conference 2009</a></em>]]></description>
+	  	  <pubDate>Thu, 05 Nov 2009 15:38:15 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Find and Seek cloud added to the cloudscape CETIS Conference 2009</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2619">Find and Seek </a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1920">CETIS Conference 2009</a></em>]]></description>
+	  	  <pubDate>Thu, 05 Nov 2009 15:37:38 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Reconstructing the Competence Mazecloud added to the cloudscape CETIS Conference 2009</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2618">Reconstructing the Competence Maze</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1920">CETIS Conference 2009</a></em>]]></description>
+	  	  <pubDate>Thu, 05 Nov 2009 15:37:00 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Universities and Colleges in the Giant Global Graphcloud added to the cloudscape CETIS Conference 2009</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2617">Universities and Colleges in the Giant Global Graph</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1920">CETIS Conference 2009</a></em>]]></description>
+	  	  <pubDate>Thu, 05 Nov 2009 15:07:07 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Technology change in education - involving Senior Management at last?cloud added to the cloudscape CETIS Conference 2009</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2616">Technology change in education - involving Senior Management at last?</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1920">CETIS Conference 2009</a></em>]]></description>
+	  	  <pubDate>Thu, 05 Nov 2009 15:06:38 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Composing your Learning Environment Icloud added to the cloudscape CETIS Conference 2009</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2615">Composing your Learning Environment I</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1920">CETIS Conference 2009</a></em>]]></description>
+	  	  <pubDate>Thu, 05 Nov 2009 15:06:06 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Open Educational Resources Technical Roundtablecloud added to the cloudscape CETIS Conference 2009</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2614">Open Educational Resources Technical Roundtable</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1920">CETIS Conference 2009</a></em>]]></description>
+	  	  <pubDate>Thu, 05 Nov 2009 15:05:28 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Gazing into the Future: Looking for Weak Signals with iCOPERcloud added to the cloudscape CETIS Conference 2009</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2613">Gazing into the Future: Looking for Weak Signals with iCOPER</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1920">CETIS Conference 2009</a></em>]]></description>
+	  	  <pubDate>Thu, 05 Nov 2009 15:04:50 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>University APIcloud added to the cloudscape CETIS Conference 2009</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2612">University API</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1920">CETIS Conference 2009</a></em>]]></description>
+	  	  <pubDate>Thu, 05 Nov 2009 15:04:20 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Keynote by Oleg Libercloud added to the cloudscape CETIS Conference 2009</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2611">Keynote by Oleg Liber</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1920">CETIS Conference 2009</a></em>]]></description>
+	  	  <pubDate>Thu, 05 Nov 2009 15:03:33 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Keynote  by Chris Cobbcloud added to the cloudscape CETIS Conference 2009</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/2610">Keynote  by Chris Cobb</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/1920">CETIS Conference 2009</a></em>]]></description>
+	  	  <pubDate>Thu, 05 Nov 2009 15:03:00 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+	    </channel>
+</rss>

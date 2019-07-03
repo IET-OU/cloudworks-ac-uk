@@ -1,0 +1,1745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: doctoral training</title>
+        <link>https://cloudworks.ac.uk/tag/rss/doctoral+training</link>
+        <atom:link href="https://cloudworks.ac.uk/tag/rss/doctoral+training" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds tagged doctoral training</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>Research poster design</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3652</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3652</guid>
+              <description><![CDATA[<p>This cloud contains general guidance on designing a research poster.</p>
+<p>More specifically, it is linked with training by the Research school at The Open University provided in preparation for the university's annual poster competition. Winners of the OU competition go on to compete in the Midlands Hub regional competition organised each year by Vitae.</p>
+<p>The OU Posgraduate Research Poster competition 2010 will take place on Friday 11 June. Posters should be understandable by a member of the general public and will be displayed on the Mezzanine floor outside the Berrill Lecture Theatre. The seven best exhibitors will go on o represent the OU at the Vitae Midlands Hub competition at the University of Nottingham on 5 July 2010.</p>]]></description>
+          <pubDate>Tue, 11 May 2010 11:35:32 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Research tools: online tools for medical researchers</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3377</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3377</guid>
+              <description><![CDATA[<p><strong>For carrying out research</strong></p>
+<ul>
+<li>BLAST -      Basic Local Alignment Search Tool for comparing gene and protein sequences      against others in public databases</li>
+<li>ClustalW2      &ndash; Multiple sequence alignment program for DNA or proteins</li>
+<li>EMAN - suite of scientific image processing tools aimed primarily at the      transmission electron microscopy community</li>
+<li>EMBER &ndash;      practical guide to bioinformatics</li>
+<li>ExPASy &ndash;      Tools for the analysis of protein sequences and structures</li>
+<li>Genecards      - searchable, integrated, database of human genes that      provides concise genomic, transcriptomic, genetic, proteomic, functional      and disease related information on all known and predicted human genes</li>
+<li>LS-SNP - annotated database of SNPs.</li>
+<li>NCBI &ndash; National      Center for Biotechnology Information provides access to a wide range of online      tools</li>
+<li>OMIM &ndash;      Online Mendelian Inheritance in Man is a catalogue of human genes and      genetic disorders, with links to the literature</li>
+<li>PMut - software aimed at the annotation and prediction of      pathological mutations</li>
+<li>Polyphen      - predicts possible impact of an amino acid      substitution on the structure and function of a human protein</li>
+<li><strong>SIFT BLink</strong> - provides SIFT predictions for a single protein for a given      RefSeq ID or a gi number</li>
+<li>SNPs3D - assigns molecular functional effects of non-synonymous      SNPs based on structure and sequence analysis</li>
+</ul>
+<p><strong>For staying in touch with the field and with colleagues</strong></p>
+<ul>
+<li>Pubcrawler      &ndash; alerting service for Medline and GenBank</li>
+<li>Zetoc &ndash;      relevant journal/paper updater</li>
+</ul>
+<p><strong>For guidance with ethical issues<br /></strong></p>
+<ul>
+<li>BioEdge - latest news from around the world on bioethics</li>
+<li>NHS National Research Ethics Service</li>
+</ul>
+<p><strong>For funding opportunities</strong></p>
+<ul>
+<li>ResearchResearch</li>
+</ul>]]></description>
+          <pubDate>Thu, 15 Apr 2010 14:09:08 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Research tools: online tools for educators and educational technologists</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3238</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3238</guid>
+              <description><![CDATA[<p><strong>For accessing relevant literature</strong></p>
+<ul>
+<li>Google      Scholar</li>
+</ul>
+<p><strong>For sharing and accessing files</strong></p>
+<ul>
+<li>Delicious</li>
+<li>Dropbox</li>
+<li>Google Docs</li>
+</ul>
+<p><strong>For staying in touch with the field and with colleagues</strong></p>
+<ul>
+<li>Times      Higher Education </li>
+<li>Guardian      Education</li>
+<li>BERA      (British Educational Research Association)</li>
+<li>Twitter</li>
+<li>Plurk</li>
+<li>MSN</li>
+<li>Facebook</li>
+<li>LinkedIn</li>
+</ul>
+<p><strong>For developing, sharing and presenting ideas</strong></p>
+<ul>
+<li>Mindmeister</li>
+</ul>
+<p><strong>For relevant conferences</strong></p>
+<ul>
+<li>JISC      mail</li>
+</ul>
+<p><strong>For funding opportunities</strong></p>
+<ul>
+<li>ResearchResearch</li>
+</ul>]]></description>
+          <pubDate>Thu, 01 Apr 2010 12:12:44 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Research tools: online tools for arts and humanities</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3234</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3234</guid>
+              <description><![CDATA[<p><strong>For accessing relevant literature</strong></p>
+<ul>
+<li>RSS      feeds</li>
+<li>University      library website</li>
+</ul>
+<ul>
+<li>Google      Scholar</li>
+<li>Twitter</li>
+</ul>
+<p><strong>For sharing and presenting ideas</strong></p>
+<ul>
+<li>Blogger</li>
+<li>Posterous</li>
+</ul>
+<ul>
+<li>Prezi</li>
+</ul>
+<p><strong>For keeping in touch with the field and with colleagues</strong></p>
+<ul>
+<li>a-n      magazine [focused on visual arts]</li>
+</ul>
+<p><strong>For job opportunities</strong></p>
+<ul>
+<li>LinkedIn</li>
+</ul>]]></description>
+          <pubDate>Thu, 01 Apr 2010 10:17:22 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Research tools: online tools for maths, computing and technology</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3154</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3154</guid>
+              <description><![CDATA[<p><strong>For accessing relevant literature</strong></p>
+<ul>
+<li>Scopus      &ndash; abstract and citation database</li>
+<li>Web of      Science</li>
+<li>Citeseer</li>
+<li>Google      Scholar</li>
+<li>ACM      Portal</li>
+<li>Mendeley</li>
+<li>Citeulike</li>
+<li>Delicious</li>
+<li>RSS      feeds from journals</li>
+<li>LibX</li>
+</ul>
+<p><strong>For managing relevant literature</strong></p>
+<ul>
+<li>EndNote</li>
+<li>RefWorks</li>
+<li>BibDesk      (for Bibtex/Latex users)</li>
+<li>Diigo</li>
+</ul>
+<p><strong>For data collection</strong></p>
+<ul>
+<li>Survey      Monkey (online survey tool)</li>
+<li>Facebook      (for publicising surveys)</li>
+</ul>
+<p><strong>For data analysis</strong></p>
+<ul>
+<li>ANVIL      (video annotation tool)</li>
+<li>Transana      (video and audio annotation tool)</li>
+<li>CAQDAS      (for discussing tools for qualitative analysis)</li>
+<li>Humdrum      (for music research)</li>
+<li>British      National Corpus (for corpus analysis)</li>
+</ul>
+<p><strong>For sharing and accessing files</strong></p>
+<ul>
+<li>Dropbox</li>
+<li>Subversion</li>
+<li>Macfusion      (for Mac users)</li>
+</ul>
+<p><strong>For sharing and presenting ideas</strong></p>
+<ul>
+<li>Prezi</li>
+</ul>
+<p><strong>For collaboration</strong></p>
+<ul>
+<li>Meetomatic</li>
+<li>Doodle</li>
+<li>Elluminate</li>
+</ul>
+<p><strong>For keeping in touch with the field and with colleagues</strong></p>
+<ul>
+<li>Skype</li>
+<li>Blogs</li>
+<li>Google      Docs</li>
+<li>Plurk</li>
+<li>Friendfeed</li>
+<li>Second      Life</li>
+<li>Netvibes</li>
+<li>Google      Reader</li>
+</ul>
+<p><strong>For funding opportunities</strong></p>
+<ul>
+<li>EPSRC      website</li>
+<li>ESRC      website</li>
+<li>HEA      website and associated RSS feed</li>
+</ul>
+<p><strong>For job opportunities</strong></p>
+<ul>
+<li>LinkedIn</li>
+</ul>]]></description>
+          <pubDate>Fri, 19 Mar 2010 14:49:16 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Research tools: online tools for social scientists</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3153</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3153</guid>
+              <description><![CDATA[<p><strong>For accessing relevant literature</strong></p>
+<ul>
+<li>Abstract      databases</li>
+<li>Email      updates from journals</li>
+<li>Zetoc      alerts</li>
+<li>Amazon</li>
+</ul>
+<p><strong>For managing relevant literature</strong></p>
+<ul>
+<li>EndNote</li>
+</ul>
+<p><strong>For keeping in touch with the field and with colleagues</strong></p>
+<ul>
+<li>JISCmail</li>
+<li>RSS      readers</li>
+<li>Blogs</li>
+<li>iTunesU</li>
+<li>LexisLibrary (legal, tax and regulatory sources)</li>
+<li>OpenLearn      labspace</li>
+<li>Twitter</li>
+</ul>
+<p><strong>For data collection</strong></p>
+<ul>
+<li>Survey      Monkey </li>
+<li>Bristol      Online Survey</li>
+<li>Facebook      (to publicise online surveys)</li>
+</ul>
+<p><strong>For data analysis</strong></p>
+<ul>
+<li>NVivo</li>
+</ul>
+<p><strong>For developing, sharing and presenting ideas</strong></p>
+<ul>
+<li>Slideshare</li>
+<li>Screenjelly</li>
+<li>Skype</li>
+</ul>
+<p><strong>For funding opportunities</strong></p>
+<ul>
+<li>ESRC      website and feeds</li>
+<li>ResearchResearch</li>
+</ul>
+<p><strong>For job opportunities</strong></p>
+<ul>
+<li>jobs.ac.uk</li>
+</ul>]]></description>
+          <pubDate>Fri, 19 Mar 2010 14:07:13 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Career development - why you should think about it now</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3139</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3139</guid>
+              <description><![CDATA[<p>Louise Thomas</p>
+<p>Wednesday 24 March 3.15-4.15pm<br />Workshop 7E<br />Central Meeting Room 01</p>
+<p>It&rsquo;s never too soon to start thinking about what you want to do after your PhD.&nbsp; This session will cover practical things that you can do during your PhD that will help you in the job market, whether remaining in academia or outside.&nbsp; We&rsquo;ll look at your key skills and which you need to think about developing and hints and tips for CV writing.</p>
+<p><strong>Louise Thomas </strong>obtained her BSc Hons. in Geochemistry in 1993 from Royal Holloway College, University of London, then worked in industry as a technical assistant/PA at BP Exploration for the Vietnam team.<strong>&nbsp; </strong>She joined The Open University in 1995 to do a PhD on geochemistry and radioactivity in rocks from the Canary Islands. Since then she has worked in the Department of Earth and Environmental Sciences as Postdoctoral Researcher and then as a project officer managing a suite of labs<strong>.&nbsp; </strong>She is currently works for the NERC Uranium Series facility which covers research into a wide range of topics from palaeo-environment in cave and lake sediments, to evolutions of volcanoes.&nbsp; During her time at the OU, she has worked in the Research School for a 6 month sabbatical organising workshops and conferences and bids for funding. She has facilitated the bi-annual careers course for the PhD researchers (and some for postdoctoral reseachers) for 6 years.</p>]]></description>
+          <pubDate>Sun, 14 Mar 2010 14:22:21 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Getting published in science</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3138</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3138</guid>
+              <description><![CDATA[<p>Nigel Mason</p>
+<p>Wednesday 24 March 3.15-4.15pm<br />Workshop 7D<br />Wilson D Block, HR Learning &amp; Development Centre, Seminar Room 4</p>
+<p>Communicating the results of your research to the wider world is central to the conduct of scientific research and an essential part of your postgraduate studies. But how (and where) do you publish ?</p>
+<p>Organising, compiling and writing a scientific publication is not a trivial exercise and communicating your results effectively to other researchers (and/or wider readership) is something of an art. In this workshop we will discuss: How to decide when your research is ready for publication; How to decide where to publish your research work; How to organise your publication; How to work with co-authors; What is the correct style for a scientific publication? How to submit a publication and what is the refereeing process; and How to respond to referees.</p>
+<p>The session will have time for discussion and questions</p>
+<p><strong>Nigel Mason </strong>is Professor of Molecular Physics at the Open University. His research involves the study of atomic and molecular processes across a wide range of&nbsp;environments&nbsp;including; terrestrial and planetary atmospheres, the interstellar medium, plasmas and cellular systems, the latter as part of a study of radiation damage of biomolecules. He has published over 200 papers in the scientific literature and coordinates several large international research programmes. He has supervised over 20 PhD students. He is currently the Associate Dean for Research, Enterprise and Scholarship in the Faculty of Science.</p>]]></description>
+          <pubDate>Sun, 14 Mar 2010 14:19:32 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Narrative-discursive analysis</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3137</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3137</guid>
+              <description><![CDATA[<p>Jill Reynolds</p>
+<p>Wednesday 24 March 3.15-4.15pm<br />Workshop 7C<br />Wilson D Block, HR Learning &amp; Development Centre, Seminar Room 3</p>
+<p>This workshop will present a qualitative approach to the analysis of interview data, based on discourse analysis and narrative analysis in social psychology. Further details of the approach and an example from my work on single women's narratives of relationships can be found at the link below. The workshop will include discussion of issues around research interviewing and some practice analysis of transcript extracts.</p>
+<p><strong>Jill Reynolds</strong> is a Senior Lecturer in the Faculty of Health &amp; Social Care at The Open University. Her research interests and publications include education, training and practice issues, identity, feminist practice, inter-professional work and meanings of mental health care and support. Her book <em>The Single Woman: a Discursive Investigation</em> (Routledge, 2008) provides a new understanding of what is often taken for granted &ndash; female single identity. She has used the same data (first analysed for her PhD thesis) of interviews with 30 single women in their middle years for several journal articles, some co-authored, on narratives of singleness.</p>]]></description>
+          <pubDate>Sun, 14 Mar 2010 14:09:06 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Skills Audit for Faculty of Science Students</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3136</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3136</guid>
+              <description><![CDATA[<p>James Bruce</p>
+<p>Wednesday 24 March, 3.15-4.15pm<br />7A<br />Library seminar room 1</p>
+<p>A guide to completing the skills audit and using the Mystuff e-portfolio for STM895. The workshop will discuss different types of evidence of skills development and how to submit evidence to the e-portfolio.</p>
+<p><strong>James Bruce</strong> &nbsp;Deputy Associate Dean (Research &amp; Enterprise) for Science</p>
+<p>James has teaching interests in the area of postgraduate study and he&nbsp; is chair of STM895 - Postgraduate research skills in science, technology, mathematics and computing and a member of the S825 Developing research skills in science course team. He currently teaches undergraduate courses in organic chemistry within the Science Faculty and is course team chair of the S346 Drug Design and Synthesis course team.</p>
+<p>James&rsquo; research interests are broadly based around supramolecular photochemistry and the coordination chemistry of the lanthanide metals with applications in chemical sensing and medicinal chemistry. This research combines his interests in non-covalent interactions and photochemistry and the multidisciplinary aspect of the research is reflected in the projects, which range from those with biological applications to those with a more technological aim.</p>]]></description>
+          <pubDate>Sun, 14 Mar 2010 13:51:12 +0000</pubDate>
+            </item>
+                    <item>
+              <title> SocialLearn and Cloudworks: Developing your PhD Skills with online tools</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3135</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3135</guid>
+              <description><![CDATA[<p>Rebecca Ferguson</p>
+<p>Wednesday 24 March, 1.45-2.45pm<br />Workshop 6G<br />Second floor library, Information Suite</p>
+<p>Wednesday 24 March, 3.15-4.15pm<br />Workshop 7G<br />Second floor library, Information Suite</p>
+<p>Cloudworks includes a set of resources that can be used to help you to develop your research skills. It also offers the possibility of discussing these skills online, and sharing useful links and references.</p>
+<p>SocialLearn provides an additional set of tools that support your use of Cloudworks and other relevant websites.</p>
+<p><strong>Rebecca Ferguson</strong> is a Research Fellow in the Knowledge Media Institute at The Open University, working on the university&rsquo;s SocialLearn project. Her main research interest is in how people learn together successfully online. This has included investigations of learners&rsquo; use of forums, blogs, wikis and virtual worlds, and of how these technologies can be used to complement face-to-face interaction. Her PhD, which she completed in IET, focused on the construction of shared knowledge through asynchronous dialogue. Her current focus is on how social learning tools can be used to help postgraduate students locate and make sense of the resources they need.</p>]]></description>
+          <pubDate>Sun, 14 Mar 2010 13:44:44 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Undertaking research presentations</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3134</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3134</guid>
+              <description><![CDATA[<p>Trevor Collins, Ann Jones</p>
+<p>Wednesday 24 March, 1.45-2.45pm<br />Workshop 6F<br />Wilson D Block, HR Learning &amp; Development Centre, Room 4</p>
+<p>Giving presentations is a key part of being a researcher.&nbsp; This session will consider why presentations are important; what makes a good presentation; what makes people nervous in giving talks; how to manage and harness their anxiety; and it will discuss how to prepare for and develop the content of presentations.</p>
+<p><strong>Trevor Collins</strong> is a Research Fellow in the Knowledge Media Institute (KMI) at The Open University.&nbsp; His research interests include technology-enhanced learning, human-computer interaction and artificial intelligence.&nbsp; He helps run the (U501) Doctoral Training Workshops on presentation skills and previously supported PhD students in KMI as the postgraduate tutor responsible for PhD student training.</p>
+<p><strong>Ann Jones</strong> is a Senior Lecturer in the Institute of Educational Technology (IET) at The Open University UK.&nbsp; Her research interests include the evaluation of information and communication technologies, social and affective aspects of using technologies to support learning. In the past she has researched into how technology can support young people&rsquo;s use and development of affective and social skills, whilst more recent work includes reviews of affect and technology and its application to mobile learning. She completed her PhD part time at the Open university and has helped run the (U501) Doctoral Training Workshops on presentation skills.&nbsp; She has also been involved in postgraduate training in other ways - e.g. in developing and setting up the full time MRes.</p>]]></description>
+          <pubDate>Sun, 14 Mar 2010 13:12:55 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Answers to questions! (conference workshop)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3133</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3133</guid>
+              <description><![CDATA[<p>Hilary Burgess, Robert Saunders and Vivien Bacigalupo</p>
+<p>Wednesday 24 March, 1.45-2.45pm<br />Workshop 6E<br />Central Meeting Room 11</p>
+<p>When you started your research student journey you may not have known what the questions were that you needed to ask and many of these may just now be bubbling to the surface!&nbsp; If you have a question about progress issues, the probation review, doing field work, University regulations or future careers then come along and ask this panel of people who have seen a PhD through to the end.&nbsp; We look forward to seeing you there.</p>
+<p><strong>Hilary Burgess</strong> is Director for Postgraduate Studies in the Centre for Research in Education and Educational Technology (CREET). Her work as Director encompasses the full and part-time PhD programme, the part-time&nbsp;Doctorate in Education programme and the MRes programme. From 1<sup>st</sup> March 2010 she will be Academic Coordinator in the Research School and will lead the Research Career Development Team.&nbsp; She is currently Chair of the National EdD Network and External Examiner for the EdD at the&nbsp;University of Roehampton.&nbsp; She is an elected Council Member of the British Educational Research Association (BERA) with a portfolio that encompasses early career researchers and the BERA Committee for Conferences and Networks.&nbsp; Recently, she was appointed as a College Peer Review member for the review of applications for accreditation as a Doctoral Training Centre and Doctoral Training Unit by the ESRC.&nbsp; Her own research and publications&nbsp;have been&nbsp;in the area of primary teaching and mentoring and more recently, Teaching Assistants and Workforce Reform and was a contributing consultant author to the Cambridge Primary Review. She has written numerous articles in journals and chapters in books alongside authoring Open University course materials. Her most recent book is called Achieving Your Doctorate in Education.</p>
+<p><strong>Robert Saunders </strong>is a Reader in Molecular Genetics in the Department of Life Sciences, where he researches the basic biology of ageing.&nbsp; In that research, he uses the fruit fly Drosophila melanogaster as a model system, and takes a genetic approach.&nbsp; From January 2008 until February 2010, he held the potition of Academic Coordinator in the Research School, in which capacity he led the Research Career Development Team.&nbsp; The RCD team is responsible for the delivery of career development events across all disciplines, and for all career stages.</p>
+<p>Robert's research career followed a stereotyped path typical of the sciences.&nbsp; His first degree was in Genetics at the University of Edinburgh.&nbsp; Subsequently he embarked on a career in Drosophila research with a PhD in molecular genetics, also at Edinburgh.&nbsp; From there, he moved to Imperial College and subsequently the University of Dundee for postdoctoral research, during which time he studied the cell cycle, and conducted genomic research, again using the fly as a model.&nbsp; He continued the genomic research while undertaking a Wellcome Trust Senior Fellowship in which&nbsp;&nbsp; techniques he developed for the Drosophila genome project were applied to the medically important fly <em>Anopheles gambiae</em>.</p>
+<p>Robert joined the Open University in 1999, since when his research focus has been on aspects of the basic biology of ageing; specifically on oxidative stress and its relationship to the ageing process, and currently on modelling the human progeroid disorder, Werner's syndrome in flies.</p>
+<p><strong>Vivien Bacigalupo</strong> was appointed to the post of Head of Research Degrees in 2008 following on from her 15 years of experience working for The Open University. She was previously the Head of Partnerships Office having managed or facilitated over 25 successful partnerships. Prior to this she was a Programme Manager in the Faculty of Health and Social Care and a Course Manager in the Science faculty. She has also worked as an Associate Lecturer and was seconded to the Centre for Outcomes Base Education for 6 months. In her various roles she has gained much experience of University Administration and Governance. Prior to joining The Open University, Vivien was a science teacher (12-18 age group), but has also worked as a production manager in a crisp factory and as a technical sales manager for an American company selling modified starches to the food and pharmaceutical industries.</p>]]></description>
+          <pubDate>Sun, 14 Mar 2010 11:32:56 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Academic literacy: writing abstracts</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3131</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3131</guid>
+              <description><![CDATA[<p>Sarah North</p>
+<p>Wednesday 24 March, 1.45-2.45pm<br />Workshop 6D<br />Wilson D Block, HR Learning &amp; Development Centre, Room 3</p>
+<p>This session will focus on the structure and rhetorical moves of conference abstracts. As a group we will consider the criteria for effective abstracts, identify the key elements or &lsquo;moves&rsquo; in a number of abstracts from different disciplines, and look at some features of writing style that may show disciplinary variation. Some sample abstracts will be provided as a starting point for discussion, but you may also like to bring along an example&nbsp;from your own field, or perhaps an abstract you have written yourself.</p>
+<p><strong>Sarah North</strong> works for the OU on a consultancy basis, having previously been a senior lecturer in the Centre for Language and Communication. She has taught English and trained English teachers in a range of overseas contexts, including China, Indonesia, Bangladesh, Tanzania and Mexico.&nbsp; Her doctorate was in academic literacy, and her research interests centre on English for academic purposes, language and literacy, and computer-mediated communication. Her publications include <em>Exploring English Grammar </em>(2009), with Caroline Coffin and Jim Donohue, and <em>Applied Linguistics in Action </em>(2010), with Guy Cook, as well as articles in <em>Applied Linguistics</em>, <em>ELT Journal</em> and <em>Studies in Higher Education</em>.&nbsp;</p>]]></description>
+          <pubDate>Sun, 14 Mar 2010 11:26:21 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Interviewing techniques</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3129</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3129</guid>
+              <description><![CDATA[<p>Dave Middleton</p>
+<p>Wednesday 24 March, 1.45-2.45pm<br />Workshop 6C<br />Central Meeting Room 15</p>
+<p>Wednesday 24 March, 3.15-4.15pm<br />Workshop 7F<br />Central Meeting Room 15</p>
+<p>For those planning on using interviews as a data collection tool, this workshop will cover:</p>
+<ul>
+<li>Negotiating access and gatekeepers</li>
+<li>Establishing rapport</li>
+<li>Types of questions used by interviewers</li>
+</ul>
+<p><strong>Dave Middleton</strong> is a Senior Lecturer in Social Sciences where he is a Staff Tutor in Wales and a member of POLIS. He is Chair of the Higher Education Academy&rsquo;s Centre for Sociology Anthropology and Politics (C-SAP) Advisory Group. Dave has an interest in innovative teaching methods and in July 2007 completed a &pound;250,000 HEFCE funded project PARLE, developing a DVD of postgraduate research training materials aimed specifically at politics students. The DVD &lsquo;<strong>Doing Political Research</strong>&rsquo; was launched at the Houses of Parliament and has the support of a number of departments across the UK. Dave was, until December 2008 Research School Academic Coordinator. He contributes to the Doctoral Training Workshop programme and has taught research methods to hundreds of students including sociologists, political scientists, media studies, financial services managers, strategic management accountants at both undergraduate and postgraduate level. &nbsp;He is currently Chair of the Social Science Masters Foundation modules D822 Investigating the Social World and D821 Investigating the Pyschological World. Dave&rsquo;s thesis on the political use of the concept respect was awarded by the University of London in 2005. He has recently published a number of articles on the subject of e-learning in universities, the most recent in European Political Science (2010) entitled &lsquo;Putting the learning into e-learning&rsquo;<strong></strong></p>]]></description>
+          <pubDate>Sun, 14 Mar 2010 11:22:37 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Academic literacy: genres, priorities and strategies</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3128</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3128</guid>
+              <description><![CDATA[<p>Barbara Mayor</p>
+<p>Wednesday 24 March, 11.45am-12.45pm<br />Workshop 5F<br />Wilson D Block, HR Learning &amp; Development Centre, Room 3</p>
+<p><strong>Academic Literacy: Genres, priorities, strategies, <em>Barbara Mayor</em></strong></p>
+<p>This session focuses on the range of academic genres you are expected to read and write within. We will first discuss some writing strategies, and then spend a large part of the session on the discussion and practice of reading strategies. (This session is a repeat of the first PACE session this academic year, presented by Maria Leedham on 4 November 2009.)</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Barbara Mayor</strong> trained originally as a modern languages teacher, and taught English as a foreign language and English for specific purposes in Europe and Iran. She is now a Lecturer in the Centre for Language and Communication in the Faculty of Education and Language Studies, where she chairs the undergraduate course <em>Exploring the English Language </em>and is Deputy Director for Postgraduate Studies. She also co-ordinates the Professional Academic Communication in English (PACE) programme.&nbsp;</p>
+<p>Barbara has written Open University course materials on a range of topics, including bilingualism, academic literacies and applications of English grammar. With Joan Swann she co-authored a chapter on 'The English language and global teaching' for <em>Distributed Learning: social and cultural approaches to practice</em>&nbsp;(eds Lea and Nicoll, Routledge, 2002). Her latest edited collection is <em>Learning English</em> (eds Mercer, Swann and Mayor, Routledge, 2007), to which she also contributed a chapter on 'Academic&nbsp;writing in English'&nbsp;with Ann Hewings and Theresa Lillis. Thods Conference&nbsp;by Theresa Lillis.)</p>]]></description>
+          <pubDate>Sun, 14 Mar 2010 11:14:59 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Time management for busy researchers</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3120</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3120</guid>
+              <description><![CDATA[<p>Nigel Pugh</p>
+<p>Wednesday 24 March, 11.45am-12.45pm<br />Workshop 5D<br />Central Meeting Room 01</p>
+<p>Many people, not just students, have problems working out how best to use their time and even when they do so they may still struggle to implement what they &lsquo;know&rsquo; they should do. In this session, we will look at some of the most common &ldquo;time wasters&rdquo; and together share tips and flag up important practical ways of overcoming these and other difficulties with managing time, after we&rsquo;ve gained some core insights into different degrees of effective time management.&nbsp; Lessons learned here can benefit your productivity as a researcher and could make all the difference to your career success.</p>
+<p><strong>Nigel Pugh </strong>is HR Development Adviser to the Research School, and also a freelance Development Consultant.&nbsp; After some pioneering research in the philosophy of religion, he turned to human psychology and skills development to explore human potential and how to overcome the many challenges people face in their lives and work.&nbsp; This led to the study and practice of a remarkable host of people development, coaching, peak performance and psychometric tools. His work here at the OU is focused on utilising the most relevant parts of these study areas more widely, through the provision of appropriate training for researchers, managers and staff.&nbsp;&nbsp; Lately among researchers he has pioneered and developed innovative highly rated trainings in Mentoring and also Networking skills. &nbsp;Nigel has studied and implemented some of the most cutting edge time management systems on the market and brings a selection of tips and tools today in this short session.</p>]]></description>
+          <pubDate>Sun, 14 Mar 2010 08:22:11 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Combining study with family</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3119</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3119</guid>
+              <description><![CDATA[<p>P Afra Hmensa</p>
+<p>Wednesday 24 March, 10.30-11.30am<br /> Workshop 4F</p>
+<p>Wilson D Block, HR Learning &amp; Development Centre, Room 4</p>
+<p>This session looks at techniques and principles for successfully combining study and family life. It also considers the inclusion of paid work into the mix and the resulting time management needs! Case studies of successful students will be presented and their key strategies highlighted. Furthermore, the session examines a small survey which was carried out recently amongst OU postgraduate students who share their top tips for maintaining a reasonable study/life balance. Participants will have the chance to consider the survey ideas and to share their own ways of coping.</p>
+<p><strong>P. Afrakoma Hmensa</strong> is a full-time Ph.D. student at the Centre of Language and Communication in the Faculty of Education and Language Studies, The Open University.&nbsp; She holds both BA &amp; MPhil degrees in English and Linguistics from the University of Ghana and the Norwegian University of Science and Technology respectively. She has since had her MRes in Education from the Open University and is currently working towards a Ph.D. titled <em>Communicative strategies in Ghanaian radio ads: the producer, the text and the audience</em>. She is particularly interested in language use in the media, in second-language situations, and also in technologically mediated communication and has recently co-authored a&nbsp; chapter on Ghana in M. Krzanowksi (Ed.) 2009, <em>English for occupational and academic purposes in developing, emerging and least developed countries</em>. She has combined study and family life throughout her second and third degrees.</p>]]></description>
+          <pubDate>Sun, 14 Mar 2010 08:03:40 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Ethics and research: the OU framework</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3118</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3118</guid>
+              <description><![CDATA[<p>Sheila Peace</p>
+<p>Wednesday 24 March, 10.30-11.30am<br />Workshop 4E<br />Library seminar room 1</p>
+<p>Wednesday 24 March, 11.45am-12.45pm<br /> Workshop 5E<br /> Library seminar room 1</p>
+<p>This workshop will start with a review of the history and recent developments of research ethics, covering both medical and social science areas. This will aim to show the range of issues that arise when considering whether a proposed study is ethical or not. After an opportunity for discussion, there will then be a summary of the Open University governance arrangements for ethical review. The workshop will conclude with a discussion of issues raised by those present.</p>
+<p><strong>Shelia Peace </strong>is Professor of Social Gerontology within the Faculty of Health and Social Care.&nbsp; A social geographer by first discipline, she gained her PhD in the area of environment and ageing in 1977.&nbsp; Sheila has maintained an on-going research career - funded through DH, ESRC, Joseph Rowntree Foundation and Local Authorities - concerned with quality of life issues for older people living in care homes, mainstream housing and supportive housing as well as social interaction within the community.&nbsp; She joined The OU in 1991 and with colleagues in the Centre for Ageing and Biographical Studies (CABS) has contributed to the development of participatory research involving older people.&nbsp; She has recently come to the end of a long period as Associate Dean (Research) within the Faculty and is currently working on collaborative research concerning the &lsquo;kitchen&rsquo; with ergonomic colleagues from Loughborough University within the ESRC led New Dynamics of Ageing programme.&nbsp; Sheila is a member of the Executive Committee of the British Society of Gerontology and was recently appointed to the Academy of Social Sciences.&nbsp; Widely published she edited the text <em>Researching Social Gerontology</em> in 1990; contributed to the new edition <em>Researching Ageing and Later Life</em> in 2002 and has examined eighteen PhDs.&nbsp; She has developed Ethical Guidelines for the BSG and is currently the Deputy Chair of the OU&rsquo;s Human Participants and Materials Ethics Committee.&nbsp; <strong></strong></p>]]></description>
+          <pubDate>Sun, 14 Mar 2010 07:49:25 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Ethical conduct in science</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3117</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3117</guid>
+              <description><![CDATA[<p>Payam Rezaie</p>
+<p>Wednesday 24 March, 10.30-11.30am<br />Workshop 4D<br />Central Meeting Room 15</p>
+<p>This workshop examines the general principles of ethical conduct in science,&nbsp;the need for scientific ethics, the basis for the rules of conduct and ethical standards, and how these may conflict. The responsibilities of the researcher, their institution, grant funding agencies and scientific journals in ensuring the integrity of the scientific process, will be highlighted, and a distinction made between what does and does not constitute scientific misconduct. The workshop is based on the OU STM895 (Postgraduate Research Skills in Science, Technology, Maths and Computing)&nbsp;course units on&nbsp;(i) 'Ethical Conduct in Science' and (ii) 'Intellectual Property, Copyright Issues ('Rights') and Responsibilities in Research', written by the facilitator. Copies&nbsp;will be available on the day.</p>
+<p><strong>Payam Rezaie</strong>&nbsp;is a Reader in Neuropathology in the Department of Life Sciences at the Open University. He studied Physiology at King&rsquo;s College London, and completed a Masters degree in Neuroscience and a PhD in Neuropathology and Neuroimmunology at the Institute of Psychiatry (London). He has held an honorary academic appointment at the Institute since 2001, and contributed significantly to postgraduate teaching at both the Institute of Psychiatry and the Open University, including seminars and course materials covering a wide aspect of topics from Neuroscience and Postgraduate Research Skills to Ethics and Intellectual Property. Dr Rezaie&rsquo;s research interests and expertise lie in clinical and experimental neuropathology and in developmental neurobiology, with a number of ongoing international research collaborations. His current research centres on the following key areas: (i) understanding the neurobiology of autism, (ii) determining the origin and cell lineage of microglia, (iii) characterising neurogenic stem cells in normal human brain development and in neurodegenerative disorders, and (iv) examining the pathogenesis of Alzheimer&rsquo;s and Huntington&rsquo;s diseases. His studies into the neurobiology of autism have been funded by Autism Speaks (USA).</p>]]></description>
+          <pubDate>Sun, 14 Mar 2010 07:40:20 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Getting published</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3116</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3116</guid>
+              <description><![CDATA[<p>Marian Petre</p>
+<p>Wednesday 24 March, 10.30am-11.30am<br />Workshop 4B<br />Central Meeting Room 11</p>
+<p>This session will talk through a realistic approach to getting research papers published, and will touch on topics such as: identifying appropriate publication targets; characterising the evidence; key ingredients; setting appropriate expectations; and dealing with reviewers - the actual topics will be tailored to the participants on the day.</p>
+<p><strong>Marian Petre&rsquo;s</strong> research follows two main strands &ndash; expert software design (how experts reason and communicate about design and problem solving, and how they use representations in their reasoning) and computer science education (how expertise develops).&nbsp; Marian is Director of the Centre for Research in Computing, acting Postgraduate Research Tutor in Computing and supervisor of a number of PhD research students.&nbsp; She was part of the team that developed the Research Degrees Skills website.&nbsp; The second edition of her book with Gordon Rugg on &lsquo;The Unwritten Rules of PhD Research&rsquo; has just been published.</p>]]></description>
+          <pubDate>Sun, 14 Mar 2010 07:33:52 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Academic literacy: process, texts and communities</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3115</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3115</guid>
+              <description><![CDATA[<p>Barbara Mayor</p>
+<p>Wednesday 24 March, 10.30am-11.30am<br />Workshop 4A<br />Wilson D Block, HR Learning &amp; Development Centre, Room 3</p>
+<p>This session focuses on the process of academic writing from planning to proof-reading, as well as&nbsp;on the range of different text types you may be called upon to produce, each with its different conventions depending on the purpose or audience. (This session is a repeat of the session presented at last year's Methods Conference&nbsp;by Theresa Lillis.)</p>
+<p><strong>Barbara Mayor</strong> trained originally as a modern languages teacher, and taught English as a foreign language and English for specific purposes in Europe and Iran. She is now a Lecturer in the Centre for Language and Communication in the Faculty of Education and Language Studies, where she chairs the undergraduate course <em>Exploring the English Language </em>and is Deputy Director for Postgraduate Studies. She also co-ordinates the Professional Academic Communication in English (PACE) programme.&nbsp;</p>
+<p>Barbara has written Open University course materials on a range of topics, including bilingualism, academic literacies and applications of English grammar. With Joan Swann she co-authored a chapter on 'The English language and global teaching' for <em>Distributed Learning: social and cultural approaches to practice</em>&nbsp;(eds Lea and Nicoll, Routledge, 2002). Her latest edited collection is <em>Learning English</em> (eds Mercer, Swann and Mayor, Routledge, 2007), to which she also contributed a chapter on 'Academic&nbsp;writing in English'&nbsp;with Ann Hewings and Theresa Lillis. Thods Conference&nbsp;by Theresa Lillis.)</p>]]></description>
+          <pubDate>Sun, 14 Mar 2010 07:22:31 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Questionnaire design</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3114</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3114</guid>
+              <description><![CDATA[<p>Dave Middleton</p>
+<p>Wednesday 24 March, 11.45am-12.45pm<br />Workshop 5B<br />Central Meeting Room 15</p>
+<p>For those planning on using questionnaires as a data collection tool, this interactive workshop will provide guidance on questions to avoid and some common pitfalls faced by those designing questionnaires for the first time.</p>
+<p><strong>Dave Middleton</strong> is a Senior Lecturer in Social Sciences where he is a Staff Tutor in Wales and a member of POLIS. He is Chair of the Higher Education Academy&rsquo;s Centre for Sociology Anthropology and Politics (C-SAP) Advisory Group. Dave has an interest in innovative teaching methods and in July 2007 completed a &pound;250,000 HEFCE funded project PARLE, developing a DVD of postgraduate research training materials aimed specifically at politics students. The DVD &lsquo;<strong>Doing Political Research</strong>&rsquo; was launched at the Houses of Parliament and has the support of a number of departments across the UK. Dave was, until December 2008 Research School Academic Coordinator. He contributes to the Doctoral Training Workshop programme and has taught research methods to hundreds of students including sociologists, political scientists, media studies, financial services managers, strategic management accountants at both undergraduate and postgraduate level. &nbsp;He is currently Chair of the Social Science Masters Foundation modules D822 Investigating the Social World and D821 Investigating the Pyschological World. Dave&rsquo;s thesis on the political use of the concept respect was awarded by the University of London in 2005. He has recently published a number of articles on the subject of e-learning in universities, the most recent in European Political Science (2010) entitled &lsquo;Putting the learning into e-learning&rsquo;.</p>]]></description>
+          <pubDate>Sun, 14 Mar 2010 07:16:57 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Probation assessment</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3113</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3113</guid>
+              <description><![CDATA[<p>Tuesday 23 March, 11.30am-12.30pm</p>
+<p>Workshop 1</p>
+<p>During this session a representative from your faculty will take you through the probation assessment process and answer any queries you may have.</p>
+<p><strong>Arts<br />Rosemary O'Day</strong> is a long-serving member of the OU History Department, is now Professor of History and a former Head of the History Department. She received her first class honours degree in history from the University of York and her Ph.D. in history from the University of London. She has taught at the Universities of Birmingham and Maryland and has held several honours and fellowships. She is the author of many history books and articles. Her particular historical interests include the history of the professions, the family, of women, and of social investigation and reform in the early modern and modern periods. She was Director of the Charles Booth Centre. She has contributed to many Arts courses at the Open University and has supervised many students to successful completion of their Ph.D. degrees.</p>
+<p><strong>Science<br />Robert Saunders </strong>is a Reader in Molecular Genetics in the Department of Life Sciences, where he researches the basic biology of ageing.&nbsp; In that research, he uses the fruit fly Drosophila melanogaster as a model system, and takes a genetic approach.&nbsp; From January 2008 until February 2010, he held the position of Academic Coordinator in the Research School, in which capacity he led the Research Career Development Team.&nbsp; The RCD team is responsible for the delivery of career development events across all disciplines, and for all career stages.</p>
+<p>Robert's research career followed a stereotyped path typical of the sciences.&nbsp; His first degree was in Genetics at the University of Edinburgh.&nbsp; Subsequently he embarked on a career in Drosophila research with a PhD in molecular genetics, also at Edinburgh.&nbsp; From there, he moved to Imperial College and subsequently the University of Dundee for postdoctoral research, during which time he studied the cell cycle, and conducted genomic research, again using the fly as a model.&nbsp; He continued the genomic research while undertaking a Wellcome Trust Senior Fellowship in which&nbsp;&nbsp; techniques he developed for the Drosophila genome project were applied to the medically important fly Anopheles gambiae.</p>
+<p>Robert joined the Open University in 1999, since when his research focus has been on aspects of the basic biology of ageing; specifically on oxidative stress and its relationship to the ageing process, and currently on modelling the human progeroid disorder, Werner's syndrome in flies.</p>
+<p><strong>OUBS<br />Kirsty Ball</strong><strong> </strong>is Senior Lecturer in Organization Studies and Director of Research Degrees in the Business School. She gained her PhD from Aston Business School in 1996 and since then has held posts at Warwick and Birmingham Business Schools, before joining the Open University in 2004.&nbsp; Her research interests are surveillance in and around organizations and in society, and she has published extensively, in a wide variety of formats, on this issue. She is founding co-director of Surveillance Studies Network and co-editor of the journal Surveillance and Society. &nbsp;Her research is currently funded by The Leverhulme Trust, the Social Sciences and Economic Research Council of Canada, the Economic and Social Research Council and the EU-COST network.&nbsp; She consults to the UK Information Commissioner&rsquo;s office, producing A Report on the Surveillance Society, with Surveillance Studies Network, in 2006, and an update to the report in 2010.&nbsp; The first report prompted parliamentary committee enquiries from the Home Affairs Select Committee and the House of Lords Constitution Committee, and the update will be used to inform future select committee enquiries. &nbsp;She frequently appears in the media to comment on aspects of the surveillance society both in the UK and internationally. &nbsp;She is also the first OUBS academic to be granted membership of the Centre for Citizenship, Identities and Governance, a privilege usually reserved for academics in the social sciences faculty (!)</p>
+<p><strong>Social Science<br />Gail Lewis </strong>is Reader in Identities and Psychosocial Studies in the Faculty of Social Sciences.&nbsp; She gained her PhD from the Open University in 1996 in the Department of Social Policy and Criminology after which she joined that department as a member of academic staff teaching and researching processes of racialisation and gendering in social policy discourses and practices; and the relation between racialisation and citizenship status and experience.&nbsp; She was at Lancaster University in the Institute of Women's Studies (now the Centre for Gender and Women's Studies) before returning to the OU in the Psychology Department.&nbsp; Her current research interests focus on the intersecting psychic, social and cultural processes through which subjectivity is constituted, especially in relation to racialised and gendered experience.&nbsp; She traces the multiple and contradictory social and psychic emotional geographies of affiliation and belonging that are inscribed in narratives of experience.&nbsp; She is training as a psychodynamic psychotherapist.&nbsp; She is co-editor of the <em>European Journal of Women's Studies</em> and on the Editorial Boards of <em>Social Politics</em> and the e-journal <em>Studies in the Maternal.</em></p>
+<p><strong>Maths, Computing and Technology/KMI<br />Marian Petre&rsquo;s </strong>research follows two main strands &ndash; expert software design (how experts reason and communicate about design and problem solving, and how they use representations in their reasoning) and computer science education (how expertise develops).&nbsp; Marian is Director of the Centre for Research in Computing, acting Postgraduate Research Tutor in Computing and supervisor of a number of PhD research students.&nbsp; She was part of the team that developed the Research Degrees Skills website.&nbsp; The second edition of her book with Gordon Rugg on &lsquo;The Unwritten Rules of PhD Research&rsquo; has just been published.</p>
+<p><strong>CREET (FELS/IET)<br />Hilary Burgess</strong><strong> </strong>is Director for Postgraduate Studies in the Centre for Research in Education and Educational Technology (CREET). Her work as Director encompasses the full and part-time PhD programme, the part-time&nbsp;Doctorate in Education programme and the MRes programme. From 1<sup>st</sup> March 2010 she will be Academic Coordinator in the Research School and will lead the Research Career Development Team.&nbsp; She is currently Chair of the National EdD Network and External Examiner for the EdD at the&nbsp;University of Roehampton.&nbsp; She is an elected Council Member of the British Educational Research Association (BERA) with a portfolio that encompasses early career researchers and the BERA Committee for Conferences and Networks.&nbsp; Recently, she was appointed as a College Peer Review member for the review of applications for accreditation as a Doctoral Training Centres and Doctoral Training Units by the ESRC.&nbsp; Her own research and publications&nbsp;have been&nbsp;in the area of primary teaching and mentoring and more recently, Teaching Assistants and Workforce Reform and was a contributing consultant author to the Cambridge Primary Review. She has written numerous articles in journals and chapters in books alongside authoring Open University course materials. Her most recent book is called Achieving Your Doctorate in Education.</p>
+<p><strong>HSC<br />Lindsay O&rsquo;Dell</strong> is director of post graduate studies in the Faculty of Health and Social Care.&nbsp; Her research interests focus on children and young people who are in some way &lsquo;different&rsquo;, including working children, with a visible difference and children with autism.&nbsp;</p>]]></description>
+          <pubDate>Sat, 13 Mar 2010 21:17:17 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Experimental psychology research methods</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3112</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3112</guid>
+              <description><![CDATA[<p>Peter Naish</p>
+<p>Tuesday 23 March, 2.45pm-3.45pm<br /> Workshop 3E</p>
+<p>Wilson D Block, HR learning and development centre, seminar room 4</p>
+<p>This session will consider issues in experimental design, data analysis and ethics for postgraduate research students. The session will refer to some example studies to illustrate the range of methods available to students. The session&nbsp;will also inform students on the relevant OU procedures for carrying out research with human participants.</p>
+<p><strong>Peter Naish</strong> is a Cognitive Psychologist, with a wide research background, including applied research for the Ministry of Defence and for the Home Office.&nbsp; He has written extensively for OU courses and for many years chaired the course team for the 3rd level course on Cognitive Psychology.&nbsp; Peter's current research interests are largely concerned with the nature of consciousness, hallucinations and time perception, with a particular interest in hypnosis.&nbsp; He is chair of council of the British Society of Academic and Clinical Hypnosis and President-elect of the Royal Society of Medicine's section devoted to hypnosis.&nbsp; He frequently appears as an expert witness in court cases relating to psychological issues, and also in radio and TV programmes.&nbsp; Peter is an enthusiastic disseminator of science!&nbsp; He is regularly asked to speak at the major science festivals: Cheltenham, Edinburgh and the British Science Association.</p>]]></description>
+          <pubDate>Sat, 13 Mar 2010 21:11:15 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Fieldwork with people</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3111</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3111</guid>
+              <description><![CDATA[<p>Mary Upton</p>
+<p>Tuesday 23 March, 2.45pm-3.45pm<br /> Workshop 3D</p>
+<p>Central Meeting Room 15</p>
+<p>This session will examine some of the issues and challenges in doing fieldwork with people (in any setting). In particular it will look at:</p>
+<ul>
+<li>The place of fieldwork in research</li>
+<li>Setting up and doing fieldwork</li>
+<li>Collecting, recording and analysing data</li>
+</ul>
+<p><strong>Mary Upton&rsquo;s </strong>first degree<strong> </strong>was in Sociology with Research Training at the University of Bath and her MPhil is in Politics from the University of Bristol.&nbsp; She began her academic career teaching Sociology and Health and Social Care, moving on to teach Social Science at the Open University as an Associate Lecturer.&nbsp; Before resuming her studies, she gained a Masters in Research Training in International Development at the University of Bath.&nbsp;</p>
+<p>Her research interests are in global health governance, social justice, citizenship and participatory development.&nbsp; Before beginning her PhD at the Open University she contributed a case study to the Masters course TU870, &lsquo;Capacities for Managing Development&rsquo;, entitled &lsquo;The Summertown HIV prevention Project&rsquo;.&nbsp; Currently, she is writing up her thesis focusing on community engagement in local health initiatives.&nbsp; Her field work was undertaken in South Africa in two HIV vaccine clinical trial sites in Cape Town and Soweto.&nbsp;&nbsp;&nbsp;</p>]]></description>
+          <pubDate>Sat, 13 Mar 2010 21:09:01 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Doing scientific experiments: experiment design</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3110</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3110</guid>
+              <description><![CDATA[<p>Peter van Calsteren</p>
+<p>Tuesday 23 March,<br /> 2.45pm-3.45pm<br />Workshop 3C<br />2nd floor. library, research meeting room</p>
+<p>The &lsquo;official&rsquo; guidance to Designing Experiments is in STM895, and various aspects are also discussed in other sessions; this talk is based on my personal experience and practice in <strong>doing experiments. </strong>I will talk about:</p>
+<ul>
+<li>Excellence and Impact</li>
+<li>Research methods and approach</li>
+<li>Practical aspects of sample collection and laboratory work: methods and protocols</li>
+<li>Data reduction and evaluation, significance, wider implications</li>
+<li>General principles of: personal conduct, reduction of variables, reproducibility,&nbsp; and Risk Assessment</li>
+<li>Sir David King: code of conduct</li>
+</ul>
+<p><strong>Peter van Calsteren</strong> did his PhD in Leiden, The Netherlands in 1977 and came to the OU in 1980 on a 3 year research fellowship for the Petrogenesis Research Group. He has been a Senior Research Fellow since 2001 in the Department of Earth and Environmental Sciences.</p>
+<p>His main research interests are in Isotope Geochemistry and include a wide range of topics related by the use of short half-life uranium daughter isotopes. This includes applications to the evolution of volcanic rocks, dating paleo-climate archives and paleo-anthropology. It also includes the related analytical methods, mostly mass spectrometry and laboratory methods and their design and safe application. He is running a NERC-funded facility at the OU to do collaborative research projects with other UK HEI colleagues and usually he has a large input into the design of these projects. He is a Fellow of the Royal Society of Chemistry and a member of the NERC Peer Review College.</p>
+<p>He would like to see himself as a field and experimental scientist, although he doesn&rsquo;t see much of the inside of a chemistry lab these days.</p>]]></description>
+          <pubDate>Sat, 13 Mar 2010 21:01:51 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Project management</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3109</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3109</guid>
+              <description><![CDATA[<p>Roger Pitfield</p>
+<p>Tuesday 23 March, 2.45pm-3.45pm<br />Workshop 3B<br />Central Meeting Room 01</p>
+<p>Wednesday 24 March , 10.30am-11.30am<br />Workshop 4C<br />Central Meeting Room 01</p>
+<p>Wednesday 24 March , 1.45-2.45pm<br />Workshop 6A<br />Central Meeting Room 01</p>
+<p><em>If you don&rsquo;t know where you are headed any wind will do.</em> Seneca</p>
+<p>This session will stress the importance of sound - yet flexible - project management to the successful completion of your degree.&nbsp; It will introduce you to a valuable selection of simple but very effective tools and techniques that can be used at different stages in the PhD process. It will be hands-on as well as thought provoking, and will also signpost a range of further resources.</p>
+<p><strong>Roger Pitfield</strong> has an OU MBA and is a long-serving OUBS tutor.&nbsp; He is an independent management consultant/developer and is currently working on campus within the Strategy Unit in the Research School&rsquo;s Policy Governance &amp; Information (PGI) team and the Futures Office.&nbsp; His interests are coaching and personal development and management theory.&nbsp; His motto for life is: &lsquo;<em>there is no great delight in owning anything unshared!&rsquo;</em></p>]]></description>
+          <pubDate>Sat, 13 Mar 2010 20:52:14 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Introduction to statistical analysis</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3108</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3108</guid>
+              <description><![CDATA[<p>Paul Garthwaite</p>
+<p>Tuesday 23 March, 2.45pm-3.45pm<br />Workshop 3A<br />Central Meeting Room 11</p>
+<p>Wednesday 24 March, 3.15-4.15pm<br /> Workshop 7B<br /> Central Meeting Room 11</p>
+<p><em>If you&nbsp;think your research will have a&nbsp;quantitative component that may involve some statistical analysis then please attend this session. If you are not sure about whether you will be using statistics in your research&nbsp;but would like to know&nbsp;about the role of statistics in research then this workshop is also for you.&nbsp;The workshop will introduce the use of statistics in research as well as the statistical advisory service that is available to support your research at the OU. You will be able to talk about your research and discuss any early concerns you have about any future statistical analysis you may perform.</em></p>
+<p><em><strong>Paul Garthwaite </strong></em><em>is Professor of Statistics at the Open University. He obtained a first degree in mathematics from Oxford and a PhD in Statistics from Aberystwyth. His PhD thesis won an international prize. He has a broad range of interests in statistical theory and much practical experience of designing experiments and analysing data in medical applications, psychology, and human and animal nutrition. He has jointly supervised PhD students working in the OU Departments of Earth Sciences and Computing (as well as Mathematics and Statistics) and others working in forestry, fisheries and public health.&nbsp; Paul has co-authored two books and eighty papers. Currently he is Head of the Statistics Group and leads the Statistical Advisory Service.</em></p>]]></description>
+          <pubDate>Sat, 13 Mar 2010 20:43:06 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Introduction to EndNote</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3107</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3107</guid>
+              <description><![CDATA[<p>Lesley Kumiega, Sheila Chudusama and Stephen Gray</p>
+<p>Tuesday 23 March, 1.30pm-3.30pm<br />Workshop 2F-3F (two hours)<br />Second floor library, Information Literacy Suite</p>
+<p>Wednesday 24 March, 10.30am-12.45pm<br /> Workshop 4G-5G (two hours plus break)<br />Second floor library, Information Literacy Suite</p>
+<p>Find out how to use the End Note bibliographic management tool, which will enable you to keep a library database of your references and citations.&nbsp; You will learn how to create a library and use it to search, import and store references from a variety of sources; and also how to instantaneously create a bibliography in your Word documents.</p>
+<p><strong>Learning &amp; Teaching Librarians</strong> who will be running the information management (EndNote) and drop-in sessions are experienced subject librarians. They deliver training sessions on all aspects of information literacy for central and regional academics, researchers, associate lecturers and, on occasion, for students. They work with course teams to develop information skills activities to support course and programme learning outcomes, and also work with their assigned faculties to develop appropriate electronic and print collections to support OU teaching and research.&nbsp; <strong></strong></p>]]></description>
+          <pubDate>Sat, 13 Mar 2010 20:29:44 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Literature review for scientists</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3106</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3106</guid>
+              <description><![CDATA[<p>Robert Saunders</p>
+<p>Tuesday 23 March, 1.30pm-2.30pm<br /> Workshop 2E</p>
+<p>Wilson D Block, HR Learning &amp; Development Centre, Seminar Room 4</p>
+<p>As a research student, it is vitally important to keep abreast of the literature as it pertains to your research field.&nbsp; There are two points during your studentship where this is likely to be assessed formally: at probation Review and at the final Viva Voce examination.</p>
+<p>The scientific literature is always changing, is often very fast moving, and it is wise to make plans and efforts to keep up to date at all times, and not just in preparation for the assessments mentioned above.&nbsp; This session will cover the following topics: Exploring the purposes of the ongoing literature review; Identifying the sources; Internet searching; Structuring your review; Organising your materials; Working together to review the literature.</p>
+<p><strong>Robert Saunders </strong>is a Reader in Molecular Genetics in the Department of Life Sciences, where he researches the basic biology of ageing.&nbsp; In that research, he uses the fruit fly Drosophila melanogaster as a model system, and takes a genetic approach.&nbsp; From January 2008 until February 2010, he held the position of Academic Coordinator in the Research School, in which capacity he led the Research Career Development Team.&nbsp; The RCD team is responsible for the delivery of career development events across all disciplines, and for all career stages.</p>
+<p>Robert's research career followed a stereotyped path typical of the sciences.&nbsp; His first degree was in Genetics at the University of Edinburgh.&nbsp; Subsequently he embarked on a career in Drosophila research with a PhD in molecular genetics, also at Edinburgh.&nbsp; From there, he moved to Imperial College and subsequently the University of Dundee for postdoctoral research, during which time he studied the cell cycle, and conducted genomic research, again using the fly as a model.&nbsp; He continued the genomic research while undertaking a Wellcome Trust Senior Fellowship in which&nbsp;&nbsp; techniques he developed for the Drosophila genome project were applied to the medically important fly <em>Anopheles gambiae</em>.</p>
+<p>&nbsp;</p>
+<p>Robert joined the Open University in 1999, since when his research focus has been on aspects of the basic biology of ageing; specifically on oxidative stress and its relationship to the ageing process, and currently on modelling the human progeroid disorder, Werner's syndrome in flies.</p>
+<p>(See also Workshop 2C: The literature review.)</p>]]></description>
+          <pubDate>Sat, 13 Mar 2010 20:14:34 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Online supervision: from Skype to Second Life</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3105</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3105</guid>
+              <description><![CDATA[<p>Lucia Rapanotti</p>
+<p>Tuesday 23 March, 1.30pm-2.30pm<br />Workshop 2D<br />Library second floor, Research Meeting Room</p>
+<p>Wednesday 24 March, 1.45pm-2.45pm<br /> Workshop 6B<br /> Library second floor, Seminar room 1</p>
+<p>The workshop is an introduction to online tools that can be used for remote research supervision. It will include a demo of three technologies (Skype, Elluminate Live and Second Life) with their different modes of interaction, instructions on how to get started, and a discussion and some practical tips for effective remote supervision based on our practice in the Computing Department. The workshop is tailored to novice users, but any contribution to the discussion from experienced users would be very welcome.</p>
+<p><strong>Lucia Rapanotti</strong> is a Senior Lecturer in the Computing Department, with a <em>Laurea Cum Laude</em> (Milan, Italy) and a PhD (Newcastle upon Tyne, UK) in Computer Science. She is a Member of the Editorial Board of <em>Expert Systems, The Journal of Knowledge Engineering</em> and a Member of the BCS. Previously she was Editor-in-Chief of <em>Expert Systems</em>, and Secretary of the BCS<em> Requirements Engineering Specialist Group</em>.</p>
+<p>Her main research focus is problem solving and design, in particular in the engineering of software intensive systems, and she is co-inventor of the Problem Oriented Engineering framework. She has published widely in international conferences and journals, and is a member of numerous international programme committees.</p>
+<p>Lucia has been with the OU since 1996. She has worked on many courses and award boards at undergraduate and postgraduate levels, with roles that span from educational software design to academic authoring and editing, to production and presentation chair.</p>
+<p>Lucia is Production Manager and co-Chair of the Virtual MPhil, and she supervises several PhD, MPhil and MSc students.</p>]]></description>
+          <pubDate>Sat, 13 Mar 2010 19:57:04 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Undertaking a literature review</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3104</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3104</guid>
+              <description><![CDATA[<div>
+<p>Stephen Potter</p>
+<p>Tuesday 23 March, 1.30pm-2.30pm<br />Workshop 2C<br />Central Meeting Room 01</p>
+<p>Wednesday 24 March, 11.45am-12.45pm<br /> Workshop 5C<br /> Wilson D Block, HR Learning &amp; Development Centre, Room 4</p>
+<p>This session is based upon Chapter 7 of <em>Doing Postgraduate Research. </em>It will explore the purposes of a Literature Review, discuss sources to be used in a review and look at ways a Review can be structured. The workshop will be based upon the session run in November for full-time students, so is essentially for part-time students who could not attend that session or any full-timers who missed it then.</p>
+<p><strong>Stephen Potter</strong> obtained his PhD as a full-time OU student in Social Sciences, later became a Research Fellow in the Technology Faculty and is now the Professor of Transport Strategy in the Faculty of Maths, Computing and Technology. His research interests cover transport, energy and environmental policy issues. With Dave Wield, he started the Doctoral Training workshop programme in 1992 and co-chaired the development of the U500 and U501 research packs, including editing the U501 book <em>Doing Postgraduate Research</em>. He is chair of the Research Degrees Committee and somehow finds time to sing in the OU Choir, play in our orchestra and comp&egrave;re the OU's annual carol concert.</p>
+(See also 'workshop 2E: Literature review for scientists.)</div>]]></description>
+          <pubDate>Sat, 13 Mar 2010 19:37:05 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Recognising research problems</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3045</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3045</guid>
+              <description><![CDATA[<h2>Research Skills required by PhD students</h2>
+<p><strong>A1: The ability to recognise and validate problems</strong></p>
+<h2>Check this skill</h2>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Can you identify the research questions addressed in the research papers that you read?</li>
+<li>Have you clearly defined the research question(s) you will pursue in your PhD?</li>
+<li>Can you develop valid research hypotheses from your research question?</li>
+<li>Can you give examples from the literature of problems that have been addressed by others, explain why those researchers addressed the problems as they did and discuss the advantages and disadvantages of those approaches?</li>
+<li>Can you explain the sorts of evidence and/or arguments that are seen as valid in your field?</li>
+<li>Can you design a research study that addresses one of those research questions?</li>
+</ul>
+<h2>Evidence of this skill</h2>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>The research question component of your probation assessment</li>
+<li>Notes from a discussion on gaps in the literature</li>
+<li>Written analysis of problems addressed in the literature (for example, in a selection of studies) with a description of how the problems were addressed, and a discussion of the benefits and limitations of those approaches.</li>
+</ul>
+<p><em>This page is based upon material produced by The Open University&rsquo;s research school to support doctoral students. </em></p>]]></description>
+          <pubDate>Tue, 09 Mar 2010 15:25:24 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Presenting yourself to employers</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3043</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3043</guid>
+              <description><![CDATA[<p>Research Skills required by PhD students G4: Present one's skills, personal attributes and experiences through effective CVs, applications and interviews</p>
+<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Have you participated in practise job interviews and mock interviews? </li>
+<li>Can you summarise lessons you learned from those experiences? </li>
+<li>Can you give a list of standard interview questions, and have you thought about how you might answer them? </li>
+<li>Can you describe what psychometric testing is and how it is used in recruitment? </li>
+<li>Do you keep your c.v. up-to-date? </li>
+<li>Has your c.v. been reviewed by a career counsellor or a colleague with substantial interview experience? </li>
+<li>Can you tailor your CV to meet a job specification? </li>
+<li>Can you prepare effective CVs to meet academic and non-academic requirements, </li>
+<li>Can you write a relevant and engaging cover letter? </li>
+<li>Do you know how your extra-curricular activities contribute to your employability? </li>
+<li>Have you mapped your skills and experience onto 'person specifications' for jobs of interest to you? </li>
+<li>Can you give examples of how you demonstrate your personal qualities, skills, and abilities? </li>
+<li>Have you researched prospective companies/ Higher Education Institutions? </li>
+<li>Are you aware of the network role in finding job opportunities? </li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>Probation mini-viva.</li>
+<li>Up-to-date cvs, tailored to academic and industrial job opportunities.</li>
+<li>A one page cv to use when 'cold calling' or seeking interviews</li>
+<li>A record of work shadowing</li>
+<li>A record of participation in career days and other career management training opportunities.</li>
+<li>A covering letter for a job application</li>
+<li>Written work set by interview panel</li>
+<li>PowerPoint presentation in support of application</li>
+<li>Evidence having researched prospective companies/Institutions</li>
+</ul>
+<p><em>This page is based upon material produced by The Open University&rsquo;s research school to support doctoral students. </em></p>]]></description>
+          <pubDate>Tue, 09 Mar 2010 11:53:38 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Identifying transferable skills</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3042</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3042</guid>
+              <description><![CDATA[<p>Research Skills required by PhD students G3: Demonstrate an insight into the transferable nature of research skills to other work environments and the range of career opportunities within and outside academia</p>
+<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Can you describe what difference a PhD will make in the job market? </li>
+<li>Can you map your research skills onto jobs that you see advertised? </li>
+<li>Do you know where to look for career opportunities? (e.g. databases, national press, conference notice boards) </li>
+<li>Do you access websites for careers advice? </li>
+<li>Have you attended a Grad summer school? </li>
+<li>Are you a member of a professional organisation (e.g., professional society, special interest group)? </li>
+<li>Do you participate actively in the activities of any professional organisations (e.g., attending and organising events, assisting at conferences, assisting with or contributing to newsletters)? </li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>A written example of mapping skills onto job advertisements. </li>
+<li>Evidence of accessing job databases </li>
+<li>Evidence of accessing career websites? </li>
+<li>A record of attendance at summer schools, especially Grad. </li>
+</ul>
+<p><em>This page is based upon material produced by The Open University&rsquo;s research school to support doctoral students. </em></p>]]></description>
+          <pubDate>Tue, 09 Mar 2010 11:49:32 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Planning your career progression</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3041</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3041</guid>
+              <description><![CDATA[<p>Research Skills required by PhD students G2: Take ownership for and manage one's career progression, set realistic and achievable career goals, and identify and develop ways to improve employability</p>
+<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Do you know what you want to be doing in 2 years? In 5? In 10? In 20? </li>
+<li>Can you identify:<br /> 
+<ul>
+<li>the crucial skills you will need to achieve those goals? </li>
+<li>your priorities for personal development? </li>
+<li>what you need to do to achieve these goals? </li>
+</ul>
+</li>
+<li>Do you ask for training you need? </li>
+<li>Do you monitor your own performance and review your personal development regularly? </li>
+<li>Can you describe typical recruitment practices in your domain? </li>
+<li>Can you describe effective job-hunting strategies? </li>
+<li>Have you attended career development workshops or other events? </li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>Your progress file, including an up-to-date development plan. </li>
+<li>A record of participation in career days and other career management opportunities. </li>
+<li>A record of employment. </li>
+</ul>
+<p><em>This page is based upon material produced by The Open University&rsquo;s research school to support doctoral students.</em></p>]]></description>
+          <pubDate>Tue, 09 Mar 2010 11:31:31 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Continued professional development</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3040</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3040</guid>
+              <description><![CDATA[<p>Research Skills required by PhD students G1: Appreciate the need for and show commitment to continued professional development</p>
+<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Do you have clear plans for your future career? </li>
+<li>Have you taken action to explore a broad range of possibilities? </li>
+<li>Have you identified the key elements of your aspirations, and what are your main priorities? </li>
+<li>Can you explain what it means to become an 'independent researcher'? </li>
+<li>Can you outline the role that continued professional development plays in a research career? </li>
+<li>Do you have an up-to-date record of your:<br /> 
+<ul>
+<li>education and training? </li>
+<li>employment history and work experience? </li>
+<li>transferable skills, with examples? </li>
+</ul>
+</li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>*The progress file including the updated development plan. </li>
+<li>An up-to-date CV</li>
+<li>A list of your priorities in choosing a career direction. </li>
+<li>A record of work undertaken to broaden your career horizons - such as work shadowing. </li>
+<li>A log of internet exploration of career development opportunities. </li>
+</ul>
+<p><em>This page is based upon material produced by The Open University&rsquo;s research school to support doctoral students. </em></p>]]></description>
+          <pubDate>Tue, 09 Mar 2010 11:24:56 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Giving and receiving feedback</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3039</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3039</guid>
+              <description><![CDATA[<p>Research Skills required by PhD students F3: Listen, give and receive feedback and respond perceptively to others</p>
+<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<p>What are the key ground rules for giving and receiving feedback?<br />Can you give an example of when you have:</p>
+<ul>
+<li>given feedback effectively but diplomatically? </li>
+<li>asked for feedback, including indications of what you need from it? </li>
+<li>received feedback and acted on it? </li>
+<li>received criticism in a positive and constructive manner? </li>
+</ul>
+<p>Can you give examples of good practice in incorporating feedback into your:</p>
+<ul>
+<li>writing? </li>
+<li>research planning? </li>
+<li>Seminar/ conference presentations ? </li>
+</ul>
+<ul>
+<li>What are the key ground rules for interacting effectively in group discussions?</li>
+<li>What are the main points to remember in observing others&rsquo; performance, in order to give them constructive feedback?</li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>Notes about feedback received and actions taken. </li>
+<li>Effective notes of supervisory meetings, showing how feedback has been acted on positively and constructively. </li>
+<li>Chapters or other writing revised effectively </li>
+<li>An example of incorporating feedback into writing, research planning etc. </li>
+<li>A record of active participation in group discussions. </li>
+<li>Record of participating in activities (e.g. training in presentation skills) in which you gave peer assessment. </li>
+</ul>
+<p><em>This page is based upon material produced by The Open University&rsquo;s research school to support doctoral students.</em></p>]]></description>
+          <pubDate>Tue, 09 Mar 2010 11:18:18 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Working in a team</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3038</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3038</guid>
+              <description><![CDATA[<p>Research Skills required by PhD students F2: Understand one's behaviours and impact on others when working in and contributing to the success of formal and informal teams</p>
+<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Do you understand the different roles of the researchers in your department/research group? </li>
+<li>Can you identify:<br /> 
+<ul>
+<li>different needs and aspirations among your co-researchers and other students? </li>
+<li>relate those different needs and aspirations to how they prioritise and make decisions? </li>
+</ul>
+</li>
+<li>Can you identify characteristics and behaviours which make you easy to work with? </li>
+<li>Can you explain why it matters that you be able to work effectively as a member of a team? </li>
+<li>Can you give an example of working as a team to resolve a problem or achieve a goal? </li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>A reference from the leader of a team to which you have contributed.</li>
+<li>A record of successfully resolving a dispute with a co-worker or another student working with you.</li>
+<li>A record of successfully fulfilling a role &ndash; for example, organising the social events for a conference.</li>
+</ul>
+<p><em>This page is based upon material produced by The Open University&rsquo;s research school to support doctoral students. </em></p>]]></description>
+          <pubDate>Tue, 09 Mar 2010 11:14:12 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Building relationships and networks</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3037</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3037</guid>
+              <description><![CDATA[<p>Research Skills required by PhD students F1: Develop and maintain co-operative networks and working relationships with supervisors, colleagues and peers, within the institution and the wider research community</p>
+<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Do you have regular contact with your supervisory team? </li>
+<li>Do you know who has overall responsibility for research students in your academic unit/research centre? </li>
+<li>Can identify your research network, and can you articulate the roles of the different people in it? </li>
+<li>How often do you get to chat (virtually or face to face) to other members of your research community? </li>
+<li>Do you keep systematic records of researchers you meet at conferences, seminars, or other meetings? </li>
+<li>Do you have a mailing list, wiki, blog, or other device for maintaining contact with people with shared interests? </li>
+<li>Do you share key papers and leads pro-actively with others in your network? </li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>An up-to-date contacts list for others in your research community. </li>
+<li>A record of external research visits you have made or placements in other institutions/labs. </li>
+<li>A record of invitations from you to researchers coming from outside your university. </li>
+<li>A record of active participation in an on-line discussion group connected with your research field. </li>
+<li>A record of collaboration in a research project. </li>
+<li>A record of collaborative training activities with others from different faculties.</li>
+</ul>
+<p><em>This page is based upon material produced by The Open University&rsquo;s research school to support doctoral students. </em></p>]]></description>
+          <pubDate>Tue, 09 Mar 2010 11:09:45 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Teaching, mentoring, demonstrating</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3036</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3036</guid>
+              <description><![CDATA[<p>Research Skills required by PhD students E5: Effectively support the learning of others when involved in teaching, mentoring or demonstrating activities</p>
+<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Do you contribute to giving feedback on other students&rsquo; work in seminars, reading groups, or other settings?</li>
+<li>Do you read and give feedback on other students&rsquo; papers or thesis drafts? Is your feedback well received?</li>
+<li>Have you supported a new student? For example, by explaining procedures in the lab?</li>
+<li>Have you taught students at summer school, evening classes, in school or college?</li>
+<li>Have you helped to design and deliver skills training at your university?</li>
+<li>Have you contributed to course production in your university?</li>
+<li>Can you plan and deliver a lecture?</li>
+<li>Can you set learning objectives for a lecture or seminar and relate them to the structure, content, and delivery?</li>
+<li>Can you demonstrate a tool or technique clearly?</li>
+<li>Can you tailor your explanations for your audience?</li>
+<li>Can you guide someone in a task without telling them what to do?</li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>Positive reports on your feedback to other students.</li>
+<li>Reports on your teaching, including feedback and assessment where available. </li>
+<li>A record of external teaching experience, outreach work in schools, mentoring and coaching (e.g. sport or theatre).</li>
+<li>Copies of lesson plans, lecture notes, hand-outs, PowerPoint slides developed for your teaching, linked to defined learning objectives set.</li>
+</ul>
+<p><em>This page is based upon material produced by The Open University&rsquo;s research school to support doctoral students. </em></p>]]></description>
+          <pubDate>Tue, 09 Mar 2010 11:02:46 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Promotion of public understanding</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3035</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3035</guid>
+              <description><![CDATA[<p>Research Skills required by PhD students E4: Contribute to promoting the public understanding of one's research field</p>
+<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Can you articulate three ways in which research in your domain typically benefits the public, and can you explain how those benefits are achieved? </li>
+<li>'Who cares'?:<br /> 
+<ul>
+<li>Can you identify who is likely to benefit from your research and how they might benefit? </li>
+<li>Can you relate your research to a specific 'everyday' problem that it might address, whether directly or indirectly? </li>
+<li>Can you explain your research intelligibly to a 14 year old? </li>
+<li>Can you write a 5- to 10-sentence description of your research in simple sentences, without any jargon? </li>
+<li>Can you draw a cartoon of your research? </li>
+</ul>
+</li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>A short article about your research published in a newsletter, magazine, newspaper.</li>
+<li>A well-designed and well written description of your research on your personal web page. </li>
+<li>A contribution on your subject area to wikipedia or similar. </li>
+<li>A record of giving a public lecture on your research. </li>
+<li>A record of participation in outreach activities in schools or elsewhere in the community. </li>
+<li>Evidence of participation in an Open Day, Science Festival or other events. </li>
+</ul>
+<p><em>This page is based upon material produced by The Open University&rsquo;s research school to support doctoral students.</em></p>]]></description>
+          <pubDate>Tue, 09 Mar 2010 10:56:43 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Academic presentations</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3034</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3034</guid>
+              <description><![CDATA[<p>Research Skills required by PhD students E3: Constructively defend research outcomes at seminars and viva examination</p>
+<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Can you describe how your findings relate to the published literature? </li>
+<li>Can you articulate clearly what distinguishes your research from other related research? </li>
+<li>Can you articulate the nature and extent of your contribution to knowledge in your field? </li>
+<li>Can you recognise a legitimate challenge to your research when you hear or read one? </li>
+<li>Can you respond to challenges with concrete, evidence-based replies? </li>
+<li>Can you give an example of when a challenge to or question about your research led to a full and constructive discussion? </li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>Probation mini-viva. </li>
+<li>PhD defence. </li>
+<li>Performance at an internal or external seminar. </li>
+<li>Performance in answering questions to a paper you have presented at a conference</li>
+<li>Record of active participation in discussion groups. </li>
+</ul>
+<ul>
+<em>This page is based upon material produced by The Open University&rsquo;s research school to support doctoral students. </em> 
+</ul>]]></description>
+          <pubDate>Tue, 09 Mar 2010 10:52:35 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Presenting to non-academics</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3033</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3033</guid>
+              <description><![CDATA[<p>Research Skills required by PhD students E2: Construct coherent arguments and articulate ideas clearly to a range of audiences, formally and informally through a variety of techniques</p>
+<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Can you explain the process of your research so that people in your field understand it? </li>
+<li>Can you explain how you arrived at your conclusions and respond to relevant questions and remarks? </li>
+<li>Can you ask compelling questions in seminars? </li>
+<li>Can you introduce yourself and your research in one or two sentences at a research gathering - in a way that leads to interesting conversation? </li>
+<li>Can you produce a poster describing your work and discuss it effectively with viewers? </li>
+<li>Can you give an effective 15-minute overview of your research? </li>
+<li>Can you give an 40-minute seminar that describes your work clearly, justifies it well, and leaves the audience with clear insights or messages? </li>
+<li>Can you explain how you decide what to say in different presentation contexts? </li>
+<li>Can you produce clear, succinct, and well-designed visual aids such as PowerPoint slide show? </li>
+<li>Can you present your work confidently to an unfamiliar audience? </li>
+<li>Can you tailor your presentations for different audiences? </li>
+<li>Can you articulate some principles of good oral presentations? </li>
+<li>Can you describe strategies for managing your time effectively in presentations?</li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>Probation mini-viva. </li>
+<li>Dissertation defence. </li>
+<li>Record of Internal or external seminar presentation. </li>
+<li>Record of participation in a conference including: 
+<ul>
+<li>paper or poster presented </li>
+<li>PowerPoint slides used </li>
+<li>new contacts made with people interested in your work </li>
+<li>feedback from an observer in the audience on your performance (e.g. in answering questions) </li>
+</ul>
+</li>
+<li>Record of effective participation at Open Day. </li>
+</ul>
+<p><em>This page is based upon material produced by The Open University&rsquo;s research school to support doctoral students. </em></p>]]></description>
+          <pubDate>Tue, 09 Mar 2010 10:47:22 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Academic writing</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3031</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3031</guid>
+              <description><![CDATA[<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<p>In terms of the following:</p>
+<ul>
+<li>an abstract, </li>
+<li>a research proposal, </li>
+<li>a progress report, </li>
+<li>a conference paper, </li>
+<li>a journal paper, </li>
+<li>a doctoral dissertation? </li>
+<li>records for your Progress File </li>
+<li>reports for your Personal Development Plan </li>
+</ul>
+<p>Can you:</p>
+<ul>
+<li>specify their distinguishing features and key ingredients? </li>
+<li>distinguish between an effective and an inadequate example of each? </li>
+<li>write one at a satisfactory level? </li>
+<li>Can you explain how you might go about selecting material for a particular publication target, say an upcoming conference? </li>
+<li>Can you explain your research in writing to a lay audience? </li>
+<li>Can you enumerate some strategies for ensuring that your writing is 'fit for purpose'? </li>
+<li>What do you do to overcome writing block? </li>
+<li>Do you regularly ask your supervisors and other students to read and critique your research reports?</li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>Your probation report. </li>
+<li>Your PhD thesis. </li>
+<li>Successful submission of papers for publication. </li>
+<li>A collection of exemplars of good practice, with notes on why they are exemplary. </li>
+<li>Written critiques of others' writing. </li>
+<li>Record of active participation in a writing development course. </li>
+<li>Example of a published piece on your research written for a web page or the popular press. </li>
+</ul>
+<p><em>This page is based upon material produced by The Open University&rsquo;s research school to support doctoral students. </em></p>]]></description>
+          <pubDate>Tue, 09 Mar 2010 10:33:43 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Independent working</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3030</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3030</guid>
+              <description><![CDATA[<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Are you able to manage the basic, every-day organisation of your research without having to be nagged or reminded? </li>
+<li>Can you resolve minor problems on your own? </li>
+<li>Can you make autonomous decisions about the design and conduct of your research? </li>
+<li>Do you know when to ask for specialist help? </li>
+<li>Can you give an example of when you pro-actively sought specialist help, and reflect on the outcome? </li>
+<li>Can you justify research decisions through reference to the literature or previous work? </li>
+<li>Can you identify research situations in which you need detailed guidance? </li>
+<li>Can you give examples of research decisions you have made independently? </li>
+<li>Can you identify which decisions you need to make? </li>
+<li>Can you identify which of those decisions you feel competent to make independently, and for which you need help?</li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>Your probation assessment. </li>
+<li>Reflective notes on how you resolved a minor problem. </li>
+<li>Records of every-day organisation (such as ordering equipment, sorting out expenses claims, negotiating access to a specialist library). </li>
+<li>Record of getting specialist help, based on your own initiative). </li>
+</ul>
+<p><em>This page is based upon material produced by The Open University&rsquo;s research school to support doctoral students. </em></p>]]></description>
+          <pubDate>Tue, 09 Mar 2010 10:25:22 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Asking for help</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3028</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3028</guid>
+              <description><![CDATA[<p>Research Skills required by PhD students D6: Recognise boundaries and draw upon/use sources of support as appropriate</p>
+<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Are you clear about your rights and responsibilities as a PhD student, and those of your supervisor(s)?</li>
+<li>Do you understand the role of your mentor or Third Party Monitor? Do you know what they can help you with and what they can&rsquo;t?</li>
+<li>Have you had your annual meeting with them? </li>
+<li>Do you have any particular needs that shape or constrain your work (e.g., dyslexia, examination anxiety, cultural barriers to criticising, shyness)?</li>
+<li>Can you describe how you are addressing those needs or compensating for them, in order to facilitate your progress? </li>
+<li>Have you discussed your needs and strategies with your supervisors?</li>
+<li>Can you describe how you might go about asking for help?</li>
+<li>Can you identify sources of support available to you?</li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>A learning contract with your supervisor(s). </li>
+<li>A record of use of support, e.g., consultation with experts, counselling. coaching, working with a mentor. </li>
+<li>A personal list of sources of support. </li>
+<li>A record of active participation in relevant training courses. </li>
+<li>A record of your negotiated agreement with your supervisor about something (such as a paper or conference presentation) you are working on together. </li>
+</ul>
+<p><em>This page is based upon material produced by The Open University&rsquo;s research school to support doctoral students.</em></p>]]></description>
+          <pubDate>Tue, 09 Mar 2010 10:05:31 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Self-discipline</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3027</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3027</guid>
+              <description><![CDATA[<p>Research Skills required by PhD students D5: Demonstrate self-discipline, motivation, and thoroughness</p>
+<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Do you meet deadlines without having to be reminded? </li>
+<li>Do you work to exacting standards - e.g. ensuring your writing is grammatical and well set out? </li>
+<li>Do you keep effective and comprehensive records of your research progress? </li>
+<li>Do you stay 'on track' of mundane administration without being nagged? </li>
+<li>Can you find things easily when you need to? </li>
+<li>Can you maintain a reasonable level of sustained output over time? </li>
+<li>Can you follow through your plans to completion, without becoming distracted? </li>
+<li>Are you prepared to 'go the extra mile' to meet a deadline? </li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>Probation assessment, annual reports and PhD thesis completed on time. </li>
+<li>Probation assessment, annual reports and PhD thesis prepared thoroughly and to satisfactory standard. </li>
+<li>Satisfactory standards in lab book or other record of research progress. </li>
+<li>Record of 'staying on track' despite hurdles that needed to be overcome. </li>
+</ul>
+<p><em>This page is based upon material produced by The Open University&rsquo;s research school to support doctoral students.</em></p>]]></description>
+          <pubDate>Tue, 09 Mar 2010 10:01:22 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Self-awareness</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3025</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3025</guid>
+              <description><![CDATA[<p>Research Skills required by PhD students D4: Demonstrate self-awareness and the ability to identify own training needs</p>
+<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Do you know about the Joints Skills Statement? </li>
+<li>Can you explain its significance for PhD students? </li>
+<li>Do you understand the requirements set by the QAA for your skills development as a PhD student? </li>
+<li>Have you completed your Skills Audit? Do you regularly review it? </li>
+<li>Have you identified your existing skills? Have you gathered evidence of these for your Progress File? </li>
+<li>Have you made a Training Plan? Have you identified your priorities? Have you developed a schedule of training activities? </li>
+<li>Can you give examples of deficiencies you have addressed and how you improved? </li>
+<li>Can you explain how you determine what 'competence' means in any given skill? </li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>Your Skills Audit. </li>
+<li>A reviewed Skills Audit leading to a revised Training Plan. </li>
+<li>A Training Plan. </li>
+<li>A record of Skills Training undertaken, with achievements where evidenced. </li>
+<li>Reflective reports on training undertaken. </li>
+</ul>
+<p><em>This page is based upon material produced by The Open University&rsquo;s research school to support doctoral students.</em></p>]]></description>
+          <pubDate>Tue, 09 Mar 2010 09:55:34 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Flexibility and open-mindedness</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3024</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3024</guid>
+              <description><![CDATA[<p>Research Skills required by PhD students D3: Demonstrate flexibility and open-mindedness</p>
+<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>What do you do when something surprising happens in your research?</li>
+<li>Do you read about research outside your discipline, for example in a digest such as New Scientist?</li>
+<li>Do you attend research seminars in other areas?</li>
+<li>How do you respond to challenges to your approach?</li>
+<li>If your supervisors ask you to do something other than you've planned, how do you respond?</li>
+<li>Are you willing to complement your preferred research approach by using other approaches?</li>
+<li>How do you respond to criticism? </li>
+<li>Can you recognise appropriate criticism when it is given?</li>
+<li>Can you describe how you go about incorporating constructive criticism into your research planning?</li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>An example of incorporating constructive criticism into research planning (e.g., in supervisory meeting notes).</li>
+<li>A revised thesis chapter draft, incorporating feedback from your supervisor.</li>
+<li>An example of discussing your research with researchers outside your domain.</li>
+<li>Asking questions of a range of speakers at a generic event .</li>
+<li>A review of your training needs analysis and a revised training plan, to take account of unexpected developments in your project.</li>
+</ul>
+<p><em>This page is based upon material produced by The Open University&rsquo;s research school to support doctoral students.</em></p>]]></description>
+          <pubDate>Tue, 09 Mar 2010 09:40:58 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Creativity and innovation</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3023</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3023</guid>
+              <description><![CDATA[<p>Research Skills required by PhD students D2: Be creative, innovative and original in one's approach to research</p>
+<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Do you suggest research activities and discuss alternatives in your supervisory meetings?</li>
+<li>Do you actively seek alternative ways of looking at, thinking about, or investigating questions?</li>
+<li>Can you develop new methods or combine methods in new ways when you need to?</li>
+<li>Can you find solutions to difficult problems?</li>
+<li>When you first plan a research activity, do you reflect on the limitations of the plan, and do you consider other ways of going about the activity?</li>
+<li>Do you discuss your plans with other students and invite their suggestions and comments?</li>
+<li>Do you discuss other students' plans?</li>
+<li>Do you discuss research and research approaches with students outside your discipline?</li>
+<li>Can you explain the latest technical developments in your field? </li>
+<li>Can you anticipate likely developments?</li>
+<li>Can you explain the role of 'surprise' in research? </li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>Your probation assessment.</li>
+<li>A record of discussion or investigation of alternatives.</li>
+<li>A record of&nbsp;your proposals for research activities (e.g., in supervisory meeting notes).</li>
+<li>A research publication.</li>
+<li>A patent application.</li>
+</ul>
+<p><em>This page is based upon material produced by The Open University&rsquo;s research school to support doctoral students.</em></p>]]></description>
+          <pubDate>Tue, 09 Mar 2010 09:19:37 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Ability to learn</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3022</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3022</guid>
+              <description><![CDATA[<p>D1: Demonstrate a willingness and ability to learn and acquire knowledge</p>
+<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Do you attend research seminars, inaugural lectures, discussion or reading groups, or other research fora regularly? </li>
+<li>Can you explain how you might use a social or intellectual network to find out about something new? </li>
+<li>Can you explain how you would follow up on a lead from a conversation at a conference? </li>
+<li>Do you discuss ideas, techniques, and approaches with other students? </li>
+<li>How do you follow up on interesting leads? </li>
+<li>Can you map out what expertise resides in your department? </li>
+<li>How would you seek out particular expertise, both within your university and beyond? </li>
+<li>Can you articulate which parts of investigating new areas and ideas, learning new techniques, or adopting new technologies - appeal to you most? - are hardest for you? </li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>A record of active participation in seminars, discussion groups, reading groups, etc. </li>
+<li>A series of reflective commentaries on seminars attended, identifying key insights, knowledge or understanding gained.</li>
+<li>Written summary of a previously unfamiliar topic. </li>
+<li>Correspondence resulting from making a contact at a conference. </li>
+<li>An invitation to join a journal club, reading group or similar outside your university. </li>
+<li>Research journal. </li>
+<li>Map of expertise in the department. </li>
+<li>Notes on leads and contacts from a meeting or conference.</li>
+</ul>
+<p><em>This page is based upon material produced by The Open University&rsquo;s research school to support doctoral students.</em>&nbsp;</p>]]></description>
+          <pubDate>Tue, 09 Mar 2010 09:02:12 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Using IT</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3017</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3017</guid>
+              <description><![CDATA[<p>C4: Use information technology appropriately for database management, recording and presenting information</p>
+<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Can you fluently use word processing systems appropriate to writing your thesis?</li>
+<li>Can you format documents the way you wish?</li>
+<li>Can you prepare illustrations, figures and images, and incorporate them in electronic documents?</li>
+<li>Can you use database software for handling references (e.g., EndNote) effectively?</li>
+<li>Can you readily reformat manuscripts for different journal styles? Can you use presentation software (e.g., PowerPoint) to prepare electronic presentations?</li>
+<li>Can you use communication technologies such as First Class, wikis, mailing lists, and bulletin boards?</li>
+<li>Do you know what software to use to prepare a poster? Do you know how to go about getting it printed?</li>
+<li>Can you us spreadsheets (e.g. Excel) to organise data collection?</li>
+<li>Do you have a reliable backup system that uses more than one device and keeps copies in more than one place? Do you make backups regularly?</li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>Plan to      develop your IT skills and a schedule of registration on appropriate      courses </li>
+<li>Record      of active participation in IT training. Evidence of application of this      training &ndash; such as the production of a fully referenced research paper      using EndNote or a presentation using advanced PowerPoint.</li>
+<li>Examples      of the databases or spreadsheets used in research.</li>
+<li>Construction      and maintenance of a personal website.</li>
+<li>Record      of participation in a First Class conference or other web-based      discussions.</li>
+<li>Poster.</li>
+<li>Slides      prepared for a research seminar.</li>
+</ul>
+<p><em>This cloud is based upon material produced by The Open University&rsquo;s research school to support doctoral students. </em></p>]]></description>
+          <pubDate>Thu, 04 Mar 2010 21:14:08 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Using information sources</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3016</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3016</guid>
+              <description><![CDATA[<p>C3: Identify and access appropriate bibliographical resources, archives, and other sources of relevant information</p>
+<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Can you name the literature databases most relevant in your domain?</li>
+<li>Can you identify the other key sources of relevant information in your field?</li>
+<li>Do you know which databases your university has access to, and do you have passwords for those databases?</li>
+<li>Can you export information from an electronic database into your own documents or databases?</li>
+<li>Can you use search engines effectively?</li>
+<li>Can you name three search engines and discuss their relative merits?</li>
+<li>Do you know journals in your field can be accessed electronically through the library?</li>
+<li>Can you explain how to acquire documents through inter-library loan?</li>
+<li>Can you explain how to acquire access to other libraries or archives?</li>
+<li>Do you know which of your colleagues has electronic access to publications not accessible through the library?</li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>The literature review component of your probation assessment.</li>
+<li>Record of active participation in a library information course.</li>
+</ul>
+<p><em>This cloud is based upon material produced by The Open University&rsquo;s research school to support doctoral students. </em></p>]]></description>
+          <pubDate>Thu, 04 Mar 2010 21:07:22 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Information management</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3015</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3015</guid>
+              <description><![CDATA[<p>C2: Design and execute systems for the acquisition and collation of information through the effective use of appropriate resources and equipment</p>
+<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Do you      keep an annotated bibliography? Is it up-to-date?</li>
+<li>Do you      keep a research journal?</li>
+<li>Are      your research records dated?</li>
+<li>Do you      make notes of your supervision meetings, identifying key decisions and      action points, and do you distribute them to your supervisors promptly?</li>
+<li>Do you      have a consistent and systematic strategy for recording information in a      way that both allows you to access it reliably and is logical and      understandable to others?</li>
+<li>Are      your records up-to-date? Are your records backed up?</li>
+<li>Can you      use statistical software (e.g. SPSS) effectively?</li>
+<li>Can you      use spreadsheets (e.g. Excel) flexibly to organise and analyse information?</li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>An      annotated bibliography.</li>
+<li>A      laboratory notebook or research journal.</li>
+<li>The      report of the analysis of one empirical study.</li>
+<li>Databases      or spreadsheets used in research.</li>
+<li>A      record of active participation in an EndNote or other &lsquo;information tools&rsquo;      training.</li>
+</ul>
+<p><em>This cloud is based upon material produced by The Open University&rsquo;s research school to support doctoral students. </em></p>]]></description>
+          <pubDate>Thu, 04 Mar 2010 20:58:02 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Organising your work</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3014</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3014</guid>
+              <description><![CDATA[<p>C1: Apply effective project management through the setting of research goals, intermediate milestones and prioritisation of activities</p>
+<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Can you      set out an overall plan for your PhD research?</li>
+<li>Can you      explain the goals, strategies, and plan for one component of your      research, such as the literature review, or one empirical study?</li>
+<li>Can you      identify the criteria for success?</li>
+<li>Can you      identify the threats to success?</li>
+<li>Can you      conduct a critical path analysis of your proposed research?</li>
+<li>Can you      identify specific obstacles you might encounter, such as attrition, messy      data, emergent design flaws?</li>
+<li>Can      explain how you might address those obstacles should they arise?</li>
+<li>Can you      explain how you might balance competing demands on your time?</li>
+<li>Can you      list and prioritise your research goals for the next week? The next month?      The next six months?</li>
+<li>Can you      manage your time efficiently?</li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>The workplan that forms the basis of your probation/annual report. </li>
+<li>Record of meeting deadlines successfully. </li>
+<li>Weekly workplan, annotated with accomplishments and their dates </li>
+<li>Critical path analysis.</li>
+</ul>
+<p><em>This cloud is based upon material produced by The Open University&rsquo;s research school to support doctoral students. </em></p>]]></description>
+          <pubDate>Thu, 04 Mar 2010 20:12:21 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Understanding academic and commercial exploitation</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3013</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3013</guid>
+              <description><![CDATA[<p>B7: Understand the process of academic or commercial exploitation of research results</p>
+<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Do you      know what to do with your results once you have some?</li>
+<li>Can you      identify ways in which your results can be helped to reach those who might      benefit from it, including those in academia, in industry, and in the      public?</li>
+<li>Can you      name researchers in academia or industry who are likely to be interested      in your results, and can you identify three ways to convey the results to      them?</li>
+<li>Can you      name the important conferences and journals in your domain? Of those, can      you identify the three that are most likely to be interested in your      findings?</li>
+<li>Can you      prioritise the important conferences and journals in terms of their      reputation and influence in your domain?</li>
+<li>Can you      explain the difference between un-refereed, reviewed, and refereed      publications?</li>
+<li>Can you      explain a typical refereeing process? Have you read referees&rsquo; reports?      Have you refereed submissions for conferences or journals?</li>
+<li>Have      you considered how your results might be applied to practical problems or      issues (e.g., used to develop new tools, to improve practice, to solve a      specific problem, to address an information need)?</li>
+<li>Have      you considered systematically whether any aspects of your work (e.g., a      technique, a tool, a process, a material) might have commercial      application? Do you know who in the university handles intellectual      property issues and exploitation?</li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>A      publication plan, specifying paper content and target publication forum.</li>
+<li>Academic      publications.</li>
+<li>A plan      for other dissemination (e.g., workshops, seminars, correspondence, web      sites, practical applications).</li>
+<li>A      mailing list of researchers with complementary interests.</li>
+<li>An      analysis of where a 'role model' in the domain publishes.</li>
+<li>A      record of commercial experience.</li>
+<li>A      patent application.</li>
+<li>A      licensing agreement.</li>
+</ul>
+<p><em>This cloud is based upon material produced by The Open University&rsquo;s research school to support doctoral students. </em></p>]]></description>
+          <pubDate>Thu, 04 Mar 2010 19:48:59 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Justifying research methods</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3012</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3012</guid>
+              <description><![CDATA[<p>B6: Justify the principles and experimental techniques used in one's own research</p>
+<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Can you      articulate why your research is important in terms of what contribution it      might make and what impact that contribution is likely to have?</li>
+<li>Can you      explain why the evidence you are trying to gather is the 'right' evidence,      in the right form, of the right scope?</li>
+<li>Can you      specify the limits to generalisation of your findings?</li>
+<li>Given a      particular research question, can you identify methods appropriate to      address it? And can you explain why those methods are preferable to other      methods that might apply?</li>
+<li>Can you      compare your research design and methods to other published research      designs and methods used by researchers in your field?</li>
+<li>Can you      describe an alternative approach you might have taken in addressing your      research question? And can you justify why you chose your approach instead      of the alternative?</li>
+<li>Can you      discuss the relative strengths and limitations of methods used in your      domain?</li>
+<li>Can you      discuss how your research might combine with other research for greater      benefit?</li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>Your probation assesment. </li>
+<li>Survey of techniques, methods, or methodologies in the field, as reported in key research publications. </li>
+<li>Table of methods in key publications, indicating scope, findings, and limitations. </li>
+<li>List of the antecedents of the methods you propose to use, such as published examples of their application in comparable contexts, reports of pilot studies, and methods publications.</li>
+</ul>
+<p><em>This cloud is based upon material produced by The Open University&rsquo;s research school to support doctoral students. </em></p>]]></description>
+          <pubDate>Thu, 04 Mar 2010 19:44:21 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Understanding research funding and evaluation</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3011</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3011</guid>
+              <description><![CDATA[<p>Research Skills required by PhD students B5: Understanding research funding and evaluation</p>
+<p>B5: Understand the processes for funding and evaluation of research</p>
+<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Can you      sketch out how your results might provide the basis for a grant proposal      for further work?</li>
+<li>Can you identify which three funding bodies (public or private) are most likely to be interested in funding such a project?</li>
+<li>Can you      explain where to look for information about funding opportunities?</li>
+<li>Have      you read any successful grant proposals, and have you read the relevant      referees' reports?</li>
+<li>Can you      identify the key ingredients of an effective grant proposal?</li>
+<li>Have      you examined one or more referee report forms?</li>
+<li>Can you      articulate the criteria referees typically use to judge grant proposals?</li>
+<li>Can you      describe a typical process for submitting, refereeing, and making      decisions about a grant proposal?</li>
+<li>Can you explain the roles of the referee, the prioritisation or review panel member, and the funding body's programme manager?</li>
+<li>Can you      explain how funding initiatives or programmes are conceived and launched?</li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>Your probation report. </li>
+<li>List of feasible topics for research proposals. </li>
+<li>Draft grant proposal, following the rules for a particular funding body. </li>
+<li>Written referee's report (whether submitted or not) of a grant proposal, using the report form of the funding body to which the proposal was submitted.</li>
+</ul>
+<p><em>This cloud is based upon material produced by The Open University&rsquo;s research school to support doctoral students. </em></p>]]></description>
+          <pubDate>Thu, 04 Mar 2010 19:37:34 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Complying with heath and safety legislation</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3010</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3010</guid>
+              <description><![CDATA[<p>B4: Understand relevant health and safety issues and demonstrate responsible working practices</p>
+<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Do you know what your legal rights and responsibilities are under health and safety legislation as a member of the university, and can you fulfill them?</li>
+<li>If you are working outside your university, do you know what your legal rights and responsibilities are as a member of the university, and can you fulfill them?</li>
+<li>Do you know how to conduct a risk assessment?</li>
+<li>Do you know what safety training is required for your work?</li>
+<li>Have you met your discipline&rsquo;s requirements for health and safety training?</li>
+<li>Can you demonstrate safe working practices in your environment?</li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>A record of satisfactory completion of relevant health and      safety training.</li>
+<li>Successfully completed risk assessments for all relevant      elements of your research.</li>
+</ul>
+<p><em>This page is based upon material produced by The Open University&rsquo;s research school to support doctoral students. </em></p>]]></description>
+          <pubDate>Thu, 04 Mar 2010 19:28:37 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Following good research practice</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3008</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3008</guid>
+              <description><![CDATA[<p>B3: Demonstrate appreciation of standards of good research practice in their institution and/or discipline</p>
+<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Does      your university have a Code of Practice for Research? Have you read it?</li>
+<li>Could      you describe and explain it to someone? </li>
+<li>Can you      list at least three of its key principles relevant to your research? </li>
+<li>Can you      do the same with Codes of Good Practice from the Research Councils and/or      Professional Bodies supporting research in your field? </li>
+<li>Do you      comply with safe working practices in terms of your general behaviour      around campus and beyond? </li>
+<li>Can you      articulate what it means to 'behave professionally' in terms of      professional etiquette, duty of care, and responsible practice? </li>
+<li>Can you      enumerate those to whom you have a 'duty of care', such as research      subjects, colleagues, and the public? </li>
+<li>Can you      describe your duty of care to each? </li>
+<li>Can you      describe your responsibilities in contexts such as the following:     
+<ul>
+<li>submitting papers for publication </li>
+<li>representing the university at conferences and other public events </li>
+<li>conducting research outside your university </li>
+<li>being a member of a research group </li>
+<li>collaborating on a multi-institution research project </li>
+</ul>
+</li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>Records      of the Codes of Practice that apply to your research, and clear notes on      their implications for you.</li>
+<li>Examples      of a rigorous and systematic method of record keeping.</li>
+</ul>
+<p><em>This page is based upon material produced by The Open University&rsquo;s research school to support doctoral students. </em></p>]]></description>
+          <pubDate>Thu, 04 Mar 2010 16:04:12 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Complying with ethical requirements </title>
+              <link>https://cloudworks.ac.uk/cloud/view/2997</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2997</guid>
+              <description><![CDATA[<p>B2: Demonstrate awareness of issues relating to the rights of other researchers, of research subjects, and of others who may be affected by the research, e.g. confidentiality, ethical issues, attribution, copyright, malpractice, ownership of data and [for researchers based in the UK] the requirements of the Data Protection Act</p>
+<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Do you      know what your legal rights and responsibilities are as a member of the      university, and can you fulfil them?</li>
+<li>Do you      know what intellectual property rights are? And do you know your position      as a research student at your university?</li>
+<li>Can you      define plagiarism? Do you know the sanctions for plagiarism at your      university?</li>
+<li>Can you      articulate when and how to make explicit acknowledgement of ideas?</li>
+<li>Can you      articulate different ways in which credit can be given?</li>
+<li>Do you      know what a confidentiality agreement is, and do you know if you have the      right to sign one without the university's consent?</li>
+<li>Can you      describe the procedures for ethical approval of studies at your university?</li>
+<li>[For UK      researchers] Do you know what the Data Protection Act is, and can you explain      how it affects your research? Do you know how to register a database under      the Data Protection Act?</li>
+<li>If you      plan to conduct any human-subjects studies, can you explain how to apply      the principles of 'informed consent' in your research?</li>
+<li>In      legal terms, can you define 'bullying', 'harassment' and 'discriminatory      behaviour'?</li>
+<li>Do you      know your legal responsibilities in respect to these in your interactions      with your colleagues, other students and those you engage in your research?</li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>Record      of participation in and reflective notes written about training sessions      on:  
+<ul>
+<li>IPO, Copyright and Patents </li>
+<li>Research Ethics </li>
+<li>Data protection</li>
+<li>Anti-discrimination law. </li>
+</ul>
+</li>
+<li>Notes      printed out from relevant website and reflective commentary upon them. </li>
+<li>A      successful application to an ethics committee. </li>
+<li>A      written publication agreement with your supervisors. </li>
+<li>[For UK      students] Successful DPA registration of your database. </li>
+<li>A      formal laboratory notebook, bound and 'signed off'. </li>
+<li>An      appropriately designed protocol and form for giving informed consent for      each of your studies using human participants. </li>
+</ul>
+<p><em>This page is based upon material produced by The Open University&rsquo;s research school to support doctoral students. </em></p>]]></description>
+          <pubDate>Thu, 04 Mar 2010 15:40:07 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Understanding the research context </title>
+              <link>https://cloudworks.ac.uk/cloud/view/2996</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2996</guid>
+              <description><![CDATA[<p>B1: Show a broad understanding of the context, at the national and international level, in which research takes place</p>
+<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Do you      know how research is funded? Do you know how your own studentship is      funded?</li>
+<li>If you      need extra funding (for instance, to travel to a conference), do you know      where you could go to get it - both inside and outside your university?</li>
+<li>Can you      outline the organisational structure for research in your university - at      university, academic unit and departmental levels?</li>
+<li>Can you      describe how research in your field is organised in terms of the key      professional organisations, conferences, societies, publications, and      funding bodies?</li>
+<li>Can you      describe the administrative processes for submitting papers for      publication in your field?</li>
+<li>Do you      attend research seminars regularly and discuss them with your peers and      supervisors?</li>
+<li>Do you      attend research seminars outside your discipline?</li>
+<li>Do you      attend inaugural lectures?</li>
+<li>Have      you ever refereed or reviewed someone else's research paper?</li>
+<li>Have      you read other referees&rsquo; comments?</li>
+<li>[Students      in the UK only] What is the REF? What bearing does it have on the funding      for research in the UK?</li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>Notes from and report of your Induction Training. </li>
+<li>Statement of active participation in and your own reflexive notes on a relevant training session. </li>
+<li>Record of attendance at research seminars and other research presentations. </li>
+<li>Written notes on a seminar or other presentation. </li>
+<li>Referee's report you have written on a paper submitted to a journal or similar. </li>
+<li>Successful case made for funding from your training support grant or similar. </li>
+<li>Successful application for funding from an external body - for example, a travel grant. </li>
+<li>Record of attendance at, and notes from, your Faculty's Training Session.</li>
+</ul>
+<p><em>This cloud is based upon material produced by The Open University&rsquo;s research school to support doctoral students. </em></p>]]></description>
+          <pubDate>Thu, 04 Mar 2010 15:23:13 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Documenting and reporting</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2993</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2993</guid>
+              <description><![CDATA[<p>A6: An ability to summarise, document, report and reflect on progress</p>
+<h2>Check this skill</h2>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Do you      keep clear, dated records of what you read, when you read it, and what you      thought about it? </li>
+<li>Do you      keep accurate notes in Endnote or other referencing software? </li>
+<li>Do you      keep a research journal that both summarises information from other      sources (e.g., notes from seminars or discussions) and records your own      ideas and reasoning? </li>
+<li>Can you      articulate three things you have learned since you started your PhD? </li>
+<li>Do you      keep notes of your supervision meetings? Are the notes complete enough to      allow you to identify the key ideas discussed, any decisions made, and any      actions specified? </li>
+<li>Can you      write succinct but clear summaries of your research of varying lengths      (e.g., 50 words, 100 words, 500 words, 1000 words, 10 pages) and for      various audiences (e.g., the public, different specialisms, generalists      within your discipline)? </li>
+<li>Do you      collect together and tidy the documentation for each phase or element of      your research as it is completed? </li>
+<li>Do you      have a work plan? </li>
+<li>Do you      monitor and adjust it regularly? </li>
+<li>Do you      regularly review your Training Plan and update it? Can you summarise in      five sentences a seminal paper, a seminar you have recently attended, or a      research conversation you've had? </li>
+<li>Can you      identify the three key ideas in a paper or seminar and explain how they      relate to your work? </li>
+</ul>
+<h2>Evidence of this skill</h2>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>Your probation report / Annual reports. </li>
+<li>Progress reports. </li>
+<li>Reports and action notes from supervision sessions. </li>
+<li>Training plan, updated regularly. </li>
+<li>Your Endnote database. </li>
+<li>A reflective account of what you have learned in a specific context (e.g. from attending a conference). </li>
+<li>An annotated bibliography. </li>
+<li>An ongoing research journal or blog.</li>
+<li>A personal home page, with links to your key research interests, activities and outputs so far.</li>
+</ul>
+<p><em>This page is based upon material produced by The Open University&rsquo;s research school to support doctoral students. </em></p>]]></description>
+          <pubDate>Wed, 03 Mar 2010 11:47:28 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Critical reviewing</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2991</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2991</guid>
+              <description><![CDATA[<p>A5: The ability to critically analyse and evaluate one's findings and those of others</p>
+<h2>Check this skill</h2>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Given a      report of some research, can you think of other ways in which the research      question might have been addressed? </li>
+<li>Given a      set of evidence, can you think of alternative ways of interpreting it?      Given a set of research papers, can you summarise their work in a table,      comparing their methods, findings, and distinctions? Given two accounts of      research results, can you give reasoned argument as to which account is      more likely to apply? </li>
+<li>Can you      specify what further work would be needed to choose between the accounts? </li>
+<li>If you      identify a limitation in someone else's research, can you explain how that      limitation might be addressed in future studies? </li>
+<li>Can you      identify assumptions in your own studies and reasoning? </li>
+<li>Can you      discuss objectively weaknesses in your own findings? </li>
+<li>Can you      identify when further work is needed to substantiate your findings? </li>
+<li>Do you      contribute to seminar discussions with constructive criticism and with      informed questions? </li>
+</ul>
+<h2>Evidence of this skill</h2>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>The literature review component of your probation assessment. </li>
+<li>A table critically comparing a set of studies in your area. </li>
+<li>A published review of research in some aspect of your field. </li>
+<li>A record of presenting and critically discussing a paper in a reading group, journal club, or equivalent. </li>
+<li>A record of presenting your own findings and your interpretation/analysis of them, and of defending them in response to questions. </li>
+<li>A record of raising pertinent questions at research seminars. </li>
+<li>A written 'gap analysis' of a research paper or group of papers. </li>
+<li>Examples of data analysis carried out and critically interpreted.</li>
+</ul>
+<p><em>This page is based upon material produced by The Open University&rsquo;s research school to support doctoral students. </em></p>]]></description>
+          <pubDate>Wed, 03 Mar 2010 11:24:06 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Research methods</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2990</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2990</guid>
+              <description><![CDATA[<p>A4: An understanding of relevant research methodologies and techniques and their appropriate application within one's research field</p>
+<h2>Check this skill</h2>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Can you      articulate the difference between 'techniques', 'methods' and      'methodology'?</li>
+<li>Is      there a standard method used in your domain?</li>
+<li>If so,      what is it and why is it used?</li>
+<li>Can you      identify the 'typical' methods or techniques used in your domain?</li>
+<li>Can you      explain the applicability and limitations of each?</li>
+<li>In your      review of recent research, have you identified what techniques or methods      have been applied in what contexts for what purposes?</li>
+<li>When      you read a research paper, do you consider the appropriateness,      implementation, and limitations of the methods used?</li>
+<li>Do you      have a working knowledge of the statistics relevant to your domain?</li>
+<li>Do you      know which data analysis software is generally used in your field?</li>
+<li>Can you      design appropriate empirical studies to address your research      question/test your hypothesis/es?</li>
+</ul>
+<h2>Evidence of this skill</h2>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>The research approach component of your probation assessment. </li>
+<li>A survey of techniques, methods, or methodologies in the field, as reported in key research publications. </li>
+<li>Notes from a discussion about the appropriateness, implementation and limitations of the methods used in a published study. &nbsp;</li>
+<li>Credit for successful completion of appropriate course(s) - such as statistics, data analysis or data handling.</li>
+</ul>
+<p><em>This cloud is based upon material produced by The Open University&rsquo;s research school to support doctoral students. </em></p>]]></description>
+          <pubDate>Wed, 03 Mar 2010 11:09:30 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Knowing current work in field</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2989</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2989</guid>
+              <description><![CDATA[<p>A3: A knowledge of recent advances within one's field and in related areas</p>
+<h2>Check this skill</h2>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Can you outline the &nbsp;'hot' issues, topics and debates in your field? </li>
+<li>Can you identify1-3 issues that you think will be 'hot' in the next 3 years and explain why? </li>
+<li>Can you summarise how thinking in your field has changed and evolved over the past 10 years? </li>
+<li>Can you identify the key strands of thinking, 'camps', or approaches - and can you identify the key researchers associated with them? </li>
+<li>Can you name the key conferences in your area, and have you reviewed their proceedings? </li>
+<li>Do you attend relevant conferences in your field? </li>
+<li>Do you scan the latest issues of key journals in your domain on a regular basis? </li>
+<li>Do you participate in a reading group, research group or other discussion forum in your area? </li>
+<li>Do you attend research seminars regularly and discuss them with your peers and supervisors? </li>
+<li>Are you on the mailing list for any relevant interest groups?</li>
+</ul>
+<h2>Evidence of this skill</h2>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>Elements of the literature review component of your probation assessment.</li>
+<li>A written, critical discussion (at publication standard) of a selection of key papers.</li>
+<li>A record of attendance at relevant reading groups, seminars, or equivalent.</li>
+<li>An annotated bibliography of papers read.</li>
+<li>A 'map' of the key strands of thinking in your area, identifying the key researchers associated with them.</li>
+</ul>
+<p><em>This cloud is based upon material produced by The Open University&rsquo;s research school to support doctoral students. </em></p>]]></description>
+          <pubDate>Wed, 03 Mar 2010 10:53:39 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Critical thinking</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2983</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2983</guid>
+              <description><![CDATA[<p>A2: Original, independent and critical thinking, and the ability to develop theoretical concepts</p>
+<div>
+<h1>Check this skill</h1>
+<p>By the time students complete a PhD, they should be able to answer &lsquo;Yes&rsquo; to most of these questions.</p>
+<ul>
+<li>Can you identify issues and gaps in the literature in your domain? </li>
+<li>Are you able to define the specialist terminology you use and to explain it in plain language to a non-specialist? </li>
+<li>Can you identify key concepts in your domain and explain their importance? </li>
+<li>Can you compare two theories of the same or similar phenomena and articulate their similarities and differences? </li>
+<li>Can you critique a research study in terms of its assumptions, limitations, and advantages? </li>
+<li>Can you discuss and debate theoretical concepts in your domain? </li>
+<li>Do you know how to develop a categorisation scheme for a collection of examples (such as data, artefacts, practices, concepts)? </li>
+<li>Have you proposed new directions for your research? </li>
+<li>Can you generate new research ideas? </li>
+</ul>
+<h1>Evidence of this skill</h1>
+<p>These are examples of documents you can collect. Each implies a piece or work, which may be a good way for you to develop this skill.</p>
+<ul>
+<li>The literature review component of your probation assessment. </li>
+<li>Notes from a discussion on gaps in the literature. </li>
+<li>A written, critical comparison of two theories or approaches. </li>
+<li>The extension or refinement of an existing framework, model or theory. </li>
+<li>A proposed new framework, model or theory, with justification.</li>
+</ul>
+<em>This page is based upon material produced by The Open University&rsquo;s research school to support doctoral students. </em>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>]]></description>
+          <pubDate>Tue, 02 Mar 2010 16:20:06 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

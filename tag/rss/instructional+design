@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: instructional design</title>
+        <link>https://cloudworks.ac.uk/tag/rss/instructional+design</link>
+        <atom:link href="https://cloudworks.ac.uk/tag/rss/instructional+design" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds tagged instructional design</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>CFP submissions until 14 March 2016 - 10th International Conference e-Learning 2016</title>
+              <link>https://cloudworks.ac.uk/cloud/view/9678</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/9678</guid>
+              <description><![CDATA[<p>-- CALL FOR PAPERS EL 2016 - Deadline for submissions (1st call extension): 14 March 2016 --&ndash;</p>
+<p>10th International Conference on e-Learning 2016<br />Funchal, Madeira, Portugal, 1 - 3 July 2016<br />(http://www.elearning-conf.org/)<br />Part of the Multi Conference on Computer Science and Information Systems (MCCSIS 2016)<br />Funchal, Madeira, Portugal, 1 - 4 July 2016 <br />(http://www.mccsis.org/)</p>
+<p>* Conference Scope<br />The e-Learning 2016 conference aims to address the main issues of concern within <br />e-Learning. This conference covers both technical as well as the non-technical aspects of <br />e-Learning. <br />The conference accepts submissions in the following seven main areas: Organisational Strategy and Management Issues; Technological Issues; e-Learning Curriculum Development Issues; Instructional Design Issues; e-Learning Delivery Issues; e-Learning Research Methods and Approaches; e-Skills and Information Literacy for Learning. For more details please check http://www.elearning-conf.org/call-for-papers</p>
+<p>* Paper Submission<br />This is a blind peer-reviewed conference. Authors are invited to submit their papers in English through the conference submission system by March 14, 2016. Submissions must be original and should not have been published previously.</p>
+<p>* Important Dates:<br />- Submission Deadline (1st call extension): 14 March 2016<br />- Notification to Authors (1st call extension): 11 April 2016<br />- Final Camera-Ready Submission and Early Registration (1st call extension): Until 9 May 2016<br />- Late Registration (1st call extension): After 9 May 2016</p>
+<p>* Paper Publication<br />The papers will be published in book and electronic format with ISBN, will be made available through the Digital Library available at http://www.iadisportal.org/digital-library/showsearch. The conference proceedings will be submitted for indexation by IET&rsquo;s INSPEC, Elsevier, EI Compendex, Scopus, Thomson Reuters Web of Science, ERIC and other important indexing services.<br />The best papers will be selected for publishing as extended versions in the IADIS International Journal on WWW/Internet (ISSN: 1645-7641), in the Interactive Technology and Smart Education (ITSE) Journal (ISSN:1741-5659) and also in journals from INDERSCIENCE Publishers.</p>
+<p>* Conference Contact: <br />E-mail: secretariat@elearning-conf.org<br />Web site: http://www.elearning-conf.org/</p>
+<p>* Organized by: International Association for Development of the Information Society</p>
+<p>* Registered participants in e-Learning conference may attend the other conferences part of MCCSIS 2016 free of charge.</p>]]></description>
+          <pubDate>Fri, 12 Feb 2016 17:34:32 +0000</pubDate>
+            </item>
+                    <item>
+              <title>David Appel’s design narrative: Developing blended learning elements which facilitate group work and peer-feedback</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8963</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8963</guid>
+              <description><![CDATA[<h2 dir="ltr">Narrator</h2>
+<p dir="ltr">My role was to support a teacher in conceptualising, designing, development and implementation of an online learning activity.</p>
+<h2 dir="ltr">Situation</h2>
+<ul>
+<li dir="ltr">
+<p dir="ltr">University of Applied Sciences, Department for Social Work</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Compulsory elective subject in a bachelor curriculum for Social Work.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Students (approx. 40) attending the course into their 3rd or 4th term, having completed several courses covering theoretical and methodical basics of the field.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Students have to deliver a report on a project they have worked on during the course. This is a group work of 3-4 students and delivered at the end of the term.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Previously, a significant proportion of the face-to-face course time has been used for organizing group work, providing instruction and facilitating communication. Peer feedback in the face-to-face environment has proven to be very time-consuming and has often not been leading to satisfactory results</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">LMS: Moodle (Students have worked with Moodle before, but are not necessarily experienced with collaborative elements and practices; teacher is fairly familiar with Moodle)</p>
+</li>
+</ul>
+<h2 dir="ltr">Task</h2>
+<p dir="ltr">I have focused on opportunities to improve efficiency and effectiveness of group collaboration in this course. I decided to use blended learning elements which would allow to guide students towards group work and communication in a virtual environment. I selected administrative, organizational and methodological elements of writing a term paper which could be supported by with online components. The measure of success was a reduction of administrative and organisational efforts by the teacher and administrative staff.</p>
+<p dir="ltr">I also included elements of reflection and evaluation for the students to &nbsp;take an active, participative, and critical role (providing peer-feedback at several stages of the paper writing process). The success factor was a consistent quality in the term papers delivered, not below the quality of previous papers delivered in the standard course format.</p>
+<h2 dir="ltr">Actions</h2>
+<ul>
+<li dir="ltr">
+<p dir="ltr">Together with the teacher in charge I drafted a concept for the course, including goals, key stakeholders, format and sequence of elements included, implementation of a pilot, implementation of the final course, and evaluation by students, teacher, and supportive staff. The result was a common understanding of the goals as well as the actions to be taken and related responsibilities.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">I then developed the main elements and run a pilot with a few selected testers not yet involved in the course design. It turned out that several elements were not sufficiently described or did not work exactly the way they were intended.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">On the basis of the pilot we adapted the course design were necessary and then run the course for an entire term. At the end of the turn we evaluated the results, questioned students, staff and teacher and analysed the overall outcomes.</p>
+</li>
+</ul>
+<h2 dir="ltr">Results</h2>
+<p dir="ltr">The papers delivered were of a consistent quality at about the same level as in the previous version of the course (without blended learning elements). The effort for preparing and developing the course was significant, during the course support and occasional adjustments were necessary which also meant some additional effort for both teacher and supportive staff. However, most of the issues could be resolved for the next term and without the one-time preparational efforts qualitative as well as quantitative objectives could be met.</p>
+<p dir="ltr">A survey conducted among the students showed that most of them appreciated the design of the course, but would have liked to use the space for further collaboration more extensively.</p>
+<h2 dir="ltr">Reflections</h2>
+<p dir="ltr">It is important to create a detailed design of the course - including goals, key stakeholders, elements and sequencing, evaluation, etc. - in order to make sure that all involved parties have the same understanding of the project. However, even with a detailed design there are issues which cannot be anticipated and therefore running a pilot with people who have not been involved previously is crucial to discover any gaps and flaws. At the end, an evaluation can reveal further gaps and issues, but also provide input for further development.</p>
+<p dir="ltr">&nbsp;</p>
+<h3>CompendiumLD Map</h3>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a title="Peer-feedback on term paper concept2 by David Appel, on Flickr" href="https://www.flickr.com/photos/131689978@N02/17016406390"><img src="https://farm6.staticflickr.com/5449/17016406390_896948cd86_b.jpg" alt="Peer-feedback on term paper concept2" width="650" height="728" /></a></p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Mon, 30 Mar 2015 21:06:32 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Del&#39;s Drills and Wells Course</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8694</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8694</guid>
+              <description><![CDATA[<h2 class="western"><em>Del's Drills and Wellheads</em></h2>
+<p class="western" style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+<h2 class="western"><em>I was the learning designer</em></h2>
+<p class="western" style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+<h2 class="western">Situation</h2>
+<p class="western" style="cursor:auto"><!--NO CSS--><em>I was commissioned to build a sequence of 5 elearning modules for a specialist Oil and Gas inspection community. There were international contributors in the US and in the middle East as well as the slightly closer to home contributor in Hamilton, Scotland.</em></p>
+<p class="western" style="cursor:auto"><!--NO CSS--><em>Interestingly, the design was not explicit at the design phase &ndash; which was reflected late on in the programme when there was a significant interface re-design.... </em></p>
+<p class="western" style="cursor:auto"><!--NO CSS--><em>The tension between Hamilton (subject matter expert) and Houston (holding the purse strings) was noted at the first conference call where each clearly thought the other was an idiot. The intended audience was experienced technicians and engineers with deep specialist knowledge of detailed tests and measurement principles (hardness testing, tolerances and materials analysis) but with limited exposure to the Oil and Gas Industry.</em></p>
+<p class="western" style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+<h2 class="western">Task</h2>
+<p class="western" style="cursor:auto"><!--NO CSS--><em>Develop 5 discrete modules as a single deployable eLearning element via an archaic LMS to provide an introduction to key components, supporting paperwork and reporting responsibilities for the benefit of junior inspection engineers.</em></p>
+<p class="western" style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+<p class="western" style="cursor:auto"><!--NO CSS--><em>Success would be judged by acceptance from a team of subject matter experts (both eLearning specialists and Oil and Gas Inspection Engineers).</em></p>
+<p class="western" style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+<p class="western" style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+<h2 class="western">Actions</h2>
+<p class="western" style="cursor:auto"><!--NO CSS--><em>Develop an outline narrative for module 1 and produce an Alpha release for sign off by the subject matter expert. I expected feedback from the SME group to agree / submit corrections regarding interface, colour palette and content delivery style.</em></p>
+<p class="western" style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+<p class="western" style="cursor:auto"><!--NO CSS--><em>Not a lot happened &ndash; after a week a short email was received from Hamilton to say 'yes that looks fine'.</em></p>
+<p class="western" style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+<p class="western" style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+<p class="western" style="cursor:auto"><!--NO CSS--><em>Develop modules 2 to 4 to the same style and standard, submitting each module for SME review. Content was not mature so an unexpectedly long time was spent to-ing and fro-ing with Internet searches and SME questioning to ensure content was correct before submission.</em></p>
+<p class="western" style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+<p class="western" style="cursor:auto"><!--NO CSS--><em>Module 5 &ndash; essentially a scenario in which an inspector must trace paperwork requirements against industry standards to describe what tests will be conducted and what reporting must be made. Reports to be submitted for external moderation by SME group. A module of considerable complexity but which ensured the user was tested in the synthesis of information from modules 1-4 as well as genuine examination and interaction with international standards documents to identify the types of test and report required for each item described.</em></p>
+<p class="western" style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+<p class="western" style="cursor:auto"><!--NO CSS--><em>Beta review &ndash; passed without comment.</em></p>
+<p class="western" style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+<h2 class="western">Results</h2>
+<p class="western" style="cursor:auto"><!--NO CSS--><em>Once the Beta was produced, I was expecting some minor amends to result in Gold edition publication and for Gold to be accepted with little or no comment. What actually happened is that the SME group rejected the product on the basis of a non-approved interface.</em></p>
+<p class="western" style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+<p class="western" style="cursor:auto"><!--NO CSS--><em>However, (at a cost) the interface was amended, SME group passed product at second time of asking and the training released into a waiting world. </em></p>
+<p class="western" style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+<p class="western" style="cursor:auto"><!--NO CSS--><em>Feedback is very positive. Users are complimentary and success rates for Module 5 are approximately as anticipated (around 65% at first attempt &ndash; climbing to 100% after revision and re-submission). </em></p>
+<p class="western" style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+<p class="western" style="cursor:auto"><!--NO CSS--><em>Objectives met at the second time of asking.</em></p>
+<p class="western" style="cursor:auto"><!--NO CSS--><em>Asked to produce two more modules for the company.</em></p>
+<p class="western" style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+<h2 class="western">Reflections</h2>
+<p class="western" style="cursor:auto"><!--NO CSS--><em>Don't begin development until the content is all brigaded and understood. Three months in we were still battling with SME's to sign off on content in the narratives produced in week 2....</em></p>
+<p class="western" style="cursor:auto"><!--NO CSS--><em>Ensure you have a single point of content. The failure to appropriately agree the design was the result of 'too many cooks' and no-one being quite sure who was authorised to sign off.</em></p>
+<p class="western" style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+<p class="western" style="cursor:auto"><!--NO CSS-->&nbsp;</p>]]></description>
+          <pubDate>Mon, 31 Mar 2014 21:05:17 +0000</pubDate>
+            </item>
+                    <item>
+              <title>The 3 Letters of Learning Design - GBU (The Good, the Bad and the Ugly)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7923</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7923</guid>
+              <description><![CDATA[<p><a href="https://picasaweb.google.com/lh/photo/S-iRSsnQJsxy5BnfKqOCc9MTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-nmMN-qWw0dk/UQtXxCe5RCI/AAAAAAAAi1Q/9wfCtderi5A/s800/JENGA.JPG" alt="" /></a></p>
+<p><strong>I love the simplicity of <a class="zem_slink" title="Jenga" href="http://www.hasbro.com/games/en_US/jenga/" rel="homepage" target="_blank">Jenga</a>. </strong></p>
+<p>Simplicity has a purity about it. Don't knock it. Behind its functionality and its look and feel there will be some hard thinking. Keep it simple, stupid (<a class="zem_slink" title="KISS principle" href="http://en.wikipedia.org/wiki/KISS_principle" rel="wikipedia" target="_blank">K.I.S.S</a>) may be a training cliche but there is considerable truth in it. I've now had three years here at <a class="zem_slink" title="Open University" href="http://maps.google.com/maps?ll=52.025,-0.705555555556&spn=0.01,0.01&q=52.025,-0.705555555556 (Open University)&t=h" rel="geolocation" target="_blank">the OU</a> and here on this Student Blog platform (short of five days). I've been working on my ideas regarding learning and e-learning design in particular. Courtesy of THE OU hosted <a title="OLDS Mooc 2013" href="http://www.olds.ac.uk/the-course">OLDs MOOC 2013</a> (Online Learning Design - <a class="zem_slink" title="Massive open online course" href="http://en.wikipedia.org/wiki/Massive_open_online_course" rel="wikipedia" target="_blank">Massive Open Online Course</a>) I'm experiencing what feels like undertaking an 8 week written examination - the contents of my brain are being pushed through the cookie cutter. And out comes this: <strong><a class="zem_slink" title="The Good, the Bad and the Ugly (Il Buono, il Brutto, il Cattivo.)" href="http://www.rottentomatoes.com/m/good_the_bad_and_the_ugly" rel="rottentomatoes" target="_blank">The Good, the Bad and the Ugly</a>.</strong> <em>(Of course I had shut down for the gadgets for the day and was brushing my teeth when this came to me).</em></p>
+<p><a href="https://picasaweb.google.com/lh/photo/D2bXDdrcCSYGhwT0f3LEiNMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-0Ce0f0Wpyi8/UQtY6oKjJ5I/AAAAAAAAi2c/-b5CsHcMBoQ/s288/The%20good.JPG" alt="" /></a></p>
+<p><strong>The Good</strong></p>
+<p>Learning events or activities, moments that make the participant smile, think, reflect, nod in agreement, understand, be informed and generally feel good about the world and this particular learning experience. Hit them with some of this, as the say so succinctly across the Atlantic - at the 'get go'.</p>
+<p><a href="https://picasaweb.google.com/lh/photo/xUqWmeLuB0QOqucJi6k559MTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-zR7R8ogXYIc/UQtZAD_QDfI/AAAAAAAAi3Y/aeF3UVn7Dfk/s288/The%20bad.JPG" alt="" /></a></p>
+<p><strong>The Bad</strong></p>
+<p>The effort required and built into the learning. OK, we want them to love this too, and you can if you're 'in the flow', have done your work, have wrestled with what you didn't understand, asked for help, listen to fellow students, gone out of your way to do extra reading and research until you have it, one way or another.</p>
+<p><strong>There needs to be assessment.</strong></p>
+<p>An assignment is a soft assessment to me - though like everyone I have terrible days when the thing just slips through my fingers like a snowball on the beach. A dissertation or end of module assignment is tougher, but tough and 'bad' in a certain way - like commitment to a triathlon. And a good analogy as working on and developing three issues at 2,000 words a pop is about right. And you won't get far if you leave training to the week before. It's a slow burn.</p>
+<p><strong>The 'bad' has to be the written examination.</strong></p>
+<p>They have to be hated and feared, and like learning lines for that school play, you have to get it right on the night (or day). And what do you do if you act? You have good lines to learn, you learn and rehearse your lines and you practice, and do a test run or two. The curtains going up is the equivalent of your turning the examination paper over. I feel the fear from a year ago - April 2012. I hadn't sat a written exam in 30 years. All my undergraduate and school-boy fears came back. I used rusty techniques that had last seen service during my first degree. Bad is good. You want to do everything not to feel like you are naked on stage - a dream we all have when faced with such an 'exposing' test? <a href="https://picasaweb.google.com/lh/photo/wWqqYfaV0PTh72j4OhD1ldMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-IvhCwe5Layc/UQtZGBhaShI/AAAAAAAAi3g/Q-hkvFUPdk8/s288/The%20ugly.JPG" alt="" /></a></p>
+<p><strong>The Ugly</strong></p>
+<p>Shock 'em. Not scare the witless. Have up your sleeve some smart stuff. Whether an idea or the technology offer a creepy and certainly memorable surprise. Boring a student into making a fact or issue stick is like throwing mud at a brick wall - it'll stick, it'll coagulate and build up, but is easily washed away in a shower and destroyed in a storm. Use storytelling techniques perhaps, better still, follow the pattern of a ghost story. Scare them? I'm back on fear I guess. We humans are fearful of many things and will go out of our way to avoid, run away or confront our fears. As I said, the idea here isn't to lose your students, but to empathise with them, understand the ugly side of their learning experience then help them confront their worst fears. It is ugly having to tackle the parts of a subject that stink, but inevitably these are the blocks at the base of JENGA.</p>
+<p>My primary colours for learning design, not red, blue and yellow, but good, bad and ugly. We'll have to see.&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>So can I apply it? And can I go back to bed now?</strong></p>
+<p>Which leads me to another theme - we no longer simply bring work home with us, we take it to bed and sleep with it. If this pisses you off then let me introduce you to 'working with dreams'. If you are prepared to get up for an hour in the dead of night, or can flick on a light without invoking divorce then scribble stuff down to catalyse the thought in the morning. Can work wonders, can produce nonsense, can just be some things you need to put on the supermarket shopping list ... or another dream of being naked on the stage, not knowing your lines and needing the lo but all the exits are locked and the orchestra has stopped and you have to say something. <em>Which, courtesy of the wonders of the mind, has me in the front row of a performance of The Tempest at the University Theatre, Newcastle when I was 13 or 14. Caliban was naked, covered in mud and wearing a prosthetic erect penis.</em></p>
+<p><strong>HORROR!</strong></p>
+<p><em>P.S. And give me 20 minutes searching the Internet and I will be able to name the actor, date the show and possibly even find a picture. Perhaps you'd like to have a go. But before you do so, be very fearful of what the search terms you use might throw up. </em> <strong>&nbsp;</strong></p>
+<p><em>P.P.S. I've given up (for now). It may have been David Suchet or Jim Carter. The production was in 1974 at the University Theatre.&nbsp;</em></p>]]></description>
+          <pubDate>Fri, 01 Feb 2013 07:21:12 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Toolkit: NUIG eLearning Toolkit</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7854</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7854</guid>
+              <description><![CDATA[<p>Repository of eLearning design &amp; development-related resources created for NUI Galway. This toolkit has been devised for novice online course designers/developers and includes introductory tutorials on Instructional Design. (Note that the tutorials are multimedia and currently Flash-based.)</p>]]></description>
+          <pubDate>Sun, 27 Jan 2013 16:13:08 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Learning Design for Learning Design (HE): Clare&#39;s Scenario #3</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7652</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7652</guid>
+              <description><![CDATA[<p>This is a start on another potential scenario/persona involving a new online course developer called "Joan". Note that this is based on the ideal scenario!&nbsp;:</p>
+<p>Joan (40) lives in Dublin. She is a busy mother-of-two who has recently achieved a Computer Science doctorate and is doing a small amount of part-time lecturing. Her reputation as an enthusiastic &amp; impressive lecturer precedes her so she has been approached to develop online learning materials for an online programme which has been running at her institution for some years. She knows there&rsquo;s been a lot going on in educational technology recently but she hasn&rsquo;t had time to investigate as much as she would like. She figures that becoming an online course developer would be an opportunity to learn more about online learning and might help advance her career. Truth be told, she is also pleased at the prospect of earning some extra money which will help pay off some of the debt incurred during her studies.&nbsp;</p>
+<p>After she has signed the contract, Joan shortly receives an email from Patricia, the programme&rsquo;s instructional designer, pointing her to a series of tutorials that introduce important Instructional Design theories and practices. She is asked to complete these tutorials &amp; associated exercises before a forthcoming Design &amp; Development workshop. Being very diligent and motivated, Joan does exactly as requested! As she digests these tutorials, she realises that there&rsquo;s more to online learning than she originally thought...for example, she realises that she didn&rsquo;t really know what instructional design was about, she hadn&rsquo;t really thought about the importance of promoting learner interaction online, and she had no idea so many new free tools were emerging that could be applied in education. This is bigger than she thought and she thinks she will have to tightly manage her time to meet the challenges ahead.</p>
+<p>Two weeks later, at a Design &amp; Development workshop, Joan participates in a lively discussion on potential tools &amp; technologies for online learning. She then works alongside a fellow online course developer, Peter, on a design-related activity specially created for new eLearning designers. During this activity, she explores design visualization tools that are new to her and then begins to sketch out an initial design incorporating a variety of instructional media. She shares this draft design with her developer colleagues and the other members of the project team, seeking feedback and suggestions for improvement which she subsequently considers and implements. The resulting storyboard provides a blueprint for a design that Joan refines further over the weeks ahead, as time allows.&nbsp;</p>
+<p>&nbsp;</p>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->Actors: Joan is a busy mother-of-two who has recently achieved a Computer Science doctorate and is currently working as a part-time lecturer. Her reputation as an enthusiastic lecturer precedes her so she has been approached to develop learning materials for an online Master&rsquo;s programme which has been running at her institution for some years. She has just signed a contract to develop her first online module and is excited at the prospect of what she will learn. Although she has never developed learning for online delivery previously, she is willing to give it a go and is ready to start work in a month&rsquo;s time. The extra stipend she will receive for performing this work is also attractive in the current financial climate.</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->For the duration of the project, Joan will work with a project team including a part-time instructional designer who will provide feedback on drafts and a senior academic who will advise on required content and provide additional subject matter expertise.</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->Goals:&nbsp;</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->Joan wants to fulfill the requirements of her contract and develop a module that meets the needs of the project team as quickly as possible. She is also keen to learn approaches that she can potentially apply to current and future classroom teaching.</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->The senior academic wants to ensure that the learning meets agreed module learning aims and outcomes.</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->The instructional designer is keen to ensure that the learning materials &amp; experiences created are instructionally sound and are engaging for learners.</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->The programme coordinator wants the project to be delivered on time to a high standard.</div>]]></description>
+          <pubDate>Tue, 22 Jan 2013 23:56:50 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Introducing myself</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7044</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7044</guid>
+              <description><![CDATA[<p>Hello!</p>
+<p>I work in the field of human rights, designing online learning in a variety of formats, for a varied audience.&nbsp; I'm looking forward to my first MOOC experience!</p>]]></description>
+          <pubDate>Fri, 11 Jan 2013 18:21:22 +0000</pubDate>
+            </item>
+                    <item>
+              <title>AK&#39;s OLDS MOOC Cloud [Daily Happenings + Chronicling]</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6822</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6822</guid>
+              <description><![CDATA[<p>This is AK's cloud for working on OLDS MOOC, collecting links to other clouds, interesting references and websites I've come across, and chronicling my participation in the MOOC. &nbsp;Scroll down to see participation as the MOOC progresses. Each section is a weekly heading.</p>]]></description>
+          <pubDate>Wed, 09 Jan 2013 21:34:03 +0000</pubDate>
+            </item>
+                    <item>
+              <title>SOLE (Student-Owned Learning-Engagement) Model</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3799</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3799</guid>
+              <description><![CDATA[<p>This cloud was originally being floated&nbsp;for&nbsp;the 2010 LAMS Learning Design Conference in&nbsp; Oxford July 15th&nbsp;2010. The SOLE model waspresented in its initial conceptual model phase, introduce the early (excel) toolkit associated withversion1, and report some early feedback on its use in paper design teams.</p>
+<p>This toolkit is, and will remain, freely available and is intended to be a developmetal, evaluative and diagnostic tool. This cloud is intended to provide opportunities for comment and reflection on the usefullness of the model being developed.</p>
+<p><a href="http://solemodel.wordpress.com/2011/10/23/version-2-4-weekly-objectives/" target="_blank">Version 2.4</a> released October 24th 2011</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Fri, 12 Aug 2011 11:12:14 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Keynote: Podolskij - On developmental dimensions of the instructional design knowledge base</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2583</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2583</guid>
+              <description><![CDATA[<p><strong>Abstract</strong></p>
+<p>According to Andrei, there is a simple and obvious condition for any psychological knowledge to be accepted and used by practitioners &ndash; both teachers (trainers, instructors) and instructional designers. This condition is that a practitioner should be able to do significantly more, both in explanation and in practice with such knowledge than would be possible on the basis of common sense or practical experience alone. Podolskij will distinguish two different aspects: (a) the developmental dimension which requires planning and designing, along with determining the short- and the long-term developmental consequences and the extent to which learning/teaching processes influence the student's cognitive, personal, moral, social, and emotional development, and (b) developmental changes that can also be viewed as a direct and immediate aim of the learning/teaching processes. His presentation describes two types of developmental dimensions of the instructional design and instructional technology and also considers main paths to apply those dimensions in the instructional designer&rsquo;s and teacher/trainer/instructor&rsquo;s work.</p>
+<p><strong>Live blog notes</strong></p>
+<p>A triangle connecting three areas: Development, Learning and Instruction</p>
+<p>L to I about 75% of papers and presentations are devoted to this baseline</p>
+<p>Little on the other two sides</p>
+<p>Initial starting point 35 years ago, need to try and connect all three</p>
+<p><em>Theories in human development</em></p>
+<p>Immanual - Kant Es gibt nichts Praktischerees al seine gute theorie</p>
+<p>Kurt Lewin &ndash; there is nothing so practical as a good theory</p>
+<p>Simple and obvious condition for any psychological knowledge to be accepted and used by practitioners both teachers and instructional designers</p>
+<p>Will be able to do more</p>
+<p>Two steps need</p>
+<ol>
+<li>General intellectual procedure, enabling you to analyse many aspects of schooling. Fundamental issues of human learning and developmental processes</li>
+<li>Rules of application to a real situation must be defined. Conditions that facilitate or constrain. Must be personalised. </li>
+</ol>
+<p>Developmental dimensions of learning and teaching processes</p>
+<ol>
+<li>How to plan, design, organise the learning and teaching processes</li>
+<li>What are the short and long term developmental consequences</li>
+</ol>
+<p>&ldquo;Vygotsky instruction is good only when it proceeds ahead of development&rdquo;</p>
+<p>Instructional design and instructional design for schooling</p>
+<p>Learner characteristics:&nbsp; self directedness, metacognitive strategies, adjective mental, mental efforts, mental schemata, mental activity, mental models</p>
+<p><em>What does it mean to act in mental plan? Not born with it</em></p>
+<p>Galperin, Piaget: Macro-genetically</p>
+<p>Galperin: Meso-genetically</p>
+<p>Instructional goals</p>
+<p>Instructional content</p>
+<p><strong>The PSFMA system &ndash; includes 4 sub-systems</strong></p>
+<ol>
+<li>conditions that ensure adequate motivation for the subjects mastering of the action</li>
+<li>for cultivation designer properties of mental action</li>
+<li>support consecutive transformation of intermediate forms of action and end transformation into the mental place</li>
+<li>provide formation of necessary orientation base of action</li>
+</ol>
+<p>Structure of complete orientation basis of action &ndash; Galperin 1966/1989. Contains 7 elements</p>
+<p><strong>Hierarchical structure of human orientation &ndash; Podolskij 1984/1997</strong></p>
+<p>From value, sense, goal, execution orientation</p>]]></description>
+          <pubDate>Fri, 30 Oct 2009 14:55:38 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Learning Design vs. Instructional Design</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2536</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2536</guid>
+              <description><![CDATA[<p>What are the differences between learning design and instructional design?&nbsp; Is it the approach?&nbsp; The breadth?&nbsp; The focus?&nbsp; The audience?&nbsp; Or is a just a new term for the same thing?</p><p>Contact details: kathy_siedlaczek@bcit.ca</p>]]></description>
+          <pubDate>Tue, 20 Oct 2009 17:32:05 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Instructional design models</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2405</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2405</guid>
+              <description><![CDATA[<p>via Richard Elliott - elearning watch October 2009</p>]]></description>
+          <pubDate>Sun, 04 Oct 2009 16:10:34 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Book: A designer&#39;s log: case studies in instructional design </title>
+              <link>https://cloudworks.ac.uk/cloud/view/2372</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2372</guid>
+              <description><![CDATA[<p>E-book also available, website:</p>
+<p style="cursor:auto"><!--NO CSS-->Books and articles on instructional design in online learning abound but rarely do we get such a comprehensive picture of what instructional designers do, how they do it, and the problems they solve as their university changes. Power documents the emergence of an adapted instructional design model for transforming courses from single-mode to dual-mode instruction, making this designer&rsquo;s log a unique contribution to the fi eld of online learning.</p>]]></description>
+          <pubDate>Sat, 26 Sep 2009 06:19:06 +0000</pubDate>
+            </item>
+                    <item>
+              <title>That which is designed and that which is naturally occurring</title>
+              <link>https://cloudworks.ac.uk/cloud/view/626</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/626</guid>
+              <description><![CDATA[<p>There are things that occur without or in spite of human intervention; there are things that</p>
+<p>people bring into being; and then there are things that occur within the context of things people</p>
+<p>have designed. The Grand Canyon in the USA&nbsp;is an example of something that has developed</p>
+<p>without or in spite of human intervention. People have created dams and irrigation policies that</p>
+<p>have made relatively minor changes to the canyon, when then continues to evolve after</p>
+<p>those people made those changes.</p>
+<p></p>
+<p>People are learning naturally and without conscious effort throughout their waking hours. Then</p>
+<p>instructional designers and educational planners come along and create environments and</p>
+<p>tasks intended to further learning and contribute to what people know and can do. During these</p>
+<p>activities, people do various things, some of which might be consisten with what planners had</p>
+<p>in mind. After engaging in these designed activities, people go on learning, sometimes building</p>
+<p>on those activities.</p>
+<p></p>
+<p>Perhaps this relates to Peter Goodyear's distinction between designing learning tasks and then</p>
+<p>observing and recording what people do in carrying out those tasks as they engage in various</p>
+<p>learning activities. The learning task is designed. The learning activity is an internal process</p>
+<p>that is not designed in same way that the task is designed.</p><p>Contact details: mspector@uga.edu</p>]]></description>
+          <pubDate>Wed, 10 Dec 2008 00:56:49 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

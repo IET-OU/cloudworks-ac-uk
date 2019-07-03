@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: TrackOER</title>
+        <link>https://cloudworks.ac.uk/tag/rss/TrackOER</link>
+        <atom:link href="https://cloudworks.ac.uk/tag/rss/TrackOER" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds tagged TrackOER</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>IET TCM Event 2013: What makes openness work?</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8009</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8009</guid>
+              <description><![CDATA[<h3 class="p1">What makes openness in education work?</h3>
+<p><strong>This session will be a team presentation and discussion from several people who are working in IET on the OER Research Hub and related projects.</strong></p>
+<p><strong><strong>If you are based on campus please join us for this informal, face-to-face session, have a cup of coffee/tea (with biscuits!) and contribute to the discussion.&nbsp; This event will be broadcast live online for every one to watch and will be recorded for replay.</strong></strong></p>
+<p class="p1"><strong>Abstract:</strong> The&nbsp;OER Research Hub is supported by The William and Flora Hewlett Foundation to investigate hypotheses on the benefits of Open Educational Resources. The OER Research Hub gives us a chance both to share expertise we have already gained at the OU through more than six years of high profile work with OER, and to learn from the experiences of other people. We are working in eight collaborations with other groups around the world to investigate their work and bring together findings across different sectors of education.&nbsp;</p>
+<p class="p1">Other projects that have also allowed us to look at aspects of OER include TRACKOER (JISC supported), Open Education Innovation and Incubation (EU supported), the Bridge2Success (supported by the Next Generation Learning Challenge) as well as OLnet (previously supported by the Hewlett Foundation).&nbsp;</p>
+<p class="p1">We will use the framework of the OER Research Hub to look at what we bring to work on OER and also what we are learning from the collaborations.</p>
+<p class="p2">&nbsp;In this session we expect to:</p>
+<ul>
+<li>Look at the technology and information challenges of working in the open. Discussing how the infrastructure we need to track resources that are openly released. (TRACKOER/OLnet Evidence Hub)</li>
+<li>See how the practicalities of working with OER cross over with the challenges of running courses in the open (Bridge2Success/OLDS MOOC/Progressive Learning Courses)</li>
+<li>Show some examples from the eight collaborations to show what we are finding and how we are carrying out our research. (OERRHub)</li>
+</ul>
+<p class="p1"><strong>Presenters:&nbsp; </strong>Patrick McAndrew, Dr Leigh-Anne Perryman, Dr Rob Farrow, Dr Beck Pitt, Dr Bea de los Arcos, Simone Arthur,&nbsp;Dr Nick Freear, Claire Walker&nbsp;(IET)</p>
+<p class="p1"><strong>Location:</strong> Jennie Lee Building Meeting Room 1 Ground Floor</p>
+<p><strong><strong><a href="http://stadium.open.ac.uk/jlb/"><strong>Live Link to online broadcast</strong></a><br /><br /></strong></strong><strong>Twitter hashtag</strong>: <a title="Nick's suggestion - URL-encoding fail!!" href="http://twitter.com/search/#ouTCM">#ouTCM</a><br /><strong><br /><strong><a href="http://cloudworks.ac.uk/cloudscape/view/2107">IET TCM 2013 Schedule</a></strong></strong></p>
+<p><strong><a href="http://cloudworks.ac.uk/cloudscape/view/2107">General information about IET TCMs</a></strong></p>
+<p><a href="http://podcast.open.ac.uk/oulearn/engineering-and-technology/ict/podcast-iet-tcm" rel="nofollow"><strong>Podcasts of&nbsp;past events</strong></a></p>
+<p>&nbsp;</p>
+<h2>Please post your feedback in the 'Contribute to the discussion' box below</h2>]]></description>
+          <pubDate>Wed, 13 Feb 2013 11:54:33 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Track OER - frequently asked questions</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6688</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6688</guid>
+              <description><![CDATA[<ol>
+<li>
+<p>Did you make a video blog and where is it?</p>
+<p>There are two &ldquo;Grand Finale&rdquo; videos,</p>
+<ul>
+<li><a href="http://cloudworks.ac.uk/cloud/view/6568">http://cloudworks.ac.uk/cloud/view/6568</a></li>
+<li><a href="http://podcast.open.ac.uk/pod/trackoer">http://podcast.open.ac.uk/pod/trackoer</a></li>
+<li><a href="http://youtube.com/playlist?list=PLbk9PlEH5tn1tLS3oXh_zYUJ5AczPOCpM">YouTube playlist for Track <abbr title="Open Educational Resource,">OER</abbr></a></li>
+</ul>
+</li>
+<li>
+<p>Where is the resultant code?</p>
+<p>The code is available for download under open-source licenses,</p>
+<ul>
+<li><a href="https://github.com/IET-OU/trackoer-core">https://github.com/IET-OU/trackoer-core</a></li>
+<li><a href="https://github.com/IET-OU/piwik-trackoer">https://github.com/IET-OU/piwik-trackoer</a></li>
+</ul>
+<p>It is installed here,</p>
+<ul>
+<li><a href="http://track.olnet.org">http://track.olnet.org</a></li>
+</ul>
+</li>
+<li>
+<p>And is LTS using the code now? Does it have plans to?</p>
+<p><a title="Cut and Paste Reuse Tracking" href="http://capret.mitoeit.org/"><abbr title="Cut and Paste Reuse Tracking,">CaPR&eacute;T</abbr></a> is in use on LabSpace <abbr title="Bridge to Success project">B2S</abbr>, and the <a title="SCORM, IMS Common Cartridge, Plain Zip.." href="http://labspace.open.ac.uk/blocks/formats/download_unit.php?id=7442&name=Learning_to_Learn_1.0">Zip downloads</a> containing tracking codes will be available shortly,</p>
+<ul>
+<li><a href="http://labspace.open.ac.uk/Learning_to_Learn_1.0">http://labspace.open.ac.uk/Learning_to_Learn_1.0</a></li>
+<li><a href="http://labspace.open.ac.uk/Succeed_with_Math_1.0">http://labspace.open.ac.uk/Succeed_with_Math_1.0</a></li>
+</ul>
+</li>
+<li>
+<p>Could you spell out what this will actually mean for <a href="http://www8.open.ac.uk/about/open-educational-resources/what-we-do/open-media-unit">Open Media Unit (OMU)</a> at The Open University in practice?</p>
+<ul>
+<li>
+<p>OMU should be able to find out,</p>
+<ol>
+<li>If OpenLearn/ LabSpace content in being re-used</li>
+<li>The method (that is, download, or cut and paste), and</li>
+<li>Something about who is re-using and how &ndash; see these <a href="http://track.olnet.org/about#links">custom report configurations</a>.</li>
+</ol></li>
+<li>
+<p>We explored <a title="Piwik open source web analytics" href="http://piwik.org/">Piwik</a> and <a title="Google Analytics" href="https://www.google.com/analytics/">Google Analytics</a> based tracking, but in practice, for production purposes we are using <abbr title="Google Analytics">GA</abbr> &ndash; a known quantity for OMU.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>And what will it mean for the Institute of <a title="Institute of Educational Technology" href="http://iet.open.ac.uk/">Educational Technology (IET)</a> from a research perspective?</p>
+<ul>
+<li>We&rsquo;ve met the objectives of the <a title="Joint Information Systems Committee" href="http://www.jisc.ac.uk/"><abbr title="Joint Information Systems Committee">JISC</abbr>-funded</a> Track <abbr title="Open Educational Resource,">OER</abbr> project,</li>
+<li>We've undertaken a successful collaboration with OMU and LTS, including the key <a href="http://www.open.edu/openlearn/">OpenLearn</a> developer, <a href="https://twitter.com/guydbarrett">Guy Barrett</a>,</li>
+<li>We are collecting data that can be visualized later, eg. via the OLNet evidence hub,</li>
+<li>We haven&rsquo;t yet done integration/ visualization work for the evidence hub (out of scope for Track <abbr title="Open Educational Resource,">OER</abbr>),</li>
+</ul>
+</li>
+</ol>]]></description>
+          <pubDate>Fri, 07 Dec 2012 15:05:03 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Track OER - OER Commons bookmarklet service screen cast</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6569</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6569</guid>
+              <description><![CDATA[<p>Transcript for a <a href="http://podcast.open.ac.uk/pod/trackoer#!b9379af9b7">screen cast on OU Podcasts</a>. Also available <a href="http://youtube.com/playlist?list=PLbk9PlEH5tn1tLS3oXh_zYUJ5AczPOCpM">via YouTube</a>.</p>
+<p><a title="Watch the screen cast on YouTube" href="http://youtu.be/UWCBAt8_UH4"><img src="http://i2.ytimg.com/vi/UWCBAt8_UH4/hqdefault.jpg" alt="Watch the screen cast on YouTube" /></a></p>
+<h2>Transcript</h2>
+<p><a href="http://track.olnet.org/">Track <abbr title="Open Educational Resource,">OER</abbr></a> is a <abbr title="Joint Information Systems Committee">JISC</abbr>-funded project to demonstrate technical solutions to the problem of tracking <abbr title="Open Educational Resource,">OER</abbr> (Open Educational Resources). As part of the Track <abbr title="Open Educational Resource,">OER</abbr> project we have developed a service to add license-tracker snippets to resources available through the <a href="http://oercommons.org/"><abbr title="Open Educational Resource,">OER</abbr> Commons</a> portal.</p>
+<p>And, here's how it works:</p>
+<ol>
+<li>First visit the link track dot olnet dot org and put at the end a question mark, edge equals one, <a href="http://track.olnet.org/?edge=1">http://track.olnet.org/?edge=1</a> (this just means use experimental features)</li>
+<li>Then make sure your browser's bookmarklets/ bookmarks bar is available</li>
+<li>Then drag the bookmarklet that's in the bottom-left of the site to your bookmarks or favourites bar,</li>
+<li>Now visit <abbr title="Open Educational Resource,">OER</abbr> Commons, <a href="http://oercommons.org">http://oercommons.org</a></li>
+<li>Browse using the menus on the left, among the materials. I'll choose something from the Arts section. Here's a resource available through <abbr title="Open Educational Resource,">OER</abbr> Commons, the Aaron Copland Collection,</li>
+<li>Then simply click on the bookmarklet you saved previously..</li>
+<li>Wait a few [moments]&hellip;</li>
+<li>And view the resulting license-snippet. You get a preview here, and some copy and paste here.</li>
+</ol>
+<p>By default the snippet uses <a title="Piwik open source web analytics" href="http://piwik.org/">Piwik</a> no-Javascript tracking and a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</a>. You can switch to Google Analytics, here, like so&hellip; Here's the Google Analytics [Java]script&hellip;</p>
+<p>Additionally, you can change the license, for example using&hellip; the Attribution-NonCommercial-ShareAlike [License] like so.</p>
+<p>Currently the Track <abbr title="Open Educational Resource,">OER</abbr> bookmarklet service is mostly a demonstration. It can be used by a publisher on small batches of OERs. Download the <a title="Track OER project code, on GitHub" href="https://github.com/IET-OU/trackoer-core">Track <abbr title="Open Educational Resource,">OER</abbr> code</a> and consider integrating it into your publishing workflow for full scale integration of tracking. We are considering extending the current functionality into an &ldquo;<em>Embed Me</em>&rdquo; or &ldquo;<em>Embed 'n' Track</em>&rdquo; service for OpenLearn and <abbr title="Open Educational Resource,">OER</abbr> Commons.</p>
+<p><a href="http://track.olnet.org/"><em>Watch this space</em></a>!</p>]]></description>
+          <pubDate>Fri, 19 Oct 2012 15:30:31 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Track OER - grand finale</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6568</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6568</guid>
+              <description><![CDATA[<p>Below you will find two short videos summarizing the aims and outputs from the <abbr title="Joint Information Systems Committee">JISC</abbr>-funded Track <abbr title="Open Educational Resource,">OER</abbr> Project undertaken in the <a title="Institute of Educational Technology" href="http://iet.open.ac.uk/">Institute of Educational Technology</a> at The Open University.</p>
+<ol>
+<li>A <a title="Finale video by Patrick McAndrew, on OU Podcasts" href="http://podcast.open.ac.uk/pod/trackoer#!edb526f6c0">two minute video by principal investigater, Professor Patrick McAndrew</a>,</li>
+<li>A <a title="Finale slide cast by Nick Freear, on OU Podcasts" href="http://podcast.open.ac.uk/pod/trackoer#!811d8699eb">three minute slide cast by lead developer, Dr Nick Freear</a> (<a title="Slides on Google Docs" href="https://docs.google.com/presentation/pub?id=1LmFrSDU5-jP1Ff34Vee8ug2D7-yq6Ut9nAULC2Ln2lY&start=false&loop=false&delayms=3000">slides</a>).</li>
+</ol>
+<p>You can also <a href="http://youtube.com/playlist?list=PLbk9PlEH5tn1tLS3oXh_zYUJ5AczPOCpM">view them in this YouTube playlist</a>.</p>
+<p>Enjoy!</p>
+<h2>Transcript for the video by Patrick McAndrew</h2>
+<p><a title="Finale video by Patrick McAndrew, on YouTube" href="http://youtu.be/lD6jmQxBa4s"><img src="http://i1.ytimg.com/vi/lD6jmQxBa4s/hqdefault.jpg" alt="Finale video by Patrick McAndrew" /></a></p>
+<p>TRACK <abbr title="Open Educational Resource,">OER</abbr> is a project supported by the <abbr title="Joint Information Systems Committee">JISC</abbr> OER Rapid Innovation programme (OERRI). It has developed ways to help keep track of Open Educational Reources. <abbr title="Open Educational Resource,">OER</abbr> have the challenge of being in the open and so actually what happens to content can become a bit of a mystery &ndash;- if content is trackable then we can improve what we know about use, help increase the evidence base and make it easier for those who want to reuse content to do the right thing.</p>
+<p>In practice we have built three things. A transferable tracking system combining the Cut and Paste &ldquo;<abbr title="Cut and Paste Reuse Tracking,">CaPR&eacute;T</abbr>&rdquo; software built by MIT in a previous JISC project, A way to add tracking code to downloads so that we can see where new copies are being used and served, and tools to help apply tracking. These have all been through the acceptance testing process of The Open University so that they can be rolled out into our systems and of course, the code is all open source and available.</p>
+<p>We see this code as helping us know things that we just couldn't find out before and the content for the Bridge to Success courses has now been marked with the tracking code. We also know that it has triggered ideas that we want to take forward: better ways to embed content with good attribution and tracking, a trackable license chooser for creative commons, and better ways to share evidence in our <abbr title="Open Educational Resource,">OER</abbr> Research hub.</p>
+<p>To get at the software and see it in action visit, <a href="http://track.olnet.org">http://track.olnet.org</a></p>]]></description>
+          <pubDate>Thu, 18 Oct 2012 22:09:47 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Track OER - impact</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6567</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6567</guid>
+              <description><![CDATA[<p>We're now at the end of the Track OER project, so this is a suitable point to consider the impact of the project and any next steps.</p>
+<ol>
+<li>Google Analytics (and Piwik-based) license-trackers for the Bridge to Success downloadable archives/ Zips have undergone technical testing, and have been approved. They will be deployed to the production OpenLearn-Labspace environment in mid-November.</li>
+<li>The license-trackers for B2S archives incorporate GA campaign tracking.</li>
+<li>The CaPReT-Google Analytics and CaPReT-Piwik Javascripts have also undergone testing. They will also be deployed to LabSpace in mid-November.</li>
+<li>We have contributed fixes to the <a title="Tatemae/capret on Github" href="https://github.com/tatemae/capret">original CaPReT code</a> base.</li>
+<li>There is a demo bookmarklte service to add license-trackers to content available through OER Commons.</li>
+<li>And all code is on Github, and available under a GPL-compatible open source license.</li>
+</ol>
+<p>On this basis the project has achieved what it set out to achieve - demonstrating practical analytics-solutions for OERs.</p>
+<h3>Next steps</h3>
+<p>Apart from the deployments mentioned above, these are the next steps:</p>
+<ol>
+<li>Use the current command line PHP batch processor (part of Track OER) as the specification for production-ready XSLT templates. This is the route to add license-tracking to OpenLearn and OpenLearn-LabSpace at scale.</li>
+<li>"Tracking evidence" - find ways to integrate the Google Analytics data in (Google) maps in the <a href="http://ci.olnet.org/#org-orggmap">OLNet Evidence Hub</a>.</li>
+<li>Document recipes to create and export analytics reports.</li>
+<li>Explore an "Embed Me" / "Embed 'n' Track" button for OpenLearn (and OER Commons).</li>
+<li>Show Creative Commons the project outputs.</li>
+<li>Other dissemination activity.</li>
+</ol>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Fri, 19 Oct 2012 13:38:21 +0000</pubDate>
+            </item>
+                    <item>
+              <title>TRACK OER - Project proposal</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6538</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6538</guid>
+              <description><![CDATA[<p>Project proposal available at <a title="Document on the Knowledge Network">http://kn.open.ac.uk/public/document.cfm?docid=13843</a></p>]]></description>
+          <pubDate>Wed, 10 Oct 2012 22:40:31 +0000</pubDate>
+            </item>
+                    <item>
+              <title>TRACK OER - aims</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6536</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6536</guid>
+              <description><![CDATA[<p>The TRACK OER project aims to investigate and demonstrate ways to track Open Educational Resources as they are reused. To do this it:</p>
+<p>
+<ul>
+<li>Will develop open source code that will enable the embedding of tracking in downloaded content.</li>
+<li>Enhance existing software that allows monitoring of cut and paste actions on OER content.</li>
+<li>Validate the software through acceptance testing so that it can be applied to content on The Open University's LabSpace server.</li>
+</ul>
+</p>
+<p>In addition the project will lokk at ways that the system can be used by the OER community and describe possible uses and the tools that might enable take up of tracking.</p>]]></description>
+          <pubDate>Wed, 10 Oct 2012 22:26:27 +0000</pubDate>
+            </item>
+                    <item>
+              <title>TRACK OER - Project Plan</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6535</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6535</guid>
+              <description><![CDATA[<p>The project plan aas set out in the proposal is structured on a development plan that&nbsp;will start immediately the project is funded to establish the code base, review use case and engage with the developer community. The majority of work in the development cycle will take place later to fit with planned availability of development effort which has been agreed with line management prior to submission of this proposal. There will be two parallel strands.</p>
+<h2>Strand 1: Track OER &ndash; web-bug tracker</h2>
+<ul>
+<li>At the heart of most Web analytics systems, including Google Analytics, Piwik, ComScore and the analytics part of <em>CaPR&eacute;T</em> is what is termed a web-bug &ndash; code attached to an image, often a one-pixel by one-pixel &lsquo;hidden&rsquo; image. By virtue of it&rsquo;s inclusion or embedding in a host Web page it can be used to log data about the host page, the visitor, and the visitor&rsquo;s browsing software. The image link can pass back information, taking the form for example:</li>
+<li>&lt;img src= "http://track.example.org/tracker.gif?host=host.example.com&amp;path=path/to&amp;paramA=X&amp;..." alt="" /&gt;</li>
+<li>Google Analytics, Piwik and other systems wrap a web-bug in a Javascript library, which makes the analytics system easier to implement, more flexible, and adds extra data about the visitor that is only available via Javascript (for example, screen resolution, support for Flash and Java, etc.).</li>
+<li>The dis-advantage of the Javascript wrapper is that it is not available or is dis-allowed in interfaces like RSS feeds, Zip and packaging standards (eg. SCORM, IMS Common Cartridge), and is often stripped out because of security concerns when imported into content management and online learning systems.</li>
+<li>Given this overwhelming restriction, no-Javascript web-bugs were researched in collaboration with Scott Leslie of BCcampus as part of the OLnet project (<a href="http://olnet.org/node/149">http</a><a href="http://olnet.org/node/149">http://olnet.org/node/149</a>), and code was released (<a href="http://snipplr.com/view/37647">http://snipplr.com/view/37647</a>). This code was developed as an example prototype to demonstrate the principles. It is not currently functional and will form the basis for extension in this project. While web-bugs are usually linked to one-pixel hidden graphics we will associate the tracking with the embedded Creative Commons graphic.</li>
+</ul>
+<p>Strand 1: Development steps</p>
+<ol>
+<li>The code base will be extensively reworked to provide a working service linked to an appropriate analytics system such as Piwik. Piwik is an open-source alternative to Google Analytics implemented using Javascript, PHP and MySQL. It provides similar tracking, visualization and reporting functionality, and is highly extensible. Whereas Google Analytics is a hosted solution, Piwik can be installed and customized on a local server (<a href="http://piwik.org">http://piwik.org</a>). (Expected effort 15 days.)</li>
+<li>Installing/implementing a web-bug in <em>B2S</em> LabSpace: It is suggested that test no-Javascript web-bugs can be manually added to the RSS feeds and downloads/ archives for the two <em>B2S</em> modules available via Labspace (<a href="http://labspace.open.ac.uk/b2s">http://labspace.open.ac.uk/b2s</a>). This is a low-risk approach that will be useful for evaluation. The software will then undergo Full-scale implementation across OpenLearn would be a more complex proposition. (Expected effort 10 days/5 days testing.)</li>
+</ol>
+<h2>Strand 2 <em>CaPR&eacute;T</em>++</h2>
+<ul>
+<li>As the name suggests Cut and Paste Reuse Tracking (<em>CaPR&eacute;T</em>) is designed to add attribution and license meta-data, and to track the informal copying and pasting of OERs. It has been developed by Tatemae and MIT Office of Educational Innovation and Technology, and the code is available via Github (<a href="http://capret.mitoeit.org">http://capret.mitoeit.org</a> &amp; <a href="http://github.com/tatemae/capret">http://github.com/tatemae/capret</a>).</li>
+<li><em>CaPR&eacute;T</em> comprises two parts. The client-side consists of Javascript libraries built on top of jQuery. The server-side part is a Node.js application, which uses Hummingbird for realtime visualizations (<a href="http://nodejs.org">http</a><a href="http://nodejs.org">://</a><a href="http://nodejs.org">nodejs</a><a href="http://nodejs.org">.</a><a href="http://nodejs.org">org</a>).</li>
+</ul>
+<p>Strand 2: Development steps</p>
+<ol>
+<li>Currently <em>CaPR&eacute;T</em> does not appear to track when an individual image or multimedia resource is copied from within an OER. This limitation can be reduced using HTML5 DOM extensions within <em>CaPR&eacute;T</em>. (10 days)</li>
+<li>Installing/ implementing <em>CaPR&eacute;T</em>, in LabSpace and Moodle: The <em>CaPR&eacute;T</em> Javascript libraries have already been implemented in a Drupal 6.x blog (<a href="http://freear.org.uk">http://freear.org.uk</a>) and a Moodle 2.0 system &#40;<a href="http://freear.org.uk/moodle">http://freear.org.uk/moodle</a>&#41;. In both cases, there was no need to install plugins or extensions on the server - they were implemented as custom blocks (the implementor needs super-user/administrator privileges on Drupal and Moodle). Given this initial success, it is thought that the <em>CaPR&eacute;T</em> Javascript can be added to LabSpace in a low-risk manner, and within the constraints of the OpenLearn development and release cycle, for evaluation with the <em>B2S</em> course content. (10 days)</li>
+<li>Moodle version of <em>CaPR&eacute;T</em>: As part of the project, a <em>CaPR&eacute;T</em> plugin will be written for Moodle to go through acceptance testing for full inclusion in OpenLearn/LabSpace. (10 days/5days testing)</li>
+<li>Overall testing and documentation in accordance with requirements (10 days)</li>
+</ol>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Wed, 10 Oct 2012 22:17:07 +0000</pubDate>
+            </item>
+                    <item>
+              <title>TRACK OER use case</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6528</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6528</guid>
+              <description><![CDATA[<h1>Use Case</h1>
+<p>Summary: This use case considers the inhibitions and restrictions on OER projects and the associated impact on the educator community from restricted tracking data.</p>
+<ul>
+<li>Context: In the Bridge to Success (<em>B2S</em>.aacc.edu) project materials have been generated that take OER from the Open University and make them available as reworked OER with a focus on use in US Community Colleges. The content is released in OpenLearn&rsquo;s LabSpace. This material is available for use on other systems under the CC-BY permissive form of the Creative Commons licence. Transfer to other servers is permitted and supported by the release of downloadable content packages and clear messages that material can be copied and reused as permitted by the CC-BY licence.</li>
+<li>Requirements: The project is funded by the Next Generation Learning Challenge (nextgenlearning.org) with requirements that we research use in identified pilots and reach targets about the use and impact of <em>B2S</em> content. Some pilots need to manage their registered students through the content and would like to provide access to <em>B2S</em> content from institutional VLE. We also are actively investigating other platforms such as Peer-to-peer University, iTunesU and OERGlue.</li>
+<li>Existing approach: Information on use is available as long as content remains on the LabSpace system through analytics and support for groups in the Learning Club. If content transfers we may then have no data about the use of the content and be unable to learn more about the use or report back to our funder.</li>
+<li>Solution: The Track OER system provides information back to the originator of the content to show the content that is reused and the location in which it now operates. The scale of reuse can now be monitored and further information sought if needed.</li>
+<li>Success criteria: A programme of testing will demonstrate the capability to track and provide accurate data into the system. Impact will be assessed during the period of the project through use of the tracking data within existing reporting of OpenLearn performance. Further benefits are expected for example identification of reuse cases and interfaces that reveal where alternative content can be found, these may occur after the project.</li>
+<li>Community: The need for a tracking system appears repeatedly in OER projects and providing sites, particularly as it is common to need to show impact to funders and institutions. For the educator community the challenge to correctly attribute and meet the intent in sharing content is enhanced. We will specifically explore this with the Community College educator community. For the learner community the benefits will come from more flexible use of content and the potential to use the data provided to connect groups learning in different online spaces.</li>
+<li>Engagement: the idea for tracking has been considered for some time, including in the context of JISC CETIS, OLnet and work by MIT. In addition Creative Commons have identified the need for tracking as important in extending use of the CC licence for Museums and Art works and are interested in this activity and how it could work with the embedded licence.</li>
+</ul>
+<ul>
+<li>This use case is released under CC-BY-SA.</li>
+</ul>]]></description>
+          <pubDate>Wed, 10 Oct 2012 10:37:39 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Status, 26 September, CaPReT-GA, testing, performance - Track OER</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6494</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6494</guid>
+              <description><![CDATA[<p>I'm a bit behind with my blogging and I have lot's to talk about, so let's dive in...</p>
+<p>Way back on the 12 September I had two very useful meetings, including one with the wider Track <abbr title="Open Educational Resource,">OER</abbr> team/group. The response to our progress on the technical activities was positive. Some significant outcomes from the meetings were:</p>
+<ul>
+<li>Can we take the <a title="Cut and Paste Reuse Tracking" href="http://capret.mitoeit.org/">CaPReT</a>-Piwik work and extend it to <a title="Google Analytics" href="https://www.google.com/analytics/">Google Analytics</a>? After some discussion we decided that this was my next high priority task.</li>
+<li>A suggestion from <a class="@" rel="interwiki" href="https://twitter.com/guybarrett">Guy Barrett</a> regarding the [CaPReT-<abbr title="Microsoft Internet Explorer browser">MSIE</abbr> problem][cloud:6474] - can we put a HTML comment into the pasted content, to offer the user some help? <code>&lt;!--...--&gt;</code></li>
+<li>Can we ensure that CaPReT/-Piwik/-<abbr title="Google Analytics">GA</abbr> works with Drupal 6 - jQuery 1.3.2 (ie. an old version of the jQuery Javascript library)?</li>
+<li>Can we ensure that the CaPReT Javascripts do not degrade the page load-times for OpenLearn, LabSpace and so on? (<a href="http://weblogs.asp.net/jgalloway/archive/2007/05/10/performant-isn-t-a-word.aspx">Performant isn't a word</a>.. <a class="Define" rel="interwiki" href="http://google.com/search?q=define:performant">it is now</a>.)</li>
+</ul>
+<p>I got stuck into Guy's suggestion straight away, and extended it to include a link to <a class="Toer" rel="interwiki" href="http://track.olnet.org/help/capret/ie">further sources of help</a>. You can see an <a class="Gdoc" rel="interwiki" href="https://docs.google.com/document/d/1aGNOPFACD5KUbSPHELy9CVlrj2AJUzY18YJIZgJjrqI/edit">example of the comment in this Google Doc</a>.</p>
+<p>I'm pleased to say that we have at least a partial solution for CaPReT-<abbr title="Google Analytics">GA</abbr>. I've used <a class="Gdev" rel="interwiki" href="https://developers.google.com/analytics/devguides/collection/gajs/eventTrackerGuide">Google Analytics event tracking</a>, with actions of 'copy' and 'view', the copied text as the event label, and the length of the copied text as the event value (for copy only). The copy action is fully tracked (source host and <abbr title="Uniform Resource Locator,">URL</abbr>), but we haven't been able to get the destination host/<abbr title="Uniform Resource Locator,">URL</abbr>. This seems to be a limitation of Google Analytics. A CaPReT copy uses Javascript, while the tracker that is added to the copied text and used to track views of the pasted content is a no-Javascript web beacon (web bug). You may like to view an <a class="Toer" rel="interwiki" href="http://track.olnet.org/test/capret/math/course-ga">example of CaPReT-GA</a> - and try copying.</p>
+<p>We've done some work on performance too, using Google's <a href="http://closure-compiler.appspot.com/home">online Closure Compiler</a> to [compress the CaPReT Javascripts][Toer:build/capret]. If you wish to add a version of jQuery and change "whitespace-only" to "simple optimizations", <a class="Toer" rel="interwiki" href="http://track.olnet.org/build/capret/simple/1.8.0">try this build script</a>. The <a class="Toer" rel="interwiki" href="http://track.olnet.org/capret/build/capret-ga.min.js">minified CaPReT-GA Javascript is here</a></p>
+<p>The third round of technical testing was put back a week, but I'm happy to say that Roger Moore and Mick Deal have shown great flexibility. Testing is underway this week, <a class="Gdoc" rel="interwiki" href="https://docs.google.com/document/d/1-NUFoxRB2U2xha1TvHC5D25ZYTUPwIv5EDFLf9dVN5M/edit">using this test script</a>. It concentrates on <abbr title="Bridge to Success project">B2S</abbr> testing with campaign tracking, CaPReT-<abbr title="Google Analytics">GA</abbr> testing, and a new strand C, testing the <a class="Toer" rel="interwiki" href="http://track.olnet.org/oerform?edge=1">OER Form service and bookmarklet</a>. I haven't talked much about this last point, but I'll leave that for a future post.</p>
+<p>Nick, signing off. Over and out..</p>]]></description>
+          <pubDate>Wed, 26 Sep 2012 14:13:36 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Week-end status, 7 Sep campaign tracking.. - Track OER</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6476</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6476</guid>
+              <description><![CDATA[<p>Last Friday I had a very productive discussion with Tony Hirst (<a href="http://ouseful.info/">Ouseful.info</a>). I ran through some of my research into Javascript versus no-Javascript web beacons (web-bugs). As ever, it was useful to get some objective criticism and validation from a fellow techie!</p>
+<p>And Tony re-iterated a comment he made on the Project blog on Cloudworks - we should really look at campaign tracking. After our discussions I recognised the significance of this as part of a multi-pronged solution to tracking content re-use. So I got busy and baked something into the command line (CLI) batch processing code.</p>
+<p>The aim should be add the campaign tracking parameters at least into all the external links back to the 'source' server and CreativeCommons.org. My thinking is that if we can share naming conventions for the parameters, and analytics data with Creative Commons then we would all benefit.</p>
+<p>Here is an example link with campaign tracking parameters for Google Analytics (utm_source, utm_medium, utm_campaign..), http://labspace.open.ac.uk/b2s?utm_source=labspace.open.ac.uk!Learning_to_Learn_1.0&amp;utm_medium=online!attr-link&amp;utm_campaign=toer1</p>
+<p>And, here is the <a href="http://support.google.com/analytics/bin/answer.py?hl=en&answer=1033867">Google Analytics URL builder tool</a>, and <a href="https://docs.google.com/document/d/1ResNHBGs22iCntB7Qx5lKYYrFZxxUWm62xn0c7VIFcY/edit#heading=h.2eh8u2m4b2y3">additional notes and discussion in a proposed specification</a>.</p>
+<p>Apart from the attempted <a href="http://cloudworks.ac.uk/cloud/view/6474">fixes for the CaPReT Javascripts discussed here</a> (and JSLint fixes), the main activity over the past week has been implementing the <a href="http://api.creativecommons.org/docs/readme_15.html">Creative Commons API</a> in the Track OER application. This is basically complete, apart from bug fixing. It brings the following substantial benefits:</p>
+<ul>
+<li> Correct terminology and language used for the various Creative Commons Licenses, </li>
+<li> License coverage, </li>
+<li> Convergence between the command line (CLI)/ batch template processor and the Web/oEmbed online interface, </li>
+<li> Support for different jurisdictions, </li>
+<li> Localization. </li>
+</ul>
+<p>Here is a French language snippet, with Google Analytics Javascript tracking, and UK jurisdiction, <a href="http://track.olnet.org/oerform?locale=fr&lic=cc:by/uk&ac=UA-12345-6&url=http://labspace.open.ac.uk/course/view.php?id=7442#cc-code">track.olnet.org/oerform?locale=fr&amp;lic=cc:by/uk&amp;ac=UA-12345-6&amp;url=http://labspace.open.ac.uk/..</a> - link not yet fully operational (server update required!)</p>
+<p>I found Creative Common's REST API straightforward to work with, and the RDF/XML data returned is very useable.</p>
+<p>I'm looking forward to the OERRI challenges webinar hosted by CETIS this morning.</p>
+<p>Over and out.</p>]]></description>
+          <pubDate>Fri, 07 Sep 2012 06:17:47 +0000</pubDate>
+            </item>
+                    <item>
+              <title>CaPReT, Javascript clipboard and Internet Explorer</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6474</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6474</guid>
+              <description><![CDATA[<p>The big headline from technical testing of CaPReT, was that <a title="Thanks to Mick Deal/LTS Tech. Testing" href="https://docs.google.com/document/d/1ci8U920B6DgydrBZZvYZxtvOTw_OpH1AnCX61-OWjpA/edit">copy and paste doesn't work as expected in Internet Explorer (versions 6 - 9)</a>.</p>
+<p>Specifically, in other browsers you can copy from a CaPReT Javascript-enabled page, and simply paste into an online rich-editor (we tested on live Cloudworks, which uses Tiny MCE).  This pastes the text with formatting, with the Piwik web-beacon image and attribution/license meta-data from the source page's <a title="Resource Description Framework - in attributes" href="http://en.wikipedia.org/wiki/RDFa">license RDFa</a> appended.</p>
+<p>My apologies in advance for the technical complexities I detail below. I thought it best to record what we've found before we forget!</p>
+<p>In Internet Explorer, when you try to do a simple paste it pastes the source HTML markup, escaped - so you see "&lt;a href="..."&gt;..&lt;/a&gt;..</p>
+<p>Obviously this workaround is not elegant, so I've been looking at a better solution.  The crux of the issue is the way that CaPReT hooks into the Javascript "copy" event using <a href="https://github.com/niklasvh/jquery.plugin.clipboard">Niklas von Hertzen's jquery.plugin.clipboard Javascript</a>.</p>
+<p>The Internet Explorer branch of this plugin's logic uses clipboardData.setData, which supports copying as "Text" or "URL" (no "HTML" value available).  When the user pastes the destination rich-editor handles the clipboard data as text, escaping and revealinfg the markup.  The plugin's logic for the other browsers manipulates the <a href="http://www.quirksmode.org/dom/range_intro.html">W3C Range</a> that is to be copied,  then hands over to the browser to actually perform the copy (that is, it doesn't prevent the default action).  So, when the clipboard data is pasted it is recognized as rich-text/HTML and works accordingly.</p>
+<p>I've been exploring solutions using <a href="http://code.google.com/p/ierange/">Tim Cameron Ryan's 2009 ierange Javascript</a>, and re-working von Hertzen's clipboard plugin.  So far unfortunately, I've been unsuccessful. ierange.js provides a shim for Internet Explorer, implementing the  <a href="http://w3.org/TR/DOM-Level-2-Traversal-Range/">W3C Range specification (Version 1.0/ 2000)</a> and DOM Selection.  Manipulating ranges is a complex business and I haven't yet determined if the bugs are in ierange.js or my re-worked clipboard2 plugin.</p>
+<p>I need to check priorities with my colleagues, but I am tempted to abandon the ierange/jquery.clipboard2 based solution for the moment, as it could become a big time-sink.</p>
+<p>The work has not been in vain however, as I have a much better understanding of how Javascript interacts with the clipboard, and I've  <a href="https://github.com/tatemae/capret/issues/9">fixed a number of bugs</a> in the <a href="https://github.com/IET-OU/trackoer-core/blob/master/application/assets/capret/js/jquery.plugin.clipboard.js">fork of von Hertzen's jQuery Clipboard plugin used by CaPReT</a>.</p>]]></description>
+          <pubDate>Wed, 05 Sep 2012 15:39:53 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Track OER - status, 29 August: looking back, looking forward..</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6449</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6449</guid>
+              <description><![CDATA[<p>We prepared for the first round of testing, with LTS Technical Testing team at The Open University. This involved writing <a href="https://docs.google.com/document/d/1Hqqm1Rhmsi3SaWwMJ1mRE5gyyIdfFdxqM3D2LKxsYOc/edit">an initial test script</a>. And, significantly we relied on the <a href="http://capret.mitoeit.org">CaPReT evaluation server</a>, which does not have guaranteed up-time or support. So, we took a copy of the CaPReT Javascripts, and extended them to work with Piwik (capret-piwik.js).</p>
+<p>Testing proceeded on schedule last week, and the <a href="https://docs.google.com/document/d/1ci8U920B6DgydrBZZvYZxtvOTw_OpH1AnCX61-OWjpA/edit">results are online</a>.</p>
+<p>We also worked to separate the 'AlternateImage' Piwik plugin in to it's own project repository, and added two more Piwik plugins - 'ExternalLink' (a utility), and 'ContentReuse'. The growing <a href="http://cloudworks.ac.uk/cloud/view/6442">list of outputs is in the register</a>.</p>
+<p>Finally, I finished the command line batch processor. This is our initial solution to add license-tracker code into the HTML pages in the various Zip archives that can be downloaded from LabSpace. We are looking at XSLT solutions going forward, but this has enabled us to proceed with the <a href="https://docs.google.com/document/d/1RIWRsGFQf4CmiPoHl3BMubz3w6TMiFN_oQbnuSKtQA0/edit">second round of testing this week</a>.</p>
+<p>This week and next I'll be working on improving the Google Analytics Javascript to work on work on a local machine (the "file://" protocol). And looking at no-Javascript Google Analytics..</p>
+<p>Last week:</p>
+<ul>
+<li> 20 August, trackoer-ga.js </li>
+<li> 20,23,24,28 August, initial command line/CLI controller/ batch processor, </li>
+<li> 21 August, setting up technical testing round 1, </li>
+<li> 21 August, adding CaPReT test view(s) to trackoer-core based on LabSpace, </li>
+<li> 21-22 August, capret-piwik.js </li>
+<li> 23 August, Piwik 'ExternalLink' utility plugin </li>
+<li> 24 August, separated Piwik plugins (now three) into separate Git repos. - set up .gitmodules/ sub-modules (git clone --recursive..) </li>
+<li> 24-26 (Tuesday 28) August, Oercommons_serv </li>
+<li> 28 August gajs.js </li>
+</ul>
+<p>Looking forward:</p>
+<ul>
+<li> Google Analytics solution for use on local machine ("file://" protocol) - looking at gajs.js - Remy Sharp, </li>
+<li> Google Analytics no-Javascript solution, </li>
+<li> Build script for CaPReT-Piwik Javascripts etc. </li>
+<li> Bug fixes from weeks 1 and 2 of testing, </li>
+<li> Prepare for 3rd round of testing, week of 17 September, </li>
+<li> Complete OER Commons functionality. </li>
+</ul>]]></description>
+          <pubDate>Wed, 29 Aug 2012 11:24:30 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Track OER - outputs register</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6442</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6442</guid>
+              <description><![CDATA[<p>We're developing re-usable software components at quite a rate. So I thought it best to note some meta-data as we go along. There will be technical detail, but I'll try to keep things readable for non-techies too!</p>
+<h3>Useful tools</h3>
+<p>Note, these browser plugins are not just for developers!</p>
+<ul>
+<li>Get <a href="http://getfirebug.com/">Firebug</a> for the Firefox browser &ndash; to view Javascript output, network activity and so on for the examples below,</li>
+<li>The <a href="https://developers.google.com/chrome-developer-tools/docs/console">console in the Chrome</a> browser,</li>
+<li>The <a href="http://www.opera.com/dragonfly/documentation/console/">console in the Opera</a> browser,</li>
+</ul>
+<h2>AlternateImage &ndash; Piwik plugin</h2>
+<ul>
+<li>Purpose: To substitute a configurable graphic in place of <a title="Piwik open source web analytics" href="http://piwik.org/">Piwik's</a> regular 1-pixel 'hidden' web-beacon ("web bug") GIF image. Currently supports/ includes Creative Commons License PNG images (88x31 pixels).</li>
+<li>Code link: <a class="ietgit" rel="interwiki" href="https://github.com/IET-OU/piwik-alternateimage-plugin">Github: IET-OU/ piwik-alternateimage-plugin</a> </li>
+<li>(Old code link: <a class="piwikgit" rel="interwiki" href="https://github.com/IET-OU/piwik-trackoer/tree/trackoer/plugins/AlternateImage">Github: IET-OU/ piwik-trackoer/tree&hellip;/plugins/AlternateImage</a>)</li>
+<li>Example: <a href="http://track.olnet.org/piwik/piwik.php?img=cc:by-sa&x=/2.0/uk/88x31&idsite=1&rec=0">http://track.olnet.org/piwik/piwik.php?img=cc:by-sa&amp;x=/2.0/uk/88x31&amp;idsite=1&amp;rec=0</a></li>
+<li>Language: PHP, Piwik plugin.</li>
+<li>License: <a title="GNU General Public License v2 or later" href="http://gnu.org/licenses/gpl-2.0.html">GNU General Public License v2 or later</a> (Piwik compatible)</li>
+<li>Date coded: 8 August 2012.</li>
+<li>Todos: 1. React to bug #4, <a class="piwikgit" rel="interwiki" href="https://github.com/IET-OU/piwik-trackoer/issues/4">add hook in core/Tracker.php</a>; 2. Separate out into an individual Git repository for submission to the Piwik plugins directory.</li>
+<li>Maturity: beta.</li>
+<li>Comments: The <code>img</code> GET parameter uses <a href="http://w3.org/TR/curie/">Compact URI (CURIE)</a> syntax, eg. <code>cc:by-sa/2.0/uk/88x31</code>. Now internationalized, and separated from "piwik-trackoer" fork.</li>
+</ul>
+<h2>trackoer-page-url Javascript</h2>
+<ul>
+<li>Purpose: To use the parsed License RDFa from "oer_license_parser.js" to form a custom page <abbr title="Uniform resource locator,">URL</abbr> (path), suitable for use in "<code>_gat._trackPageview</code>" (Google Analytics), or the Piwik equivalent.</li>
+<li>Code link: <a class="toergit" rel="interwiki" href="https://github.com/IET-OU/trackoer-core/tree/master/application/assets/public/js/trackoer-page-url.js">Github: IET-OU/trackoer-core/tree&hellip;/assets/public/js/trackoer-page-url.js</a></li>
+<li>Example: <a href="http://track.olnet.org/test/b2s_learn_gajs?parsedfa=1#cc-code">http://track.olnet.org/test/b2s_learn_gajs?parsedfa=1#cc-code</a> (View source, or output in Firebug, Chrome console etc.)</li>
+<li>Language: Javascript (not jQuery dependent).</li>
+<li>License:</li>
+<li>Date coded: 17 August 2012.</li>
+<li>Todos: None.</li>
+<li>Maturity: Beta</li>
+<li>Comments: Superceded by "trackoer-ga.js" (I realised the parsed-RDFa route was a bit complicated and not too robust!)</li>
+</ul>
+<h2>trackoer-ga Javascript</h2>
+<ul>
+<li>Purpose: To form a custom page <abbr title="Uniform resource locator,">URL</abbr> from an input argument ('<code>custom_hash</code>') to be fed to "<code>_gat._trackPageview</code>" (Google Analytics), or Piwik equivalent.</li>
+<li>Code link: <a class="toergit" rel="interwiki" href="https://github.com/IET-OU/trackoer-core/tree/master/application/assets/public/js/trackoer-ga.js">Github: IET-OU/ trackoer-core/tree&hellip;/assets/public/js/trackoer-ga.js</a></li>
+<li>Example: <a href="http://track.olnet.org/test/b2s_learn_gajs?param1=value1#cc-code">http://track.olnet.org/test/b2s_learn_gajs?param1=value1#cc-code</a> (View source, and/or use Firebug, Chrome console..)</li>
+<li>Language: Javascript (not jQuery).</li>
+<li>License:</li>
+<li>Date coded: 20 August 2012.</li>
+<li>Todos: Take the Google Analytics-insertion code out?</li>
+<li>Maturity: alpha</li>
+<li>Comments: Supercedes "trackoer-page-url.js" &ndash; less complicated.</li>
+</ul>
+<h2>capret-piwik Javascript</h2>
+<ul>
+<li>Purpose: A slot-in replacement for "classic" capret.js, this Javascript inserts a Piwik web-beacon ("web bug") image in place of the <abbr title="CaPRéT - cut and paste reuse tracking">CaPReT</abbr>-hosted GIF image. Bridges the <abbr title="CaPRéT - cut and paste reuse tracking">CaPReT</abbr> cut and paste tracking into Piwik.</li>
+<li>Code link: <a class="toergit" rel="interwiki" href="https://github.com/IET-OU/trackoer-core/tree/master/application/assets/capret/js/capret-piwik.js">Github: IET-OU/ trackoer-core/ &hellip;/assets/capret/js/capret-piwik.js</a></li>
+<li>Example: <a href="http://track.olnet.org/test/capret/math/course-piwik">http://track.olnet.org/test/capret/math/course-piwik</a> (View source and/or use Firebug, Chrome console..)</li>
+<li>Language: Javascript (jQuery plugin)</li>
+<li>License: <a href="http://opensource.org/licenses/MIT">MIT probably</a> (<abbr title="CaPRéT - cut and paste reuse tracking">CaPReT</abbr>-compatible)</li>
+<li>Date coded: 21 August 2012.</li>
+<li>Todos: Deploy my fix for Internet Explorer.</li>
+<li>Maturity: Alpha.</li>
+<li>Comments: Currently in testing with the <abbr title="The Open University">OU</abbr>'s <abbr title="Learning and Teaching Solutions">LTS</abbr> technical testing team! (Works with jquery.plugin.clipboard.js, oer_license_parse.js and optionally json2.js.)</li>
+</ul>
+<h2><abbr title="Unified Modelling Language">UML</abbr> diagrams &ndash; documentation</h2>
+<ul>
+<li>Purpose: To help me work out interconnections, and to help explain the PHP class framework to others!</li>
+<li>Code link: [Github: IET-<abbr title="The Open University">OU</abbr>/trackoer-core/tree/master/docs][toergit:../docs]</li>
+<li>Example:  <a href="http://track.olnet.org/docs/trackoer-controller-classes-yuml-v2.png">http://track.olnet.org/docs/trackoer-controller-classes-yuml-v2.png</a></li>
+<li>Language: Unified Modelling Language (<abbr title="Unified Modelling Language">UML</abbr>).</li>
+<li>License: <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a> (or GNU FDL) - documentation.</li>
+<li>Date coded: 14-21 August 2012.</li>
+<li>Todos: incorporate in written documentation!</li>
+<li>Maturity: ongoing</li>
+<li>Comments: We use <a href="http://yuml.me/">yUML.me</a> - thanks guys!</li>
+</ul>
+<p><img src="http://track.olnet.org/docs/trackoer-controller-classes-yuml-v2.png" alt="Track OER controller classes yUML" /></p>
+<h2>Piwik_Tracker::track</h2>
+<ul>
+<li>Purpose: To map/ redirect input parameters and HTTP Headers to a Piwik tracking <abbr title="Uniform resource locator,">URL</abbr> that works for OERs. For no-Javascript tracking.</li>
+<li>Code link: <a class="toergit" rel="interwiki" href="https://github.com/IET-OU/trackoer-core/tree/master/application/libraries/trackers/Piwik_Tracker.php#L70">Github: IET-OU/trackoer-core &hellip;/trackers/Piwik_Tracker.php</a></li>
+<li>Example: <a href="http://track.olnet.org/track/r/piwik/2/cc:by-nc-sa/labspace.open.ac.uk/Learning_to_Learn_1.0/?p=mod/oucontent/view.php?id=471422§ion=3&t=Learning+to+Learn">http://track.olnet.org/track/r/piwik/2/cc:by-nc-sa/labspace.open&hellip;&amp;t=Learning..</a> (Tracks a specific 'page' or course section)</li>
+<li>Language: PHP</li>
+<li>License:</li>
+<li>Date coded: 9 August 2012.</li>
+<li>Todos: Code the matching Google Analytics redirector/ tracking-<abbr title="Uniform resource locator,">URL</abbr> generator?</li>
+<li>Maturity: beta.</li>
+<li>Comments: We need to evaluate the usefulness/ robustness of no-Script v. Javascript methods for the various scenarios - as <a href="http://cloudworks.ac.uk/cloud/view/6433#comment-6111">proposed by Tony Hirst</a>.</li>
+</ul>
+<h2>ContentReuse &ndash; Piwik plugin</h2>
+<ul>
+<li>Purpose: A Piwik plugin to ensure that the HTTP referer header is read/used/logged (in the "<code>url</code>" parameter), even if the "<code>urlref</code>" Piwik parameter is present.</li>
+<li>Code link: <a class="ietgit" rel="interwiki" href="https://github.com/IET-OU/piwik-contentreuse-plugin">Github: IET-OU/ piwik-contentreuse-plugin</a></li>
+<li>Example: '..</li>
+<li>Language: PHP, Piwik plugin.</li>
+<li>License: <a title="GNU General Public License v2 or later" href="http://gnu.org/licenses/gpl-2.0.html">GPL v2 or later</a> (Piwik compatible)</li>
+<li>Date coded: 24 August 2012.</li>
+<li>Todos:</li>
+<li>Maturity: beta.</li>
+<li>Comments: To be used with "capret-piwik.js" Javascript.</li>
+</ul>
+<h2>CLI/ command line batch processor</h2>
+<ul>
+<li>Purpose: An initial solution to inject a license-tracking snippet in the HTML pages in OpenLearn-LabSpace/ <a href="http://labspace.open.ac.uk/b2s"><abbr title="Bridge to Success project">B2S</abbr></a> download packages (Zip, <abbr title="Sharable Content Object Reference Model">SCORM</abbr> etc.).</li>
+<li>Code link: <a class="toergit" rel="interwiki" href="https://github.com/IET-OU/trackoer-core/tree/master/application/controllers/cli.php#L138">Github: IET-OU/ trackoer-core/ &hellip;controllers/ Cli::batch</a></li>
+<li>Example: <a class="toergit" rel="interwiki" href="https://github.com/IET-OU/trackoer-core/tree/master/application/config/batch_config.sample.php">Github: &hellip;/config/ batch_config.sample</a> <code>$ php index.php cli/batch --url=http://labspace.open.ac.uk/..</code></li>
+<li>Language: PHP</li>
+<li>License: free/open source license (TBD)</li>
+<li>Date coded: 21-28 August 2012.</li>
+<li>Todos: Initial testing this week (29 August).</li>
+<li>Maturity: beta.</li>
+<li>Comments: Currently inserts Google Analytics Javascript tracking. We are looking at <abbr title="Extensible Stylesheet Language Transformations">XSLT</abbr> solutions for production use on OpenLearn/LabSpace content.</li>
+</ul>
+<h2><abbr title="CaPRéT - cut and paste reuse tracking">CaPReT</abbr> &ndash; pull request #10</h2>
+<ul>
+<li>Purpose: Merging some fixes and additions from IET-<abbr title="The Open University">OU</abbr> into the main <abbr title="CaPRéT - cut and paste reuse tracking">CaPReT</abbr> development.</li>
+<li>Code link: <a class="github" rel="interwiki" href="https://github.com/tatemae/capret/pull/10">Github: tatemae/capret/pull/10</a> &ndash; 6 commits</li>
+<li>Example: N/A</li>
+<li>Language: Javascript</li>
+<li>License: <a href="http://opensource.org/licenses/MIT">MIT</a> (<abbr title="CaPRéT - cut and paste reuse tracking">CaPReT</abbr> compatible)</li>
+<li>Date coded: 30 August 2012.</li>
+<li>Todos:</li>
+<li>Maturity:</li>
+<li>Comments:</li>
+</ul>
+<h2>Code samples &ndash; Gists</h2>
+<ul>
+<li><a class="gist" rel="interwiki" href="http://gist.github.com/3437266">Example of CaPReT-Piwik Javscript plugin use, with Piwik configuration</a></li>
+</ul>]]></description>
+          <pubDate>Wed, 29 Aug 2012 11:43:54 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Privacy, EU cookie law and tracking OERs</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6436</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6436</guid>
+              <description><![CDATA[<p>Disclaimer: I'm not a lawyer, and these are my personal views.</p>
+<p>A week ago a colleague of mine highlighted a thorny issue related to tracking the re-use of OERs - balancing the privacy of end-users against the need for analytics by OER publishers. His concerns were specifically around the new <a href="http://ico.gov.uk/for_organisations/privacy_and_electronic_communications/the_guide/cookies.aspx">EU cookie law (e-Privacy Directive)</a>.</p>
+<p>To quote, "tracking images probably breach the new European law on cookies and other tracking devices". My response was, I think Track OER risks breaching the new law, <strong>unless</strong>:</p>
+<ul>
+<li>We make it clear to &lsquo;content-producers&rsquo; that they are adopting a service with tracking/using license code snippets that incorporate tracking &ndash; probably we should try to indemnify ourselves in our T&amp;C (is that the correct term?) </li>
+<li>The &lsquo;content-producers&rsquo; (including the OU) make it clear to end-users that they are viewing/consuming OERs containing a tracking code &ndash; many/most of the sites that may re-use OERs will already incorporate analytics for their own purposes, so I hope this will not be too big a deal, </li>
+<li>Looking at the code bottom-right here - http://creativecommons.org/choose/ - we may need some wording like &ldquo;This work is licensed under a Creative Commons &hellip; License, with tracking.&rdquo; &ndash; where &ldquo;tracking&rdquo; is a link to a page explaining why and what we are tracking, </li>
+<li>We/ content-producers may need to provide mechanism(s) so end users can opt out. </li>
+</ul>
+<p>I made a few further points:</p>
+<ul>
+<li>I&rsquo;ve always considered this part of the &ldquo;Quid pro quo&rdquo; &ndash; we (HE institutions) provide OER content under permissive licenses for use and re-use. In return, we need to find out by some means how they are being used, so that we can provide results to our funders, continue to invest in OER production, make new business cases to funders, our institutions, etc. Yes, OER is good marketing for us, but it costs us. </li>
+<li>If the above point is valid, we need to explain it, There probably needs to be a cultural/legal shift/ change of wording etc., </li>
+<li>It adds to the complexity of what we&rsquo;re doing! </li>
+<li>It may reduce the adoption of the technology/technique, </li>
+<li>OU (OUICE) pages now have a &lsquo;Privacy and cookies&rsquo; link - <a href="http://www.open.ac.uk/">www.open.ac.uk</a> | <a href="http://www.open.ac.uk/privacy">open.ac.uk/privacy</a> - we need this for starters, </li>
+<li>We&rsquo;re collecting anonymous (or semi-anonymous) data, and probably going to <a href="http://track.olnet.org/piwik/">display it publicly</a> - what are the implications? </li>
+</ul>
+<p>Then, while exploring the administrative interface for Piwik I came across the "Do Not Track" feature (<a href="http://donottrack.us/">http://donottrack.us</a>). The end-user configures their browser to send a DNT header when it requests a Web page (a HTTP header is some meta-data about the request or response, normally invisible to the end-user). The Web-server reads the DNT header, and doesn't record or track the user's visit. Do Not Track is available in most recent browsers, including Internet Explorer 9, Firefox 12, Safari and Opera. And critically, Microsoft plan to <a href="http://cookielaw.org/blog/2012/8/9/do-not-track,-the-cookie-law-and-ie10.aspx">turn it on by default in IE 10</a>. A number of big players like Microsoft, Yahoo and some advertising networks are adding support to their servers.</p>
+<p>And the great news is that <a href="http://piwik.org/privacy/#toc-step-4-respect-donottrack-preference">Piwik supports Do Not Track</a> out of the box.</p>]]></description>
+          <pubDate>Wed, 22 Aug 2012 05:27:02 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Stipple and its potential usefulness for tracking OER</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6434</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6434</guid>
+              <description><![CDATA[<p>Stipple is a&nbsp;a platform which facilitates the tagging of products and people in images. &nbsp;Both services use embedded javascript to track images as they are copied and distributed across the internet. &nbsp;The main technical difference between Stipple and TrackOER is to do with where the relevant javascript is located. &nbsp;Stiple is enabled by website publishers at the site level. &nbsp;If the code is installed then images can be tagged and these tags persist and are transferred over to other users.</p>
+<p>Stipple conveys richer data than TrackOER as people are encouraged to add 'information and stories' to images. &nbsp;It does this through linking to 3rd party APIs: &nbsp;YouTube, Twitter, Soundcloud, Google Maps, etc. but you can also enter content directly or just add links. &nbsp;TrackOER simply registers when a resource has been re-used in some way (though we can get a lot of data from this alone).</p>
+<p>Here's what Wikipedia has to say about their business model: "&nbsp;Stipple Pipeline allows brands to tag their products in photos uploaded to Stipple. Through Stipple Network,&nbsp;the photos are open to use by website publishers, who are paid by companies with products in the photos.&nbsp;Consumers can then click on the products tagged and buy them.&nbsp;As of May 2011, Stipple had contracts with nine photo agencies, 50 brands, and 1,300 publishers<sup id="cite_ref-Gannes_5-0" style="cursor:auto"><!--NO CSS-->"</sup></p>
+<p>Stipple could be seen as doing the inverse of TrackOER. &nbsp;Both are tracking the spread of resources across the web, but whereas TrackOER aims at improving OER, Stipple use the same analytics for targeted marketing and delivering advertising through images. &nbsp;Image tags are used like Adsense keywords to target advertising.</p>
+<p>Stipple offers two kinds of analysis: &nbsp;how far (geographically) content has reached, and; the level of audience engagement (clickthrough, 'like', re-tweet).</p>
+<p>They claim "Stipple makes sure your images are attributed to you and link back to you wherever they go. When you claim an image, your information and tags travel the web with it". &nbsp;It seems to me that using Stipple to track OER across the web in the same way as the TrackOER script is perfectly feasible. &nbsp;It might even be easy. &nbsp;You could get richer analytics as well as access to promotional tools. &nbsp;The links through to social media are also quite well done. &nbsp;However, you might not be able to get the analytics that you want.</p>]]></description>
+          <pubDate>Thu, 16 Aug 2012 13:50:31 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Track OER - midweek status, 16 August</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6433</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6433</guid>
+              <description><![CDATA[<h3>Subtitle: To script or not to script...</h3>
+<p>At the end of last week and the start of this week I focussed on integrating a Piwik no-Javascript web beacon (web bug) with the  HTML-<a href="http://en.wikipedia.org/wiki/RDFa#Examples_of_RDFa"><abbr title="Resource Description Framework – in – attributes">RDFa</abbr></a> snippet produced by the <a href="http://creativecommons.org/choose">Creative Commons choose-license form</a>.</p>
+<p>This resulted in an initial <a href="http://track.olnet.org/oerform">OER license-tracker</a>, which currently supports OpenLearn-LearningSpace and LabSpace URLs. It makes requests over the Web for <a href="http://labspace.open.ac.uk/Learning_to_Learn_1.0?format=rdf">RDF files from OpenLearn</a>, and queries the Piwik API.</p>
+<p>There is also an <a href="http://oembed.com/">oEmbed-API</a> interface to the OER form - to help with automation and batch processing. It is linked to from the <a title="Alternative formats.. oEmbed" href="http://track.olnet.org/oerform?url=http://labspace.open.ac.uk/Learning_to_Learn_1.0#alt">OER form (#alt)</a>.</p>
+<p>Note, there is the potential to extend the OER license-tracker form to, for example, support <a href="http://oercommons.org/courses/17-042-citizenship-and-pluralism-fall-2003">OER Commons URLs</a> as input, with the resulting license-tracker snippet referencing the source URL at <a href="http://ocw.mit.edu/">MIT</a> for example.</p>
+<p>However, by the middle of the week, we turned our attention to the other strand of the project - <a href="http://capret.mitoeit.org/">CaPReT: Cut and Paste Reuse Tracking</a>. <a href="https://twitter.com/guydbarrett">Guy Barrett</a> and I worked yesterday to add the CaPReT Javascript to a Moodle side-block on the OpenLearn-Labspace test server (behind our firewall). Moodle didn't remove the scripts from the sticky block (yay!) and we're almost ready for our first round of technical testing next week.</p>
+<p>Guy is proving to be a great resource to review ideas, and he pointed out very reasonably that many downloadable OER archives (plain Zip, SCORM etc.) <a title="Learning to Learn downloads, from OpenLearn-LabSpace/B2S" href="http://labspace.open.ac.uk/blocks/formats/download_unit.php?id=7442">provided by OpenLearn</a>, MIT (I checked!) and others contain Javascripts. (It should be noted that the RSS feeds provided by OpenLearn don't link to Javascripts.)</p>
+<p>Anyway, the emphasis of the Track OER project on no-Javascript tracking may be mis-placed. Using custom Google Analytics Javascript contained in the downloadable packages would remove the probable reliance on <a href="http://track.olnet.org/">Track.olnet.org</a> - a long-term support concern in making the Track OER tools production-ready. (Remember, Track.olnet.org does dynamic server-side processing of the web-beacon request, specific to re-used/ re-hosted OERs, before redirecting to the Piwik web-beacon.)</p>
+<p>So, I got busy yesterday and put together a <a href="http://track.olnet.org/test/b2s_learn_gajs">first prototype for a custom Google Analytics Javascript</a> solution. You will need to 'View source' (and/or use Firebug) in your browser to see what is happening...</p>
+<p>Which leads to my question - "To script, or not to script...?"</p>]]></description>
+          <pubDate>Thu, 16 Aug 2012 06:07:00 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Track OER - challenges &amp; lessons</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6431</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6431</guid>
+              <description><![CDATA[<p>We'll be documenting the various challenges we're experiencing, and the <a href="#lessons">lessons learnt</a>.</p>
+<h2>Re-purposing analytics software (Google Analytics, Piwik)</h2>
+<p>Problem type:  technical/ user-interface</p>
+<p>Problem:  Analytics tools are conventionally used in scenarios where the person viewing the reports knows the <abbr title="Uniform resource locator,">URL</abbr> where the pages reside. In trying to track <abbr title="Open Educational Resource,">OER</abbr> re-use, we present a different scenario where the destination <abbr title="Uniform resource locator,">URL</abbr> is unknown (and the server component is variable).</p>
+<p>Solutions:  For Piwik, creative use of the '<code>url</code>' and '<code>urlref</code>' parameters in the <a title="Piwik tracking interface documentation" href="http://piwik.org/docs/tracking-api/reference/">tracking <abbr title="Application programming interface,">API</abbr></a>. For Google Analytics, creating and documenting custom reports, which reveal for example the destination 'hostname' (not reported by default).</p>
+<h2>Acommodating the OpenLearn test and release cycle</h2>
+<p>Problem type: technical/ management</p>
+<p>Problem:  We are demonstrating the Track <abbr title="Open Educational Resource,">OER</abbr> technologies on OpenLearn-LabSpace, and this needs some technical changes to LabSpace, which need testing before deployment.</p>
+<p>Solution:  Schedule testing early, plan, liase with OpenLearn colleagues.</p>
+<h2>Lessons learnt &ndash; short intense projects can be productive</h2>
+<p><em>"towards of the end of the project, a list of lessons that someone like you would find useful"</em></p>
+<p>Like many development teams we are currently very busy, so we planned the development for Track <abbr title="Open Educational Resource,">OER</abbr> as a classic <em>"short intense"</em> project (aka, short fat project) (<a href="http://books.google.co.uk/books?id=6KXOxHIQEwIC&pg=PA28&dq=short+intense+project+management">KENDRICK, Tom. (2011). 11. How should I manage short, complex, dynamic projects?. In: - <em>101 Project Management Problems and How to Solve Them: Practical Advice for &hellip;</em> -: Amacom. p28.</a>). Having a developer working at nearly 100% on the project in a relatively short burst (first commit 8 or 9 August &ndash; development tailing off in the third week of September 2012) (<a title="Project activity graph on Github" href="https://github.com/IET-OU/trackoer-core/graphs/commit-activity">Project activity graph on Github</a>) proved to be effective. So one of my big lessons learnt is that scheduling a short intense project, with planning and preparation beforehand, can be a good idea.</p>
+<p class="figure"><a title="Project activity graph on Github" href="https://github.com/IET-OU/trackoer-core/graphs/commit-activity"><img src="https://lh4.googleusercontent.com/grsNsFUomahiKJqpRRFed9ZcLnWTxOXGKaeWfX--yRlEf7i0pcQjS5dBfJhNxUhId9ROR8bx3NSQLQYNNNK5BQlDDdTnWe4vMBPf-bi1i8889qTGYyQM" alt="Project activity graph on Github" /></a></p>]]></description>
+          <pubDate>Tue, 16 Oct 2012 09:13:17 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Track OER - status report, 14 August</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6430</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6430</guid>
+              <description><![CDATA[<p>I'll be discussing some topics in more detail, but I thought it would be usful to give a brief run down of what we've been up to and what we'll be doing in the next week...</p>
+<p>At the start of last week I forked Piwik and worked on the <a href="http://cloudworks.ac.uk/cloud/view/6426">AlternateImage plugin</a>. I've already had some  <a href="https://github.com/IET-OU/piwik-trackoer/issues/4">feedback on that work</a>, which is great.</p>
+<p>In the middle of last week I was experimenting with the no-Javascript image-tracker based around Piwik, and I started on  <a href="https://github.com/IET-OU/trackoer-core/">Track OER core</a>, which is a CodeIgniter-based web application. It provides short/clean-URL redirection to  the Piwik (<a href="https://github.com/IET-OU/trackoer-core/blob/master/application/libraries/trackers/Piwik_Tracker.php">Piwik_Tracker class</a>)  and Google Analytics (to do) web-beacons, some test and demonstration pages, form-tools (more on that later), and links to Piwik, the project blog and so on.</p>
+<p>We were also configuring Piwik and trackoer-core on our demonstration server, and by the end of the last week, with the help of our <a href="http://www8.open.ac.uk/iet/main/core-services">IET-SST colleagues</a> (thanks Phil and Dave) and central IT, we had <a href="http://track.olnet.org/">Track.olnet.org</a> publicly visible.</p>
+<p>My plans for the next few days are to blog about the project in relation to external APIs, and privacy. I'll be improving the current Piwik-based license-tracker snippet, and pressing on with the Google Analytics-based one. Oh, and testing, testing...</p>
+<p>I alluded to the short/clean-URL redirection provided by trackoer-core above. Although I believe this is useful, the other key role of the redirector can be summed up by the comment and code on <a href="https://github.com/IET-OU/trackoer-core/blob/master/application/libraries/trackers/Piwik_Tracker.php#L45">lines 45-6 of Piwik_Tracker.php</a>,  <em>"For the no-Javascript web-bug image, the OER's destination URL is the referrer."</em>&nbsp; This highlights one of the key challenges of this project - re-purposing tools like Piwik and Google Analytics from a scenario where the person viewing the  reports knows the URL where the pages reside, to an OER-reuse scenario where the destination URL is unknown (and the server component is variable).</p>
+<p>(Note, please excuse the indentation/white-space inconsistency in the trackoer-core source files - I'll fix this over time.)</p>]]></description>
+          <pubDate>Tue, 14 Aug 2012 11:24:16 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Extending Piwik for Track OER</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6426</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6426</guid>
+              <description><![CDATA[<p>A software component that we had in mind for the Track OER project from early on is Piwik.  <a href="http://piwik.org/">Piwik</a> is an open-source Web analytics tool, that offers similar features to Google Analytics,  in terms of logging page views, and outputting reports.</p>
+<p>It offers a number of advantages over competitors:</p>
+<ul>
+<li> You host Piwik yourself, so it can be easier to debug problems, particularly for our no-Javascript work, </li>
+<li> You also have more control over access to the analytics reports on the site, </li>
+<li> Piwik has an extensive plugin interface, widgets, and an API to access data over the Web, </li>
+<li> There is good documentation, and a wide community, </li>
+</ul>
+<p>To date I've found it quite simple to install and customize.  There are a number of considerations,</p>
+<ul>
+<li> As Piwik is self-hosted it needs to be installed on a robust server, with similar uptime/support to your other production servers  (if it goes down, you risk users seeing a broken image), </li>
+<li> There may be issues around the new EU cookie laws -  many sites use Google Analytics, so adding another system to the mix may cause confusion and concern, </li>
+</ul>
+<p>Against this last point, I would say that precisely because Google Analytics is so prevalent, with Google able track journeys between sites and sell advertising, adopting something like Piwik may be seen as an advantage by some end-users.</p>
+<h3>Web bug</h3>
+<p>At the heart of most analytics systems, including Google Analytics and Piwik, and with/without Javascript, is a one-pixel hidden GIF image. This so-called Web beacon (<a href="http://en.wikipedia.org/wiki/Web_bug">Web bug</a>) is hosted by the analytics server, and is used to record a user's visits.  (The Javascript provided by most analytics tools are merely wrappers around this web-bug, to add extra parameters like screen-resolution and browser capabilities among other things.)</p>
+<p>One aim of the Track OER project is to explore the use of a <a href="http://creativecommons.org/choose/">Creative Commons License</a> image in place of the hidden GIF.</p>
+<h3>AlternateImage plugin</h3>
+<p>So, to that end, we have <a href="https://github.com/IET-OU/piwik-trackoer">forked Piwik</a> (<a href="https://github.com/piwik/piwik/network">network</a>), and created a plugin named  <a href="https://github.com/IET-OU/piwik-trackoer/tree/trackoer/plugins/AlternateImage">AlternateImage</a>. This adds an extra parameter named <code>img</code> to the <a href="http://piwik.org/docs/tracking-api/reference/">Piwik tracking API</a>, which is used to specify the image to display. The value takes the form <code>cc:{license}</code>, for example <code>cc:by-nc-sa</code>.</p>
+<p>A standard Piwik no-Javascript tracking call takes the form,</p>
+<pre><code>&lt;!-- Piwik Image Tracker --&gt;
+&lt;img style="border:0" src="http://demo.piwik.org/piwik.php?idsite={$IDSITE}&amp;rec=1" alt="" /&gt;
+&lt;!-- End Piwik --&gt;
+</code></pre>
+<p>&nbsp;</p>
+<p>The extended tracking call looks like this,</p>
+<pre><code>&lt;!-- Piwik Image Tracker --&gt;
+&lt;img style="border: 0;" src="http://demo.piwik.org/piwik.php?idsite={$IDSITE}&amp;rec=1&amp;img=cc:by-nc-sa" alt="" /&gt;
+&lt;!-- End Piwik --&gt;
+</code></pre>
+<p>&nbsp;</p>
+<p>The AlternateImage plugin currently contains the larger 88 x 31 pixels PNG images. In time it will be extended with the compact Creative Commons License images,  with the parameter taking the form <code>?img=cc:by-nc-sa/2.0/uk/80x15</code> (URL encoded, naturally).  As an aside, the value for <code>img</code> is a form of <a href="http://w3.org/TR/curie">Compact URI</a>. So AlternateImage can be extended for other logos and icons.</p>
+<p>You will be able to see Piwik and the AlternateImage plugin in use soon.</p>
+<p>I've also found a very useful PHP library called <a href="https://github.com/wingdspur/codeigniter-piwik/">codeigniter-piwik</a>, and developed by Bryce Johnston (wingdspur).</p>]]></description>
+          <pubDate>Fri, 10 Aug 2012 13:07:25 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Track OER in a nutshell</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6392</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6392</guid>
+              <description><![CDATA[<p>The Track OER project is funded as part of the <a href="http://www.jisc.ac.uk/whatwedo/programmes/ukoer3/rapidinnovation.aspx">Rapid Innovation strand of the UKOER</a> programme by the Higher Education Academy (HEA) and the Joint Information Systems Committee (JISC).</p>
+<p>The aim of Track OER is to develop and demonstrate software and techniques that can give quantitative data for the use and reuse of open educational resources. Currently, little data of this type exists. When an OER is taken from its host or origin server, in order to be used and reused the origin institution and the community generally lose track of it.</p>
+<p class="figure"><a href="http://www.flickr.com/photos/edtechie/4745363421/"><img title="Day #23 - Chatting with the Nessman by edtechie99, on Flickr" src="http://farm5.static.flickr.com/4097/4745363421_00c18f2ca3.jpg" border="0" alt="Day #23 - Chatting with the Nessman by edtechie99, on Flickr" width="480" height="360" /></a></p>
+<p>The project contains two strands to address this problem. The first strand is the development of an easy to use no-Javascript web-bug. A web-bug is the 1 pixel transparent image that when included in a web page can be used to log its usage. While most analytics systems like <a href="http://analytics.google.com/">Google Analytics</a> and the open-source <a href="http://piwik.org/">Piwik</a> wrap the web-bug in a Javascript library for ease of use and extended data-logging, a no-Javascript web-bug utilizes the image alone.</p>
+<p>We will base our work on code developed in collaboration with Scott Leslie of BCcampus as part of the OLnet project (<a href="http://www.olnet.org/node/149">olnet.org/node/149</a> | <a href="http://snipplr.com/view/37647">snipplr.com/view/37647</a>). The existing code will be comprehensively re-worked to provide a working service linked to one or more analytics systems such as Piwik.</p>
+<p class="figure"><a href="http://mashe.hawksey.info/2012/01/oer-visualisation-visualising-caprt-oer-tracking-data-day-32-ukoer/"><img title="CaPReT 'timemap' mashup by Martin Hawksey. Image license: CC-by" src="http://mcdn.hawksey.info/wp-content/uploads/2012/01/image22.png" alt="CaPReT 'timemap' mashup by Martin Hawksey. Image license: CC-by" /></a></p>
+<p>The second strand is based on CaPReT - cut and paste reuse tracking. CaPReT has been developed by &nbsp;MIT and Tatemae (<a href="http://capret.mitoeit.org/">capret.mitoeit.org</a> &amp; <a href="http://github.com/tatemae/capret">github.com/tatemae/capret</a>) to track the informal use of OERs. It is an innovative and promising tool that is currently limited to text resources. Our work will seek to extend CaPReT to log the copying of image and multimedia resources.</p>
+<p>Both these strands will be piloted on <a href="http://labspace.open.ac.uk/">OpenLearn-Labspace</a> and initially on the <a href="http://labspace.open.ac.uk/b2s">Bridge to Success OER modules</a>.</p>]]></description>
+          <pubDate>Sun, 08 Jul 2012 22:30:39 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Track OER project: tracking Open Educational Resources</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6196</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6196</guid>
+              <description><![CDATA[<p>"New JISC project TRACK OER: OER in the wild can get lost. We will add the tracer to find where they go for attribution, research and remix." from <a title="Patrick McAndrew, 8 March 2012, on Twitter" href="http://twitter.com/openpad/status/177821209684226048">@openpad</a>.</p>
+<p>This is the blog for a HEA/JISC-funded project in the Open Educational Resource (OER) rapid innovation programme. The project will run from 1 April to 19 October 2012 at The Open University.</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Thu, 22 Mar 2012 14:09:00 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: Mary Howell</title>
+        <link>https://cloudworks.ac.uk/user/rss.9916</link>
+        <atom:link href="https://cloudworks.ac.uk/user/rss.9916" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds by Mary Howell</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>MON:What Learning do MOOC Mentors Witness? (Mary Howell) </title>
+              <link>https://cloudworks.ac.uk/cloud/view/10196</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/10196</guid>
+              <description><![CDATA[<h1>Can participation in a MOOC form an effective part of teacher continuing professional development (CPD)?</h1>
+<h1>A case study with the theme of implementation.</h1>
+<p>&nbsp;</p>
+<p>The crisis in teacher recruitment and retention, in England&rsquo;s schools draws attention to the fact that we need to support practising teachers, so they can remain in the classroom (Hood, 2016) and be effective Coe, et al, 2014).&nbsp; Strong pedagogical skills and content knowledge, alongside high quality instruction are identified as major influences on pupils&rsquo; progress and are therefore priority areas for teacher development (Coe, et al, 2014). Open learning approaches, such as Massive Open Online Courses (MOOCs) have the potential to deliver features essential to effective teacher CPD: to offer learning, which is reflective, relevant, sustained over time and collaborative (Cordingley, et al, 2015).</p>
+<p>In the context of economic constraints (Department for Education, 2016), a disrupted education landscape (The Economist, 2014) and unprecedented pressure and work load issues for teachers (Coe, 2014), the much needed effective teacher CPD is proving difficult to achieve by conventional face to face means (Hood, 2016).&nbsp; This case study explores open learning approaches and whether online working can support teachers.&nbsp; In particular Massive Open Online Courses are discussed in light of knowledge about barriers and advantages of open learning in professional contexts (Adams, 2007).</p>
+<p>Qualitative data, surrounding experiences of MOOC mentors, supporting teacher learning during a &lsquo;FutureLearn, &lsquo;Assessment for Learning,&rsquo;&rsquo; MOOC were shared via a professional activity log and in an online focus group.&nbsp; Insights from analysis of this material and supporting literature will be discussed and conclusions about the effectiveness of teacher learning in this MOOCs drawn.&nbsp; Any implications for future MOOC design, best practice in mentor activity and optimal MOOC learning tasks for fostering engagement, reflection and collaboration will be disseminated.&nbsp;</p>]]></description>
+          <pubDate>Mon, 09 Jan 2017 08:50:10 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

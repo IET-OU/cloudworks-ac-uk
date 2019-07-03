@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: curriculum design</title>
+        <link>https://cloudworks.ac.uk/tag/rss/curriculum+design</link>
+        <atom:link href="https://cloudworks.ac.uk/tag/rss/curriculum+design" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds tagged curriculum design</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>EDUCATIONAL DESIGN (teaching-learning) : Introduction</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6801</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6801</guid>
+              <description><![CDATA[<p style="cursor:auto"><!--NO CSS-->This contribution is prepared as a conversation in common with the participants in the OLDS MOOC 2013: Open Learning Design Studio's Massive Open Online Course "Learning Design for a 21st Century Curriculum" (http://www.olds.ac.uk/). The paper proposes a different institutional, post-pedagogical approach to educational design.</p>
+<p style="cursor:auto"><!--NO CSS-->&nbsp;</p>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->.</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->Educational Design (teaching-learning)</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->Preliminary remarks OLDSMOOC</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->(i) Educational design to include both Instructional and Learning design.&nbsp;</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->(ii) Educational design conceived as part of and within the specific institutional mission and related instructional programs (i.e., academic disciplines).&nbsp;</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->(iii) Open Learning Design therefore still belongs to institutional concepts set forth by VAN DEN BOOM, W.J.G. &amp; SCHLUSMANS, K.H.L.A. 1989. The didactics of open education &ndash; Background, analysis and approaches. Heerlen: Open University. &nbsp; &nbsp;</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->(iv) With respect to curriculum: &laquo; From a broader curricilum perspective, it makes sense to pay attention to a coherent set of ten components that address ten specific questions about the planning of student learning (Table 54.1) &raquo; [p.744] in VAN DEN AKKER, J. &amp; KUIPER, W. (2008) Research on models for instructional design. In : Handbook of research on educational communications and technology, 3e &eacute;dition. Spector, J.M., Merrill, D.M., van Merri&euml;nboer, J. &amp; Driscoll, M.P., eds. New York : Erlbaum, p.739-748.</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->The accent here is with the expression &laquo; about the planning of student learning &raquo; and interestingly enough most of the 10 concerns mentioned in Table 54.1 are not integrally determined by the institution or the course designer.</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->Table 54.1 accessible online &gt; http://goo.gl/KTti9.</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->(v) Three cognitive maps were produced which clearly indicate that educational design in centered on student workplan.</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->All three are directly or indirectly related to the OLDSMOOC experiment (&gt; http://goo.gl/nKvUZ). 'At a glance' design maps can be viewed individually:</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->&nbsp;&gt; http://goo.gl/uC8TC</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->&nbsp;&gt; http://goo.gl/0eGAJ</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->&nbsp;&gt; http://goo.gl/F40WD</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->The processes depicted therein refer to other, more linear suggestions concerning educational design (curriculum design &gt; http://goo.gl/VMmxt and delivery &gt; http://goo.gl/KSZBA).&nbsp;</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->/HCh</div>
+<div id="_mcePaste" style="cursor:auto"><!--NO CSS-->.EDUCATIONAL DESIGN (teaching-learning)</div>
+<h2>EDUCATIONAL DESIGN (teaching-learning) : Introduction</h2>
+<h3>Preliminary remarks #OLDSMOOC</h3>
+<ol>
+<li>Educational design to include both Instructional and Learning design.&nbsp;</li>
+<li>Educational design conceived as part of and within the specific institutional mission and related instructional programs (i.e., academic disciplines).&nbsp;</li>
+<li>Open Learning Design therefore still belongs to institutional concepts set forth by Van den Boom and Schlusmans (1989) <em>The didactics of open education</em>. &nbsp; &nbsp;</li>
+<li>With respect to curriculum: "From a broader curricilum perspective, it makes sense to pay attention to a coherent set of ten components that address ten specific questions about the planning of student learning (<a href="http://goo.gl/KTti9" target="_blank">Table 54.1</a>)" (Van den Akker and &nbsp;Kuiper 2008:744] The accent here is with the expression "about the planning of student learning" and interestingly enough most of the 10 concerns mentioned in Table 54.1 are not integrally determined by the institution or the course designer.</li>
+<li>Currently, 3 cognitive maps were produced which clearly indicate that educational design in centered on student activities.&nbsp;All three referenced in the OLDSMOOC experiment. 'At a glance' design maps can be viewed individually (these maps are not attributed): Map <a href="http://goo.gl/uC8TC" target="_blank">#1</a>, Map <a href="http://goo.gl/0eGAJ" target="_blank">#2</a>, Map <a href="http://goo.gl/F40WD" target="_blank">#3</a>.&nbsp;</li>
+</ol>
+<p>The processes depicted therein refer to other, more linear suggestions concerning educational design (curriculum <a href="http://goo.gl/VMmxt" target="_blank">design</a>&nbsp;and <a href="http://goo.gl/KSZBA" target="_blank">delivery</a>).&nbsp;</p>
+<p>Much of Education's interest with MOOCS and (distant) open teaching-learning lies within the institutional characteristics of open universities and the characteristics of the learners. Some unresolved (overlooked) questions still need to be addressed when (i) relevant institutional concerns are isolated, (ii) when distant learning &amp; learners are adequately characterised, and (iii) when a general instructional/learning design approach will appeal to all or most academic disciplines. A student/<em>learner work plan</em> approach to learning or <em><a title="Learning design for the whole institutional curriculum" href="http://cloudworks.ac.uk/cloud/view/7193" target="_blank">work based learning</a> </em>is develpped and proposed</p>
+<p><a href="mailto:et054419@teluq.ca" target="_blank">/HCh</a></p>
+<p>&nbsp; * &nbsp;* &nbsp;*</p>
+<h3>Related pages (in that order):</h3>
+<h4 style="cursor:auto"><!--NO CSS--><a href="http://cloudworks.ac.uk/cloudscape/view/2661" target="_blank">Hugues Chicoine: A Learner Workplan approach to educational design</a>&nbsp;</h4>
+<h4 style="cursor:auto"><!--NO CSS--><a href="http://cloudworks.ac.uk/cloud/view/6801" target="_blank">EDUCATIONAL DESIGN (teaching-learning) : Introduction</a>&nbsp;(this page)</h4>
+<h4 style="cursor:auto"><!--NO CSS--><a href="http://cloudworks.ac.uk/cloud/view/7051" target="_blank">POST-PEDAGOGICAL ACADEMIC DESIGN</a>&nbsp;</h4>
+<h4 style="cursor:auto"><!--NO CSS--><a title="context" href="http://cloudworks.ac.uk/cloud/view/7346" target="_blank">CONTEXT?</a>&nbsp;</h4>
+<h4 style="cursor:auto"><!--NO CSS--><a href="http://cloudworks.ac.uk/cloud/view/7532" target="_blank">SUMMARY ANALYSIS OF &laquo; Week 3 - Ideate &raquo; MODULE</a></h4>
+<h4 style="cursor:auto"><!--NO CSS--><a style="font-size: 1em; line-height: 1.5em;" href="http://cloudworks.ac.uk/cloud/view/7702" target="_blank">Progress report [@30%,90%]</a></h4>
+<h4 style="cursor:auto"><!--NO CSS--><a href="http://cloudworks.ac.uk/cloud/view/8101" target="_blank">PROTOTYPE in text form [1,2,3]</a></h4>
+<h4 style="cursor:auto"><!--NO CSS--><a href="http://cloudworks.ac.uk/cloud/view/8202" target="_blank">Hugues Chicoine OLDS MOOC Final Reflective Post (Cloud)</a>&nbsp;&nbsp;&nbsp;</h4>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Tue, 22 Jan 2013 13:05:35 +0000</pubDate>
+            </item>
+                    <item>
+              <title>MOOC design ideas and questions board</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6526</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6526</guid>
+              <description><![CDATA[<p>If you have any questions or ideas about the design of the OLDS-MOOC post them here :-)</p>]]></description>
+          <pubDate>Tue, 02 Oct 2012 15:44:46 +0000</pubDate>
+            </item>
+                    <item>
+              <title>OLDS-MOOC Course Map representation</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6416</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6416</guid>
+              <description><![CDATA[<p>This Cloud has been created to show how the Course Map for the MOOC is developing over time.</p>]]></description>
+          <pubDate>Thu, 26 Jul 2012 13:44:53 +0000</pubDate>
+            </item>
+                    <item>
+              <title>02 Closing plenary (OLDS-MOOC Design Workshop)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6414</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6414</guid>
+              <description><![CDATA[<p>Link to and edit the google.doc collaborative notes <a href="http://www.tinyurl.com/oldsmoocwhatnext">www.tinyurl.com/oldsmoocwhatnext</a></p>]]></description>
+          <pubDate>Tue, 24 Jul 2012 10:56:47 +0000</pubDate>
+            </item>
+                    <item>
+              <title>01 Opening plenary (OLDS-MOOC Design Workshop)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6413</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6413</guid>
+              <description><![CDATA[<p>Welcome to the OLDS-MOOC Design Workshop</p>]]></description>
+          <pubDate>Tue, 24 Jul 2012 10:55:14 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Workshop activity 4 : Design Review</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6400</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6400</guid>
+              <description><![CDATA[<p>In this last 30 minute activity Diana Laurillard will lead a review of the design decisions made so far using the Learning Designer tool with the aim of answering:</p>
+<ul>
+<li>Where have we got to? </li>
+<li>What have we produced?</li>
+<li>What does it look like (pedagogically)?</li>
+</ul>]]></description>
+          <pubDate>Tue, 10 Jul 2012 16:17:16 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Workshop activity 3 : Storyboard</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6399</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6399</guid>
+              <description><![CDATA[<p>Ale Armelini will lead this 45 minute activity using the Storyboard activity from the Carpe Diem 2 day workshop. The activity will help us begin to design and align outcomes, learning activities and assessment, and sequence topic across the 8-10 weeks of the MOOC.</p>]]></description>
+          <pubDate>Tue, 10 Jul 2012 15:59:49 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Workshop activity 2 : Sketching the design</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6397</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6397</guid>
+              <description><![CDATA[<p>This activity is 1hr 15 minutes long and will focus on the use of two approaches to creatively 'sketch' the design of the pedagogical and tool/technological structures of the MOOC. The first 30 minutes will be led by me (Rebecca Galley) and will use the OULDI 'Course Features' and 'Course Map' resources to promote design thinking around four dimensions of the curriculum: Guidance &amp; Support; Content and Experience; Communication &amp; Collaboration; and Reflection &amp; Demonstration. The last 45 minutes will be led by Brock Craft and will use a Collaborative Sketching approach to support creative and collaborative thinking about MOOC technologies and pedagogies.</p>]]></description>
+          <pubDate>Tue, 10 Jul 2012 15:45:48 +0000</pubDate>
+            </item>
+                    <item>
+              <title>OLDS-MOOC Design Workshop July 2012</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6395</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6395</guid>
+              <description><![CDATA[<p><a href="http://cloudworks.ac.uk/cloudscape/view/2421">Link to the OLDS-MOOC Design Workshop Cloudscape</a></p>]]></description>
+          <pubDate>Tue, 10 Jul 2012 14:49:27 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Examples of MOOCs to review, critique, and learn from</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6376</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6376</guid>
+              <description><![CDATA[<p>Please use this page to list other MOOCs we should be looking at and learning from. Please add a comment, with a link to a MOOC you've noticed and a few words about why you found it interesting.</p>]]></description>
+          <pubDate>Wed, 27 Jun 2012 00:19:52 +0000</pubDate>
+            </item>
+                    <item>
+              <title>What is a MOOC? </title>
+              <link>https://cloudworks.ac.uk/cloud/view/6337</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6337</guid>
+              <description><![CDATA[<p>Some descriptions of what a MOOC is, and what it is for...(please add any others you know about!)</p>]]></description>
+          <pubDate>Fri, 25 May 2012 08:49:20 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Open University announces a Open Learning Design MOOC</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6336</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6336</guid>
+              <description><![CDATA[<p><strong>UPDATE: </strong>We are  pleased to report there has been lots of interest in the OLDS MOOC (Open  Learning Design Studio Massive Open Online Course) over the last few months with  over 800 people having registered their interest.</p>
+<p>After  consultation with many of those planning to participate or present, we have also  confirmed the start and end dates for the OLDS MOOC.&nbsp; The MOOC will run from  <strong>10<sup>th</sup> January &ndash; 13<sup>th</sup> March 2013</strong>.&nbsp; This is slightly later  than originally advertised, but takes into account that October and November are  often busy times for Further and Higher Education professionals and allows those  commencing post-graduate courses to settle into those  first</p>
+<p>The course  website is currently being built and you will be able to see the course taking  shape over the next few months at <a href="http://www.olds.ac.uk/">www.olds.ac.uk</a>.&nbsp; There will be monthly updates on  the website blog and the course has a Twitter account at  OLDS-MOOC.</p>
+<p>We are  grateful for your continuing interest in this free, open online course on  curriculum and learning design.</p>
+<p><strong>ORIGINAL PRESS RELEASE: </strong>The Open University&rsquo;s Institute of Educational Technology  is leading the first Open Learning Design Studio MOOC (Massive Open Online  Course) focusing on the theme of curriculum design with OERs, to be held in  Autumn 2012.</p>
+<p>This course will be valuable for anyone seeking to develop their  professional skills and experience in curriculum design, learning design and use  of OERs in education. In particular the course will appeal to new and  established HE and FE lecturers, to those completing professional certificates  in teaching, and to researchers and managers of teaching and learning  innovation.</p>
+<p>The course aims to (1) provide a rich open learning  experience for teaching and learning professionals (2) build greater skills and  understandings of Curriculum and Learning Design theories and frameworks, with  an emphasis on the reuse of OERs (3) help participants appreciate the need for  careful educational crafting of learning experience and associated curriculum  structures and (4) empower participants to become more effective educators and  change agents in their own context.</p>
+<p>Eight core themes will provide the focus for weekly  activities, speaker presentations, discussions and postings of useful resources  and tools. It will give access to, and the opportunity to learn from, successful  UK JISC and HEA projects in addition to some of the best of European  initiatives. The resulting aggregate resource will remain online for future  use.</p>
+<p>The term MOOC stands for &lsquo;Massive&rsquo; Open Online Course and  we expect to achieve an educational equivalent of this by offering truly open  opportunities to introduce new themes, debate topics and self-select material.  In addition, a basic underlying core pathway will offer an entry route for those  new to open courses or who have limited time.</p>
+<p>Further details regarding how to get involved, start  dates, and core themes will be announced during the summer. In the meantime,  please register your interest here: <a title="blocked::http://goo.gl/j5jIe" href="http://goo.gl/j5jIe">http://goo.gl/j5jIe</a> (or use the embedded form below) so we can keep you informed. The Curriculum Design MOOC  will be funded by JISC and the Open University and supported by the OULDI  project, Learning Design Grid and other partner organisations.</p>
+<p>Rebecca Galley, <a title="blocked::mailto:r.galley@open.ac.uk" href="mailto:r.galley@open.ac.uk">R.Galley@open.ac.uk</a>&nbsp;</p>
+<p>Dr. Simon Cross,  <a title="blocked::mailto:s.j.cross@open.ac.uk" href="mailto:s.j.cross@open.ac.uk">S.J.Cross@open.ac.uk</a>&nbsp;</p>
+<p>Dr. Yishay Mor, <a title="blocked::mailto:Yishay.Mor@open.ac.uk" href="mailto:Yishay.Mor@open.ac.uk">Yishay.Mor@open.ac.uk</a></p>]]></description>
+          <pubDate>Fri, 25 May 2012 08:37:18 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Nominal Group Technique</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6030</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6030</guid>
+              <description><![CDATA[<p>The Nominal Group Technique is:</p>
+<ul>
+<li>a useful technique for stakeholder engagement</li>
+<li>useful for evaluation and research as well as a curriculum review tool</li>
+<li>technologies can be used to enhance the efficiency of the nominal group technique.</li>
+</ul>
+<p>For more info, please consult the two outputs of an ELESIG-funded project:&nbsp;</p>
+<p>a) a pictoral guide for facilitators on how to conduct a Nominal Group Technique session</p>
+<p>b) research report on the outcomes of the project, which looked at the use of clickers in this process.</p>]]></description>
+          <pubDate>Mon, 28 Nov 2011 09:59:49 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Enhanced and Transformed: tales from the digital age</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5557</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5557</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Wed, 25 May 2011 16:25:23 +0000</pubDate>
+            </item>
+                    <item>
+              <title>JISC Design Studio</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5231</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5231</guid>
+              <description><![CDATA[<p>The <a title="JISC Design Studio" href="http://jiscdesignstudio.pbworks.com/w/page/12458422/Welcome-to-the-Design-Studio" target="_blank">Design Studio </a>is a developing toolkit which draws together a range of existing and emergent resources around curriculum design and delivery and the role technology plays in supporting these processes and practices.</p>
+<p>The Studio will provide access to project outcomes and outputs from the JISC <a title="JISC Curriculum Design" href="http://www.jisc.ac.uk/curriculumdesign" target="_blank">Curriculum Design</a> and <a title="JISC Curriculum Delivery" href="http://www.jisc.ac.uk/curriculumdelivery" target="_blank">Delivery</a> programmes as they are developed and will continue to be sustained as a community resource after the programmes finish.</p>
+<p>The toolkit has been developed as a wiki to enable the collaborative development of project outputs in closed and open spaces as well as contributions from the wider sector.</p>
+<p>The main content is public so you do not need to request access to browse resources but if you want to comment on resources a log-in is required.</p>
+<p>We welcome your comments and contributions to help further develop the resource.</p>]]></description>
+          <pubDate>Tue, 29 Mar 2011 11:25:14 +0000</pubDate>
+            </item>
+                    <item>
+              <title>n steps to flexibility</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5197</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5197</guid>
+              <description><![CDATA[<p>I'm working on a set of guidelines for programme and course designers on how to make their design as flexible as possible.&nbsp; To a large extent so far I'm relying on generalising from issues with a particularly large and complex programme I'm familiar with, so I'd welcome other experiences and points of view.</p>
+<p>At the risk of stating the obvious, my starting point is that the essential characteristic of a flexible curriculum is that it is designed and managed.&nbsp; Without design, it is just a collection of weakly-related elements which don't fit well together.&nbsp; Without strong direction, it fragments into discrete elements and it is difficult to balance competing interests, or co-operate where interests overlap.&nbsp;</p>
+<p>My guidelines so far seem to fall into two main categories; organisational and infrastructural.&nbsp; The organisational group is about how to manage a programme effectively.&nbsp; The infrastructural group is about how to make it easy to manage - change is costly both in time and money, so this group can be thought of as ways to reduce the cost of change.&nbsp;</p>
+<p>I have tried to set them out as a sequence of decisions I think will help anyone interested in designing a flexible programme or module.&nbsp; In practice, the necessity of trading off modularity, choice, workload, and so on is likely to involve iterating to and fro through the sequence to try out different decisions.<br /><br /></p>
+<ol>
+<li>Will your students be full-time or part-time? Regular weekly teaching patterns for extended periods work well for full-time students. Part-time students are likely to need lectures outside their working day, or delivered in short intense courses, or offered in a choice of presentations. The pattern and pace of delivery has a big influence on how much flexibility is subsequently available in the timetable - low intensity courses have more room for change.</li>
+<li>Decide what kind of module choice you are going to offer your students. If you want your students to be able to take all modules, or any combination of <em>n</em> modules, none of your modules can clash in the timetable. They will need to run in different time slots or different date blocks.&nbsp; If you don't mind if some students have to accept second choices, or you are happy to make some combinations impossible, you will have more flexibility.</li>
+<li>When do you need your timetable, before or after students make their option choices?&nbsp; How long before or after?&nbsp; You may be able to consider constructing a timetable specifically to satisfy student choices.</li>
+<li>What style of course will this be?&nbsp; Low lecture load and high self-study style is likely to give you a sparsely-populated timetable which consequently won't be the main change-impeding factor.</li>
+<li>Define your pattern of time slots. Unless you offer multiple presentations your number of simultaneous modules will be limited to the number of time slots in your weekly (or fortnightly) teaching pattern. With two or three timetabled contact hours a week you will usually find between 8 and 20 time slots. If you want to offer more courses than this some will have to share time slots and you will have to choose which courses to make mutually exclusive. </li>
+<li>Decide on number of presentations. Will students get just one chance to take a module, or will they get other opportunities?&nbsp; If you are using more than one kind of teaching activity you may find that appropriate rooms have significantly different capacities - lecture theatres and seminar rooms, for instance. Your choices are to limit the course size to the capacity of the smallest room, or to offer multiple presentations of the smaller activity. Multiple presentations usually makes most sense.&nbsp; Another common solution is to offer the same module in different date blocks in the same programme stage, e.g. in both semesters 1 and 2, or in years 1 and 2 in a two-year Part.</li>
+<li>Codify your curriculum structure.&nbsp; Define a hierarchy of teaching units, with guidelines on number of contact and study hours. Your institution may have defined them already. &nbsp;Basing them on existing unit types will make it easier to re-use teaching material. Deriving them from your institution's term or semester structure will give structure to the academic year. It will also give your units natural start and end points, creating 'slip planes' across the programme which add flexibility. </li>
+<li>Agree standard delivery date blocks to deliver these teaching units, within your academic year or semester.&nbsp; This plus time slots will give you a maximum possible number of non-clashing units.</li>
+<li>Decide whether automated timetabling makes sense for your programme.&nbsp; It makes most sense where you are struggling to provide the choice you want within your available timeslots and academic time periods (e.g. terms, semesters), where it can often find better solutions more quickly than a human.&nbsp; It can also take care of timetable publishing and student enrolment, and it frees you from maintaining a time slot system.&nbsp; There is a cost in maintenance and potentially licensing.</li>
+<li>Agree what size learning unit summative assessment will operate at, and the forms and grading scheme of that assessment.&nbsp; Different assessment practice can be a major barrier to flexibility and a degree of commonality will help greatly. Different material may require different kinds of assessment, and different kinds of assessment will have to be conducted separately, but at least the grading schemes can be made compatible.</li>
+<li>Agree a common format for describing courses.&nbsp; Make it as structured as possible so it can be reformatted and re-used wherever needed. This will help students use the curriculum and save staff a lot of time. &nbsp;</li>
+<li>Construct your programme using this agreed framework.</li>
+<li>Make allowance for special cases, but try to localise and minimise them.&nbsp; Interstices in the timetable should be used only on sufferance - allowing them to become entrenched messes up the timeslot system and drastically reduces your ability to respond to change.</li>
+</ol>]]></description>
+          <pubDate>Tue, 22 Mar 2011 11:52:40 +0000</pubDate>
+            </item>
+                    <item>
+              <title>ALTC 2010: Changing our models of curriculum design: personalised curriculum creation through coaching</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4392</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4392</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Fri, 03 Sep 2010 13:17:21 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Nominal Group</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3168</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3168</guid>
+              <description><![CDATA[<p>An interesting method which can yield surprising results. Advantages are that the views of everyone are considered, and the time for all stages is low. It is a group in name only as the views of all participants are collected separately.<br /> <img src="http://www.icbl.hw.ac.uk/ltdi/images/cookbook/bullet.gif" border="0" alt="o" width="10" height="10" />&nbsp;Identifying key issues to be explored by other evaluation methods <br /> <img src="http://www.icbl.hw.ac.uk/ltdi/images/cookbook/bullet.gif" border="0" alt="o" width="10" height="10" />&nbsp;Identifying issues that concern many people <br /> <img src="http://www.icbl.hw.ac.uk/ltdi/images/cookbook/bullet.gif" border="0" alt="o" width="10" height="10" />&nbsp;Useful for formative evaluation or review <br /> <img src="http://www.icbl.hw.ac.uk/ltdi/images/cookbook/bullet.gif" border="0" alt="o" width="10" height="10" />&nbsp;Good at giving participants a sense of ownership</p>]]></description>
+          <pubDate>Mon, 28 Nov 2011 11:42:15 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Institutional Approaches to Curriculum Design</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2966</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2966</guid>
+              <description><![CDATA[<p>The aim of the JISC e-Learning programme is to enable UK further and higher education to create a better learning environment for all learners, wherever and however they study. Its vision is of a world where learners, teachers, researchers and wider institutional stakeholders use technology to enhance the overall educational experience by improving flexibility and creativity and by encouraging comprehensive and diverse personal, high quality learning, teaching and research.</p>]]></description>
+          <pubDate>Thu, 25 Feb 2010 13:32:00 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Session 1A - Emerging findings from the JISC Curriculum Design Programme</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2958</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2958</guid>
+              <description><![CDATA[<p><strong>Session A &ndash; Institutional Approaches to Curriculum Design</strong> &ndash; This session provides an opportunity to learn more about the Curriculum Design, Cluster A projects. (Leeds Metropolitan University: PC3 (Personalised Curriculum Creation through Coaching); Manchester Metropolitan University: SRC (Supporting Responsive Curricula); Staffordshire University: Enable (Institutional Change Initiative for Curriculum Development); University of Bolton: Co-educate (Re-engineering the Professional Curriculum))</p>
+<p><strong>The common themes and issues that are emerging from the work of the cluster include</strong>:</p>
+<ul>
+<li>The need for responsive and flexible validation and quality assurance processes to accommodate curriculum innovation;</li>
+<li>Stakeholder engagement in curriculum innovation with employer involvement for student employability, student involvement to meet personal aspirations and staff involvement to optimise implementation;</li>
+<li>Business and process modelling to identify areas for improvement, systematically design and test new processes, and create a sound business case for the curriculum innovation;</li>
+<li>Change management strategies that address the established cultures and beliefs of institutions that need to change for curriculum innovation to succeed.</li>
+</ul>
+<p>&nbsp;<strong>This session will be led by Tony Toole, Critical Friend and will involve the following project representatives:</strong></p>
+<p>Co-educate (Re-engineering the Professional Curriculum, University of Bolton) - Stephen Powell<br />Enable (Institutional Change Initiative for Curriculum Development, Staffordshire University) - Mark Stiles and Fleur Corfield<br />PC3 (Personalised Curriculum Creation through Coaching, Leeds Metropolitan University) - Janet Finlay and John Gray<br />SRC (Supporting Responsive Curricula, Manchester Metropolitan University) - Mark Stubbs</p>]]></description>
+          <pubDate>Tue, 23 Feb 2010 12:07:51 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Introductions to people and projects</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2888</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2888</guid>
+              <description><![CDATA[<p>Please could you each introduce yourselves and your projects and briefly identify how you see the OULDI project fitting with them.</p>]]></description>
+          <pubDate>Wed, 03 Feb 2010 11:29:59 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Introductory Elluminate meeting</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2887</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2887</guid>
+              <description><![CDATA[]]></description>
+          <pubDate>Wed, 03 Feb 2010 11:25:27 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Evaluation</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2650</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2650</guid>
+              <description><![CDATA[<p><strong>Evaluation</strong></p>
+<ul>
+<li>How has the baseline reports informed your evaluation plans? </li>
+<li>The baseline as the starting point &ndash; the first set of evaluation data</li>
+<li>How to measure time on course creation activities?</li>
+<li>Understanding what people are doing with that time?</li>
+<li>How to measure the softer aspect?</li>
+<li>Project as a messy, complex environment, doesn&rsquo;t occur in isolation and so how can we really attribute outcomes to this specific project</li>
+<li>Can we pin down what are our core concepts, can we look at this in terms of our evaluation? </li>
+<li>Time is a really interesting aspect of looking at design&hellip;. </li>
+<li>Measure of time or quality of outcomes</li>
+<li>It&rsquo;s all about helping teachers to improve learning and teaching</li>
+<li>How do we assess quality of the designs</li>
+<li>How do you assess how much L&amp;T strategy has been taken into account?</li>
+<li>Quality is about meeting certain benchmark?</li>
+<li>Measuring impact of intervention (on learners)</li>
+<li>Evaluating design not in development</li>
+<li>Strathclyde know the REAP principles work but its getting them into practice that is the tricky bit</li>
+<li>Is it about measures of risk and measure of usefulness to the different stakeholders, its about measures of application</li>
+<li>Effect of other variables </li>
+<li>Getting principles into practice is tricky!</li>
+<li>May well be conflicting different views amongst stakeholders and how do we address this?</li>
+<li>How do we evaluate sharing?</li>
+</ul>]]></description>
+          <pubDate>Wed, 11 Nov 2009 15:45:07 +0000</pubDate>
+            </item>
+                    <item>
+              <title>JISC Cluster C curriculum design baseline reports </title>
+              <link>https://cloudworks.ac.uk/cloud/view/2649</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2649</guid>
+              <description><![CDATA[<p>This cloud summarises the discussions at the JISC Curriculum Design Cluster C meeting in Milton Keynes on 11th November 2009. Cluster C consists of:</p>
+<ul>
+<li>The Open University - JISC-OULDI</li>
+<li>Strathclyde Univers ity - Principles in Patterns</li>
+<li>Ulster University - Viewpoints</li>
+</ul>
+<p><strong>Cluster C &ndash; meeting 11<sup>th</sup> November 2009</strong></p>
+<p><strong>Helen Beetham &ndash; Baseline report</strong></p>
+<ul>
+<li>Has read all three baseline reports and looks for common themes and differences</li>
+</ul>
+<p><em>Questions to focus on</em></p>
+<ul>
+<li>What is the state of play of learning design and what are the opportunities for individuals&nbsp; - what do we have in common and how do we differ?</li>
+<li>What externally facing outcomes can we bring forward to help other institutions use learning design approaches more effectively</li>
+</ul>
+<ul>
+<li>Focus of the cluster could be deemed to be around learning design</li>
+<li>Might want to consider producing a joint report from the cluster</li>
+<li>Three things  
+<ul>
+<li>Commonalities</li>
+<li>Differences</li>
+<li>Outputs</li>
+<li>A particular approach to curriculum design, based around learning design</li>
+</ul>
+</li>
+</ul>
+<p><em>Commonalities</em></p>
+<ul>
+<li>Curriculum      design as a series of linked decisions &ndash; design as multidimensional,      design as a series of decisions informed by educational theory</li>
+<li>Focus      on pedagogical aspects of those decisions</li>
+<li>Attempts      to ensure learning/pedagogical design is given due importance, time,      representation etc within curriculum processes</li>
+<li>Interest      in representation and sharing of good designs</li>
+<li>The      value in 'patterns', 'designs', 'principles' or otherwise abstracted      representations of good design practice</li>
+<li>The      specific benefits of visual representations (again this as a research      issue as well as an implementation agenda)</li>
+<li>Institutional      restructuring, linked to streamlining/efficiency in curriculum process</li>
+<li>Interest      in points of intersection between institutional policy (or large-scale      statements of educational good practice) with the pragmatics of design &ndash;      how are they mutually informed?</li>
+<li>Developing      practical design tools that are integrated into current curriculum      processes</li>
+<li>Ensuring      information, advice and guidance about design practice are available and      useable at key decision points.</li>
+<li>A      clear differentiation of issues at task, module and programme level (see      e.g. PiP's tables)</li>
+<li>Thesis      that a focus on learning tasks would support a more learning-centred      design process (focus on what learners will actually be doing as they      learn will enhance the learning experience).</li>
+<li>An      interest in actual design practice as a research issue (see OU table of      design representations from baseline report)</li>
+</ul>
+<p><em>Questions for discussion</em></p>
+<p>Do we have an overarching theory or research question?</p>
+<p>Do we have an over-riding priority for institutional development?</p>
+<p>Do we have a shared vision of what success looks like?</p>
+<p><em>Discussion</em></p>
+<ul>
+<li>Perhaps we need to have a more clearly articulated vision for the work of each project and over</li>
+<li>Interest in learning and teaching and how learning design can improved that</li>
+<li>Have to accept that this is multi-levelled and need to take account of the different aspects</li>
+<li>Also about the mapping out the approval process shifts the emphasis to design decisions.</li>
+<li>What is the state of play of learning design as we understand it &ndash; in reality in most institutions its around approval and it&rsquo;s a more administrative process than pedagogically driven. The real design is a software more tacit process</li>
+<li>Is learning design a noun or a verb?</li>
+<li>What does a good pattern look like that others can copy &ndash; LD as noun and then there is a the practice of using it , the process/practice of design - LD as a verb</li>
+<li>There are lots of uses of the word tacit in the reports which point to this type of behaviour</li>
+<li>There are lots of different interpretations of learning design</li>
+<li>Is there a thing as a unified entity that is being represented in different ways or are there simply multiple representations? </li>
+<li>There may be difference amongst the projects in terms of how designs get represented and shared? </li>
+<li>The common problem: there is a mismatch between the formal and informal aspects of design or the business /educational aspects of design. </li>
+<li>Informal/educational designs are fairly poorly represented. A lot of innovation may go on under the institutional radar. One solution is to say this is ok, educational design is tacit and professional. Would be good to represent the informal design more clearly and then share that. </li>
+<li>Representing the process may be problematic, whereas capturing the output would be good. </li>
+<li>Stakeholders are being asked to make decisions on the pedagogical validity of courses where they don&rsquo;t have any details to help them do that</li>
+<li>Research interests of the cluster are about how you represent designs and how you share them? Viewpoints projects tools are a way to do that, PiP&rsquo;s thinking about the process teachers go through. </li>
+<li>There is no similar process for different course teams and development</li>
+<li>Output from the cluster &ndash; describing the educational thinking would be really useful</li>
+<li>Our view as a cluster is that the process of educational design is to be principles rather than constrained<em>&nbsp;</em></li>
+</ul>
+<p><em>Differences</em></p>
+<ul>
+<li>Different institutional missions and priorities (obviously), e.g. Strathclyde: technology, research mission, links to business and local communities, international recruiting profile, Ulster: flexibility, innovation, creativity in curriculum design; coordinated first-year experience; Somewhat different focus for transformation arising from these differences, e.g. Strathclyde: assessment and feedback; Ulster: first-year programme design; The OU would seem to provide a unique case, for several reasons many deriving from the integral role of technology in managing distributed course teams, centralised control, and the sheer economies of scale. Though interesting that the 'reflections' at the end of the report record similar problems to other institutions e.g. version control, over-complexity, lack of ownership of parts of the process</li>
+<li>However, I'm interested that the OU has been particularly successful at developing a quality enhancement approach that brings together business-related factors&nbsp; (opportunity review and the business case) with academic questions (learning outcomes, teaching and assessment strategy), within a policy framework (OU Futures), with reference also to educational research/evidence base. The OU curriculum strategy also requires all staff to have or develop skills in teaching online and in learning design. Could these approaches be replicated in other institutions? What would that look like</li>
+<li>Issue of design(er)&rsquo;s &lsquo;distance&rsquo; from the learning event: how far is it helpful to understand design as a distinct process from the implementation and enactment of the learning activity?</li>
+<li>Question: what is the real value of case studies to designers? OU and Strathclyde staff have reservations: what kinds of representation are accessible, 'trusted', pragmatically actionable? There are different views in terms of the value of case studies</li>
+<li>Changing roles &ndash; there are some tensions and differences between projects</li>
+<li>How is educational thinking represented to students?</li>
+<li>What is the role of designers and how much are they embedded?</li>
+</ul>
+<p><em>Discussion</em></p>
+<ul>
+<li>Are our projects different parts of the same picture &ndash; is there a bigger picture about learning design that the projects are addressing different aspects of?</li>
+<li>Or are there tensions and issues within our overall theory/vision, which it might be productive to explore through the different projects trajectories?</li>
+<li>There are differences given the missions, but underneath there is a lot of similarities. All the clusters reference the learning and teaching strategies and similar terms such as enhancing the student experience</li>
+<li>Distance can both be about physical distance and temporal. Design for a year later will be very different. Also distance in terms of involvement &ndash; designers who may be little involved in the actual running of the course. &nbsp;People delivering courses are interested in how to actually instantiate at the task level, they are having to interpret the designers intentions</li>
+<li>There is an interesting issue in terms of how much the academic is the actual designer? </li>
+<li>Can technology collapse some of the distances of time, space and role that occur in the design process? One of the other projects is looking at use of the e-portfolio system, Mahara</li>
+<li>Are there ways in which aspects of the design can be left open? How might this be represented</li>
+<li>Gap between those who design and choose the resources and those who teach</li>
+<li>Actually exciting to think about the idea of thinking &lsquo;distance from the learner&rsquo; rather than &lsquo;learner-centred&rsquo; as an either/or, how far from the learner are decisions about design being made</li>
+<li>What is it that each stakeholder will need from each of the different representations</li>
+<li>We need a small number of killer questions that get to the heat of the course team&rsquo;s educational thinking. Are there diagnostic of an educational design team need to think. Strathclyde 12 principles for assessment. </li>
+<li>Question of value &ndash; how you address that? Difference between immediate and longer term value</li>
+<li>There are a different set of value representations/ways of sharing practice &ndash; need to identify this, see when they are useful and by whom</li>
+<li>Purpose and solution &ldquo;I want case studies&rsquo;&rdquo;- actually means &ldquo;I want to be told what to do&rdquo; People are looking for specific things for a specific purpose. Parallel with students wanted &lsquo;worked example&rsquo;</li>
+<li>Mod4L project did a lot of work looking at different forms of presentation in an earlier JISC project</li>
+</ul>
+<p><strong>Key outputs suitable for external communication</strong></p>
+<ul>
+<li>Strathclyde's design 'tables' (pp 17-21 of baseline report)</li>
+<li>Strathclyde's REAP assessment and feedback principles</li>
+<li>OULDI's guidelines on various aspects of learning design</li>
+<li>OU business models: OU classic, Wraparound, Brought-in, Disaggregated Assets (Learning Objects), Empty-box and web 2.0. </li>
+<li>OU survey of staff attitudes to use of technology, to visualisation of the curriculum, and to current design practices/representations (of general interest &ndash; though unclear how OU-centric these attitudes are)</li>
+<li>Viewpoints diagrams (process framework, reference information, process support, and outputs), anonymised, for a range of curriculum design processes &ndash; x-ref with Strathclyde's 'tables'???</li>
+<li>Notion of a 'complex gateway' (Strathclyde) and a 'stage gate' (OU) &ndash; useful for thinking about the design process? Can we define some of these in inter-institutional terms?</li>
+<li>Analysis, evaluation and other representations (walk throughs, guidelines etc) relating to specific applications e.g. cloudworks, compendium LD, viewpoints course tools</li>
+</ul>
+<p><em>What else is there?</em></p>
+<ul>
+<li>What are credible indicators of transformation in the direction of the articulated vision, this evidence will be a highly values outcome!</li>
+<li>What other types of outcome will be valued by our own and other institutions?</li>
+<li>What could we be producing now to articulate the vision beyond this cluster</li>
+</ul>]]></description>
+          <pubDate>Wed, 11 Nov 2009 14:46:23 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Team: APDU TEAM</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2641</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2641</guid>
+              <description><![CDATA[<p>Team for discussing design of project support module</p><p>Contact details: kate.dunton@brunel.ac.uk</p>]]></description>
+          <pubDate>Mon, 09 Nov 2009 18:16:31 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Web-based curriculum mapping supporting Personalised Learning</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2609</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2609</guid>
+              <description><![CDATA[<p>Curriculum choice is an important component of personalised learning whether you believe that it is the learner who should be personalising the learning for themselves; or that it is the teacher who should be personalising the learning for the learner. In either scenario the learner will make decisions about what they need to learn, how and when they learn; they will have a &lsquo;say&rsquo;, a voice in the design of their learning experiences.</p>
+<p>To make decisions they will need to be able to 'see' the curriculum that they might/should/could access. This cloud will explore how web-based curriculum mapping, a tool primarly designed to 'organise and 'push' learning opportunities towards the learner, can be adapted to support the learner as the take control of their own learning and 'pull'/select learning opportunities.</p>
+<p>Contact details: JPallis001@aol.com</p>]]></description>
+          <pubDate>Thu, 05 Nov 2009 12:40:04 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Views on curriculum design</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2588</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2588</guid>
+              <description><![CDATA[<p>I have set up this cloud to gather views on different approaches to design in an educational context. This is in relation to the work we are doing at the Open University in the UK in terms of our<a href="http://ouldi.open.ac.uk"> OU Learning Design Initiative</a>. As part of this work we have just undertaken a major baseline mapping of our curriculum design - procedures and policies, as well as different stakeholder perspectives. We would love to gather your views, some questions you might like to consider include:</p>
+<ul>
+<li>How do you think pedagogy is fore-grounded within the work you do and within your institution?</li>
+<li>How structured is the way in which you go about designing learning activites and resources for your students and how well it is integrated in the overall institutional production process?</li>
+<li>How much focus do you place at the present time on pedagogic quality, cost-effectviness, innovation and fitness for purpose of the designs you produce?</li>
+<li>What sense of comunity currently exists at your institution in terms of sharing and discussing learning and teaching ideas and designs?</li>
+<li>What demand is there&nbsp; for teaching and learning communiites, for space to share and discuss learning and teaching ideas and designs?</li>
+<li>How do you think cloudworks might help in terms of supporting sharing and discussing of learning and teaching ideas and designs, to what extent do you think educators will be willing to engage with the site?</li>
+<li>What are your views about current approaches to curriculum design?&nbsp;</li>
+<li>What tools and methods are you using to help you improve how you design learning activities and resourcs for your students? </li>
+<li>What strategies are in place in your institutions to innovate and reform approaches to curriculum design?</li>
+</ul>]]></description>
+          <pubDate>Sat, 31 Oct 2009 19:04:17 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Resource: Three Dimensional 3-D Curriculum Design</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2509</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2509</guid>
+              <description><![CDATA[<p>Anyone else had this thought?&nbsp; Why is it that we are continually applying a 19th century model of curriculum design, one based on a single linear pathway for all students to progress through, with common assessment points, that really only applies and lives when articulated using the medium of paper?&nbsp; Does this still sound familiary, "Okay class, you will notice in the course outline that during this semester we will all be doing...blah, blah, blah... on October 5th, and we'll all be doing...blah, blah, blah...on November 8th, culminating in a final exam on December 7th."</p>
+<p>My argument is simple.&nbsp; Through the integration of technology, we can (and should) be creating three dimensional learning environments (NOTE: i am NOT talking about 3-D graphics or Second Life) whereby we establish multiple learning pathways that responds to an individual students learning styles (both catering for and challenging of) as well as a variety of assesment tools.</p>
+<p>I have modeled these environments using very sophisticated selective-release tools in Bb Vista and my students absolutely loved the experience.</p>
+<p>For the record, I think the "LMS/VLE is Dead" argument is a silly-one, in the sense that what the doomsayers are arguing for, mainstream education is far from ready to implement, regardless of how utopian the 'open' environment is.&nbsp; And for me, the key argument is that these environments are NOT exclusionary, as many others such as <a href="http://www.mrstucke.com/2009/08/25/the-vle-debate-my-thoughts/">Dan Stucke</a> have argued.&nbsp; Use the VLE as the unifying and organizational hub for the myriad of activities that we can be using to engage our students.&nbsp; Just imagine your response to a parent, potential employer, or district administrator when they ask, "Can you please show me the activities that you have done with the students this semester?" and all you have are are series of email messages containing links to 30 different PLE's?</p>
+<p>In conclusion, and what should be self-evident but I'll clarify it anyway, is that if anyone were to ask me to describe or demonstrate what I am talking about, and the medium of paper was the only one they gave me, they would not be happy with my response.&nbsp; I'll never forget in 1998 being told that my final master thesis could not 'exist' on the internet as there HAD to be a bound hard-copy on the shelf in the library...morons...</p><p>Contact details: Rob Peregoodoff, UBC Sauder School of Business</p>]]></description>
+          <pubDate>Mon, 19 Oct 2009 23:48:02 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Discussion: What representations of the curriculum are you using?</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2498</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2498</guid>
+              <description><![CDATA[<p>There are many projects looking at how we might usefully represent the curriculum. It is becoming increasingly important to communicate this information in a responsive and accessible way; in addition it is becoming clear that one representation will not fit all needs...so what representations are you using?</p>]]></description>
+          <pubDate>Tue, 13 Oct 2009 15:59:48 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Resource: Curriculum mapping</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2486</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2486</guid>
+              <description><![CDATA[<p>Paul Mundin of the OU Learning Design Initiative has undertaken a detailed mapping of the current curriculum processes at the OU to produce a series of 14 'as is' representations of the curriculum from overall institutional level, through to indivudal courses. The "stage gate process" acts as a driver for curriculum development and approval. The figure shows one of the curriculum maps illustrating an overview of the stage gate process.</p>]]></description>
+          <pubDate>Mon, 12 Oct 2009 20:27:54 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Resource: Course performance</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2485</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2485</guid>
+              <description><![CDATA[<p align="left">This view is still in progress but the intention is that it will provide the following:</p>
+<p style="padding-left: 30px;" align="left">Graphical representation of selected&nbsp;   student survey data benchmarked against faculty and university averages. Primary use is to capture actual   performance data to enable benchmarking/ comparisons.&nbsp; Can also be used to present forecast   performance during earlier stages of course appraisal, planning and   specification.</p>
+<p style="padding-left: 30px;" align="left">Course Business Models Team&nbsp; (12 October, 2008)</p>]]></description>
+          <pubDate>Mon, 12 Oct 2009 18:01:13 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Resource: Task swim-line representation</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2484</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2484</guid>
+              <description><![CDATA[<p>The task swim-line representation is useful in terms of designing at the learning activity level. Each role has an associated line of tasks and associated tools and resources which can be mapped to outcomes.</p>]]></description>
+          <pubDate>Mon, 12 Oct 2009 17:57:14 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Resource: Design decision assistant</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2483</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2483</guid>
+              <description><![CDATA[<p>Still a bit of a work on progress, the course representation is intended to act act a support for making decisions about course design and weighing up the various factors - pedagogical, financial and course performance. It is intended to work in conjunction with the other course views, but can also be used as a kind of checklist of good practice.</p>]]></description>
+          <pubDate>Mon, 12 Oct 2009 17:50:46 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Resource: Finance view</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2482</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2482</guid>
+              <description><![CDATA[<p>This view of a course focuses on the financial aspects. The examples provided are around Open University courses which are divided in two phases: production - where the course is developed and presentation - where it is delivered to students. The OU system has a range of roles associated with these phases - a core course team, supporting staff in other Centrai Academic Units (CAU) and associate lecturers or tutors. However this view could easily be adapted for general use. The key aspects are viewing types of costs, against income and total cost.</p>]]></description>
+          <pubDate>Mon, 12 Oct 2009 17:36:02 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Resource: Five-category course map representation</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2481</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2481</guid>
+              <description><![CDATA[<p>This representation enables you to view a course at "a glance". It shows the key components of the course in terms of five main facets:</p>
+<ul>
+<li>Guidance and support</li>
+<li>Information and experience</li>
+<li>Communication and interaction</li>
+<li>Thinking and reflection</li>
+<li>Evidence and demonstration</li>
+</ul>
+<p>The first being the support structure provided the next three the types of learning the student does and the last the way in which the learning is assessed.</p>
+<p>Three variants of this representation are provided below:</p>
+<ul>
+<li>A tablular version giving further information about each of the facets, along with examples.</li>
+<li>A 2-D map of the OU's KE312 course (created by Mick Jones).</li>
+<li>A 3-D version which shows how both the guidance and support, and the evidence and demonstation link to all three types of learning the students does.</li>
+</ul>
+<p>Recently we have refined our thinking on this and have condensed the catgories into four - see<a href="/cloud/view/2971"> related cloud.</a></p>]]></description>
+          <pubDate>Mon, 12 Oct 2009 17:23:57 +0000</pubDate>
+            </item>
+                    <item>
+              <title>CIRCLE - community network</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2422</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2422</guid>
+              <description><![CDATA[<p>Circle is a social networking site/community network for the JISC Curriculum Design and Curriculum Delivery Programmes</p>]]></description>
+          <pubDate>Wed, 07 Oct 2009 10:47:16 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Managing Curriculum Design in an Agile Environment</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2078</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2078</guid>
+              <description><![CDATA[<p>ALT-C 2009 Session: This Cloud has been set up to aggregate live blogs, comments, discussion and links for this session.</p>]]></description>
+          <pubDate>Wed, 26 Aug 2009 08:42:01 +0000</pubDate>
+            </item>
+                    <item>
+              <title>All hands on deck: CREWED for technology-enabled learning</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2077</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2077</guid>
+              <description><![CDATA[<p>ALT-C 2009 Session: This Cloud has been set up to aggregate live blogs, comments, discussion and links for this session.</p>]]></description>
+          <pubDate>Wed, 26 Aug 2009 08:40:37 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Curriculum mapping for pedagogical change? Case studies from Asia</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1969</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1969</guid>
+              <description><![CDATA[<p>ALT-C 2009 Session: This Cloud has been set up to aggregate live blogs, comments, discussion and links for this session.</p>]]></description>
+          <pubDate>Mon, 24 Aug 2009 08:31:20 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Viewpoints Blog</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1782</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1782</guid>
+              <description><![CDATA[<p>From the website:</p>
+<p style="cursor:auto"><!--NO CSS-->This website describes the University of Ulster's work for its JISC-funded curriculum design project. We aim to create a series of user-friendly reflective tools for staff, promoting and enhancing good curriculum design.</p>
+<p><a href="http://viewpointsproject.blogspot.com/">http://viewpointsproject.blogspot.com/</a></p>]]></description>
+          <pubDate>Thu, 12 Nov 2009 09:48:32 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Curriculum design representations</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1486</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1486</guid>
+              <description><![CDATA[<p>The following are ideas for different types of representation that might be used to describe design at the curriculum level. Ten representations are suggested:</p>
+<ol>
+<li>Textual summary and keywords </li>
+<li>At a glance map</li>
+<li>Timeline</li>
+<li>Content/topic/curriculum map</li>
+<li>Workload &ndash; overall, distribution, breakdown</li>
+<li>Principles/pedagogy matrix</li>
+<li>Cost </li>
+<li>Success criteria tick box</li>
+<li>Relationships and inter-dependencies</li>
+<li>Process flow maps </li>
+</ol>
+<p>Further information and some diagrams for each are available at <a href="http://e4innovation.com/?p=312">www.e4innovation.com</a>. A slideshare presentation given at a meeting in Strathclyde University on 21st April is available on <a href="http://www.slideshare.net/grainne/jisc-curriculum-design-cluster-c-meeting-1331104">slideshare</a>.&nbsp;</p>
+<p><strong>1.&nbsp;&nbsp; &nbsp;Textual summary and keywords </strong><br /> This representation provides a brief textual overview of the course (akin probably to what is already produced in course descriptions). In addition we would include keywords, which give an indication of the nature of the course. For us keywords might include a description of the type of course it is (in terms of mapping to some abstract model). At the OU we have identified six models: &lsquo;OU classic&rsquo;, bought-in, Web 2.0, wrap around, empty box, and disaggregated curriculum assets. In addition we would include a set of keywords that described the course generally, in terms of discipline, level and pedagogy (problem-based, dialogic, etc.).<br /> <br /><strong> 2.&nbsp;&nbsp; &nbsp;At a glance map<br /> </strong>This representation would list out all the components of the course. It would be possible to drill down into each component to find out more details about it &ndash; for example what tools are being used, when and for what purpose?<br /> <br /> <strong>3.&nbsp;&nbsp; &nbsp;Timeline<br /> </strong>The timeline would distinguish between activities during the production phase of a course and those during the actual presentation/delivery of the course. In addition, a simplified student timeline (akin to what we in the OU in terms of the course calendar), giving a breakdown week by week of what the student has to do, along with key milestones such as assignment deadlines would be useful.&nbsp; For us for example each course starts with a Business Appraisal (BA), then there are eight &lsquo;stage gates&rsquo; (SG1 &ndash; SG8) over the production and presentation of the course. Other key moments include drafts of material (from D0 a rough outline of content and activities through to D2 a final draft).&nbsp; In terms of the student view &ndash; courses are divided into blocks with each block consisting of a number of weeks; key deadlines include TMAs (Tutor Marked Assignments) and ECA (End of Course Assignment).<br /> <br /> <strong>4.&nbsp;&nbsp; &nbsp;Content/topic/curriculum map<br /> </strong>One way of representing content is showed below &ndash; where the content is organised by a series of themes and sub-themes.<br /> <br /> <strong>5.&nbsp;&nbsp; &nbsp;Workload &ndash; overall, distribution, breakdown</strong></p>
+<p>The workload representation would need to identify the stakeholders involved in the course and an allocation of their time involvement/costing across the production/presentation of the course. This could be presented as a simple aggregate of time/costs or broken down into appropriate timeframes (weeks or months)</p>
+<p><strong>6.&nbsp;&nbsp; &nbsp;Principles/pedagogy matrix<br /> </strong>This representation articulates the pedagogical approach being adopted by the course and the overarching principles. The example we provide uses a schema we have developed previously, more details are available in a recent Ariadne article. It provides a matrix which maps the principles of the course against four macro-level aspects of pedagogy. Principles might be generated/articulated by the course team (for example getting the students to reflect on experience and show understanding or incorporating frequent interactive exercises and feedback across the course) or might be derived from theory or empirical evidence (for example the 12 REAP assessment principles). <br /> <br /> <br /> Furthermore we can then produce a set of &lsquo;Course Design DNAs&rsquo;, which can be used to compare the nature of different courses. Below is an example of two comparative DNAs. One for OpenLearn which is a repository of open educational resources and one for SocilaLearn which is an initiative applying web 2.0 tools and principles to an educational context. <br /> <br /> Variants on the matrix are also possible. For example mapping principles to course activities, or mapping the principles to a different set of pedagogical characteristics (for example Bloom&rsquo;s educational taxonomy, the REAP principles or Laurillard&rsquo;s conversational framework). <br /> <br /> <strong>7.&nbsp;&nbsp; &nbsp;Cost <br /> </strong>As with the timeline representation, cost would be broken down into production vs. presentation/delivery costs. As with the workload costs could be viewed across different timeframes.&nbsp; The people cost would be an aggregation of the workload representation discussed earlier, but in addition cost types include resources, media, assessment and administration. <br /> <br /> <strong>8.&nbsp;&nbsp; &nbsp;Success criteria tick box<br /> </strong>This representation tries to articulate what constitutes a &lsquo;good course&rsquo;, what does good mean? At the OU we have identified four broad criteria for good; good in terms of: pedagogy, innovation, cost effectiveness and fitness for purpose/context.&nbsp; For each of these it is then possible to list a set of&nbsp; sub-criteria or demonstrations/evidence of how the course is &lsquo;good&rsquo; in terms of the four macro-criteria. <br /> <br /><strong> 9.&nbsp;&nbsp; &nbsp;Relationships and inter-dependencies<br /> </strong>We didn&rsquo;t really get onto articulating what this might look like but essentially this representation would show relationships and inter-dependencies at the course level. This might include a mapping of learning outcomes, topics and assessment for example, or a representation of media use across the course. Diana Laurillard&rsquo;s London Pedagogic Planner has attempted to do some aspects of this,&nbsp; as did the Media Advisor tool we developed a few years ago.<br /> <br /><strong> 10.&nbsp;&nbsp; &nbsp;Process flow maps <br /> </strong>Finally UML-type representations can be used to show the process of curriculum design &ndash; who is involved and when and an indication of data flow across the system.</p>]]></description>
+          <pubDate>Tue, 21 Apr 2009 10:25:30 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

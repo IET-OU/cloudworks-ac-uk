@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Cloudstream for LAEP Inventory – learning analytics tools, policies and practices</title>
+    <link>https://cloudworks.ac.uk/</link>
+	<description>Cloudstream for LAEP Inventory – learning analytics tools, policies and practices</description>
+	<dc:language>en</dc:language>
+	<dc:creator>cloudworks@open.ac.uk</dc:creator>
+	<dc:rights>Copyright 2019 </dc:rights>
+	<admin:generatorAgent>
+    <atom:link href="https://cloudworks.ac.uk/event/cloudscape_rss/2959" rel="self" type="application/rss+xml" />
+    		    <item>
+	      <title>Society for Learning Analytics Research: SoLAR (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/10046">Society for Learning Analytics Research: SoLAR (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Fri, 27 May 2016 15:20:52 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>LACE Evidence Hub (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/10045">LACE Evidence Hub (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Fri, 27 May 2016 15:12:38 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Opening up education (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/10044">Opening up education (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Fri, 27 May 2016 14:58:54 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Learning Analytics Community Exchange: LACE (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/10043">Learning Analytics Community Exchange: LACE (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Fri, 27 May 2016 14:57:28 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>NUS – Learning analytics: a guide for students’ unions (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/10042">NUS – Learning analytics: a guide for students’ unions (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Fri, 27 May 2016 13:28:06 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Spanish Network of Learning Analytics: SNOLA (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/10041">Spanish Network of Learning Analytics: SNOLA (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Fri, 27 May 2016 13:26:34 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Denmark: User Portal Initiative (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/10040">Denmark: User Portal Initiative (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Fri, 27 May 2016 13:25:01 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>X-Ray Analytics (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/10039">X-Ray Analytics (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Fri, 27 May 2016 13:23:35 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Knewton (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/10038">Knewton (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Fri, 27 May 2016 13:21:34 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Realising an Applied Gaming Eco-system: RAGE (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/10037">Realising an Applied Gaming Eco-system: RAGE (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Fri, 27 May 2016 13:20:24 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Cito LUVS (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/10036">Cito LUVS (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Fri, 27 May 2016 13:19:36 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Loop (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/10035">Loop (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Fri, 27 May 2016 13:18:13 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Bingel (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/10034">Bingel (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Fri, 27 May 2016 13:17:21 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>WATCHME project (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/10033">WATCHME project (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Fri, 27 May 2016 13:15:52 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Norwegian Centre for ICT in Education (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9675">Norwegian Centre for ICT in Education (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 21:25:41 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Metacog (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9674">Metacog (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 21:24:15 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Student retention and learning analytics: A snapshot of Australian practices and a framework for advancement (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9673">Student retention and learning analytics: A snapshot of Australian practices and a framework for advancement (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 21:21:43 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Progress and Course Engagement (RioPACE) – Rio Salado College (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9672">Progress and Course Engagement (RioPACE) – Rio Salado College (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 21:20:22 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>PredictED– Dublin City University (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9671">PredictED– Dublin City University (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 21:18:41 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>PAR Framework (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9670">PAR Framework (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 21:17:28 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Nottingham Trent University Student Dashboard (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9669">Nottingham Trent University Student Dashboard (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 21:16:18 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Georgia State University (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9668">Georgia State University (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 21:14:59 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Further education learning technology action group: FELTAG (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9667">Further education learning technology action group: FELTAG (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 21:13:28 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Effective learning analytics pilots –Jisc (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9666">Effective learning analytics pilots –Jisc (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 21:12:10 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Dunchurch Infant School (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9664">Dunchurch Infant School (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 21:09:24 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Course Signals: Purdue Universitycloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9663">Course Signals: Purdue University</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 21:07:55 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Ceibal (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9662">Ceibal (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 21:06:34 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Arizona State University (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9661">Arizona State University (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 21:05:17 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>What matters most for education management information systems framework paper – EMIS (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9660">What matters most for education management information systems framework paper – EMIS (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 21:04:00 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Policy brief on learning analytics – UNESCO (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9659">Policy brief on learning analytics – UNESCO (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 21:02:45 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Learning Analytics at the Workplace manifesto – LACE (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9658">Learning Analytics at the Workplace manifesto – LACE (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 21:00:43 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Improving the quality and productivity of the higher education sector – Australian Government Office for Learning and Teaching (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9657">Improving the quality and productivity of the higher education sector – Australian Government Office for Learning and Teaching (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 20:59:32 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Evaluation of policy frameworks for addressing ethical considerations in learning analytics (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9656">Evaluation of policy frameworks for addressing ethical considerations in learning analytics (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 20:58:20 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Ethical use of student data policy – The Open University (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9655">Ethical use of student data policy – The Open University (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 20:56:52 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Enhancing teaching and learning through learning analytics and educational data mining (US Department of Education) (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9654">Enhancing teaching and learning through learning analytics and educational data mining (US Department of Education) (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 20:55:38 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Educause – Understanding and managing the risks of  analytics in higher education: a guide (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9653">Educause – Understanding and managing the risks of  analytics in higher education: a guide (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 20:54:22 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Education governance: the role of data  – Organisation for Economic Co-operation and Development (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9652">Education governance: the role of data  – Organisation for Economic Co-operation and Development (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 20:53:06 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Code of practice for learning analytics (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9651">Code of practice for learning analytics (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 20:51:09 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Capacity enablers and barriers for learning analytics (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9650">Capacity enablers and barriers for learning analytics (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 20:50:05 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Analytical Review (UK Government Department for Education) (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9649">Analytical Review (UK Government Department for Education) (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 20:47:46 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>VitalSource CourseSmart (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9648">VitalSource CourseSmart (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 16:23:02 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Tribal&#39;s Student Insights (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9647">Tribal's Student Insights (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 16:22:02 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Student Success Plan (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9646">Student Success Plan (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 16:20:57 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>SNAPP (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9645">SNAPP (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 16:19:54 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Skillaware (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9644">Skillaware (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 16:18:54 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Schoolzilla (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9643">Schoolzilla (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 16:17:49 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>OU Analyse (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9642">OU Analyse (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 16:16:47 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Learning Analytics Processor (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9641">Learning Analytics Processor (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 16:15:19 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Khan Academy analytics (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9640">Khan Academy analytics (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 16:13:55 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>itslearning (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9639">itslearning (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 16:12:32 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>FFT Aspire (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9638">FFT Aspire (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 16:11:20 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Digital Assess – adaptive comparative judgement (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9637">Digital Assess – adaptive comparative judgement (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 16:10:10 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Degree Compass (Desire2Learn) (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9636">Degree Compass (Desire2Learn) (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 16:08:53 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Conexus  Vokal (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9635">Conexus  Vokal (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 16:07:34 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Cognitive Tutor software (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9634">Cognitive Tutor software (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 16:06:05 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Civitas Learning (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9633">Civitas Learning (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 16:04:38 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Bettermarks (LAEP Inventory) cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9632">Bettermarks (LAEP Inventory) </a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 16:03:04 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>ASSISTments (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9631">ASSISTments (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 16:01:43 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>LAEP Inventory: Policiescloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9630">LAEP Inventory: Policies</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 15:54:47 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>LAEP Inventory: Practicescloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9629">LAEP Inventory: Practices</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 15:53:58 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>LAEP Inventory: Toolscloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9628">LAEP Inventory: Tools</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Thu, 11 Feb 2016 15:50:08 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Open Essayist (LAEP Inventory)cloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9622">Open Essayist (LAEP Inventory)</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Tue, 09 Feb 2016 14:24:59 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>LAEP Inventory – learning analytics tools, policies and practicescloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9621">LAEP Inventory – learning analytics tools, policies and practices</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Tue, 09 Feb 2016 14:18:57 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Learning analytics for European educational policy – LAEPcloud added to the cloudscape LAEP Inventory – learning analytics tools, policies and practices by Rebecca Ferguson</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9620">Learning analytics for European educational policy – LAEP</a><br /><em>cloud added to the cloudscape <a href="https://cloudworks.ac.uk/cloudscape/view/2959">LAEP Inventory – learning analytics tools, policies and practices</a> by <a href="https://cloudworks.ac.uk/user/view/1126" rel="author">Rebecca Ferguson</a></em>]]></description>
+	  	  <pubDate>Tue, 09 Feb 2016 14:10:38 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+	    </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Cloudstream for Dave Smith</title>
+    <link>https://cloudworks.ac.uk/</link>
+	<description>Cloudstream for Dave Smith</description>
+	<dc:language>en</dc:language>
+	<dc:creator>cloudworks@open.ac.uk</dc:creator>
+	<dc:rights>Copyright 2019 </dc:rights>
+	<admin:generatorAgent>
+    <atom:link href="https://cloudworks.ac.uk/event/user_rss/8450" rel="self" type="application/rss+xml" />
+    		    <item>
+	      <title>Dave Smith&#39; design narrative : Writing from direct experiencenew cloud created by Dave Smith</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9858">Dave Smith' design narrative : Writing from direct experience</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/8450" rel="author">Dave Smith</a></em>]]></description>
+	  	  <pubDate>Wed, 06 Mar 2019 19:42:03 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>new embedded content added to the cloud Dave Smith&#39; design narrative : Writing from direct experience by Dave Smith</title>
+	      <link>https://cloudworks.ac.uk/#embed-3128</link>
+	      <guid>https://cloudworks.ac.uk/#embed-3128</guid>
+	      <description><![CDATA[<em>new embedded content added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/9858">Dave Smith' design narrative : Writing from direct experience</a> by <a href="https://cloudworks.ac.uk/user/view/8450" rel="author">Dave Smith</a></em>]]></description>
+	  	  <pubDate>Mon, 11 Apr 2016 11:30:40 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-embed">embed</category>
+	    </item>
+		    <item>
+	      <title>&quot;Thank you for the feedback Paula.
+You wrote : You were able to get many of your students to write...new comment on the cloud Dave Smith&#39; design narrative : Writing from direct experience by Dave Smith</title>
+	      <link>https://cloudworks.ac.uk/#comment-10968</link>
+	      <guid>https://cloudworks.ac.uk/#comment-10968</guid>
+	      <description><![CDATA[<strong>"Thank you for the feedback Paula.
+You wrote : You were able to get many of your students to write...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/9858">Dave Smith' design narrative : Writing from direct experience</a> by <a href="https://cloudworks.ac.uk/user/view/8450" rel="author">Dave Smith</a></em>]]></description>
+	  	  <pubDate>Mon, 11 Apr 2016 07:59:53 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>Review of representations - 4Ts and 4SPPIces - H800 Activity Wk8 A2anew cloud created by Dave Smith</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9886">Review of representations - 4Ts and 4SPPIces - H800 Activity Wk8 A2a</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/8450" rel="author">Dave Smith</a></em>]]></description>
+	  	  <pubDate>Sat, 09 Apr 2016 09:47:38 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Dave Smith&#39; design narrative : Writing from direct experiencenew cloud created by Dave Smith</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/9858">Dave Smith' design narrative : Writing from direct experience</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/8450" rel="author">Dave Smith</a></em>]]></description>
+	  	  <pubDate>Tue, 05 Apr 2016 11:42:30 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+	    </channel>
+</rss>

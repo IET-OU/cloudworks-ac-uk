@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+    <channel>
+
+    <title>Cloudworks Blog</title>
+
+    <link>https://cloudworks.ac.uk/blog/rss</link>
+    <atom:link href="https://cloudworks.ac.uk/blog/rss" rel="self" type="application/rss+xml" />
+    <description>Cloudworks blog</description>
+    <dc:language>en</dc:language>
+    <dc:creator>cloudworks@open.ac.uk</dc:creator>
+
+    <dc:rights>Copyright 2019 </dc:rights>
+    <admin:generatorAgent/>
+
+    
+        <item>
+          <title>A welcome return... and new features</title>
+          <link>https://cloudworks.ac.uk/blog/view/1531</link>
+          <guid>https://cloudworks.ac.uk/blog/view/1531</guid>
+          <description><![CDATA[<p>Greetings,</p>
+<p>It's a while since I've blogged here and yet, we have plenty to talk about...</p>
+<p>Some of you will know that <a href="http://www.julietteculver.com/">Juliette Culver</a> is the original lead developer of Cloudworks.&nbsp;</p>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">In October 2010 we launched the open source http://getcloudengine.org CloudEngine project, based on the source 'code' behind Cloudworks.</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">&nbsp;Juliette was then away for a year on maternity leave and returned to The Open University in December 2011.</div>
+<p>In October 2010 we launched the open source&nbsp;<a title="CloudEngine, hosted on Bitbucket" href="http://getcloudengine.org/">CloudEngine project</a>, based on the source 'code' behind Cloudworks.&nbsp;Juliette was then away for a year on maternity leave and returned to The Open University in December 2011.</p>
+<p>In the meantime,&nbsp;<a href="http://twitter.com/RichLovelock">Richard Lovelock</a> worked on some big new features, including <a title="Blogged at CloudEngineBlog.wordpress.com" href="http://cloudengineblog.wordpress.com/2011/02/09/direct-messaging-cloudengine-1-1-0-beta/">direct messaging</a> and <a href="http://cloudengineblog.wordpress.com/2011/05/27/search-usability-enhancements/">usability enhancements</a> to the <a href="http://cloudengineblog.wordpress.com/2011/05/27/search-functionality-enhancements-and-debug-settings-v1-1-2/">CloudEngine/Cloudworks site search</a>.&nbsp;&nbsp;And we extended the range of things that can be embedded in Cloudworks - notably Prezi, Google Doc forms, spreadsheets and presentations,&nbsp;and <a title="Learning Activity Management System" href="http://cloudworks.ac.uk/cloud/view/5782">LAMS learning designs</a>.</p>
+<p>Juliette's main focus since her return has been&nbsp;<a href="http://pelagios-project.blogspot.com/2012/02/pelagios-overview-presentation.html">Pelagios</a>,&nbsp;which is an innovative linked-data project.</p>
+<p class="figure"><a href="http://mediaspin.com/blog/?p=302"><img style="margin:1em auto; display:block;" title="'MAR 05', 3D by H. Grebe. From Mediaspin.com/blog, CC-by License" src="http://www.mediaspin.com/blog/wp-images/calendar_3D.jpg" alt="'MAR 05', 3D by H. Grebe. From Mediaspin.com/blog, CC-by License" /></a></p>
+<p>However, I'm happy to say that she has found time to help us out with some quick wins, notably:</p>
+<ul>
+<li>Support for a series of events, for example, seminar series and the IET technology coffee mornings; in this mode, a Cloud represents each event, and a Cloudscape is used to group the series of events. (For bigger conferences and the like, a Cloudscape is used to represent the overall event,&nbsp;while a Cloud can be used for each individual session.)</li>
+<li>Event iCal and RSS feeds - see the foot of&nbsp;<a href="http://cloudworks.ac.uk/events/view/cloudscapes">this page</a>. This will allow anyone to import Cloudworks events into MS Outlook, Google Calendar and so on;</li>
+<li>Improvements to the statistics interface for administrators;</li>
+<li>To give users the ability to change their email address;</li>
+</ul>
+<p>We updated the site functionality (code) on Wednesday. The focus of this work has been to respond to requests from you the user, and to facilitate reporting for our parent&nbsp;<a href="http://ouldi.open.ac.uk">Open University Learning Design Initiative (OULDI) project</a>.</p>
+<p>Of course, we welcome feedback on all this activity and more.</p>
+<p>Best wishes,</p>
+<p>Nick</p>
+<p>(The Cloudworks team)</p>]]></description>
+      <pubDate>Fri, 09 Mar 2012 11:26:46 +0000</pubDate>
+        </item>
+
+    
+        <item>
+          <title>Direct messaging &amp; CloudEngine 1.1.0 beta</title>
+          <link>https://cloudworks.ac.uk/blog/view/1530</link>
+          <guid>https://cloudworks.ac.uk/blog/view/1530</guid>
+          <description><![CDATA[<p>From the <a href="http://cloudengineblog.wordpress.com/2011/02/09/direct-messaging-cloudengine-1-1-0-beta/">CloudEngine blog</a>.</p>
+<p>I&rsquo;m happy to say that last Wednesday (2nd February) my colleague <a title="@RichLovelock on Twitter" href="http://twitter.com/RichLovelock">Richard Lovelock</a> put the new direct messaging function live on <a title="Cloudworks powered by CloudEngine" href="http://cloudworks.ac.uk/">Cloudworks</a>. It is something that Cloudworks users have requested and we have wanted for a while. Despite a quiet launch, it has already been taken up by the Cloudworks community. And, we&rsquo;re excited about its potential for fostering private discussions that can lead on to public Clouds and Cloudscapes.</p>
+<p>Richard researched what Facebook, Linked in, Twitter and a variety of other spaces provide. He designed a system that allows private messaging between multiple participants. I&rsquo;m sure you will find it quite easy and at the same time powerful to use. We are very pleased with the results &ndash; thank you Richard!</p>
+<p>After you log in to Cloudworks, you will see a link labelled Messages in the main navigation menu. The message main-page or inbox page summarises your discussions and who was the last to reply to each thread.</p>
+<p><a href="http://flickr.com/photos/cloudengine/5351907584/"><img src="http://farm6.static.flickr.com/5245/5351907584_8b87c8cf3a.jpg" alt="inbox" width="500" height="349" /></a></p>
+<p>The compose message page provides a neat way to search for recipients by their full name, and a list of suggestions appears as you type.</p>
+<p><a href="http://flickr.com/photos/cloudengine/5351907546/"><img src="http://farm6.static.flickr.com/5005/5351907546_dc506c2b7d.jpg" alt="compose" width="500" height="336" /></a></p>
+<p>The direct messaging code is part of the open-source CloudEngine software that powers Cloudworks. You or a friendly developer can now <a href="http://getcloudengine.org/">download CloudEngine 1.1 Beta</a>, and find out how to create your own social network. Full documentation for <a href="http://getcloudengine.org//wiki/Messaging">direct messaging is on the Wiki</a>.</p>
+<p>There are numerous <a title="Release notes for 1.1.0 beta" href="http://getcloudengine.org//wiki/Releases#!cloudengine-110-beta">enhancements and fixes in CloudEngine 1.1 Beta</a>, including a handy new maintenance mode to ease system administration. And, we have implemented the <a href="http://getcloudengine.org//wiki/HTML5">new HTML5 form attributes for validation</a>, initially on the registration form. This is most visible on Firefox 4 beta, and Opera 9.6 onwards. We will be improving other forms and integrating HTML5 form emulation for other browsers as time permits.</p>
+<p>I&rsquo;ll be at <a title="JISC DevCSI Developer Days, 16-17 February 2011" href="http://dev8d.org/">Dev8D in London</a> next week and happy to talk more about what we&rsquo;re doing with CloudEngine and Cloudworks, and how you can get involved <img class="wp-smiley" src="http://s1.wp.com/wp-includes/images/smilies/icon_wink.gif?m=1234413205g" alt=";)" /></p>
+<p>So there you have it. Major new functionality is available on Cloudworks, and we have a new Beta release of CloudEngine. Enjoy!</p>]]></description>
+      <pubDate>Fri, 11 Feb 2011 17:54:42 +0000</pubDate>
+        </item>
+
+    
+        <item>
+          <title>Could you be a Cloudworks critical friend?</title>
+          <link>https://cloudworks.ac.uk/blog/view/1529</link>
+          <guid>https://cloudworks.ac.uk/blog/view/1529</guid>
+          <description><![CDATA[<p>We are now five months into the third pahse of development of the site and are looking to widen our community of critical friends. We are looking for people who are regular users of the site and have an interest in future development. The group meets approximately every three months via Elluminate for about 2 hours.</p>
+<p>If you are interested in becoming a critical friend of the project, please email me, Rebecca Galley at R.Galley@open.ac.uk.</p>]]></description>
+      <pubDate>Wed, 09 Feb 2011 13:20:53 +0000</pubDate>
+        </item>
+
+    
+        <item>
+          <title>CloudEngine v1.0.1</title>
+          <link>https://cloudworks.ac.uk/blog/view/1528</link>
+          <guid>https://cloudworks.ac.uk/blog/view/1528</guid>
+          <description><![CDATA[<p>It&rsquo;s a new year, and we have an updated version of CloudEngine for you, version 1.0.1. Actually, it&rsquo;s not that new, as it was released at the end of November, but things crop up.</p>
+<p><a href="http://cloudengineblog.wordpress.com/2011/01/05/cloudengine-v1-0-1/">Read more about CloudEngine v1.0.1</a>.</p>]]></description>
+      <pubDate>Mon, 10 Jan 2011 16:47:56 +0000</pubDate>
+        </item>
+
+    
+        <item>
+          <title>Downtime on Friday 5 November</title>
+          <link>https://cloudworks.ac.uk/blog/view/1527</link>
+          <guid>https://cloudworks.ac.uk/blog/view/1527</guid>
+          <description><![CDATA[<p>Dear All,</p>
+<p>We are doing some planned maintenance on Friday morning (GMT), around 9-10:30. You should expect a little down time then, though his shouldn't last too long.</p>
+<p>The work will fix some minor bugs and make small improvements. For those of you who are interested, the main change affects us developers - we are switching from our private code repository, to the new <a href="http://bitbucket.org/cloudengine/cloudengine">CloudEngine</a> one.</p>
+<p>Yours,</p>
+<p>Nick</p>
+<p>&nbsp;</p>]]></description>
+      <pubDate>Wed, 03 Nov 2010 10:58:49 +0000</pubDate>
+        </item>
+
+    
+        <item>
+          <title>Cloudworks code now open-source</title>
+          <link>https://cloudworks.ac.uk/blog/view/1526</link>
+          <guid>https://cloudworks.ac.uk/blog/view/1526</guid>
+          <description><![CDATA[<p>Hi everyone,</p>
+<p>A quick note to say that CloudEngine, the open-source version of Cloudworks, is now available here:</p>
+<p><a href="http://bitbucket.org/cloudengine/cloudengine/">http://bitbucket.org/cloudengine/cloudengine/</a></p>
+<p>There's also a wiki on that site. It is still very work-in-progress at the moment, but should soon be filling up with relevant information and documentation.</p>
+<p>There's also a new blog for CloudEngine-related posts, especially those with a more technical focus:</p>
+<p><a href="http://cloudengineblog.wordpress.com/">http://cloudengineblog.wordpress.com/</a></p>
+<p>This is my last week before going on maternity leave. My colleague, Nick Freear, will be taking over from leading the development of Cloudworks and CloudEngine.</p>
+<p>I'm looking forward to seeing how everything has progressed in a year's time!</p>
+<p>Juliette</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>]]></description>
+      <pubDate>Wed, 13 Oct 2010 15:49:48 +0000</pubDate>
+        </item>
+
+    
+        <item>
+          <title>Brief downtime on Thursday 23rd September</title>
+          <link>https://cloudworks.ac.uk/blog/view/1525</link>
+          <guid>https://cloudworks.ac.uk/blog/view/1525</guid>
+          <description><![CDATA[<p>There will be some brief downtime later this morning (UK time) for some maintenance.</p>
+<p>Please let us know quickly if this a particular problem, cloudworks@open.ac.uk . Thank you for your patience.</p>
+<p>Yours</p>
+<p>Nick</p>]]></description>
+      <pubDate>Thu, 23 Sep 2010 08:51:54 +0000</pubDate>
+        </item>
+
+    
+        <item>
+          <title>Making Cloudworks open-source</title>
+          <link>https://cloudworks.ac.uk/blog/view/1524</link>
+          <guid>https://cloudworks.ac.uk/blog/view/1524</guid>
+          <description><![CDATA[<p>My top priority before I go on maternity leave is to make the Cloudworks  source-code open-source and I thought it would be worth sharing the main things that in our plan for this.</p>
+<p><strong>Name and branding<br /></strong></p>
+<p>It is going to be confusing if the open-source version of the code is also  called Cloudworks and if new installs look identical to the Cloudworks site, so  we need to come up with a new name and branding. Names are hard because as well  as picking a good name, you need to get them trademark-checked, you don't want  to clash with anything else with the same name that might cause confusion and  you also want to be able to get a reasonably sensible domain name. We have some  ideas but suggestions are very welcome! We've already got our graphic designer  to produce a new colour scheme and site banner so we're part of the way with the branding side  of things.</p>
+<p><strong>Licensing </strong></p>
+<p>There are two main things to consider here. First, we have had to check with  legal at The Open University whether we can release the code as open-source and  if there are any restrictions on licences we can use, as well as check with the  funding bodies, JISC and the EU, that have funded parts of the work. We've  already done this and luckily it seems to be fairly straightforward and we can  pick pretty much any licence we would like from that perspective.&nbsp;</p>
+<p>Secondly, the code uses various other open-source code, for example the  CodeIgniter framework, JQuery, TinyMCE and Zend Lucene. These are all covered by  a variety of different licences and we need to make sure that we're not breaking  the terms of any of them when we release our code. I'm hoping that <a href="http://www.oss-watch.ac.uk/">OSSWatch</a> are going to come to the  rescue here in helping me make sense of all this!</p>
+<p><strong>Governance Model</strong></p>
+<p>The OSSWatch website has lots of useful information about governance models.  There are some interesting decisions for us here, especially with how the  open-source work fits in with existing structures and with me going on maternity  leave in October!</p>
+<p><strong>Installation and upgrade infrastructure </strong></p>
+<p>We need to write and test installation instructions for the code, as  well as make sure that an 'empty' install of the code behaves reasonably  sensibly. We also need to think ahead as to how we are going to manage upgrades  and document which versions of PHP/MySQL we have tested with.</p>
+<p><strong>Configurability</strong></p>
+<p>We are going through the codebase trying to spot anywhere that things have  been hardcoded in which wouldn't make sense in the open-source version. One of  the main places is the support and about pages which are currently hardcoded  HTML. We also need to allow people to customise the theme and logo.</p>
+<p>We have decided however on the whole to provide the code very much 'as is' in  the first instance and work on improving it later. The admin interface for example is rather primitive, but  we're working on the principle that it is better to get the code out first and  make those improvements afterwards.</p>
+<p><strong>Hosting, website and documentation </strong></p>
+<p>We need to decide where to host the code - at the moment, it is looking like  a choice between Github and Bitbucket. We also need to put infrastructure in  place for tracking bugs (and decide whether to try and import the bugs we  currently have in our local bugtracker) as well as think about things like a developer mailing list, wiki and website as well as the type of documentation and guidance we want to have on them. We also need to decide how we manage reports of security vulnerabilities.</p>
+<p><strong>Get involved&nbsp; </strong></p>
+<p>If you're interested in being an early guinea pig for the open-source version or getting involved in development, please do contact us on cloudworks@open.ac.uk</p>]]></description>
+      <pubDate>Fri, 30 Jul 2010 13:26:06 +0000</pubDate>
+        </item>
+
+    
+        <item>
+          <title>The Cloudworks API – rationale and lessons</title>
+          <link>https://cloudworks.ac.uk/blog/view/1523</link>
+          <guid>https://cloudworks.ac.uk/blog/view/1523</guid>
+          <description><![CDATA[<p>A few weeks ago I blogged the forthcoming <a href="../view/1521">Cloudworks application  programming interface</a> and published a document for review. Today, I  thought I would explain some of the decisions behind the design of the  API and share some of the lessons we're learning. We'll also touch on  Javascript widgets and possible next steps.</p>
+<p><a href="http://freear.org.uk/node/40">Read the full story</a>.</p>]]></description>
+      <pubDate>Fri, 02 Jul 2010 20:26:04 +0000</pubDate>
+        </item>
+
+    
+        <item>
+          <title>Brief downtime on Friday 18th June</title>
+          <link>https://cloudworks.ac.uk/blog/view/1522</link>
+          <guid>https://cloudworks.ac.uk/blog/view/1522</guid>
+          <description><![CDATA[<p>The site will have some brief downtime, hopefully no more than ten minutes, at about 10am on Friday 18th June for some server upgrade work in preparation for the OU conference next week.&nbsp;</p>
+<p>Juliette</p>]]></description>
+      <pubDate>Wed, 16 Jun 2010 15:30:59 +0000</pubDate>
+        </item>
+
+    
+    </channel></rss>

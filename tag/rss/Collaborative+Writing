@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: Collaborative Writing</title>
+        <link>https://cloudworks.ac.uk/tag/rss/Collaborative+Writing</link>
+        <atom:link href="https://cloudworks.ac.uk/tag/rss/Collaborative+Writing" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds tagged Collaborative Writing</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>THU: Tomorrow&#39;s Digital Scholar: Using Google Docs To Promote Collaboration In Secondary School English (Jonathan Brown).</title>
+              <link>https://cloudworks.ac.uk/cloud/view/11482</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/11482</guid>
+              <description><![CDATA[<h2><img src="https://cldup.com/HaoLRfn7GJ.jpg" alt="" /></h2>
+<p><strong>&nbsp;</strong></p>
+<h1><strong>Abstract</strong></h1>
+<h2><strong>Tomorrow&rsquo;s Digital Scholar: Using Google Docs to promote Collaboration in Secondary School English</strong></h2>
+<p>The advent of Web 2.0 technologies in recent years has prompted a shift in academic practices, the openness and networked participation afforded by such tools leading to the emergence of what has been dubbed &lsquo;the digital scholar&rsquo; (Weller, 2011).&nbsp; Technologies such as social media, blogging platforms, and collaborative writing software have provided digital scholars with unprecedented access to synchronous collaboration and real-time feedback, with vast networks of peers facilitating a constant process of creating, sharing, commenting and revision (Yamamoto and Karaman, 2011). As Higher Education institutions begin to adopt such practices, and Web 2.0 tools are increasingly &lsquo;becoming popular in teaching and learning environments&rsquo; (Brodahl and Hadjerrouit, 2011), notions of what it means to be a learner are in a state of transformation.&nbsp; Digital tools have the potential to support learning in ever more innovative ways, &lsquo;mark[ing] a step change in the ways in which learners can interact with and on the web&rsquo; (Selwyn, 2008), and encouraging a pedagogy that is open, participatory, and collaborative.&nbsp; The educational landscape is evolving, shaped, in part, by the digital scholar.</p>
+<p>This has implications for the Secondary School Teacher, who is expected to &lsquo;demonstrate a critical understanding of developments in the subject and curriculum areas, and promote the value of scholarship&rsquo; (Department for Education, 2011).&nbsp; As the definition of &lsquo;scholarship&rsquo; changes to include the practices and pedagogies of digital scholarship, and more school-leavers than ever before are going on to study at university (UCAS, 2016), teachers have a responsibility to ensure that their learners &ndash; the digital scholars of tomorrow - are adequately prepared in the tools and practices used in Higher Education and beyond.&nbsp;</p>
+<p>Many teachers are keen to embrace this responsibility, and there is evidence from the UK (Penney, 2017) and beyond (Woodrich and Fan, 2017) that some secondary institutions are already making innovative use of Web 2.0 tools to further open and collaborative teaching methods.&nbsp; Despite this, there remain barriers to ensuring that tomorrow&rsquo;s digital scholars are adequately prepared, including school cultures that discourage risk, a lack of confidence with Web 2.0 technologies amongst staff, and the absence of a support network to exchange ideas and to share examples of best practice (Kirkland and Sutch, 2009).</p>
+<p>The conference presentation will demonstrate how a short multimedia course is being designed to negotiate some of these barriers. &nbsp;Aimed at the Secondary English teacher, who is ideally placed to promote the creative and collaborative practices of digital scholarship, the online course uses the open-source Learning Management System, Canvas, to demonstrate how Google Docs can be used effectively in the classroom for collaborative writing. &nbsp;Providing not only a guide to using Google Docs to promote collaborative writing, but a virtual environment for colleagues to exchange innovative examples of best practice, the course will offer one of many possible ways in which Secondary practitioners can nurture the skills of tomorrow&rsquo;s digital scholar.</p>
+<p>&nbsp;</p>
+<p><strong>Word Count: 481</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>References</strong></p>
+<p>Brodahl, C. and Hadjerrouit, S. (2011) &lsquo;Collaborative Writing with Web 2.0 Technologies: Education Students&rsquo; Perceptions,&rsquo; <em>Journal of Information Technology Education</em>, vol. 10, pp. 1&ndash;31 [Online]. Available at https://brage.bibsys.no/xmlui/bitstream/handle/11250/138167/Brodahl_2011_Collaborative.pdf?sequence=1&amp;isAllowed=y (Accessed 21 November 2017).</p>
+<p>Department for Education (2011) <em>Teachers&rsquo; Standards Guidance for school leaders, school staff and governing bodies</em>, [Online]. Available at https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/301107/Teachers__Standards.pdf (Accessed 10 November 2017).</p>
+<p>Kirkland, K. and Sutch, D. (2009) &lsquo;Overcoming the barriers to educational innovation A literature review&rsquo;, [Online]. Available at www.futurelab.org.uk (Accessed 28 November 2017).</p>
+<p>Penney, S. (2017) &lsquo;Open Scholarship,&rsquo; <em>education2017</em>, 10 October [blog]&nbsp; Available at <a href="https://education17blog.wordpress.com/">https://education17blog.wordpress.com/</a> (Accessed 16 November 2017).</p>
+<p>Selwyn, N. (2008) &lsquo;Education 2.0? Designing the web for teaching and learning,&rsquo; <em>Epsrc</em>, vol. 20, no. October, pp. 162&ndash;165 [Online]. Available at http://www.tlrp.org/tel/files/2008/11/tel_comm_final.pdf (Accessed 10 November 2017).</p>
+<p>&nbsp;UCAS (2016) <em>Record numbers of 18 year olds accepted to university this year, UCAS report shows | Undergraduate | UCAS</em> [Online]. Available at https://www.ucas.com/corporate/news-and-key-documents/news/record-numbers-18-year-olds-accepted-university-year-ucas-report-shows (Accessed 5 December 2017).</p>
+<p>&nbsp;Weller, M. (2011) <em>The Digital Scholar - How Technology Is Transforming Scholarly Practice</em>, Boomsbury Open Access [Online]. DOI: 10.5040/9781849666275.ch-001 (Accessed 15 June 2017).</p>
+<p>&nbsp;Woodrich, M. and Fan, Y. (2017) &lsquo;GOOGLE DOCS AS A TOOL FOR COLLABORATIVE WRITING IN THE MIDDLE SCHOOL CLASSROOM,&rsquo; <em>Journal of Information Technology Education: Research</em>, vol. 16, no. 16, pp. 391&ndash;410 [Online]. Available at http://www.informingscience.org/Publications/3870 (Accessed 19 November 2017).</p>
+<p>Yamamoto, G. T. and Karaman, F. (2011) &lsquo;On the Horizon Education 2.0&rsquo;, On the Horizon, vol. 1910748121111138300, no. 2, pp. 109&ndash;117 [Online]. Available at https://doi.org/10.1108/10748121111138308 (Accessed 2 August 2017).</p>]]></description>
+          <pubDate>Mon, 08 Jan 2018 14:23:06 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Role Playing and Collaborative Writing in Response to Literature</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7587</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7587</guid>
+              <description><![CDATA[<p>This cloud represents a narrowed down version of my previous project: what I want to focus on thinking about here is ways that collaborative writing can be used to generate a variety of responses to a text: essays, sequels, etc. These are activities that could be used in a MOOC or a more traditional class.&nbsp;</p>
+<p>More specifically, my focus will be on higher education and adults since that is where my work is, and I want to begin by thinking about digital role playing as a form of collaborative writing.&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Fri, 18 Jan 2013 18:04:41 +0000</pubDate>
+            </item>
+                    <item>
+              <title>OLDS MOOC Study Group: Literature, Technology and Collaborative Writing </title>
+              <link>https://cloudworks.ac.uk/cloud/view/7439</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7439</guid>
+              <description><![CDATA[<p>For anyone, anywhere in the world who is participating in the OLDS MOOC 2013 and isinterested in literature, technology and collaborative writing.</p>]]></description>
+          <pubDate>Wed, 16 Jan 2013 16:18:54 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Alisha Portolese: My dream: Learning design project proposal - Collaborative writing in a primary classroom</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7166</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7166</guid>
+              <description><![CDATA[<p><strong>Context:</strong></p>
+<p>In the next few months I have the opportunity to work closely with a grade three teacher and her class of 20 students. This teacher is excited to work on collaborative writing and integrating technology into her class. At present, the students in her class have never experienced collaborative writing. Like many children of that age, working collaboratively in general is a challenge, and it is common for the best situation to involve students co-operating by dividing tasks rather than truly collaborating. Of course, this is true of many adults too.</p>
+<p><strong>The change I would like to see - The challenge:</strong></p>
+<p>I've recently begun working with this teacher in designing a series of collaborative writing projects for her class.&nbsp; I would like to create progressive projects so that the students can build on their skills over time. I would like to integrate as many different learning objectives across the curriculum as possible so that precious class time is spent as efficiently as possible. I would like the design to be specific and easy to use for this teacher and potentially other teachers to use, but I would also like it to be flexible such that changes and mash-ups are possible. I want it to be reusable to maximize what is gained from our work together.</p>
+<p>If I succeed, I will have helped to create lessons that are practical, align with curriculum goals, and are reusable. I believe it is important that children learn how to write collaboratively as early as possible. We have all dreaded working and writing in groups in the workplace and at univerisity, and at the same time, we all know how important this skill is in our modern world.</p>
+<p><strong>How to bring about this change:</strong></p>
+<p>As part of earlier work I've done with a partner in another course, I've learned about some of the options available such as various wikis and the Thinking Together approach developed through The University of Cambridge (http://thinkingtogether.educ.cam.ac.uk/). I am ready to continue to build on this early work and expand it with as many concrete and usable outputs as possible (such as lesson plans and related materials).</p>
+<h2><a name="h.4bp4dqwnv5r"></a></h2>
+<table style="height: 27px;" border="0" cellspacing="0" cellpadding="0" width="1">
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>]]></description>
+          <pubDate>Sat, 12 Jan 2013 22:43:58 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Helen Crump: Design Project:: Digital Me -Understanding Digital Literacies</title>
+              <link>https://cloudworks.ac.uk/cloud/view/7057</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/7057</guid>
+              <description><![CDATA[<p><strong>My situation </strong></p>
+<p>I&rsquo;m an adult literacy tutor and I live on the West Coast of Ireland (originally from Nottingham) . I'm also a very recent graduate of St. Angela's College, Sligo where I completed an M.A. awarded by NUI Galway in Technology, Learning, Innovation and Change.<br /> <br /> I&rsquo;m interested in digital literacies and social learning, which ideally I'd like to teach online in a Higher Education or professional development context. For that reason, I'm developing my skills and knowledge in relation to online pedagogy and instructional design (which I&rsquo;m going to refer to as learning design from now on).<br /> <br /> <strong>My learning design project</strong><br /> <br /> I&rsquo;m already developing my course through participation in <a href="http://pedagogyfirst.org/wppf12/">Pedagogy First </a>&nbsp;,which is a small MOOC like programme led by volunteers of Mira Costa College, San Diego, which focuses on online pedagogical skills. <br /> <br /> However, within OLDSMOOC I&rsquo;d like to develop some learning design skills so as to help me develop my course as effectively as possible. <br /> <br /> I have been blogging about my progress on the course so far: <a href="http://learningcreep.wordpress.com/">http://learningcreep.wordpress.com/</a></p>]]></description>
+          <pubDate>Fri, 11 Jan 2013 20:23:19 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

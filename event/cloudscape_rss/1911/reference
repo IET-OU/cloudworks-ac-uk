@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Cloudstream for Using Cloudworks</title>
+    <link>https://cloudworks.ac.uk/</link>
+	<description>Cloudstream for Using Cloudworks</description>
+	<dc:language>en</dc:language>
+	<dc:creator>cloudworks@open.ac.uk</dc:creator>
+	<dc:rights>Copyright 2019 </dc:rights>
+	<admin:generatorAgent>
+    <atom:link href="https://cloudworks.ac.uk/event/cloudscape_rss/1911" rel="self" type="application/rss+xml" />
+    		    <item>
+	      <title>&quot;Kollock, P. &amp; Smith, M., (1996) &#39;Managing the virtual commons: Cooperation and conflict in computer......&quot; reference added to the cloud A framework for evaluating Cloudworks by Giota Alevizou</title>
+	      <link>https://cloudworks.ac.uk/#reference-397</link>
+	      <guid>https://cloudworks.ac.uk/#reference-397</guid>
+	      <description><![CDATA[<strong>"Kollock, P. & Smith, M., (1996) 'Managing the virtual commons: Cooperation and conflict in computer......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/3391">A framework for evaluating Cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/1003" rel="author">Giota Alevizou</a></em>]]></description>
+	  	  <pubDate>Fri, 23 Apr 2010 09:22:41 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Preece, J., Nonneke, B., &amp; Andrews, D. (2004) &#39;The top five reasons for lurking: Improving......&quot; reference added to the cloud A framework for evaluating Cloudworks by Giota Alevizou</title>
+	      <link>https://cloudworks.ac.uk/#reference-396</link>
+	      <guid>https://cloudworks.ac.uk/#reference-396</guid>
+	      <description><![CDATA[<strong>"Preece, J., Nonneke, B., & Andrews, D. (2004) 'The top five reasons for lurking: Improving......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/3391">A framework for evaluating Cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/1003" rel="author">Giota Alevizou</a></em>]]></description>
+	  	  <pubDate>Fri, 23 Apr 2010 09:20:48 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Brown, R. E., (2001) &#39;The process of community-building in distance learning classes&#39;. Journal of......&quot; reference added to the cloud A framework for evaluating Cloudworks by Giota Alevizou</title>
+	      <link>https://cloudworks.ac.uk/#reference-394</link>
+	      <guid>https://cloudworks.ac.uk/#reference-394</guid>
+	      <description><![CDATA[<strong>"Brown, R. E., (2001) 'The process of community-building in distance learning classes'. Journal of......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/3391">A framework for evaluating Cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/1003" rel="author">Giota Alevizou</a></em>]]></description>
+	  	  <pubDate>Fri, 23 Apr 2010 09:18:10 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Kester, Liesbeth, Peter Sloep, Francis Brouns, Peter Van Rosmalen , Fred De Vries, Marcel 
+De......&quot; reference added to the cloud A framework for evaluating Cloudworks by Giota Alevizou</title>
+	      <link>https://cloudworks.ac.uk/#reference-388</link>
+	      <guid>https://cloudworks.ac.uk/#reference-388</guid>
+	      <description><![CDATA[<strong>"Kester, Liesbeth, Peter Sloep, Francis Brouns, Peter Van Rosmalen , Fred De Vries, Marcel 
+De......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/3391">A framework for evaluating Cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/1003" rel="author">Giota Alevizou</a></em>]]></description>
+	  	  <pubDate>Fri, 23 Apr 2010 08:40:33 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;McInnerney, J. M., &amp; Roberts, T. S. (2004). Online Learning: Social Interaction and the Creation of......&quot; reference added to the cloud A framework for evaluating Cloudworks by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#reference-384</link>
+	      <guid>https://cloudworks.ac.uk/#reference-384</guid>
+	      <description><![CDATA[<strong>"McInnerney, J. M., & Roberts, T. S. (2004). Online Learning: Social Interaction and the Creation of......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/3391">A framework for evaluating Cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 19 Apr 2010 15:26:31 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Wittel, A. (2001).  Toward a Network Sociality Theory, Culture &amp; Society (SAGE) Vol.18(6):51-76......&quot; reference added to the cloud A framework for evaluating Cloudworks by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#reference-383</link>
+	      <guid>https://cloudworks.ac.uk/#reference-383</guid>
+	      <description><![CDATA[<strong>"Wittel, A. (2001).  Toward a Network Sociality Theory, Culture & Society (SAGE) Vol.18(6):51-76......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/3391">A framework for evaluating Cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 19 Apr 2010 15:26:19 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Walzer, M. (1997). On Toleration. Yale University Press: New Haven ......&quot; reference added to the cloud A framework for evaluating Cloudworks by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#reference-382</link>
+	      <guid>https://cloudworks.ac.uk/#reference-382</guid>
+	      <description><![CDATA[<strong>"Walzer, M. (1997). On Toleration. Yale University Press: New Haven ......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/3391">A framework for evaluating Cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 19 Apr 2010 15:26:06 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Tu, C.-H., &amp; Corry, M. (2002). Research in online learning community, Online......&quot; reference added to the cloud A framework for evaluating Cloudworks by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#reference-381</link>
+	      <guid>https://cloudworks.ac.uk/#reference-381</guid>
+	      <description><![CDATA[<strong>"Tu, C.-H., & Corry, M. (2002). Research in online learning community, Online......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/3391">A framework for evaluating Cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 19 Apr 2010 15:25:54 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Tu, C.-H., &amp; Corry, M. (2001). A paradigm shift for online community research. Distance Education......&quot; reference added to the cloud A framework for evaluating Cloudworks by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#reference-380</link>
+	      <guid>https://cloudworks.ac.uk/#reference-380</guid>
+	      <description><![CDATA[<strong>"Tu, C.-H., & Corry, M. (2001). A paradigm shift for online community research. Distance Education......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/3391">A framework for evaluating Cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 19 Apr 2010 15:25:37 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Jenkins, H., (2009). Confronting the challenges of participatory culture: Media education for the......&quot; reference added to the cloud A framework for evaluating Cloudworks by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#reference-379</link>
+	      <guid>https://cloudworks.ac.uk/#reference-379</guid>
+	      <description><![CDATA[<strong>"Jenkins, H., (2009). Confronting the challenges of participatory culture: Media education for the......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/3391">A framework for evaluating Cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 19 Apr 2010 15:25:23 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Herring, S., (2004). Computer-Mediated Discourse Analysis: An Approach to Researching Online......&quot; reference added to the cloud A framework for evaluating Cloudworks by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#reference-378</link>
+	      <guid>https://cloudworks.ac.uk/#reference-378</guid>
+	      <description><![CDATA[<strong>"Herring, S., (2004). Computer-Mediated Discourse Analysis: An Approach to Researching Online......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/3391">A framework for evaluating Cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 19 Apr 2010 15:25:08 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Gratton, L. (2007). Hot Spots: Why some Companies Buzz With Energy and Innovation – and Others......&quot; reference added to the cloud A framework for evaluating Cloudworks by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#reference-377</link>
+	      <guid>https://cloudworks.ac.uk/#reference-377</guid>
+	      <description><![CDATA[<strong>"Gratton, L. (2007). Hot Spots: Why some Companies Buzz With Energy and Innovation – and Others......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/3391">A framework for evaluating Cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 19 Apr 2010 15:24:56 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Erickson, T (1997). Social Interaction on the Net: Virtual Community as Participatory Genre Online......&quot; reference added to the cloud A framework for evaluating Cloudworks by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#reference-376</link>
+	      <guid>https://cloudworks.ac.uk/#reference-376</guid>
+	      <description><![CDATA[<strong>"Erickson, T (1997). Social Interaction on the Net: Virtual Community as Participatory Genre Online......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/3391">A framework for evaluating Cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 19 Apr 2010 15:24:42 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Engeström, Y (2007), From Communities of Practice to Wildfire Activities and Mycorrhizae,......&quot; reference added to the cloud A framework for evaluating Cloudworks by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#reference-375</link>
+	      <guid>https://cloudworks.ac.uk/#reference-375</guid>
+	      <description><![CDATA[<strong>"Engeström, Y (2007), From Communities of Practice to Wildfire Activities and Mycorrhizae,......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/3391">A framework for evaluating Cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 19 Apr 2010 15:24:24 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Engestrom, Y. (2001). Expansive Learning at Work: toward an activity theoretical......&quot; reference added to the cloud A framework for evaluating Cloudworks by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#reference-374</link>
+	      <guid>https://cloudworks.ac.uk/#reference-374</guid>
+	      <description><![CDATA[<strong>"Engestrom, Y. (2001). Expansive Learning at Work: toward an activity theoretical......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/3391">A framework for evaluating Cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 19 Apr 2010 15:24:11 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Baym, N (1995). The performance of humour in computer-mediated communication. Journal of......&quot; reference added to the cloud A framework for evaluating Cloudworks by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#reference-373</link>
+	      <guid>https://cloudworks.ac.uk/#reference-373</guid>
+	      <description><![CDATA[<strong>"Baym, N (1995). The performance of humour in computer-mediated communication. Journal of......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/3391">A framework for evaluating Cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 19 Apr 2010 15:23:55 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+		    <item>
+	      <title>&quot;Barab, A., Kling, B., &amp; Gray, J.H., (2003) Designing for Virtual Communities in the Service of......&quot; reference added to the cloud A framework for evaluating Cloudworks by Rebecca Galley</title>
+	      <link>https://cloudworks.ac.uk/#reference-372</link>
+	      <guid>https://cloudworks.ac.uk/#reference-372</guid>
+	      <description><![CDATA[<strong>"Barab, A., Kling, B., & Gray, J.H., (2003) Designing for Virtual Communities in the Service of......"</em> </strong><br /><em>reference added to the cloud <a href="https://cloudworks.ac.uk/cloud/view/3391">A framework for evaluating Cloudworks</a> by <a href="https://cloudworks.ac.uk/user/view/983" rel="author">Rebecca Galley</a></em>]]></description>
+	  	  <pubDate>Mon, 19 Apr 2010 15:23:40 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-reference">reference</category>
+	    </item>
+	    </channel>
+</rss>

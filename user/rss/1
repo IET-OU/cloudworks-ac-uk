@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: Juliette Culver</title>
+        <link>https://cloudworks.ac.uk/user/rss.1</link>
+        <atom:link href="https://cloudworks.ac.uk/user/rss.1" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds by Juliette Culver</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title> ALT-C 2009 Blog Posts</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2218</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2218</guid>
+              <description><![CDATA[<p>Please add any blog posts about ALT-C to the links for this cloud or, if they are about a specific presentation to the links for the cloud for that presentation.</p>
+<p><a href="http://technorati.com/search/altc2009?language=n&authority=n">Technorati search for altc2009</a></p>]]></description>
+          <pubDate>Mon, 07 Sep 2009 09:23:55 +0000</pubDate>
+            </item>
+                    <item>
+              <title> F-ALT09 Blog Posts</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2219</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2219</guid>
+              <description><![CDATA[<p>Please add any links to blog posts about F-ALT09 here.</p>
+<p><a href="http://technorati.com/search/falt09?language=n">Technorati search for falt09</a></p>]]></description>
+          <pubDate>Mon, 07 Sep 2009 09:40:21 +0000</pubDate>
+            </item>
+                    <item>
+              <title> How to get students to find and read 94 articles before the next class</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1937</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1937</guid>
+              <description><![CDATA[<p>Blog post by Michael Wesch about getting students to do reading in preparation for class discussions.</p>]]></description>
+          <pubDate>Tue, 14 Jul 2009 09:36:13 +0000</pubDate>
+            </item>
+                    <item>
+              <title> The problem with modelling or modelling problems</title>
+              <link>https://cloudworks.ac.uk/cloud/view/2621</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2621</guid>
+              <description><![CDATA[<p><em>led by Oleg Liber</em></p>]]></description>
+          <pubDate>Thu, 05 Nov 2009 15:38:41 +0000</pubDate>
+            </item>
+                    <item>
+              <title>&#39;Making it personal&#39; elearning@greenwich conference</title>
+              <link>https://cloudworks.ac.uk/cloud/view/735</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/735</guid>
+              <description><![CDATA[<p>
+The seventh e-learning@greenwich conference entitled 'Making it Personal' 
+</p>
+<p>
+will take place on Wednesday, 8th July 2009 at the Old Royal Naval College Campus in London and aims to: 
+</p>
+<ul>
+	<li>Explore the concept of personalised learning</li>
+	<li>Provide opportunities for practitioners/researchers to share their experiences of investigating personalisation</li>
+	<li>Examine the role of technology in personalising learning</li>
+	<li>Consider the implications of personalisation for stakeholders</li>
+</ul>
+<p>
+&nbsp;
+</p>
+<p>
+Contributions to the conference programme are sought from students, practitioners and researchers in all education and training sectors that provide case study examples of, or project/research reports on, personalisation that address at least one of the conference aims and themes. 
+</p>
+<p>
+&nbsp;
+</p>
+For details see: <a href="http://www.gre.ac.uk/e-conference">http://www.gre.ac.uk/e-conference</a> 
+<p>
+&nbsp;
+</p>
+<p>
+Malcolm Ryan &amp; Simon Walker (Conference Co-Organisers) 
+</p>
+]]></description>
+          <pubDate>Fri, 16 Jan 2009 10:31:26 +0000</pubDate>
+            </item>
+                    <item>
+              <title>3-D Immersive Environments for Teaching Science</title>
+              <link>https://cloudworks.ac.uk/cloud/view/3329</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/3329</guid>
+              <description><![CDATA[<h2></h2>
+<div id="workspace_content">
+<p>We are currently piloting a range of computer simulated science  experiments as 3-D virtual environments.&nbsp; These simulated experiments  are not meant to replace laboratory based work, but to enable students  to participate who would otherwise not be able to.&nbsp; In particular, it is  aimed at disabled students and students unable to access the necessary  equipment, such as those in prison.&nbsp; <br /><br />These experiments are  rendered on a PC in 3-D and use photographs of specific parts of the  actual apparatus as textures to add realism and accuracy to the  simulation.&nbsp; In particular, photographs are used to represent the  consequential views of an experiment, such as a spectrum, rather than  the mundane views, such as the back of a voltmeter.&nbsp; These particular  views may also be animated depending on the state of the experiment.&nbsp;  The work combines the photographic approach of the Interactive Screen  Experiments (ISEs) with the advantages of a fully simulated 3-D  environment where the user can interact with the apparatus in a more  natural and intuitive way.&nbsp; <br /><br />The potential advantages are that  users can quickly adapt to the environment and in particular the  controls.&nbsp; They gain realistic views of the physicality of the  experiment as they are not just seeing it from a particular viewpoint,  but from wherever they see fit to place themselves within the  experiment&rsquo;s scene.&nbsp; They are immersed in the experiment in a way that  mitigates some of the objections to online as opposed to real laboratory  experimentation.&nbsp; <br /><br />Furthermore there is no need to represent  scales, read-outs or controls as separate parts of the interface; these  can all be rendered at their correct physical positions within the  experiment.&nbsp; Two of these experiments based on the use of a diffraction  grating and a spectrometer have been fully implemented and are being  evaluated with a Physics A&rsquo; level class.&nbsp; The application and its  evaluation will be presented.</p>
+<p><strong>Presenter:</strong> Robert Lucas ( Physics &amp; Astronomy)</p>
+<p><strong>Location:</strong> Jennie Lee Building Main Ambient Lab  Ground Floor</p>
+</div>]]></description>
+          <pubDate>Wed, 07 Apr 2010 09:34:40 +0000</pubDate>
+            </item>
+                    <item>
+              <title>An intelligent, visual environment for learning with online images </title>
+              <link>https://cloudworks.ac.uk/cloud/view/2426</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/2426</guid>
+              <description><![CDATA[<p>21 Oct 09 Paul&nbsp; Mulholland</p>]]></description>
+          <pubDate>Wed, 07 Oct 2009 12:39:06 +0000</pubDate>
+            </item>
+                    <item>
+              <title>AQuRate</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1954</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1954</guid>
+              <description><![CDATA[<p>Authoring tool for QTI v2.1 developed at Kingston University</p>]]></description>
+          <pubDate>Thu, 13 Aug 2009 09:48:24 +0000</pubDate>
+            </item>
+                    <item>
+              <title>ARGuing Project</title>
+              <link>https://cloudworks.ac.uk/cloud/view/731</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/731</guid>
+              <description><![CDATA[<p>Project about using ARGs within language education led by Professor Thomas M Connolly.</p>]]></description>
+          <pubDate>Thu, 15 Jan 2009 16:27:11 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Ascilite conference 2008 General Discussion Area</title>
+              <link>https://cloudworks.ac.uk/cloud/view/1262</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/1262</guid>
+              <description><![CDATA[Discussion area for Ascilite conference 2008
+]]></description>
+          <pubDate>Sat, 14 Mar 2009 20:22:10 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

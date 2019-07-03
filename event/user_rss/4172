@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Cloudstream for Jon Wade</title>
+    <link>https://cloudworks.ac.uk/</link>
+	<description>Cloudstream for Jon Wade</description>
+	<dc:language>en</dc:language>
+	<dc:creator>cloudworks@open.ac.uk</dc:creator>
+	<dc:rights>Copyright 2019 </dc:rights>
+	<admin:generatorAgent>
+    <atom:link href="https://cloudworks.ac.uk/event/user_rss/4172" rel="self" type="application/rss+xml" />
+    		    <item>
+	      <title>&quot;One of the most popular content management systems is Wordpress and there are a few options for...new comment on the cloud What are the characteristics of mobile apps and mobile-optimised websites? by Jon Wade</title>
+	      <link>https://cloudworks.ac.uk/#comment-5429</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5429</guid>
+	      <description><![CDATA[<strong>"One of the most popular content management systems is Wordpress and there are a few options for...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/4110">What are the characteristics of mobile apps and mobile-optimised websites?</a> by <a href="https://cloudworks.ac.uk/user/view/4172" rel="author">Jon Wade</a></em>]]></description>
+	  	  <pubDate>Mon, 09 May 2011 00:09:31 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Excellent idea. I got a kindle as a gift and found if rather frustrating not being able ot find any...new comment on the cloud Free eBooks by Jon Wade</title>
+	      <link>https://cloudworks.ac.uk/#comment-5428</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5428</guid>
+	      <description><![CDATA[<strong>"Excellent idea. I got a kindle as a gift and found if rather frustrating not being able ot find any...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/3193">Free eBooks</a> by <a href="https://cloudworks.ac.uk/user/view/4172" rel="author">Jon Wade</a></em>]]></description>
+	  	  <pubDate>Mon, 09 May 2011 00:00:05 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;This is so inventive, and it has me totally captured. Only 3 minutes in...
+ADHD part is really...new comment on the cloud A new approach to education? by Jon Wade</title>
+	      <link>https://cloudworks.ac.uk/#comment-5427</link>
+	      <guid>https://cloudworks.ac.uk/#comment-5427</guid>
+	      <description><![CDATA[<strong>"This is so inventive, and it has me totally captured. Only 3 minutes in...
+ADHD part is really...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/4719">A new approach to education?</a> by <a href="https://cloudworks.ac.uk/user/view/4172" rel="author">Jon Wade</a></em>]]></description>
+	  	  <pubDate>Sun, 08 May 2011 23:54:00 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+	    </channel>
+</rss>

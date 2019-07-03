@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: Nick Freear</title>
+        <link>https://cloudworks.ac.uk/user/rss.1040</link>
+        <atom:link href="https://cloudworks.ac.uk/user/rss.1040" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds by Nick Freear</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>#2 The Student Visit</title>
+              <link>https://cloudworks.ac.uk/cloud/view/9204</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/9204</guid>
+              <description><![CDATA[<p>This episode follows OU students as they explore the Open University campus for the first time.</p>
+<p>Keep an eye on the Students Association website for any opportunities to visit campus!</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Some music from&nbsp;<a href="http://www.purple-planet.com/" rel="nofollow">http://www.purple-planet.com</a></p>
+<p><a href="http://example.org">Test</a></p>]]></description>
+          <pubDate>Sat, 27 Jun 2015 07:00:23 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Accessify Wiki</title>
+              <link>https://cloudworks.ac.uk/cloud/view/8504</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/8504</guid>
+              <description><![CDATA[<p>&nbsp;</p>
+<h2>What is Accessify Wiki?</h2>
+<ul>
+<li>It is a Wiki where you can write accessibility and usability fixes;</li>
+<li>It is an open community, where you can take action to improve the Web for all;</li>
+<li>It is a place to collaborate and serve the needs of individuals;</li>
+<li>It is a way to deliver unobtrusive accessibility fixes via Javascript to the end user;</li>
+<li>It is a means to harness the power of HTML5, WAI-ARIA and the modern Web;</li>
+<li>It allows site owners to get a head-start with accessibility.</li>
+</ul>
+<h2>What it isn't</h2>
+<ul>
+<li>Accessify Wiki is not panacea -- it is not a way to fix all accessibility problems;</li>
+<li>It is not a long-term solution to accessibility;</li>
+<li>It is not a way to fix embedded Flash, PDFs, Java, or HTML5 Canvas-heavy web applications;</li>
+<li>It does not let businesses off the hook -- businesses and site owners have a responsibility to test and improve their site's accessibility.</li>
+</ul>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Thu, 24 Oct 2013 13:32:43 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Beginners Arduino workshop - Wednesday PM, at Dev8D</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5037</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5037</guid>
+              <description><![CDATA[<p>I attended most of this excellent workshop from Garry Bulmer. I had heard about <a href="http://arduino.cc/">Arduino</a> previously, and I thought that this would be an excellent opportunity to have some hands-on experience.</p>
+<p>More detail soon...</p>]]></description>
+          <pubDate>Thu, 17 Feb 2011 11:33:03 +0000</pubDate>
+            </item>
+                    <item>
+              <title>CaPReT-GA 1</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6487</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6487</guid>
+              <description><![CDATA[<p>Did you do okay in math, but never had the chance to do more and would like to see if you could take it further?<img src="http://www.google-analytics.com/__utm.gif?utmwv=5.2.5&utmn=4364766462&utmsr=-&utmsc=-&utmul=-&utmje=0&utmfl=-&utmcs=-&utmhid=123414147&utms=5&utmdt=Track OER ‹ Analytics for open educational resources - OER ›/Did you do okay in math, but never had the chance to do more and would
+like to see if you could take.../Thu, 20 Sep 2012 14:26:27 GMT&utmr=-&utmp=/Unknown-Dest/test/capret/math/course-ga#!Did you do okay in math, but never had the chance to do more and would
+like to see if you could take...!CaPReT/view&utmt=event&utme=5(CapReT*view*Did you do okay in math, but never had the chance to do more and wouldlike to see if you could take...)&utmac=UA-34064304-5&utmcc=__utma=36083624.1046441381.1348151455556.1348151455556.1348151455556.2;+__utmz=36083624.1348151455556.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none);utmu=4~" alt="" /></p>
+<p style="cursor:auto"><!--NO CSS-->Track OER &lsaquo; Analytics for open educational resources - OER &rsaquo;</p>
+<p style="cursor:auto"><!--NO CSS-->Source :&nbsp;<a style="color: #003399; background-color: transparent;" href="http://track.olnet.org/test/capret/math/course-ga" target="blank">http://track.olnet.org/test/capret/math/course-ga</a></p>
+<p style="cursor:auto"><!--NO CSS-->License:&nbsp;<a style="color: #003399; background-color: transparent;" href="http://track.olnet.org/test/capret/math/course-ga" target="_blank">http://creativecommons.org/licenses/by/3.0/</a></p>
+<p style="cursor:auto"><!--NO CSS-->Author: Labspace - Bridge to success B2S</p>
+&nbsp;]]></description>
+          <pubDate>Thu, 20 Sep 2012 14:20:07 +0000</pubDate>
+            </item>
+                    <item>
+              <title>CaPReT-Piwik test</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6444</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6444</guid>
+              <description><![CDATA[<h1 style="cursor:auto"><!--NO CSS--><strong>Welcome to&nbsp;<em>Succeed with Math!</em></strong></h1>
+<h2 style="cursor:auto"><!--NO CSS-->1.0 Welcome to Succeed with Math!</h2>
+<p style="cursor:auto"><!--NO CSS-->Why study math? There are at least three reasons:</p>
+<ol style="cursor:auto"><!--NO CSS-->
+<li>There is a lot of evidence that people who are numerate &mdash; that is, people who aren&rsquo;t afraid of figures and are happy discussing data &mdash; are much more likely to advance in their careers and earn more than those who are intimidated by the very thought of working with numbers.</li>
+<li>Math is a lot of fun &mdash; you&rsquo;ll find puzzles and fun stuff in&nbsp;<em>Succeed with Math</em>&nbsp;that you can use to impress your friends and family.</li>
+<li>And, most important, math is a fundamental and beautiful subject, a key to understanding the universe and ourselves.<img src="http://localhost:8888/toer/piwik/piwik.php?urlref=http%3A%2F%2Flocalhost%3A8888%2Ftoer%2Ftest%2Fcapret%2Fmath%2Fcourse-piwik%3Fdebug%3D1&res=1274x345&idsite=6&rec=1&rand=75&action_name=Track%20OER%20-%20rapid%20innovation%20alpha/%20Welcome%20to%20Succeed%20with%20Math!%0A1.0%20Welcome%20to%20Succeed%20with%20Math!%0AWhy%20study%20math%3F%20There%20are%20at%20least%20t.../+CaPReT&_cvar=%7B%221%22%3A%5B%22source%22%2C%22http%3A%2F%2Flocalhost%3A8888%2Ftoer%2Ftest%2Fcapret%2Fmath%2Fcourse-piwik%3Fdebug%3D1%22%5D%2C%222%22%3A%5B%22length%22%2C636%5D%2C%223%22%3A%5B%22text%22%2C%22Welcome%20to%20Succeed%20with%20Math!%5Cn1.0%20Welcome%20to%20Succeed%20with%20Math!%5CnWhy%20study%20math%3F%20There%20are%20at%20least%20t...%22%5D%2C%224%22%3A%5B%22modified%22%2C%2208%2F24%2F2012%2000%3A30%3A07%22%5D%2C%225%22%3A%5B%22copyTime%22%2C%22Fri%2C%2024%20Aug%202012%2000%3A30%3A07%20GMT%22%5D%7D" alt="" />
+<p style="cursor:auto"><!--NO CSS-->Track OER - rapid innovation alpha</p>
+<p style="cursor:auto"><!--NO CSS-->Source :&nbsp;<a style="color: #003399; background-color: transparent;" href="http://localhost:8888/toer/test/capret/math/course-piwik?debug=1" target="blank">http://localhost:8888/toer/test/capret/math/course-piwik?debug=1</a></p>
+<p style="cursor:auto"><!--NO CSS-->License:&nbsp;<a style="color: #003399; background-color: transparent;" href="http://localhost:8888/toer/test/capret/math/course-piwik?debug=1" target="_blank">http://creativecommons.org/licenses/by-sa/3.0/</a></p>
+<p style="cursor:auto"><!--NO CSS-->Author: Labspace - Bridge to success B2S</p>
+</li>
+</ol>]]></description>
+          <pubDate>Thu, 23 Aug 2012 20:23:45 +0000</pubDate>
+            </item>
+                    <item>
+              <title>CaPReT-Piwik test 3</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6478</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6478</guid>
+              <description><![CDATA[<p>There is a lot of evidence that people who are numerate<img src="http://track.olnet.org/piwik/piwik.php?urlref=http%3A%2F%2Ftrack.olnet.org%2Ftest%2Fcapret%2Fmath%2Fcourse-piwik&res=785x464&idsite=6&rec=1&rand=62&action_name=Track%20OER%20%E2%80%B9%20Analytics%20for%20open%20educational%20resources%20-%20OER%20%E2%80%BA/%20There%20is%20a%20lot%20of%20evidence%20that%20people%20who%20are%20numerate/%20CaPReT&_cvar=%7B%221%22%3A%5B%22source%22%2C%22http%3A%2F%2Ftrack.olnet.org%2Ftest%2Fcapret%2Fmath%2Fcourse-piwik%22%5D%2C%222%22%3A%5B%22length%22%2C55%5D%2C%223%22%3A%5B%22text%22%2C%22There%20is%20a%20lot%20of%20evidence%20that%20people%20who%20are%20numerate%22%5D%2C%224%22%3A%5B%22modified%22%2C%2209%2F12%2F2012%2014%3A16%3A33%22%5D%2C%225%22%3A%5B%22copyTime%22%2C%22Wed%2C%2012%20Sep%202012%2014%3A16%3A33%20GMT%22%5D%7D" alt="" /></p>
+<p style="cursor:auto"><!--NO CSS-->Track OER &lsaquo; Analytics for open educational resources - OER &rsaquo;</p>
+<p style="cursor:auto"><!--NO CSS-->Source :&nbsp;<a style="color: #003399; background-color: transparent;" href="http://track.olnet.org/test/capret/math/course-piwik" target="blank">http://track.olnet.org/test/capret/math/course-piwik</a></p>
+<p style="cursor:auto"><!--NO CSS-->License:&nbsp;<a style="color: #003399; background-color: transparent;" href="http://track.olnet.org/test/capret/math/course-piwik" target="_blank">http://creativecommons.org/licenses/by-sa/3.0/</a></p>
+<p style="cursor:auto"><!--NO CSS-->Author: Labspace - Bridge to success B2S</p>
+&nbsp;]]></description>
+          <pubDate>Wed, 12 Sep 2012 13:57:02 +0000</pubDate>
+            </item>
+                    <item>
+              <title>CaPReT-Piwik test 4</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6486</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6486</guid>
+              <description><![CDATA[<p>There is a lot of evidence that people who are numerate<img src="http://track.olnet.org/piwik/piwik.php?urlref=http%3A%2F%2Ftrack.olnet.org%2Ftest%2Fcapret%2Fmath%2Fcourse-piwik&res=1253x684&idsite=6&rec=1&rand=62&action_name=Track%20OER%20%E2%80%B9%20Analytics%20for%20open%20educational%20resources%20-%20OER%20%E2%80%BA/%20There%20is%20a%20lot%20of%20evidence%20that%20people%20who%20are%20numerate/%20CaPReT&_cvar=%7B%221%22%3A%5B%22source%22%2C%22http%3A%2F%2Ftrack.olnet.org%2Ftest%2Fcapret%2Fmath%2Fcourse-piwik%22%5D%2C%222%22%3A%5B%22length%22%2C55%5D%2C%223%22%3A%5B%22text%22%2C%22There%20is%20a%20lot%20of%20evidence%20that%20people%20who%20are%20numerate%22%5D%2C%224%22%3A%5B%22modified%22%2C%2209%2F20%2F2012%2014%3A23%3A30%22%5D%2C%225%22%3A%5B%22copyTime%22%2C%22Thu%2C%2020%20Sep%202012%2014%3A23%3A30%20GMT%22%5D%7D" alt="" /></p>
+<p style="cursor:auto"><!--NO CSS-->Track OER &lsaquo; Analytics for open educational resources - OER &rsaquo;</p>
+<p style="cursor:auto"><!--NO CSS-->Source :&nbsp;<a style="color: #003399; background-color: transparent;" href="http://track.olnet.org/test/capret/math/course-piwik" target="blank">http://track.olnet.org/test/capret/math/course-piwik</a></p>
+<p style="cursor:auto"><!--NO CSS-->License:&nbsp;<a style="color: #003399; background-color: transparent;" href="http://track.olnet.org/test/capret/math/course-piwik" target="_blank">http://creativecommons.org/licenses/by/3.0/</a></p>
+<p style="cursor:auto"><!--NO CSS-->Author: Labspace - Bridge to success B2S</p>
+&nbsp;]]></description>
+          <pubDate>Thu, 20 Sep 2012 14:12:59 +0000</pubDate>
+            </item>
+                    <item>
+              <title>CaPReT, Javascript clipboard and Internet Explorer</title>
+              <link>https://cloudworks.ac.uk/cloud/view/6474</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/6474</guid>
+              <description><![CDATA[<p>The big headline from technical testing of CaPReT, was that <a title="Thanks to Mick Deal/LTS Tech. Testing" href="https://docs.google.com/document/d/1ci8U920B6DgydrBZZvYZxtvOTw_OpH1AnCX61-OWjpA/edit">copy and paste doesn't work as expected in Internet Explorer (versions 6 - 9)</a>.</p>
+<p>Specifically, in other browsers you can copy from a CaPReT Javascript-enabled page, and simply paste into an online rich-editor (we tested on live Cloudworks, which uses Tiny MCE).  This pastes the text with formatting, with the Piwik web-beacon image and attribution/license meta-data from the source page's <a title="Resource Description Framework - in attributes" href="http://en.wikipedia.org/wiki/RDFa">license RDFa</a> appended.</p>
+<p>My apologies in advance for the technical complexities I detail below. I thought it best to record what we've found before we forget!</p>
+<p>In Internet Explorer, when you try to do a simple paste it pastes the source HTML markup, escaped - so you see "&lt;a href="..."&gt;..&lt;/a&gt;..</p>
+<p>Obviously this workaround is not elegant, so I've been looking at a better solution.  The crux of the issue is the way that CaPReT hooks into the Javascript "copy" event using <a href="https://github.com/niklasvh/jquery.plugin.clipboard">Niklas von Hertzen's jquery.plugin.clipboard Javascript</a>.</p>
+<p>The Internet Explorer branch of this plugin's logic uses clipboardData.setData, which supports copying as "Text" or "URL" (no "HTML" value available).  When the user pastes the destination rich-editor handles the clipboard data as text, escaping and revealinfg the markup.  The plugin's logic for the other browsers manipulates the <a href="http://www.quirksmode.org/dom/range_intro.html">W3C Range</a> that is to be copied,  then hands over to the browser to actually perform the copy (that is, it doesn't prevent the default action).  So, when the clipboard data is pasted it is recognized as rich-text/HTML and works accordingly.</p>
+<p>I've been exploring solutions using <a href="http://code.google.com/p/ierange/">Tim Cameron Ryan's 2009 ierange Javascript</a>, and re-working von Hertzen's clipboard plugin.  So far unfortunately, I've been unsuccessful. ierange.js provides a shim for Internet Explorer, implementing the  <a href="http://w3.org/TR/DOM-Level-2-Traversal-Range/">W3C Range specification (Version 1.0/ 2000)</a> and DOM Selection.  Manipulating ranges is a complex business and I haven't yet determined if the bugs are in ierange.js or my re-worked clipboard2 plugin.</p>
+<p>I need to check priorities with my colleagues, but I am tempted to abandon the ierange/jquery.clipboard2 based solution for the moment, as it could become a big time-sink.</p>
+<p>The work has not been in vain however, as I have a much better understanding of how Javascript interacts with the clipboard, and I've  <a href="https://github.com/tatemae/capret/issues/9">fixed a number of bugs</a> in the <a href="https://github.com/IET-OU/trackoer-core/blob/master/application/assets/capret/js/jquery.plugin.clipboard.js">fork of von Hertzen's jQuery Clipboard plugin used by CaPReT</a>.</p>]]></description>
+          <pubDate>Wed, 05 Sep 2012 15:39:19 +0000</pubDate>
+            </item>
+                    <item>
+              <title>CETIS/ DevCSI hack days</title>
+              <link>https://cloudworks.ac.uk/cloud/view/5039</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/5039</guid>
+              <description><![CDATA[<p>John Robertson from CETIS,</p>
+<p>* CETIS Widget hackday - Apache wookie incubator project, Bolton</p>
+<p>* DevCSI/ UKOLN OER hackday - 31 March-1 April</p>
+<p>* Word / Creative Commons add-on.</p>
+<p>&nbsp;</p>]]></description>
+          <pubDate>Thu, 17 Feb 2011 15:50:04 +0000</pubDate>
+            </item>
+                    <item>
+              <title>Closing Plenary: The Future of Accessibility: Home, work and play</title>
+              <link>https://cloudworks.ac.uk/cloud/view/4150</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/4150</guid>
+              <description><![CDATA[<p>FIrst, Tim Pennick, Tech. research consultant, Accessibility and Usability, BT (blind-focussed, using braille and slides)</p>
+<p>Matthew Cock, Chair, Jodi Mattes Trust</p>]]></description>
+          <pubDate>Tue, 13 Jul 2010 15:28:57 +0000</pubDate>
+            </item>
+            </channel>
+</rss>

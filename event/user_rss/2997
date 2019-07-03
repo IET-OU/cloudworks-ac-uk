@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Cloudstream for Ashwini Datt</title>
+    <link>https://cloudworks.ac.uk/</link>
+	<description>Cloudstream for Ashwini Datt</description>
+	<dc:language>en</dc:language>
+	<dc:creator>cloudworks@open.ac.uk</dc:creator>
+	<dc:rights>Copyright 2019 </dc:rights>
+	<admin:generatorAgent>
+    <atom:link href="https://cloudworks.ac.uk/event/user_rss/2997" rel="self" type="application/rss+xml" />
+    		    <item>
+	      <title>Networking for capacity development researchnew cloud created by Ashwini Datt</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloud/view/11854">Networking for capacity development research</a><br /><em>new cloud created by <a href="https://cloudworks.ac.uk/user/view/2997" rel="author">Ashwini Datt</a></em>]]></description>
+	  	  <pubDate>Mon, 29 Oct 2018 02:18:55 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloud">cloud</category>
+	    </item>
+		    <item>
+	      <title>Networking for capacity development in Higher Educationnew cloudscape created by Ashwini Datt</title>
+	      <link>https://cloudworks.ac.uk/</link>
+	      <guid>https://cloudworks.ac.uk/</guid>
+	      <description><![CDATA[<a href="https://cloudworks.ac.uk/cloudscape/view/3031">Networking for capacity development in Higher Education</a><br /><em>new cloudscape created by <a href="https://cloudworks.ac.uk/user/view/2997" rel="author">Ashwini Datt</a></em>]]></description>
+	  	  <pubDate>Mon, 29 Oct 2018 02:16:18 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-cloudscape">cloudscape</category>
+	    </item>
+		    <item>
+	      <title>&quot;The pleasure is ours...we have come across so many interesting courses and ofcourse varied learning...new comment on the cloud HEART 02 by Ashwini Datt</title>
+	      <link>https://cloudworks.ac.uk/#comment-4357</link>
+	      <guid>https://cloudworks.ac.uk/#comment-4357</guid>
+	      <description><![CDATA[<strong>"The pleasure is ours...we have come across so many interesting courses and ofcourse varied learning...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/3859">HEART 02</a> by <a href="https://cloudworks.ac.uk/user/view/2997" rel="author">Ashwini Datt</a></em>]]></description>
+	  	  <pubDate>Thu, 22 Jul 2010 04:01:27 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;Why can&#39;t I see my profile listed as a user of HEART?...new comment on the cloud HEART 00 (Facilitator) by Ashwini Datt</title>
+	      <link>https://cloudworks.ac.uk/#comment-4332</link>
+	      <guid>https://cloudworks.ac.uk/#comment-4332</guid>
+	      <description><![CDATA[<strong>"Why can't I see my profile listed as a user of HEART?...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/3521">HEART 00 (Facilitator)</a> by <a href="https://cloudworks.ac.uk/user/view/2997" rel="author">Ashwini Datt</a></em>]]></description>
+	  	  <pubDate>Thu, 22 Jul 2010 03:38:18 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+		    <item>
+	      <title>&quot;We still have the old wordle image here!
+ ...new comment on the cloud HEART 00 (Facilitator) by Ashwini Datt</title>
+	      <link>https://cloudworks.ac.uk/#comment-4331</link>
+	      <guid>https://cloudworks.ac.uk/#comment-4331</guid>
+	      <description><![CDATA[<strong>"We still have the old wordle image here!
+&nbsp;...</strong><br /><em>new comment on the cloud <a href="https://cloudworks.ac.uk/cloud/view/3521">HEART 00 (Facilitator)</a> by <a href="https://cloudworks.ac.uk/user/view/2997" rel="author">Ashwini Datt</a></em>]]></description>
+	  	  <pubDate>Thu, 22 Jul 2010 03:37:49 +0000</pubDate>
+          <category domain="https://cloudworks.ac.uk/#event-comment">comment</category>
+	    </item>
+	    </channel>
+</rss>

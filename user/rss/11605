@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cloudworks: Catherine Penny James</title>
+        <link>https://cloudworks.ac.uk/user/rss.11605</link>
+        <atom:link href="https://cloudworks.ac.uk/user/rss.11605" rel="self" type="application/rss+xml" />
+        <description>Cloudworks clouds by Catherine Penny James</description>
+        <dc:language>en</dc:language>
+        <dc:creator>cloudworks@open.ac.uk</dc:creator>
+        <dc:rights>Copyright 2019 </dc:rights>
+        <admin:generatorAgent/>
+
+                    <item>
+              <title>MON: Does freely available mean freely accessible? (Penny James)</title>
+              <link>https://cloudworks.ac.uk/cloud/view/11977</link>
+              <guid>https://cloudworks.ac.uk/cloud/view/11977</guid>
+              <description><![CDATA[<p>Facilitating access to educational opportunities for all those who wish to use them is a central value of open educational practice.&nbsp;&nbsp;Although open educational resources are made available for use free of charge, financial constraints are not the only barriers preventing access to educational resources.&nbsp;&nbsp;Disabled users often face challenges accessing and using resources that have been made freely available. This may be because the original design for the material did not include consideration of accessibility, or because resources made available using open licenses (for example Creative Commons licenses) have been edited and redistributed by a variety of users.&nbsp;&nbsp;In this way, materials may become more or less accessible over time, even as they become more readily&nbsp;available.</p>
+<p>By focusing this project on the diverse needs of disabled users I do not mean to suggest that resources that remain inaccessible to particular groups are without value.&nbsp;&nbsp;Indeed, insisting on a one-size fits all approach may well hinder creativity and may prevent the release and use of educationally valuable resources.&nbsp;However, consideration of the needs of different groups when designing open educational resources is critical to ensure that these materials may be as widely used as possible.&nbsp;&nbsp;This may include the production of alternative versions of the same resource, for example audio transcripts describing animations to enable use by those with visual&nbsp;impairments. &nbsp;</p>
+<p>Although some research into the needs of disabled users of open educational resources has been&nbsp;done, several key uncertainties remain.&nbsp;&nbsp;These include:</p>
+<p>(1) In what ways do disabled users seek open educational resources? (i.e. what are their search strategies, and which search tools do they use?)</p>
+<p>&nbsp;(2) Do disabled users use open educational resources in the same way as non-disabled users? (i.e. do they use the same platforms and technologies?&nbsp;&nbsp;If they use alternative platforms, does this alter or limit the usability of the resources?)</p>
+<p>&nbsp;(3) Following on from uncertainty (2), how are the requirements of disabled users considered at the design stage of the development of open educational resources?</p>
+<p>(4) Would resources developed to meet the accessibility requirements of disabled users meet the needs of, and be acceptable to, non-disabled users?</p>
+<p>&nbsp;In order to fully consider these questions, it is first necessary to understand disabled users&rsquo; experiences of Open Educational Resources. In this presentation I will describe the findings of a survey into disabled users&rsquo; experiences.&nbsp;The findings will be presented in the context of existing research, and suggestions for further addressing research uncertainties will be&nbsp;considered.</p>
+<div>
+<div>
+<p>&nbsp;</p>
+</div>
+</div>]]></description>
+          <pubDate>Tue, 22 Jan 2019 11:33:01 +0000</pubDate>
+            </item>
+            </channel>
+</rss>
