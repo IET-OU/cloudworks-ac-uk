@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "cloudworks-ac-uk",
+  "description": "Archive readonly copy of 'Cloudworks' | © 2009-2019 The Open University (IET).",
+  "homepage": "https://cloudworks.ac.uk",
+  "repository": "https://github.com/IET-OU/cloudworks-ac-uk.git",
+  "author": {
+    "name": "",
+    "url": "https://iet.open.ac.uk"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "scripts": {
+    "start": "live-server --port=9000"
+  }
+}

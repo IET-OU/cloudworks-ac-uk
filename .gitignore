@@ -1,0 +1,24 @@
+# .gitignore
+# package.json
+# _scripts/archive-fix.js
+# README.md
+
+
+/package-lock.json
+/node_modules
+.DS_Store
+*.php.*
+*.1.*
+*BAK*
+*ORIG*
+*.sh
+
+*index.html@q=*
+
+7
+8
+9
+
+*.!*
+
+# End.
