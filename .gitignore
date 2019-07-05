@@ -1,8 +1,7 @@
 # .gitignore
-# package.json
-# _scripts/archive-fix.js
-# README.md
 
+*.php
+*user_test.html
 
 /package-lock.json
 /node_modules
