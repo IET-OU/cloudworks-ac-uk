@@ -7,13 +7,14 @@ window.jQuery(($) => {
   const LOC = window.location;
   const ORIG = 'https://cloudworks.ac.uk/';
   const ARCH = 'https://github.com/IET-OU/cloudworks-ac-uk';
-  const HOST = '/'; // LOC.protocol + '//' + LOC.hostname + LOC.pathname.replace(/\/(cloud(scape)?|tag|user|search)\/.+/, '/').replace('index.html', '');
   const $REPO = $('a[ href = "https://github.com/IET-OU/cloudengine" ]')
   const $MSG = $('.readonly-message')
 
-  if (/:\/\/cloudworks.ac.uk/.test(LOC.href)) {
-    console.warn('Live / non-archive site')
+  if (LOC.hostname === 'cloudworks.ac.uk') {
+    return console.warn('Live / non-archive site')
   }
+
+  const HOST = LOC.hostname === 'iet-ou.github.io' ? '/cloudworks-ac-uk/' : '/';
 
   $('a[ href *= "cloudworks.ac" ]').each((n, el) => {
     $(el).attr('data-orig-href', $(el).attr('href'))
