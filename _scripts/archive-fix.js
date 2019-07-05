@@ -34,6 +34,12 @@ window.jQuery(($) => {
     $(el).attr('src', $(el).attr('src').replace(ORIG, HOST))
   })
 
+  $('img, input[ type = image ]').filter('[ src *= _design], [ src *= themes ]').each((n, el) => {
+    console.debug('Image ..', el);
+
+    $(el).attr('src', $(el).attr('src').replace(/^\//, HOST)) 
+  })
+
   // Search and login form etc.
   $('form[ action *= "cloudworks.ac" ]').each((n, el) => {
     $(el).attr('action', $(el).attr('action').replace(ORIG, HOST))
