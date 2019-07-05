@@ -12,6 +12,6 @@
     "live-server": "^1.2.1"
   },
   "scripts": {
-    "start": "live-server --port=9000"
+    "start": "live-server --port=9000 --no-browser"
   }
 }

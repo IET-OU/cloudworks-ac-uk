@@ -2523,15 +2523,19 @@ form.gsc-search-box input {
 */
 body a.disabled,
 body input[ disabled ],
+button[ disabled ],
+select[ disabled ],
+#login-form a[ href ],
 #login-form [ type = submit ][ disabled ] {
   cursor: not-allowed;
+  opacity: .7;
   /* pointer-events: none; */
 }
 
 a.disabled:focus,
 a.disabled:hover {
-  opacity: .6;
-  transition: all 5s;
+  opacity: .5;
+  transition: all 1s;
 }
 
 /* End. */

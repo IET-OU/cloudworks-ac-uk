@@ -46,7 +46,7 @@ window.jQuery(function ($) {
     $("input[type=search]").attr('results', '5');
 
     var rtt = $('script[ data-rtt ]').data('rtt');
-    console.log(rot13(rtt));
+    // console.log(rot13(rtt));
 
     function rot13(s) {
       return s.replace(/[a-zA-Z]/g, function(c){ return String.fromCharCode((c<="Z"?90:122) >= (c=c.charCodeAt(0)+13) ? c : c-26); });
@@ -66,6 +66,13 @@ window.jQuery(function ($) {
     })
     .addClass('disabled').attr({ title: 'Registration disabled' });
 
-    console.warn($BLOCK_REGIS.length ? 'User registration blocked.' : 'User registration open.');
-    console.warn($BLOCK_LOGIN.length ? 'User login blocked.' : 'User login open.');
+    $BLOCK_LOGIN.find('#form-lang').find('select, button')
+      .attr({ disabled: 'disabled', title: 'Language switcher disabled' })
+
+    $('.headline, #region2')
+      .find('a[ href *= add ], a[ href *= favourite ]')
+      .addClass('disabled').attr({ title: 'Add action disabled' });
+
+    // console.warn($BLOCK_REGIS.length ? 'User registration blocked.' : 'User registration open.');
+    // console.warn($BLOCK_LOGIN.length ? 'User login blocked.' : 'User login open.');
 });

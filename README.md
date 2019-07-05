@@ -13,6 +13,8 @@ The archive was captured between 28 June and 2 July 2019, using `wget` (see [Iss
  * Original server software: [IET-OU/cloudengine][]
  * Wayback: [web.archive.org/web/*/cloudworks.ac.uk][wayback]
 
+[![Screenshot 1][_design/screenshot-1.jpg]][cloudworks]
+
 ---
 Copyright © 2009-2019, [The Open University][ou]. ([Institute of Educational Technology][iet])
 

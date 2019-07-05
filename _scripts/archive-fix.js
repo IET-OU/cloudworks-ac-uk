@@ -1,23 +1,26 @@
 /*!
-  Cloudworks archive | Fix links, etc. | NDF, 02-July-2019.
+  Cloudworks Archive | fix links, etc. | © 2019 The Open University (IET).
 */
 
 window.jQuery(($) => {
 
   const LOC = window.location;
+  const ORIG = 'https://cloudworks.ac.uk/';
+  const ARCH = 'https://github.com/IET-OU/cloudworks-ac-uk';
+  const HOST = '/'; // LOC.protocol + '//' + LOC.hostname + LOC.pathname.replace(/\/(cloud(scape)?|tag|user|search)\/.+/, '/').replace('index.html', '');
+  const $REPO = $('a[ href = "https://github.com/IET-OU/cloudengine" ]')
+  const $MSG = $('.readonly-message')
 
-  if (/\/\/cloudworks.ac.uk/.test(LOC.href)) {
+  if (/:\/\/cloudworks.ac.uk/.test(LOC.href)) {
     console.warn('Live / non-archive site')
   }
 
-  const HOST = '/'; // LOC.protocol + '//' + LOC.hostname + LOC.pathname.replace(/\/(cloud(scape)?|tag|user|search)\/.+/, '/').replace('index.html', '');
-
   $('a[ href *= "cloudworks.ac" ]').each((n, el) => {
     $(el).attr('data-orig-href', $(el).attr('href'))
-    $(el).attr('href', $(el).attr('href').replace('https://cloudworks.ac.uk/', HOST))
+    $(el).attr('href', $(el).attr('href').replace(ORIG, HOST))
 
     // Cloud/v.., cloudscape/v.., tag/t.., user/view/1234.
-    $(el).attr('href', $(el).attr('href').replace(/([^/])$/, '$1.html'))
+    $(el).attr('href', $(el).attr('href').replace(/([^/])(#|$)/, '$1.html$2'))
 
     // $(el).attr('href', $(el).attr('href').replace(/(\/view\/.+)/, '$1.html'))
 
@@ -25,12 +28,23 @@ window.jQuery(($) => {
     // $(el).attr('href', $(el).attr('href').replace(/([a-z]_list\/[A-Z])/, '$1.html'))
   })
 
+  $('img[ src *= "cloudworks.ac" ]').each((n, el) => {
+    $(el).attr('data-orig-src', $(el).attr('src'))
+    $(el).attr('src', $(el).attr('src').replace(ORIG, HOST))
+  })
+
   // Search and login form etc.
   $('form[ action *= "cloudworks.ac" ]').each((n, el) => {
-    $(el).attr('action', $(el).attr('action').replace('https://cloudworks.ac.uk/', HOST))
+    $(el).attr('action', $(el).attr('action').replace(ORIG, HOST))
 
-    console.warn('Form:', el)
+    console.debug('Form:', el)
   });
 
-  console.warn('archive-fix.js')
+  $('title').text($('title').text() + ' (archive)')
+
+  $REPO.attr({ href: ARCH, id: 'repo', title: 'Archive on GitHub' }).text('[ archive ]')
+
+  $MSG.html('This is a readonly, static archive of Cloudworks. <small>(28 June 2019)</small>')
+
+  console.warn('# Cloudworks Archive #', '\n\n', '  > original site:', ORIG, '\n\n', '  © The Open University (IET).')
 })
