@@ -1,8 +1,8 @@
 # .gitignore
 
-*.php
 *user_test.html
 
+_config.yml
 /package-lock.json
 /node_modules
 .DS_Store
@@ -11,6 +11,7 @@
 *BAK*
 *ORIG*
 *.sh
+*.php
 
 *index.html@q=*
 
