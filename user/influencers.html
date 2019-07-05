@@ -5,11 +5,13 @@
 
     <title>Influencers - Cloudworks</title>
 
-    <link rel="stylesheet" href="/_design/styles_1_1.css" />
-    <link rel="stylesheet" href="/themes/cloudworks/styles.css" />
+    <link rel="X-stylesheet" href="/_design/styles_1_1.css" />
+    <link rel="X-stylesheet" href="/themes/cloudworks/styles.css" />
+
     <meta name="copyright" content="© 2009-2019 The Open University (IET)." />
     <meta name="description" content="Welcome to Cloudworks, a place to share, find and discuss learning and teaching ideas and experiences." />
-    <link rel="shortcut icon" href="/themes/cloudworks/favicon.ico" />
+
+    <link rel="X-shortcut icon" href="/themes/cloudworks/favicon.ico" />
 
     <!--[if IE 6]>
     <style type="text/css">
@@ -154,9 +156,6 @@ ga('send', 'pageview');
   data-nofollow-count="0"
   data-rtt=""  data-ga-analytics-id="UA-5304738-3"></script>
 
-  <script src="/_scripts/custom.js"></script><script src="/_scripts/archive-fix.js"></script><!--A-->
-
-
 
 <template id="cloudworks-influencers-vue-template">
   <ol id="influencers">
@@ -176,8 +175,16 @@ ga('send', 'pageview');
 
   <script src="https://unpkg.com/vue@2.6.10/dist/vue.js"></script>
 
+  <!--
   <script data-X-type=module src="/_scripts/influencers-data.js"></script>
   <script data-X-type=module src="/_scripts/influencers-vue.js"></script>
+  -->
+
+  <script src="/cloudworks-ac-uk/loader.js"></script>
+
+  <script>
+    cwa('_scripts/influencers-data.js').then(() => cwa('_scripts/influencers-vue.js'));
+  </script>
 
 </body>
 </html>
