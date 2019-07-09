@@ -9,6 +9,8 @@ window.jQuery(($) => {
   const ARCH = 'https://github.com/IET-OU/cloudworks-ac-uk';
   const $REPO = $('a[ href = "https://github.com/IET-OU/cloudengine" ]')
   const $MSG = $('.readonly-message')
+  const $DESC = $('meta[ name = description ]')
+  const ICON = '<link rel="shortcut icon" href="{u}themes/cloudworks/favicon.ico">';
 
   if (LOC.hostname === 'cloudworks.ac.uk') {
     return console.warn('Live / non-archive site')
@@ -37,7 +39,7 @@ window.jQuery(($) => {
   $('img, input[ type = image ]').filter('[ src *= _design], [ src *= themes ]').each((n, el) => {
     console.debug('Image ..', el);
 
-    $(el).attr('src', $(el).attr('src').replace(/^\//, HOST)) 
+    $(el).attr('src', $(el).attr('src').replace(/^\//, HOST))
   })
 
   // Search and login form etc.
@@ -48,6 +50,10 @@ window.jQuery(($) => {
   });
 
   $('title').text($('title').text() + ' (archive)')
+
+  $('head').append(ICON.replace('{u}', HOST))
+
+  $DESC.attr('content', '[Archive] ' + $DESC.attr('content'))
 
   $REPO.attr({ href: ARCH, id: 'repo', title: 'Archive on GitHub' }).text('[ archive ]')
 

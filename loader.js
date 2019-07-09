@@ -2,10 +2,10 @@
   Cloudworks Archive | JS & CSS loader | © 2019 The Open University (IET).
 */
 
-/*eslint no-unused-vars: ["error", { "argsIgnorePattern": "reject" }]*/
+/*eslint no-unused-vars: ["warn", { "x__argsIgnorePattern": "reject" }]*/
 
-((WIN, DOC, LOC, where, fn) => {
-  window[ fn ] = __addJsOrCss;
+((WIN, DOC, LOC, where, fnName) => {
+  WIN[ fnName ] = __addJsOrCss;
 
   const HOST = LOC.hostname === 'iet-ou.github.io' ? '/cloudworks-ac-uk/' : '/';
 
@@ -33,7 +33,7 @@
     });
   }
 
-  console.debug(WIN[ fn ], DOC[ where ])
+  console.debug(WIN[ fnName ], DOC[ where ])
 
   //.
 })(window, window.document, window.location, 'head', 'cwa')

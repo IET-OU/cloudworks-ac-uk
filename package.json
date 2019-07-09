@@ -2,6 +2,7 @@
   "private": true,
   "name": "cloudworks-ac-uk",
   "description": "Archive readonly copy of 'Cloudworks.ac.uk' | © 2009-2019 The Open University (IET).",
+  "license": "SEE <https://iet-ou.github.io/cloudworks-ac-uk/about/tandc.html#license>",
   "browser": "loader.js",
   "homepage": "https://cloudworks.ac.uk",
   "repository": "https://github.com/IET-OU/cloudworks-ac-uk.git",
@@ -19,7 +20,7 @@
     "parserOptions": { "ecmaVersion": 6 },
     "rules": { "no-console": "off" }
   },
-  "eslintIgnore": [ "buildpager*", "*oembed*", "search.js" ],
+  "eslintIgnore": [ "buildpager*.js", "*oembed*.js", "search.js" ],
   "scripts": {
     "fix": "php ../cloudengine/archive/cloudworks-clean.php blog",
     "start": "_scripts/archive-server.js",

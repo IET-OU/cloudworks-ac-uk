@@ -188,7 +188,7 @@ ga('send', 'pageview');
       <img :src="HOST + 'image/user_32/' + user.id" alt="" role="presentation" />
       <a
         :href="HOST + 'user/view/' + user.id + '.html'"
-        :title="(index + 1) + '. ' + user.fullname + '\n  Institution: ' + inst(user) + '\n  Reputation: ' + user.reputation + '\n  Created: ' + (user.created || '-')"
+        :title="'#' + (index + 1) + '\t' + user.fullname + '\n\n\tInstitution: ' + inst(user) + '\n\tReputation: ' + user.reputation + '\n\tCreated: ' + (user.created || '-')"
         data-toggle="tooltip"
         data-html="true"
         >{{ user.fullname }}</a></li>
