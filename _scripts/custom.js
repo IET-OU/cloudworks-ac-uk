@@ -70,7 +70,7 @@ window.jQuery(function ($) {
       .attr({ disabled: 'disabled', title: 'Language switcher disabled' })
 
     $('.headline, #region2, .add-link')
-      .find('a[ href *= add ], a[ href *= favourite ], a[ href *= follow ]')
+      .find('a[ href *= add ], a[ href *= "favourite/" ], a[ href *= "follow/" ]')
       .on('click', ev => {
         ev.preventDefault();
         console.warn('"Add" link/button blocked:', 'click')
