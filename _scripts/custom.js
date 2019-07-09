@@ -69,9 +69,20 @@ window.jQuery(function ($) {
     $BLOCK_LOGIN.find('#form-lang').find('select, button')
       .attr({ disabled: 'disabled', title: 'Language switcher disabled' })
 
-    $('.headline, #region2')
+    $('.headline, #region2, .add-link')
       .find('a[ href *= add ], a[ href *= favourite ]')
+      .on('click', ev => {
+        ev.preventDefault();
+        console.warn('"Add" link/button blocked:', 'click')
+      })
       .addClass('disabled').attr({ title: 'Add action disabled' });
+
+    $('#post-comment').parent().find('a[ href *= auth ], a[ href *= register ]')
+      .on('click', ev => {
+        ev.preventDefault();
+        console.warn('Comment-footer login/registration blocked:', 'click');
+      })
+      .addClass('disabled').attr({});
 
     // console.warn($BLOCK_REGIS.length ? 'User registration blocked.' : 'User registration open.');
     // console.warn($BLOCK_LOGIN.length ? 'User login blocked.' : 'User login open.');
