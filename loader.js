@@ -1,18 +1,39 @@
 /*!
-  Cloudworks Archive | JS & CSS loader | © 2019 The Open University (IET).
+  Cloudworks Archive | Scripts & styles loader | © 2019 The Open University (IET).
 */
 
 /*eslint no-unused-vars: ["warn", { "x__argsIgnorePattern": "reject" }]*/
 
-((WIN, DOC, LOC, where, fnName) => {
+((WIN, DOC, LOC, $, where, fnName) => {
+  'use strict';
+
   WIN[ fnName ] = __addJsOrCss;
 
   const HOST = LOC.hostname === 'iet-ou.github.io' ? '/cloudworks-ac-uk/' : '/';
+  const $BODY = $('body')
 
-  __addJsOrCss('_design/styles_1_1.css');
-  __addJsOrCss('themes/cloudworks/styles.css');
-  __addJsOrCss('_scripts/custom.js');
-  __addJsOrCss('_scripts/archive-fix.js')
+  $BODY.before('<div class="archive-loading"> Loading &hellip; </div>')
+
+  __addJsOrCss('_design/archive-fix.css');
+
+  WIN.setTimeout(() => {
+    __addJsOrCss('_design/styles_1_1.css')
+      .then(() => {
+        WIN.setTimeout(() => {
+          $BODY.addClass('archive-loaded')
+
+          $('.archive-loading').hide('slow')
+        }, 800);
+      })
+
+    __addJsOrCss('themes/cloudworks/styles.css');
+    __addJsOrCss('_scripts/custom.js');
+    __addJsOrCss('_scripts/archive-fix.js')
+
+    // WIN.setTimeout(() => $('body').addClass('archive-loaded'), 200);
+  }, 200)
+
+  // ----------------------------------------------------------------
 
   function __addJsOrCss (path) {
     const URL = HOST + path;
@@ -36,4 +57,4 @@
   console.debug(WIN[ fnName ], DOC[ where ])
 
   //.
-})(window, window.document, window.location, 'head', 'cwa')
+})(window, window.document, window.location, window.jQuery, 'head', 'cwa')

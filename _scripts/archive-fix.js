@@ -3,10 +3,12 @@
 */
 
 window.jQuery(($) => {
+  'use strict';
 
   const LOC = window.location;
   const ORIG = 'https://cloudworks.ac.uk/';
   const ARCH = 'https://github.com/IET-OU/cloudworks-ac-uk';
+  const WHY = 'archive.html';
   const $REPO = $('a[ href = "https://github.com/IET-OU/cloudengine" ]')
   const $MSG = $('.readonly-message')
   const $DESC = $('meta[ name = description ]')
@@ -57,7 +59,7 @@ window.jQuery(($) => {
 
   $REPO.attr({ href: ARCH, id: 'repo', title: 'Archive on GitHub' }).text('[ archive ]')
 
-  $MSG.html('This is a readonly, static archive of Cloudworks. <small>(28 June 2019)</small>')
+  $MSG.html('This is a readonly, static archive of Cloudworks. <a href="%s">Why archive?</a>'.replace(/%s/, HOST + WHY)); // '<small>(28 June 2019)</small>')
 
   console.warn('# Cloudworks Archive #', '\n\n', '  > original site:', ORIG, '\n\n', '  © The Open University (IET).')
 })
