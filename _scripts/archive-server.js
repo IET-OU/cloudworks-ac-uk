@@ -26,10 +26,10 @@ const params = {
     function (req, res, next) {
 			const IS_LOADER_JS = /-ac-uk\/loader\.js/.test(req.url)
 
-			console.log('URL:', req.url)
+			// console.log('URL:', req.url)
 
 			if (IS_LOADER_JS) {
-        console.log('File: ', loaderJs)
+				console.log('URL:', req.url) // Was: console.log('File: ', loaderJs)
 
 				const script = fs.readFileSync(loaderJs, 'utf8')
 
