@@ -29,10 +29,10 @@
 
       #influencers {
         font-size: .9rem;
-        line-height: 1.5;
+        line-height: 1.7;
         list-style-type: disc;
         margin: 1rem auto;
-        max-width: 17rem;
+        max-width: 19rem;
         text-transform: capitalize;
 
         letter-spacing: .03rem;
@@ -40,10 +40,15 @@
 
       #influencers img {
         background: #eee;
-        x-border: 1px solid #eee;
+        border: 1px solid #ddd;
+        border-radius: 50%;
         display: inline-block;
-        height: 20px;
-        width: 20px;
+        height: 24px;
+        width: 24px;
+
+        margin-right: .4rem;
+        position: relative;
+        top: 7px;
       }
     </style>
 
@@ -180,7 +185,7 @@ ga('send', 'pageview');
       :data-index="index"
       :data-id="user.id"
       >
-      <img :src="HOST + 'img/user_32/' + user.id" alt="" role="presentation" />
+      <img :src="HOST + 'image/user_32/' + user.id" alt="" role="presentation" />
       <a
         :href="HOST + 'user/view/' + user.id + '.html'"
         :title="(index + 1) + '. ' + user.fullname + '\n  Institution: ' + inst(user) + '\n  Reputation: ' + user.reputation + '\n  Created: ' + (user.created || '-')"
@@ -192,7 +197,7 @@ ga('send', 'pageview');
 <!-- END: Vue.js component template -->
 
 
-  <script src="https://unpkg.com/vue@2.6.10/dist/vue.js"></script>
+  <script src="https://unpkg.com/vue@2.6.10/dist/vue.min.js"></script>
 
   <!--
   <script data-X-type=module src="/_scripts/influencers-data.js"></script>
