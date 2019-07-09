@@ -1,5 +1,9 @@
 /*!
+  Cloudworks Archive | JS/JSON data for founders, emeritus and significant users | © 2019 The Open University (IET).
 */
+
+/* eslint no-unused-vars: "off", no-useless-escape: "off" */
+/* exported CLOUDWORKS_INFLUENCERS */
 
 const CLOUDWORKS_INFLUENCERS = {
   "#": "Founders, emeritus and significant users etc.",

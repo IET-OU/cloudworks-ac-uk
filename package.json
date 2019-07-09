@@ -10,11 +10,21 @@
     "url": "https://iet.open.ac.uk"
   },
   "devDependencies": {
-    "live-server": "^1.2.1"
+    "live-server": "^1.2.1",
+    "semistandard": "^13.0.1"
   },
+  "eslintConfig": {
+    "env": { "browser": true, "es6": true, "node": true },
+    "extends": "eslint:recommended",
+    "parserOptions": { "ecmaVersion": 6 },
+    "rules": { "no-console": "off" }
+  },
+  "eslintIgnore": [ "buildpager*", "*oembed*", "search.js" ],
   "scripts": {
     "fix": "php ../cloudengine/archive/cloudworks-clean.php blog",
     "start": "_scripts/archive-server.js",
-    "x-start": "live-server --port=9000 --no-browser"
+    "x-start": "live-server --port=9000 --no-browser",
+    "esfix": "# eslint --fix _scripts/custom.js",
+    "test": "eslint loader.js _scripts"
   }
 }

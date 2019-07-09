@@ -1,4 +1,5 @@
-
-# GitHub Pages ~ ensure '_design/*' and '_scripts/*' are published!
+#
+# GitHub Pages ~ disable Jekyll, to ensure that '_design/*' and '_scripts/*' are published!
 #
 # https://help.github.com/en/articles/files-that-start-with-an-underscore-are-missing
+#

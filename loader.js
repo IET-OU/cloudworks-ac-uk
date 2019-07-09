@@ -2,6 +2,8 @@
   Cloudworks Archive | JS & CSS loader | © 2019 The Open University (IET).
 */
 
+/*eslint no-unused-vars: ["error", { "argsIgnorePattern": "reject" }]*/
+
 ((WIN, DOC, LOC, where, fn) => {
   window[ fn ] = __addJsOrCss;
 

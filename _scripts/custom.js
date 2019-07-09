@@ -16,9 +16,9 @@ window.jQuery(function ($) {
    $("span.more").addClass("show");
 
    $(".show").click(function() {
-	  $("div.collapsed").slideToggle('fast');
-	  $('span.more').toggle();
-	  return false;
+     $("div.collapsed").slideToggle('fast');
+     $('span.more').toggle();
+     return false;
    });
 
    //visibility of usernames and email addresses for admins on user list page
@@ -45,12 +45,12 @@ window.jQuery(function ($) {
 
     $("input[type=search]").attr('results', '5');
 
-    var rtt = $('script[ data-rtt ]').data('rtt');
+    // var rtt = $('script[ data-rtt ]').data('rtt');
     // console.log(rot13(rtt));
 
-    function rot13(s) {
+    /* function rot13(s) {
       return s.replace(/[a-zA-Z]/g, function(c){ return String.fromCharCode((c<="Z"?90:122) >= (c=c.charCodeAt(0)+13) ? c : c-26); });
-    }
+    } */
 
     /* Site readonly.
     */
