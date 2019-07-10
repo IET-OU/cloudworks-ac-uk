@@ -6,10 +6,10 @@ body {
   font: 1rem sans-serif;
 }
 
-#X_site-header,
 .archive-loading {
-  background: rgba(255,255,255, .6) url('./loader.svg') no-repeat center; /* rgba(255,255,255, 0) ... !important; */
+  background: rgba(255,255,255, .6) url('./loader.svg') no-repeat center;
   cursor: wait;
+  font: 1.3rem sans-serif;
   position: absolute;
   left: 0;
   top: 0;
@@ -19,11 +19,6 @@ body {
   text-align: center;
 
   x-transition: all .2s;
-}
-
-.archive-loaded #X_site-header {
-  background: url(header-bg.jpg) top left repeat-x;
-  cursor: default;
 }
 
 .js-loading {
@@ -44,8 +39,9 @@ body {
   border: none;
   border-radius: 0;
   border-bottom: 4px solid darkorange;
+  color: #111;
   font-size: 1.1rem;
-  height: 2.4rem;
+  min-height: 2.4rem;
   padding-top: 1.2rem;
   text-align: center;
 
@@ -57,6 +53,13 @@ body {
 
 body.block-login {
   margin-top: 3.6rem;
+}
+
+
+#about .grid p,
+#support .grid p {
+  font-size: .9rem;
+  line-height: 1.6;
 }
 
 /* user/influencers.html

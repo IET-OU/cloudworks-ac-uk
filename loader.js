@@ -4,34 +4,24 @@
 
 /*eslint no-unused-vars: ["warn", { "x__argsIgnorePattern": "reject" }]*/
 
-((WIN, DOC, LOC, $, where, fnName) => {
+((WIN, DOC, LOC, where, fnName) => {
   'use strict';
 
   WIN[ fnName ] = __addJsOrCss;
 
   const HOST = LOC.hostname === 'iet-ou.github.io' ? '/cloudworks-ac-uk/' : '/';
-  const $BODY = $('body')
+  const DELAY_MS = LOC.pathname.match('/search/') ? 3000 : 200; // Milliseconds.
 
-  $BODY.before('<div class="archive-loading"> Loading &hellip; </div>')
+  insertLoadingElem()
 
   __addJsOrCss('_design/archive-fix.css');
 
   WIN.setTimeout(() => {
-    __addJsOrCss('_design/styles_1_1.css')
-      .then(() => {
-        WIN.setTimeout(() => {
-          $BODY.addClass('archive-loaded')
-
-          $('.archive-loading').hide('slow')
-        }, 800);
-      })
-
+    __addJsOrCss('_design/styles_1_1.css').then(() => jqHideLoadingElem())
     __addJsOrCss('themes/cloudworks/styles.css');
     __addJsOrCss('_scripts/custom.js');
     __addJsOrCss('_scripts/archive-fix.js')
-
-    // WIN.setTimeout(() => $('body').addClass('archive-loaded'), 200);
-  }, 200)
+  }, DELAY_MS)
 
   // ----------------------------------------------------------------
 
@@ -54,7 +44,27 @@
     });
   }
 
+  function insertLoadingElem () {
+    const $BODY = DOC.querySelector('body')
+
+    let $loadingEl = DOC.createElement('div')
+    $loadingEl.className = 'archive-loading';
+    $loadingEl.innerText = 'Loading …';
+
+    $BODY.insertBefore($loadingEl, DOC.querySelector('#site-header'))
+  }
+
+  function jqHideLoadingElem() {
+    WIN.setTimeout(() => {
+      const $ = WIN.jQuery;
+
+      $('body').addClass('archive-loaded')
+
+      $('.archive-loading').hide('slow')
+    }, 750);
+  }
+
   console.debug(WIN[ fnName ], DOC[ where ])
 
   //.
-})(window, window.document, window.location, window.jQuery, 'head', 'cwa')
+})(window, window.document, window.location, 'head', 'cwa')

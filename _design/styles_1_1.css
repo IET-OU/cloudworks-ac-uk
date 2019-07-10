@@ -10,14 +10,14 @@ a, abbr, acronym, address, code,
 dfn, em, img, q, dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td {
-  border:0;
-  font-family:inherit;
-  font-size:100%;
-  font-style:inherit;
-  font-weight:inherit;
-  margin:0;
-  padding:0;
-  vertical-align:baseline;
+  border: 0;
+  font-family: inherit;
+  font-size: 100%;
+  font-style: inherit;
+  font-weight: inherit;
+  margin: 0;
+  padding: 0;
+  vertical-align: baseline;
 }
 
 body {
@@ -58,7 +58,7 @@ a[ href ^= tel ],
 time[ datetime ],
 abbr[ title ] {
     cursor: help;
-    border-bottom:1px dotted gray;
+    border-bottom: 1px dotted gray;
     padding-bottom: 1px;
     text-decoration: none;
 }
@@ -70,11 +70,11 @@ del {
   display: none; }
 
 body {
-  color:#444;
-  font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size:78%; /* font-size: 75%; */
-  line-height:1.5em;
-  margin:0 0 1em;
+  color: #444;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 85%; /* Was: 75%; */
+  line-height: 1.5;
+  margin: 0 0 1em;
 }
 
 /* Site Structure
