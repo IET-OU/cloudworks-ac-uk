@@ -29,7 +29,13 @@ Vue.component('CloudworksInfluencers', {
     inst (user) {
       return user.institution === 'ou' ? 'The Open University' : user.institution;
     },
+
+    image (user) {
+      return this.HOST + (user.picture ? 'image/user_32/' + user.id : '_design/avatar-default-32.jpg')
+    },
   },
+
+  filters: { },
 
   created () {
     const LOC = window.location;
@@ -37,7 +43,7 @@ Vue.component('CloudworksInfluencers', {
     this.users = CLOUDWORKS_INFLUENCERS.alumni;
     this.HOST = LOC.hostname === 'iet-ou.github.io' ? '/cloudworks-ac-uk/' : '/';
 
-    console.warn('Influencers-vue ~ created:', this)
+    console.warn('Influencers-vue ~ created:', this.users.length, this)
   },
 })
 

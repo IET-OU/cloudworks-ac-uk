@@ -24,32 +24,8 @@
 
     <style>
       body { font: 1rem sans-serif; }
-      .vuejs-app { min-height: 15rem; }
+      .gcse-search, #___gcse_0, .vuejs-app { min-height: 18rem; }
       .js-loading { font-size: 1.2rem; margin: 2rem 0; text-align: center; }
-
-      #influencers {
-        font-size: .9rem;
-        line-height: 1.7;
-        list-style-type: disc;
-        margin: 1rem auto;
-        max-width: 19rem;
-        text-transform: capitalize;
-
-        letter-spacing: .03rem;
-      }
-
-      #influencers img {
-        background: #eee;
-        border: 1px solid #ddd;
-        border-radius: 50%;
-        display: inline-block;
-        height: 24px;
-        width: 24px;
-
-        margin-right: .4rem;
-        position: relative;
-        top: 7px;
-      }
     </style>
 
     </head>
@@ -185,7 +161,7 @@ ga('send', 'pageview');
       :data-index="index"
       :data-id="user.id"
       >
-      <img :src="HOST + 'image/user_32/' + user.id" alt="" role="presentation" />
+      <img :src="image(user)" alt="" role="presentation" />
       <a
         :href="HOST + 'user/view/' + user.id + '.html'"
         :title="'#' + (index + 1) + '\t' + user.fullname + '\n\n\tInstitution: ' + inst(user) + '\n\tReputation: ' + user.reputation + '\n\tCreated: ' + (user.created || '-')"

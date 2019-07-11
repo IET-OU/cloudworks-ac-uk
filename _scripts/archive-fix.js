@@ -59,7 +59,7 @@ window.jQuery(($) => {
 
   $REPO.attr({ href: ARCH, id: 'repo', title: 'Archive on GitHub' }).text('[ archive ]')
 
-  $MSG.html('This is a readonly, static archive of Cloudworks. <a href="%s">Why archive?</a>'.replace(/%s/, HOST + WHY)); // '<small>(28 June 2019)</small>')
+  $MSG.html('This is a read-only archive of Cloudworks. <a href="%s">Why archive?</a>'.replace(/%s/, HOST + WHY)); // '<small>(28 June 2019)</small>')
 
   console.warn('# Cloudworks Archive #', '\n\n', '  > original site:', ORIG, '\n\n', '  © The Open University (IET).')
 })
