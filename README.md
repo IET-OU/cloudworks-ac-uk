@@ -17,6 +17,16 @@ The site was archived between 28 June and 2 July 2019, using `wget` (see [Issue:
 
 [![Screenshot of Cloudworks home-page][screenshot]][cloudworks]
 
+## Usage
+
+```sh
+brew install wget
+npm install
+npm test
+npm run archive
+npm run clean
+```
+
 ---
 Copyright © 2009-2019, [The Open University][ou]. ([Institute of Educational Technology][iet])
 

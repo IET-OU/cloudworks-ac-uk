@@ -16,6 +16,9 @@
     "live-server": "^1.2.1",
     "semistandard": "^13.0.1"
   },
+  "peerDependencies": {
+    "cloudengine": "https://github.com/IET-OU/cloudengine"
+  },
   "eslintConfig": {
     "env": { "browser": true, "es6": true, "node": true },
     "extends": "eslint:recommended",
@@ -24,7 +27,8 @@
   },
   "eslintIgnore": [ "buildpager*.js", "*oembed*.js", "search.js" ],
   "scripts": {
-    "fix": "php ../cloudengine/archive/cloudworks-clean.php blog",
+    "archive": "bash bin/cloudworks-archive.sh # 'wget' wrapper.",
+    "fix": "php bin/cloudworks-clean.php blog # Fix JS/image paths etc.",
     "start": "_scripts/archive-server.js",
     "x-start": "live-server --port=9000 --no-browser",
     "esfix": "# eslint --fix _scripts/custom.js",

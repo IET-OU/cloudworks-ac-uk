@@ -12,8 +12,11 @@ _config.yml
 *ORIG*
 *.sh
 *.php
+*.log
 
+cloudworks.ac.uk
 *index.html@q=*
+ouldi-logo.png
 
 7
 8
