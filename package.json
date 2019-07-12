@@ -28,7 +28,7 @@
   "eslintIgnore": [ "buildpager*.js", "*oembed*.js", "search.js" ],
   "scripts": {
     "archive": "bash bin/cloudworks-archive.sh # 'wget' wrapper.",
-    "fix": "php bin/cloudworks-clean.php blog # Fix JS/image paths etc.",
+    "fix": "php bin/cloudworks-clean.php blog",
     "start": "_scripts/archive-server.js",
     "x-start": "live-server --port=9000 --no-browser",
     "esfix": "# eslint --fix _scripts/custom.js",
