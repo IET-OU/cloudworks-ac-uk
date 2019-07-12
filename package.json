@@ -1,7 +1,8 @@
 {
   "private": true,
   "name": "cloudworks-ac-uk",
-  "description": "Archive readonly copy of 'Cloudworks.ac.uk' | © 2009-2019 The Open University (IET).",
+  "description": "Read-only archive of 'Cloudworks.ac.uk' content | © 2009-2019 The Open University (IET).",
+  "version": "2019.06.28-arch",
   "license": "SEE <https://iet-ou.github.io/cloudworks-ac-uk/about/tandc.html#license>",
   "browser": "loader.js",
   "homepage": "https://cloudworks.ac.uk",
@@ -10,6 +11,7 @@
     "name": "Learning & Teaching Technologies team, in IET-OU.",
     "url": "https://iet.open.ac.uk"
   },
+  "contributors": [],
   "devDependencies": {
     "live-server": "^1.2.1",
     "semistandard": "^13.0.1"
