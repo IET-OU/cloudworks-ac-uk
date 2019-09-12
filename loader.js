@@ -61,7 +61,7 @@
       $('body').addClass('archive-loaded')
 
       $('.archive-loading').hide('slow')
-    }, 750);
+    }, 400);
   }
 
   console.debug(WIN[ fnName ], DOC[ where ])

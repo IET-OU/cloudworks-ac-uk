@@ -1,5 +1,7 @@
 # .gitignore
 
+/bin
+
 *user_test.html
 
 _config.yml
