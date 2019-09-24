@@ -1,6 +1,7 @@
 # .gitignore
 
-/bin
+/rbin
+# /bin
 
 *user_test.html
 
@@ -16,13 +17,15 @@ _config.yml
 *.php
 *.log
 
-cloudworks.ac.uk
+/cloudworks.ac.uk
+/cloudworks-archive*
 *index.html@q=*
 ouldi-logo.png
 
 7
 8
 9
+/11
 
 *.!*
 

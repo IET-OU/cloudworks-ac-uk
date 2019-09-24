@@ -26,7 +26,7 @@ ln -s ../cloudengine/archive bin
 npm install
 npm test
 npm run archive
-npm run clean
+npm run fix
 ```
 
 
@@ -45,6 +45,7 @@ License:  [proprietary][tandc]
 [IET-OU/cloudworks-ac-uk]: https://github.com/IET-OU/cloudworks-ac-uk
 [IET-OU/cloudengine]: https://github.com/IET-OU/cloudengine
 [wayback]: https://web.archive.org/web/*/cloudworks.ac.uk
+  "Wayback Machine: 'Saved 169 times between December 1, 2008 and June 28, 2019.'"
 [Issue: #384]: https://github.com/IET-OU/cloudengine/issues/384
 [tools]: https://github.com/IET-OU/cloudengine/tree/master/archive "Bash scripts etc."
 [screenshot]: _design/screenshot-1.jpg

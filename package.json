@@ -1,11 +1,13 @@
 {
   "private": true,
-  "name": "cloudworks-ac-uk",
+  "name": "@iet-ou/cloudworks-archive",
   "description": "Read-only archive of 'Cloudworks.ac.uk' content | © 2009-2019 The Open University (IET).",
   "version": "2019.06.28-arch",
   "license": "SEE <https://iet-ou.github.io/cloudworks-ac-uk/about/tandc.html#license>",
   "browser": "loader.js",
-  "homepage": "https://cloudworks.ac.uk",
+  "homepage": "https://iet-ou.github.io/cloudworks-ac-uk/",
+  "x-original-url": "https://cloudworks.ac.uk",
+  "x-archive-url": "https://web.archive.org/web/*/cloudworks.ac.uk",
   "repository": "https://github.com/IET-OU/cloudworks-ac-uk.git",
   "author": {
     "name": "Learning & Teaching Technologies team, in IET-OU.",
@@ -28,6 +30,7 @@
   "eslintIgnore": [ "buildpager*.js", "*oembed*.js", "search.js" ],
   "scripts": {
     "archive": "bash bin/cloudworks-archive.sh # 'wget' wrapper.",
+    "unmodify": "git ls-files --modified | grep '.html' | xargs git checkout",
     "fix": "php bin/cloudworks-clean.php blog",
     "start": "_scripts/archive-server.js",
     "x-start": "live-server --port=9000 --no-browser",
